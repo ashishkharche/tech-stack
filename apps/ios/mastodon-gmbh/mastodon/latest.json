@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1571998974",
     "bundle_id": "org.joinmastodon.app",
-    "active": false,
+    "active": true,
     "company": {
       "name": "Mastodon GmbH",
       "slug": "mastodon-gmbh",
@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2026.03",
+  "version": "2026.07",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-19T04:30:17Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "captured_at": "2026-11-04T12:27:49Z",
+    "store_first_seen_at": "2026-11-03T00:00:12Z",
+    "store_updated_at": "2026-08-10T14:03:04Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 12,
+    "sdk_count": 14,
     "languages": [
       "C/C++",
       "Objective-C",
@@ -91,7 +91,7 @@
       },
       {
         "name": "SQLite",
-        "version": null,
+        "version": "1.0",
         "category": "storage",
         "confidence": "observed"
       },
@@ -132,6 +132,18 @@
         "confidence": "inferred"
       },
       {
+        "name": "Atomics",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Bodega",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
         "name": "CoreDataStack",
         "version": null,
         "category": "other",
@@ -148,8 +160,8 @@
       "min_os": "18.6",
       "min_sdk": null,
       "target_sdk": null,
-      "build_sdk": "iphoneos26.2",
-      "xcode": "26.2",
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.6",
       "device_families": [
         "iPhone",
         "iPad"
@@ -175,30 +187,5 @@
       "android_permissions": []
     }
   },
-  "inferred": [
-    {
-      "kind": "analysis",
-      "method": "model_written_summary_of_detected_signals",
-      "note": "Written by a language model from the analysis; treat as unverified.",
-      "generated_at": "2026-06-10T16:54:37Z",
-      "headline": null,
-      "insights": [
-        {
-          "theme": "privacy",
-          "title": "No tracking declared",
-          "detail": "Privacy section lists no collected data types and declares_tracking false; indicates minimal data collection configuration."
-        },
-        {
-          "theme": "ui",
-          "title": "Hybrid SwiftUI and UIKit",
-          "detail": "Both SwiftUI and UIKit frameworks are present; typical of apps mixing declarative UI with UIKit for complex or legacy views."
-        },
-        {
-          "theme": "languages",
-          "title": "Multi-language code",
-          "detail": "Contains Swift, Objective-C, and C/C++; points to modern Swift core with retained legacy or low-level components."
-        }
-      ]
-    }
-  ]
+  "inferred": []
 }

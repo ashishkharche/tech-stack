@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.tubitv.png" width="20" height="20" alt="Tubi icon"> | [Tubi: Free Movies & Live TV](../apps/android/tubi-tv/tubi/README.md) | Android | 1 | 10.22.1 | 2026-06-19 | 42 | No |
+| <img src="../assets/icons/android/com.tubitv.png" width="20" height="20" alt="Tubi icon"> | [Tubi: Free Movies & Live TV](../apps/android/tubi-tv/tubi/README.md) | Android | 1 | 10.22.1 | 2026-06-19 | 42 | Yes |
 
 ## SDKs by category
 

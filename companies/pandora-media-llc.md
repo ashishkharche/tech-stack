@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/284035177.png" width="20" height="20" alt="Pandora icon"> | [Pandora: Music & Podcasts](../apps/ios/pandora-media-llc/pandora/README.md) | iOS | 1 | 2606.1 | 2026-06-19 | 41 | No |
+| <img src="../assets/icons/ios/284035177.png" width="20" height="20" alt="Pandora icon"> | [Pandora: Music & Podcasts](../apps/ios/pandora-media-llc/pandora/README.md) | iOS | 1 | 2606.1 | 2026-06-19 | 41 | Yes |
 
 ## SDKs by category
 

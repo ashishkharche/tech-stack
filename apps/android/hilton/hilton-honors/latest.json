@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.hilton.android.hhonors",
     "bundle_id": "com.hilton.android.hhonors",
-    "active": false,
+    "active": true,
     "company": {
       "name": "Hilton",
       "slug": "hilton",
@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2026.6.9",
+  "version": "2026.10.20",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-28T13:53:28Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "captured_at": "2026-11-02T18:59:03Z",
+    "store_first_seen_at": "2026-11-04T12:06:34Z",
+    "store_updated_at": "2026-11-02T17:51:25Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -232,16 +232,14 @@
     "platform": {
       "min_os": "Android API 30",
       "min_sdk": "30",
-      "target_sdk": "35",
+      "target_sdk": "36",
       "build_sdk": null,
       "xcode": null,
       "device_families": [
         "Android"
       ],
       "abis": [
-        "arm64-v8a",
-        "armeabi-v7a",
-        "x86_64"
+        "arm64-v8a"
       ],
       "localization_count": null
     },
@@ -273,6 +271,7 @@
         "android.permission.BLUETOOTH_ADMIN",
         "android.permission.BLUETOOTH_CONNECT",
         "android.permission.BLUETOOTH_SCAN",
+        "android.permission.DETECT_SCREEN_RECORDING",
         "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
         "android.permission.FOREGROUND_SERVICE",
         "android.permission.INTERNET",

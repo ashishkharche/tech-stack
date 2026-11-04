@@ -7,52 +7,52 @@
 <rect x="245.53999999999994" y="8" width="12" height="12" rx="3" fill="#1EA45A"/>
 <text x="263.53999999999996" y="18" font-size="13" fill="#4D5755">Android</text>
 <text x="172.99999999999994" y="48" font-size="13" text-anchor="end" fill="#090A0B">Firebase</text>
-<rect x="185.0" y="34" width="115.4" height="18" rx="3" fill="#0088FF"/>
-<rect x="302.4" y="34" width="447.6" height="18" rx="3" fill="#1EA45A"/>
-<text x="758.0" y="48" font-size="13" fill="#4D5755">191</text>
+<rect x="185.0" y="34" width="132.1" height="18" rx="3" fill="#0088FF"/>
+<rect x="319.1" y="34" width="430.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="758.0" y="48" font-size="13" fill="#4D5755">201</text>
 <text x="172.99999999999994" y="76" font-size="13" text-anchor="end" fill="#090A0B">Lottie</text>
-<rect x="185.0" y="62" width="218.9" height="18" rx="3" fill="#0088FF"/>
-<rect x="405.9" y="62" width="308.6" height="18" rx="3" fill="#1EA45A"/>
-<text x="722.5" y="76" font-size="13" fill="#4D5755">179</text>
+<rect x="185.0" y="62" width="227.7" height="18" rx="3" fill="#0088FF"/>
+<rect x="414.7" y="62" width="298.8" height="18" rx="3" fill="#1EA45A"/>
+<text x="721.5" y="76" font-size="13" fill="#4D5755">188</text>
 <text x="172.99999999999994" y="104" font-size="13" text-anchor="end" fill="#090A0B">Google Play services</text>
-<rect x="185.0" y="90" width="455.5" height="18" rx="3" fill="#1EA45A"/>
-<text x="648.5" y="104" font-size="13" fill="#4D5755">154</text>
+<rect x="185.0" y="90" width="438.5" height="18" rx="3" fill="#1EA45A"/>
+<text x="631.5" y="104" font-size="13" fill="#4D5755">156</text>
 <text x="172.99999999999994" y="132" font-size="13" text-anchor="end" fill="#090A0B">Google Sign-In / Auth</text>
-<rect x="185.0" y="118" width="449.6" height="18" rx="3" fill="#1EA45A"/>
-<text x="642.6" y="132" font-size="13" fill="#4D5755">152</text>
+<rect x="185.0" y="118" width="432.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="625.9" y="132" font-size="13" fill="#4D5755">154</text>
 <text x="172.99999999999994" y="160" font-size="13" text-anchor="end" fill="#090A0B">Material Components</text>
-<rect x="185.0" y="146" width="428.9" height="18" rx="3" fill="#1EA45A"/>
-<text x="621.9" y="160" font-size="13" fill="#4D5755">145</text>
+<rect x="185.0" y="146" width="413.2" height="18" rx="3" fill="#1EA45A"/>
+<text x="606.2" y="160" font-size="13" fill="#4D5755">147</text>
 <text x="172.99999999999994" y="188" font-size="13" text-anchor="end" fill="#090A0B">Room</text>
-<rect x="185.0" y="174" width="417.1" height="18" rx="3" fill="#1EA45A"/>
-<text x="610.1" y="188" font-size="13" fill="#4D5755">141</text>
+<rect x="185.0" y="174" width="402.0" height="18" rx="3" fill="#1EA45A"/>
+<text x="595.0" y="188" font-size="13" fill="#4D5755">143</text>
 <text x="172.99999999999994" y="216" font-size="13" text-anchor="end" fill="#090A0B">Kotlin Coroutines</text>
-<rect x="185.0" y="202" width="414.1" height="18" rx="3" fill="#1EA45A"/>
-<text x="607.1" y="216" font-size="13" fill="#4D5755">140</text>
+<rect x="185.0" y="202" width="399.2" height="18" rx="3" fill="#1EA45A"/>
+<text x="592.2" y="216" font-size="13" fill="#4D5755">142</text>
 <text x="172.99999999999994" y="244" font-size="13" text-anchor="end" fill="#090A0B">Firebase Messaging</text>
-<rect x="185.0" y="230" width="411.2" height="18" rx="3" fill="#1EA45A"/>
-<text x="604.2" y="244" font-size="13" fill="#4D5755">139</text>
+<rect x="185.0" y="230" width="396.3" height="18" rx="3" fill="#1EA45A"/>
+<text x="589.3" y="244" font-size="13" fill="#4D5755">141</text>
 <text x="172.99999999999994" y="272" font-size="13" text-anchor="end" fill="#090A0B">Google DataTransport</text>
-<rect x="185.0" y="258" width="402.3" height="18" rx="3" fill="#1EA45A"/>
-<text x="595.3" y="272" font-size="13" fill="#4D5755">136</text>
+<rect x="185.0" y="258" width="387.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="580.9" y="272" font-size="13" fill="#4D5755">138</text>
 <text x="172.99999999999994" y="300" font-size="13" text-anchor="end" fill="#090A0B">OkHttp</text>
-<rect x="185.0" y="286" width="402.3" height="18" rx="3" fill="#1EA45A"/>
-<text x="595.3" y="300" font-size="13" fill="#4D5755">136</text>
-<text x="172.99999999999994" y="328" font-size="13" text-anchor="end" fill="#090A0B">Jetpack Compose</text>
-<rect x="185.0" y="314" width="375.7" height="18" rx="3" fill="#1EA45A"/>
-<text x="568.7" y="328" font-size="13" fill="#4D5755">127</text>
-<text x="172.99999999999994" y="356" font-size="13" text-anchor="end" fill="#090A0B">Google Mobile Ads (AdMob)</text>
-<rect x="185.0" y="342" width="82.8" height="18" rx="3" fill="#0088FF"/>
-<rect x="269.8" y="342" width="282.0" height="18" rx="3" fill="#1EA45A"/>
-<text x="559.8" y="356" font-size="13" fill="#4D5755">124</text>
+<rect x="185.0" y="286" width="387.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="580.9" y="300" font-size="13" fill="#4D5755">138</text>
+<text x="172.99999999999994" y="328" font-size="13" text-anchor="end" fill="#090A0B">Google Mobile Ads (AdMob)</text>
+<rect x="185.0" y="314" width="87.1" height="18" rx="3" fill="#0088FF"/>
+<rect x="274.1" y="314" width="270.7" height="18" rx="3" fill="#1EA45A"/>
+<text x="552.8" y="328" font-size="13" fill="#4D5755">128</text>
+<text x="172.99999999999994" y="356" font-size="13" text-anchor="end" fill="#090A0B">Jetpack Compose</text>
+<rect x="185.0" y="342" width="359.8" height="18" rx="3" fill="#1EA45A"/>
+<text x="552.8" y="356" font-size="13" fill="#4D5755">128</text>
 <text x="172.99999999999994" y="384" font-size="13" text-anchor="end" fill="#090A0B">Firebase Analytics</text>
-<rect x="185.0" y="370" width="340.2" height="18" rx="3" fill="#1EA45A"/>
-<text x="533.2" y="384" font-size="13" fill="#4D5755">115</text>
+<rect x="185.0" y="370" width="328.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="521.9" y="384" font-size="13" fill="#4D5755">117</text>
 <text x="172.99999999999994" y="412" font-size="13" text-anchor="end" fill="#090A0B">Glide</text>
-<rect x="185.0" y="398" width="337.2" height="18" rx="3" fill="#1EA45A"/>
-<text x="530.2" y="412" font-size="13" fill="#4D5755">114</text>
+<rect x="185.0" y="398" width="320.4" height="18" rx="3" fill="#1EA45A"/>
+<text x="513.4" y="412" font-size="13" fill="#4D5755">114</text>
 <text x="172.99999999999994" y="440" font-size="13" text-anchor="end" fill="#090A0B">Google Location</text>
-<rect x="185.0" y="426" width="334.3" height="18" rx="3" fill="#1EA45A"/>
-<text x="527.3" y="440" font-size="13" fill="#4D5755">113</text>
+<rect x="185.0" y="426" width="320.4" height="18" rx="3" fill="#1EA45A"/>
+<text x="513.4" y="440" font-size="13" fill="#4D5755">114</text>
 </g>
 </svg>

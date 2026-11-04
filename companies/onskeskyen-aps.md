@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1605170923.png" width="20" height="20" alt="GoWish icon"> | [GoWish - Your Digital Wishlist](../apps/ios/onskeskyen-aps/gowish/README.md) | iOS | 1 | 9.2.4 | 2026-11-02 | 45 | No |
+| <img src="../assets/icons/ios/1605170923.png" width="20" height="20" alt="GoWish icon"> | [GoWish - Your Digital Wishlist](../apps/ios/onskeskyen-aps/gowish/README.md) | iOS | 1 | 9.2.4 | 2026-11-02 | 45 | Yes |
 
 ## SDKs by category
 

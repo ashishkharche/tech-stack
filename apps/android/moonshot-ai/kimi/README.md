@@ -13,8 +13,8 @@
 | Company | [Moonshot AI](../../../../companies/moonshot-ai.md) |
 | Store id | `com.moonshot.kimichat` |
 | Bundle / package id | `com.moonshot.kimichat` |
-| Latest version | 3.1.5 (analysed 2026-10-24) |
-| Versions tracked | 1 |
+| Latest version | 3.1.6 (analysed 2026-11-04) |
+| Versions tracked | 2 |
 | SDKs in latest version | 26 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Rive |
@@ -53,6 +53,7 @@ Advertising ID, Approximate location, Biometric auth, Bluetooth, Camera, Fingerp
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 3.1.6 | 2026-11-04 | 2026-10-29 | 26 | +0 / −0 | Yes | No | [3.1.6.json](3.1.6.json) |
 | 3.1.5 | 2026-10-24 | 2026-10-20 | 26 |  | Yes | No | [3.1.5.json](3.1.5.json) |
 
 ---

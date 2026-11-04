@@ -13,13 +13,13 @@
 | Company | [BENDING SPOONS OPERATIONS SPA](../../../../companies/bending-spoons-operations-spa.md) |
 | Store id | `1470373330` |
 | Bundle / package id | `com.bigwinepot.nwdn.international` |
-| Latest version | 2.10.221 (analysed 2026-10-24) |
-| Versions tracked | 1 |
+| Latest version | 2.10.222 (analysed 2026-11-04) |
+| Versions tracked | 2 |
 | SDKs in latest version | 87 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
-| Minimum OS | iOS 15.0 (built with Xcode 26.1.1, SDK iphoneos26.1) |
+| Minimum OS | iOS 15.0 (built with Xcode 26.6, SDK iphoneos26.5) |
 | Devices / ABIs | iPhone, iPad |
 | Localisations | 17 |
 | Capabilities | 7 |
@@ -36,7 +36,7 @@
 - **Storage** (3): PersistenceImplementation, PersistenceSCA, ZIPFoundation
 - **Networking** (2): Alamofire, ASN1Swift
 - **Privacy and consent** (2): FacialDataConsentImplementation, InAppTrackingConsentImplementation
-- **UI and rendering** (2): Lottie 4.4.3, VideoRendering
+- **UI and rendering** (2): Lottie 1.0, VideoRendering
 - **Analytics** (1): Facebook SDK
 - **Architecture** (1): ComposableArchitecture 1.0
 - **Sign-in and auth** (1): ConfigurableOnboardingLoginImplementation
@@ -61,6 +61,7 @@ App Attest, App Groups, Apple Pay, Associated Domains (Universal Links), Keychai
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2.10.222 | 2026-11-04 | 2026-11-03 | 87 | +0 / −0 | Yes | Yes | [2.10.222.json](2.10.222.json) |
 | 2.10.221 | 2026-10-24 | 2026-10-10 | 87 |  | Yes | Yes | [2.10.221.json](2.10.221.json) |
 
 ---

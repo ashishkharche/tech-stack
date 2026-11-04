@@ -4,18 +4,18 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **2** versions · **49** distinct SDKs across their latest versions
+**2** apps (1 iOS, 1 Android) · **3** versions · **62** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/alpha-exploration-co/clubhouse/README.md"><img src="../assets/icons/android/com.clubhouse.app.png" width="56" height="56" alt="Clubhouse icon"></a><br><a href="../apps/android/alpha-exploration-co/clubhouse/README.md"><sub><b>Clubhouse</b></sub></a><br><sub>Android · 35 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/alpha-exploration-co/clubhouse/README.md"><img src="../assets/icons/ios/1503133294.png" width="56" height="56" alt="Clubhouse icon"></a><br><a href="../apps/ios/alpha-exploration-co/clubhouse/README.md"><sub><b>Clubhouse</b></sub></a><br><sub>iOS · 19 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/alpha-exploration-co/clubhouse/README.md"><img src="../assets/icons/android/com.clubhouse.app.png" width="56" height="56" alt="Clubhouse icon"></a><br><a href="../apps/android/alpha-exploration-co/clubhouse/README.md"><sub><b>Clubhouse</b></sub></a><br><sub>Android · 35 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/alpha-exploration-co/clubhouse/README.md"><img src="../assets/icons/ios/1503133294.png" width="56" height="56" alt="Clubhouse icon"></a><br><a href="../apps/ios/alpha-exploration-co/clubhouse/README.md"><sub><b>Clubhouse</b></sub></a><br><sub>iOS · 32 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.clubhouse.app.png" width="20" height="20" alt="Clubhouse icon"> | [Clubhouse](../apps/android/alpha-exploration-co/clubhouse/README.md) | Android | 1 | 26.06.04 | 2026-06-19 | 35 | No |
-| <img src="../assets/icons/ios/1503133294.png" width="20" height="20" alt="Clubhouse icon"> | [Clubhouse](../apps/ios/alpha-exploration-co/clubhouse/README.md) | iOS | 1 | 26.06.02 | 2026-06-23 | 19 | No |
+| <img src="../assets/icons/android/com.clubhouse.app.png" width="20" height="20" alt="Clubhouse icon"> | [Clubhouse](../apps/android/alpha-exploration-co/clubhouse/README.md) | Android | 1 | 26.06.04 | 2026-06-19 | 35 | Yes |
+| <img src="../assets/icons/ios/1503133294.png" width="20" height="20" alt="Clubhouse icon"> | [Clubhouse](../apps/ios/alpha-exploration-co/clubhouse/README.md) | iOS | 2 | 26.10.29 | 2026-11-04 | 32 | Yes |
 
 ## SDKs by category
 

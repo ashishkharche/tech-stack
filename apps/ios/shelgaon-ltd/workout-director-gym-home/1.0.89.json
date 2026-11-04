@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Workout Director - Gym & Home",
+    "slug": "workout-director-gym-home",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6813645709",
+    "bundle_id": "fit.workoutdirector",
+    "active": true,
+    "company": {
+      "name": "Shelgaon Ltd",
+      "slug": "shelgaon-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.0.89",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-01T14:25:52Z",
+    "store_first_seen_at": "2026-11-01T14:23:02Z",
+    "store_updated_at": "2026-10-31T22:21:30Z",
+    "exported_at": "2026-11-04T16:56:41Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 7,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "AdServices (Apple Search Ads attribution)",
+      "App Intents",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "Combine (reactive)",
+      "Core Image",
+      "Core ML",
+      "CryptoKit",
+      "HealthKit",
+      "MetalKit",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftData (persistence)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "PostHog",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "RevenueCat",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "WebRTC",
+        "version": "1.0",
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrunoDS",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MediaPipeTasksCommon",
+        "version": "1.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MediaPipeTasksVision",
+        "version": "1.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PHPLCrashReporter",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.2",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.5",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 1
+    },
+    "capabilities": [
+      "Background App Refresh",
+      "Background Push",
+      "HealthKit",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AudioData",
+        "CrashData",
+        "CustomerSupport",
+        "EmailAddress",
+        "Fitness",
+        "Health",
+        "Name",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContent",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

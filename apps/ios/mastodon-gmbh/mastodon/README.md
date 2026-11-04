@@ -4,7 +4,7 @@
 
 # Mastodon
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
 
 [App Store](https://apps.apple.com/app/id1571998974) · [latest.json](latest.json)
 
@@ -13,28 +13,28 @@
 | Company | [Mastodon GmbH](../../../../companies/mastodon-gmbh.md) |
 | Store id | `1571998974` |
 | Bundle / package id | `org.joinmastodon.app` |
-| Latest version | 2026.03 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 12 |
+| Latest version | 2026.07 (analysed 2026-11-04) |
+| Versions tracked | 2 |
+| SDKs in latest version | 14 |
 | Languages | C/C++, Objective-C, Swift |
 | UI | SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
-| Minimum OS | iOS 18.6 (built with Xcode 26.2, SDK iphoneos26.2) |
+| Minimum OS | iOS 18.6 (built with Xcode 26.6, SDK iphoneos26.5) |
 | Devices / ABIs | iPhone, iPad |
 | Localisations | 53 |
 | Capabilities | 5 |
 | Declares tracking | No |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/mastodon-gmbh/mastodon-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/mastodon-gmbh/mastodon-light.svg"></picture>
 
 - **UI and rendering** (5): SDWebImage, SDWebImageSwiftUI, SwiftSoup 1.0, TOCropViewController, XLPagerTabStrip
+- **Other** (4): Atomics 1.0, Bodega 1.0, CoreDataStack, Kanna
 - **Networking** (3): Alamofire, NIO, NIOPosix
-- **Other** (2): CoreDataStack, Kanna
 - **Apple frameworks** (1): OrderedCollections
-- **Storage** (1): SQLite
+- **Storage** (1): SQLite 1.0
 
 <details>
 <summary>Frameworks (19)</summary>
@@ -54,7 +54,12 @@ App Groups, Associated Domains (Universal Links), Background Push, Push Notifica
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2026.07 | 2026-11-04 | 2026-08-10 | 14 | +2 / −0 | Yes | Yes | [2026.07.json](2026.07.json) |
 | 2026.03 | 2026-06-19 |  | 12 |  | Yes | Yes | [2026.03.json](2026.03.json) |
+
+### SDK changes between versions
+
+- 2026.03 → 2026.07: added Atomics, Bodega
 
 ---
 

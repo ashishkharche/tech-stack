@@ -4,19 +4,19 @@
 
 The company name is the developer name on the store listing.
 
-**3** apps (0 iOS, 3 Android) · **3** versions · **55** distinct SDKs across their latest versions
+**3** apps (0 iOS, 3 Android) · **4** versions · **50** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/cbs-interactive-inc/cbs-sports/README.md"><img src="../assets/icons/android/com.handmark.sportcaster.png" width="56" height="56" alt="CBS Sports icon"></a><br><a href="../apps/android/cbs-interactive-inc/cbs-sports/README.md"><sub><b>CBS Sports</b></sub></a><br><sub>Android · 50 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/cbs-interactive-inc/paramount/README.md"><img src="../assets/icons/android/com.cbs.app.png" width="56" height="56" alt="Paramount+ icon"></a><br><a href="../apps/android/cbs-interactive-inc/paramount/README.md"><sub><b>Paramount+</b></sub></a><br><sub>Android · 25 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/cbs-interactive-inc/paramount-com-cbs-ott/README.md"><img src="../assets/icons/android/com.cbs.ott.png" width="56" height="56" alt="Paramount+ icon"></a><br><a href="../apps/android/cbs-interactive-inc/paramount-com-cbs-ott/README.md"><sub><b>Paramount+</b></sub></a><br><sub>Android · 24 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/cbs-interactive-inc/cbs-sports/README.md"><img src="../assets/icons/android/com.handmark.sportcaster.png" width="56" height="56" alt="CBS Sports icon"></a><br><a href="../apps/android/cbs-interactive-inc/cbs-sports/README.md"><sub><b>CBS Sports</b></sub></a><br><sub>Android · 47 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/cbs-interactive-inc/paramount/README.md"><img src="../assets/icons/android/com.cbs.app.png" width="56" height="56" alt="Paramount+ icon"></a><br><a href="../apps/android/cbs-interactive-inc/paramount/README.md"><sub><b>Paramount+</b></sub></a><br><sub>Android · 25 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/cbs-interactive-inc/paramount-com-cbs-ott/README.md"><img src="../assets/icons/android/com.cbs.ott.png" width="56" height="56" alt="Paramount+ icon"></a><br><a href="../apps/android/cbs-interactive-inc/paramount-com-cbs-ott/README.md"><sub><b>Paramount+</b></sub></a><br><sub>Android · 24 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.handmark.sportcaster.png" width="20" height="20" alt="CBS Sports icon"> | [CBS Sports: Live Scores & News](../apps/android/cbs-interactive-inc/cbs-sports/README.md) | Android | 1 | 10.72.1 | 2026-06-19 | 50 | No |
-| <img src="../assets/icons/android/com.cbs.app.png" width="20" height="20" alt="Paramount+ icon"> | [Paramount+](../apps/android/cbs-interactive-inc/paramount/README.md) | Android | 1 | 16.13.0 | 2026-06-23 | 25 | No |
-| <img src="../assets/icons/android/com.cbs.ott.png" width="20" height="20" alt="Paramount+ icon"> | [Paramount+](../apps/android/cbs-interactive-inc/paramount-com-cbs-ott/README.md) | Android | 1 | 16.12.0 | 2026-06-23 | 24 | No |
+| <img src="../assets/icons/android/com.handmark.sportcaster.png" width="20" height="20" alt="CBS Sports icon"> | [CBS Sports: Live Scores & News](../apps/android/cbs-interactive-inc/cbs-sports/README.md) | Android | 2 | 10.78 | 2026-11-02 | 47 | Yes |
+| <img src="../assets/icons/android/com.cbs.app.png" width="20" height="20" alt="Paramount+ icon"> | [Paramount+](../apps/android/cbs-interactive-inc/paramount/README.md) | Android | 1 | 16.13.0 | 2026-06-23 | 25 | Yes |
+| <img src="../assets/icons/android/com.cbs.ott.png" width="20" height="20" alt="Paramount+ icon"> | [Paramount+](../apps/android/cbs-interactive-inc/paramount-com-cbs-ott/README.md) | Android | 1 | 16.12.0 | 2026-06-23 | 24 | Yes |
 
 ## SDKs by category
 
@@ -42,12 +42,12 @@ Counted across the latest version of each app.
 | Google Sign-In / Auth | 3 of 3 |
 | Jetpack Compose | 3 of 3 |
 | Kochava | 3 of 3 |
+| Ktor | 3 of 3 |
 | Material Components | 3 of 3 |
+| Media3 (ExoPlayer) | 3 of 3 |
 | OkHttp | 3 of 3 |
 | Okio | 3 of 3 |
 | Retrofit | 3 of 3 |
-| Room | 3 of 3 |
-| Braze | 2 of 3 |
 
 ---
 

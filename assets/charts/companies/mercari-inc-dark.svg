@@ -20,18 +20,18 @@
 <text x="158.17999999999995" y="130" font-size="13" text-anchor="end" fill="#F1F6F3">Storage</text>
 <rect x="170.2" y="120" width="184.5" height="14" rx="3" fill="#F1F6F3"/>
 <text x="362.7" y="130" font-size="13" fill="#A9B2BC">6</text>
-<text x="158.17999999999995" y="152" font-size="13" text-anchor="end" fill="#F1F6F3">Feature flags</text>
+<text x="158.17999999999995" y="152" font-size="13" text-anchor="end" fill="#F1F6F3">Anti-fraud and integrity</text>
 <rect x="170.2" y="142" width="123.0" height="14" rx="3" fill="#F1F6F3"/>
 <text x="301.2" y="152" font-size="13" fill="#A9B2BC">4</text>
-<text x="158.17999999999995" y="174" font-size="13" text-anchor="end" fill="#F1F6F3">ML and AI</text>
+<text x="158.17999999999995" y="174" font-size="13" text-anchor="end" fill="#F1F6F3">Sign-in and auth</text>
 <rect x="170.2" y="164" width="123.0" height="14" rx="3" fill="#F1F6F3"/>
 <text x="301.2" y="174" font-size="13" fill="#A9B2BC">4</text>
-<text x="158.17999999999995" y="196" font-size="13" text-anchor="end" fill="#F1F6F3">Anti-fraud and integrity</text>
-<rect x="170.2" y="186" width="92.3" height="14" rx="3" fill="#F1F6F3"/>
-<text x="270.4" y="196" font-size="13" fill="#A9B2BC">3</text>
-<text x="158.17999999999995" y="218" font-size="13" text-anchor="end" fill="#F1F6F3">Sign-in and auth</text>
-<rect x="170.2" y="208" width="92.3" height="14" rx="3" fill="#F1F6F3"/>
-<text x="270.4" y="218" font-size="13" fill="#A9B2BC">3</text>
+<text x="158.17999999999995" y="196" font-size="13" text-anchor="end" fill="#F1F6F3">Feature flags</text>
+<rect x="170.2" y="186" width="123.0" height="14" rx="3" fill="#F1F6F3"/>
+<text x="301.2" y="196" font-size="13" fill="#A9B2BC">4</text>
+<text x="158.17999999999995" y="218" font-size="13" text-anchor="end" fill="#F1F6F3">ML and AI</text>
+<rect x="170.2" y="208" width="123.0" height="14" rx="3" fill="#F1F6F3"/>
+<text x="301.2" y="218" font-size="13" fill="#A9B2BC">4</text>
 <text x="158.17999999999995" y="240" font-size="13" text-anchor="end" fill="#F1F6F3">Messaging and push</text>
 <rect x="170.2" y="230" width="92.3" height="14" rx="3" fill="#F1F6F3"/>
 <text x="270.4" y="240" font-size="13" fill="#A9B2BC">3</text>

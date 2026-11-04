@@ -13,13 +13,13 @@
 | Company | [Mercari, Inc](../../../../companies/mercari-inc.md) |
 | Store id | `com.mercariapp.mercari` |
 | Bundle / package id | `com.mercariapp.mercari` |
-| Latest version | 9.36.0 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 53 |
+| Latest version | 9.46.2 (analysed 2026-11-04) |
+| Versions tracked | 2 |
+| SDKs in latest version | 55 |
 | Languages | C/C++ (native), Java, Kotlin, React Native / JavaScript |
 | UI | Coil, Fresco, Glide, Jetpack Compose, Lottie, Material Components |
 | Build | Gradle (inferred) |
-| Minimum OS | API 25, targets API 35 |
+| Minimum OS | API 25, targets API 36 |
 | Devices / ABIs | Android |
 | Capabilities | 12 |
 | Declares tracking | Yes |
@@ -30,15 +30,15 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/mercari-inc/mercari-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/mercari-inc/mercari-light.svg"></picture>
 
 - **UI and rendering** (10): AndroidSVG, Coil, FlashList, Fresco, Glide, Jetpack Compose, Lottie, Material Components, React Native Reanimated, react-native-svg
-- **Analytics** (7): Adjust, Amplitude, Branch, Facebook SDK, Firebase Analytics, Google Analytics (legacy), Google App Measurement
+- **Analytics** (7): Adjust, Amplitude, AppsFlyer, Branch, Facebook SDK, Firebase Analytics, Google App Measurement
 - **Crash and performance** (4): Firebase Crashlytics, Firebase Performance, Sentry, Sentry (native)
 - **ML and AI** (4): ML Kit, ML Kit (barcode/vision), TensorFlow, TensorFlow Lite
 - **Networking** (4): axios, OkHttp, Retrofit, Volley
 - **Storage** (4): DataStore, MMKV, Okio, Room
+- **Anti-fraud and integrity** (3): Fingerprint, Play Integrity, reCAPTCHA
+- **Sign-in and auth** (3): Credential Manager, Facebook Login, Google Sign-In / Auth
 - **Feature flags** (3): Firebase Remote Config, LaunchDarkly, Statsig
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
-- **Anti-fraud and integrity** (2): Play Integrity, reCAPTCHA
-- **Sign-in and auth** (2): Facebook Login, Google Sign-In / Auth
 - **Maps and location** (2): Google Location, Google Maps
 - **Messaging and push** (2): Braze, Firebase Messaging
 - **Reactive and async** (2): Kotlin Coroutines, RxJava
@@ -58,7 +58,12 @@ Advertising ID, Biometric auth, Camera, Contacts (read), Fingerprint auth, Foreg
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 9.46.2 | 2026-11-04 |  | 55 | +3 / −1 | No | No | [9.46.2.json](9.46.2.json) |
 | 9.36.0 | 2026-06-19 |  | 53 |  | No | No | [9.36.0.json](9.36.0.json) |
+
+### SDK changes between versions
+
+- 9.36.0 → 9.46.2: added AppsFlyer, Credential Manager, Fingerprint; removed Google Analytics (legacy)
 
 ---
 

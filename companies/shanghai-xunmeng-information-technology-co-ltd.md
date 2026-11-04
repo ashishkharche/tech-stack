@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **2** versions · **71** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **3** versions · **71** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo/README.md"><img src="../assets/icons/ios/1044283059.png" width="56" height="56" alt="Pinduoduo icon"></a><br><a href="../apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo/README.md"><sub><b>Pinduoduo</b></sub></a><br><sub>iOS · 71 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1044283059.png" width="20" height="20" alt="Pinduoduo icon"> | [Pinduoduo](../apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo/README.md) | iOS | 2 | 8.29.0 | 2026-11-01 | 71 | Yes |
+| <img src="../assets/icons/ios/1044283059.png" width="20" height="20" alt="Pinduoduo icon"> | [Pinduoduo](../apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo/README.md) | iOS | 3 | 8.30.0 | 2026-11-02 | 71 | Yes |
 
 ## SDKs by category
 

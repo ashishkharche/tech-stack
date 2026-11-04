@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.clubhouse.app",
     "bundle_id": "com.clubhouse.app",
-    "active": false,
+    "active": true,
     "company": {
       "name": "Alpha Exploration Co.",
       "slug": "alpha-exploration-co",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-19T04:31:57Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",

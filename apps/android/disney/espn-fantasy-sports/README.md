@@ -4,7 +4,7 @@
 
 # ESPN Fantasy Sports
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.espn.fantasy.lm.football) · [latest.json](latest.json)
 
@@ -23,7 +23,7 @@
 | Devices / ABIs | Android |
 | Capabilities | 11 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
@@ -56,7 +56,7 @@ Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 9.12.0 | 2026-11-01 |  | 34 | +4 / −1 | No | No | [9.12.0.json](9.12.0.json) |
+| 9.12.0 | 2026-11-01 | 2026-10-17 | 34 | +4 / −1 | No | No | [9.12.0.json](9.12.0.json) |
 | 9.8.0 | 2026-06-19 |  | 31 |  | No | No | [9.8.0.json](9.8.0.json) |
 
 ### SDK changes between versions

@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **42** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **43** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/hotels-com-lp/hotels-com/README.md"><img src="../assets/icons/android/com.hcom.android.png" width="56" height="56" alt="Hotels.com icon"></a><br><a href="../apps/android/hotels-com-lp/hotels-com/README.md"><sub><b>Hotels.com</b></sub></a><br><sub>Android · 42 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/hotels-com-lp/hotels-com/README.md"><img src="../assets/icons/android/com.hcom.android.png" width="56" height="56" alt="Hotels.com icon"></a><br><a href="../apps/android/hotels-com-lp/hotels-com/README.md"><sub><b>Hotels.com</b></sub></a><br><sub>Android · 43 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.hcom.android.png" width="20" height="20" alt="Hotels.com icon"> | [Hotels.com: Travel Booking](../apps/android/hotels-com-lp/hotels-com/README.md) | Android | 1 | 2026.25.0 | 2026-06-25 | 42 | No |
+| <img src="../assets/icons/android/com.hcom.android.png" width="20" height="20" alt="Hotels.com icon"> | [Hotels.com: Travel Booking](../apps/android/hotels-com-lp/hotels-com/README.md) | Android | 2 | 2026.43.0 | 2026-11-02 | 43 | Yes |
 
 ## SDKs by category
 

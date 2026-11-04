@@ -4,7 +4,7 @@
 
 # Hilton Honors: Book Hotels
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.hilton.android.hhonors) · [latest.json](latest.json)
 
@@ -13,17 +13,17 @@
 | Company | [Hilton](../../../../companies/hilton.md) |
 | Store id | `com.hilton.android.hhonors` |
 | Bundle / package id | `com.hilton.android.hhonors` |
-| Latest version | 2026.6.9 (analysed 2026-06-28) |
-| Versions tracked | 1 |
+| Latest version | 2026.10.20 (analysed 2026-11-02) |
+| Versions tracked | 2 |
 | SDKs in latest version | 29 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Material Components |
 | Build | Gradle (inferred), R8 / ProGuard (name obfuscation detected) |
-| Minimum OS | API 30, targets API 35 |
+| Minimum OS | API 30, targets API 36 |
 | Devices / ABIs | Android |
 | Capabilities | 12 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
@@ -53,6 +53,7 @@ Approximate location, Bluetooth, Bluetooth (connect), Bluetooth (scan), Contacts
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2026.10.20 | 2026-11-02 | 2026-11-02 | 29 | +0 / −0 | Yes | No | [2026.10.20.json](2026.10.20.json) |
 | 2026.6.9 | 2026-06-28 |  | 29 |  | Yes | No | [2026.6.9.json](2026.6.9.json) |
 
 ---

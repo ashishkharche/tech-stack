@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1666653815.png" width="20" height="20" alt="HBO Max icon"> | [HBO Max: Stream Movies & TV](../apps/ios/warnermedia-global-digital-services-llc/hbo-max/README.md) | iOS | 1 | 7.4.0 | 2026-06-19 | 107 | No |
+| <img src="../assets/icons/ios/1666653815.png" width="20" height="20" alt="HBO Max icon"> | [HBO Max: Stream Movies & TV](../apps/ios/warnermedia-global-digital-services-llc/hbo-max/README.md) | iOS | 1 | 7.4.0 | 2026-06-19 | 107 | Yes |
 
 ## SDKs by category
 

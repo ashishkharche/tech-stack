@@ -4,7 +4,7 @@
 
 # Hotels.com: Travel Booking
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.hcom.android) · [latest.json](latest.json)
 
@@ -13,17 +13,17 @@
 | Company | [Hotels.com LP](../../../../companies/hotels-com-lp.md) |
 | Store id | `com.hcom.android` |
 | Bundle / package id | `com.hcom.android` |
-| Latest version | 2026.25.0 (analysed 2026-06-25) |
-| Versions tracked | 1 |
-| SDKs in latest version | 42 |
+| Latest version | 2026.43.0 (analysed 2026-11-02) |
+| Versions tracked | 2 |
+| SDKs in latest version | 43 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
 | Build | Gradle (inferred) |
-| Minimum OS | API 29, targets API 35 |
+| Minimum OS | API 29, targets API 36 |
 | Devices / ABIs | Android |
 | Capabilities | 13 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
@@ -36,8 +36,8 @@
 - **Sign-in and auth** (3): Credential Manager, Facebook Login, Google Sign-In / Auth
 - **Crash and performance** (3): Datadog, Firebase Crashlytics, Firebase Performance
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
+- **Maps and location** (3): Google Location, Google Maps, Mapbox
 - **Reactive and async** (3): Kotlin Coroutines, RxJava, RxJava 3
-- **Maps and location** (2): Google Location, Google Maps
 - **Ads** (1): Google Mobile Ads (AdMob)
 - **Anti-fraud and integrity** (1): Play Integrity
 - **Feature flags** (1): Firebase Remote Config
@@ -59,7 +59,12 @@ Advertising ID, Approximate location, Biometric auth, Calendar (read), Calendar 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2026.43.0 | 2026-11-02 | 2026-10-30 | 43 | +1 / −0 | No | No | [2026.43.0.json](2026.43.0.json) |
 | 2026.25.0 | 2026-06-25 |  | 42 |  | No | No | [2026.25.0.json](2026.25.0.json) |
+
+### SDK changes between versions
+
+- 2026.25.0 → 2026.43.0: added Mapbox
 
 ---
 

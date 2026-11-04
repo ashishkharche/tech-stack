@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **2** versions · **80** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **3** versions · **80** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/luka-inc/replika/README.md"><img src="../assets/icons/ios/1158555867.png" width="56" height="56" alt="Replika icon"></a><br><a href="../apps/ios/luka-inc/replika/README.md"><sub><b>Replika</b></sub></a><br><sub>iOS · 80 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1158555867.png" width="20" height="20" alt="Replika icon"> | [Replika - AI Companion Chat](../apps/ios/luka-inc/replika/README.md) | iOS | 2 | 12.5.0 | 2026-11-02 | 80 | Yes |
+| <img src="../assets/icons/ios/1158555867.png" width="20" height="20" alt="Replika icon"> | [Replika - AI Companion Chat](../apps/ios/luka-inc/replika/README.md) | iOS | 3 | 12.5.1 | 2026-11-03 | 80 | Yes |
 
 ## SDKs by category
 

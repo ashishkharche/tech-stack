@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2.10.221",
+  "version": "2.10.222",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-10-24T21:41:19Z",
-    "store_first_seen_at": "2026-10-25T00:39:31Z",
-    "store_updated_at": "2026-10-10T10:29:33Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "captured_at": "2026-11-04T00:56:37Z",
+    "store_first_seen_at": "2026-11-03T12:00:07Z",
+    "store_updated_at": "2026-11-03T07:26:29Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -233,7 +233,7 @@
       },
       {
         "name": "Lottie",
-        "version": "4.4.3",
+        "version": "1.0",
         "category": "rendering",
         "confidence": "observed"
       },
@@ -614,8 +614,8 @@
       "min_os": "15.0",
       "min_sdk": null,
       "target_sdk": null,
-      "build_sdk": "iphoneos26.1",
-      "xcode": "26.1.1",
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.6",
       "device_families": [
         "iPhone",
         "iPad"

@@ -4,7 +4,7 @@
 
 # AliExpress - Shopping App
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd) · [latest.json](latest.json)
 
@@ -23,7 +23,7 @@
 | Devices / ABIs | Android |
 | Capabilities | 15 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
@@ -52,7 +52,7 @@ Advertising ID, Approximate location, Calendar (write), Camera, Draw over other 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 8.180.1 | 2026-11-01 |  | 24 | +0 / −0 | No | No | [8.180.1.json](8.180.1.json) |
+| 8.180.1 | 2026-11-01 | 2026-10-25 | 24 | +0 / −0 | No | No | [8.180.1.json](8.180.1.json) |
 | 8.163.1 | 2026-06-19 |  | 24 |  | No | No | [8.163.1.json](8.163.1.json) |
 
 ---

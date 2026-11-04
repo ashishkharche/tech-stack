@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.booking.png" width="20" height="20" alt="Booking.com icon"> | [Booking.com: Hotels & Travel](../apps/android/booking-com-hotels-vacation-rentals/booking-com/README.md) | Android | 1 | 66.6 | 2026-06-23 | 45 | No |
+| <img src="../assets/icons/android/com.booking.png" width="20" height="20" alt="Booking.com icon"> | [Booking.com: Hotels & Travel](../apps/android/booking-com-hotels-vacation-rentals/booking-com/README.md) | Android | 1 | 66.6 | 2026-06-23 | 45 | Yes |
 
 ## SDKs by category
 

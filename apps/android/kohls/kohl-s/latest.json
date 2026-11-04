@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "8.3.56",
+  "version": "26.10.5",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-19T04:32:17Z",
+    "captured_at": "2026-11-03T13:13:42Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -29,14 +29,14 @@
     "tool": "static-analyzer"
   },
   "confidence": {
-    "sdk_list_is_floor": false,
+    "sdk_list_is_floor": true,
     "binary_encrypted": false,
     "packed": false,
     "packers": [],
     "stale": false
   },
   "stack": {
-    "sdk_count": 37,
+    "sdk_count": 40,
     "languages": [
       "C/C++ (native)",
       "Java",
@@ -47,10 +47,12 @@
       "Coil",
       "Glide",
       "Jetpack Compose",
+      "Lottie",
       "Material Components"
     ],
     "build_system": [
-      "Gradle (inferred)"
+      "Gradle (inferred)",
+      "R8 / ProGuard (name obfuscation detected)"
     ],
     "sdks": [
       {
@@ -105,6 +107,18 @@
         "name": "Braintree",
         "version": null,
         "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Auth0",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Credential Manager",
+        "version": null,
+        "category": "auth",
         "confidence": "observed"
       },
       {
@@ -252,6 +266,12 @@
         "confidence": "observed"
       },
       {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
         "name": "Material Components",
         "version": null,
         "category": "rendering",
@@ -279,7 +299,7 @@
     "platform": {
       "min_os": "Android API 28",
       "min_sdk": "28",
-      "target_sdk": "35",
+      "target_sdk": "36",
       "build_sdk": null,
       "xcode": null,
       "device_families": [
@@ -294,14 +314,10 @@
       "Advertising ID",
       "Approximate location",
       "Biometric auth",
-      "Bluetooth",
-      "Bluetooth (scan)",
       "Camera",
       "Fingerprint auth",
       "Foreground service",
       "Media: audio",
-      "Media: images",
-      "Media: video",
       "Microphone",
       "Notifications",
       "Phone / carrier info",
@@ -321,9 +337,6 @@
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.ACCESS_WIFI_STATE",
-        "android.permission.BLUETOOTH",
-        "android.permission.BLUETOOTH_ADMIN",
-        "android.permission.BLUETOOTH_SCAN",
         "android.permission.CAMERA",
         "android.permission.EXPAND_STATUS_BAR",
         "android.permission.FOREGROUND_SERVICE",
@@ -333,10 +346,7 @@
         "android.permission.READ_BASIC_PHONE_STATE",
         "android.permission.READ_EXTERNAL_STORAGE",
         "android.permission.READ_MEDIA_AUDIO",
-        "android.permission.READ_MEDIA_IMAGES",
-        "android.permission.READ_MEDIA_VIDEO",
         "android.permission.READ_PHONE_STATE",
-        "android.permission.RECEIVE_BOOT_COMPLETED",
         "android.permission.RECORD_AUDIO",
         "android.permission.REORDER_TASKS",
         "android.permission.USE_BIOMETRIC",
@@ -345,36 +355,16 @@
         "android.permission.VIBRATE",
         "android.permission.WAKE_LOCK",
         "com.amazon.device.messaging.permission.RECEIVE",
+        "com.android.vending.CHECK_LICENSE",
         "com.google.android.c2dm.permission.RECEIVE",
         "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         "com.google.android.gms.permission.AD_ID",
         "com.google.android.providers.gsf.permission.READ_GSERVICES",
-        "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
         "com.kohls.mcommerce.opal.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
         "com.kohls.mcommerce.opal.permission.RECEIVE_ADM_MESSAGE",
         "com.samsung.android.mapsagent.permission.READ_APP_INFO"
       ]
     }
   },
-  "inferred": [
-    {
-      "kind": "analysis",
-      "method": "model_written_summary_of_detected_signals",
-      "note": "Written by a language model from the analysis; treat as unverified.",
-      "generated_at": "2026-06-11T14:06:32Z",
-      "headline": "Kotlin/Java Android app with Jetpack Compose UI, Firebase, on-device TFLite barcode ML models, and native fraud/scanning libraries",
-      "insights": [
-        {
-          "theme": "ui",
-          "title": "Jetpack Compose based UI",
-          "detail": "Uses Jetpack Compose and Material Components for UI, with Glide and Coil for efficient image handling in a shopping interface."
-        },
-        {
-          "theme": "languages",
-          "title": "Kotlin, Java and native code",
-          "detail": "Core logic in Kotlin and Java with C/C++ native libraries; also uses dynamic code loading via DexClassLoader and reflection."
-        }
-      ]
-    }
-  ]
+  "inferred": []
 }

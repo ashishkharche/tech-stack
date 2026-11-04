@@ -4,7 +4,7 @@
 
 # Microsoft Edge
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
 
 [App Store](https://apps.apple.com/app/id1288723196) · [latest.json](latest.json)
 
@@ -24,7 +24,7 @@
 | Localisations | 48 |
 | Capabilities | 10 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
@@ -58,7 +58,7 @@ App Groups, Associated Domains (Universal Links), AutoFill Credentials, Backgrou
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 156.4314.56 | 2026-11-02 |  | 88 | +3 / −0 | Yes | Yes | [156.4314.56.json](156.4314.56.json) |
+| 156.4314.56 | 2026-11-02 | 2026-11-02 | 88 | +3 / −0 | Yes | Yes | [156.4314.56.json](156.4314.56.json) |
 | 148.3967.97 | 2026-06-19 |  | 85 |  | Yes | Yes | [148.3967.97.json](148.3967.97.json) |
 
 ### SDK changes between versions

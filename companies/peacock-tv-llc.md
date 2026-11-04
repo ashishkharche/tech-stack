@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1508186374.png" width="20" height="20" alt="Peacock TV icon"> | [Peacock TV: Stream TV & Movies](../apps/ios/peacock-tv-llc/peacock-tv/README.md) | iOS | 1 | 7.5.21 | 2026-06-19 | 40 | No |
+| <img src="../assets/icons/ios/1508186374.png" width="20" height="20" alt="Peacock TV icon"> | [Peacock TV: Stream TV & Movies](../apps/ios/peacock-tv-llc/peacock-tv/README.md) | iOS | 1 | 7.5.21 | 2026-06-19 | 40 | Yes |
 
 ## SDKs by category
 

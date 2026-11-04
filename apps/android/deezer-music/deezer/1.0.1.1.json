@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "deezer.android.app",
     "bundle_id": "deezer.android.app",
-    "active": false,
+    "active": true,
     "company": {
       "name": "Deezer Music",
       "slug": "deezer-music",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-19T04:33:12Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",

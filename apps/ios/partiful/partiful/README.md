@@ -4,7 +4,7 @@
 
 # Partiful: Party Invite Maker
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
 
 [App Store](https://apps.apple.com/app/id1662982304) · [latest.json](latest.json)
 
@@ -24,7 +24,7 @@
 | Localisations | 1 |
 | Capabilities | 8 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
@@ -56,7 +56,7 @@ App Groups, Apple Pay, Associated Domains (Universal Links), Background App Refr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 3.10.23 | 2026-11-02 |  | 23 |  | Yes | Yes | [3.10.23.json](3.10.23.json) |
+| 3.10.23 | 2026-11-02 | 2026-10-31 | 23 |  | Yes | Yes | [3.10.23.json](3.10.23.json) |
 
 ---
 

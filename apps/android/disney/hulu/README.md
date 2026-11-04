@@ -4,7 +4,7 @@
 
 # Hulu: Stream TV shows & movies
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.hulu.plus) · [latest.json](latest.json)
 
@@ -13,8 +13,8 @@
 | Company | [Disney](../../../../companies/disney.md) |
 | Store id | `com.hulu.plus` |
 | Bundle / package id | `com.hulu.plus` |
-| Latest version | 6.29.0+16756762-google (analysed 2026-06-19) |
-| Versions tracked | 1 |
+| Latest version | 6.34.0+18552420-google (analysed 2026-11-02) |
+| Versions tracked | 2 |
 | SDKs in latest version | 33 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components, Picasso |
@@ -23,7 +23,7 @@
 | Devices / ABIs | Android |
 | Capabilities | 5 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
@@ -56,6 +56,7 @@ Advertising ID, Approximate location, Foreground service, Notifications, Precise
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 6.34.0+18552420-google | 2026-11-02 | 2026-10-01 | 33 | +0 / −0 | No | No | [6.34.0_18552420-google.json](6.34.0_18552420-google.json) |
 | 6.29.0+16756762-google | 2026-06-19 |  | 33 |  | No | No | [6.29.0_16756762-google.json](6.29.0_16756762-google.json) |
 
 ---

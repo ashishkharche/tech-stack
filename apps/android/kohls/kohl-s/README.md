@@ -4,7 +4,7 @@
 
 # Kohl's - Shopping & More
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.kohls.mcommerce.opal) · [latest.json](latest.json)
 
@@ -13,15 +13,15 @@
 | Company | [Kohls](../../../../companies/kohls.md) |
 | Store id | `com.kohls.mcommerce.opal` |
 | Bundle / package id | `com.kohls.mcommerce.opal` |
-| Latest version | 8.3.56 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 37 |
+| Latest version | 26.10.5 (analysed 2026-11-03) |
+| Versions tracked | 2 |
+| SDKs in latest version | 40 |
 | Languages | C/C++ (native), Java, Kotlin |
-| UI | Coil, Glide, Jetpack Compose, Material Components |
-| Build | Gradle (inferred) |
-| Minimum OS | API 28, targets API 35 |
+| UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
+| Build | Gradle (inferred), R8 / ProGuard (name obfuscation detected) |
+| Minimum OS | API 28, targets API 36 |
 | Devices / ABIs | Android |
-| Capabilities | 16 |
+| Capabilities | 12 |
 | Declares tracking | Yes |
 | Tracked | No. Kept for history. |
 
@@ -29,8 +29,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/kohls/kohl-s-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/kohls/kohl-s-light.svg"></picture>
 
+- **UI and rendering** (6): AndroidSVG, Coil, Glide, Jetpack Compose, Lottie, Material Components
 - **Analytics** (5): Adobe Experience Platform, AppsFlyer, Contentsquare, Firebase Analytics, Google App Measurement
-- **UI and rendering** (5): AndroidSVG, Coil, Glide, Jetpack Compose, Material Components
+- **Sign-in and auth** (3): Auth0, Credential Manager, Google Sign-In / Auth
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
 - **Networking** (3): OkHttp, Retrofit, Volley
 - **Storage** (3): DataStore, Okio, Room
@@ -40,7 +41,6 @@
 - **Messaging and push** (2): Airship, Firebase Messaging
 - **ML and AI** (2): ML Kit, ML Kit (barcode/vision)
 - **Reactive and async** (2): Kotlin Coroutines, RxJava
-- **Sign-in and auth** (1): Google Sign-In / Auth
 - **Crash and performance** (1): Firebase Crashlytics
 - **Feature flags** (1): Firebase Remote Config
 - **Media** (1): Media3 (ExoPlayer)
@@ -48,9 +48,9 @@
 - **Privacy and consent** (1): OneTrust
 
 <details>
-<summary>Capabilities (16)</summary>
+<summary>Capabilities (12)</summary>
 
-Advertising ID, Approximate location, Biometric auth, Bluetooth, Bluetooth (scan), Camera, Fingerprint auth, Foreground service, Media: audio, Media: images, Media: video, Microphone, Notifications, Phone / carrier info, Precise location, Storage (read)
+Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, Foreground service, Media: audio, Microphone, Notifications, Phone / carrier info, Precise location, Storage (read)
 
 </details>
 
@@ -58,13 +58,12 @@ Advertising ID, Approximate location, Biometric auth, Bluetooth, Bluetooth (scan
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 26.10.5 | 2026-11-03 |  | 40 | +3 / −0 | Yes | No | [26.10.5.json](26.10.5.json) |
 | 8.3.56 | 2026-06-19 |  | 37 |  | No | No | [8.3.56.json](8.3.56.json) |
 
-## Model-written summary
+### SDK changes between versions
 
-> Kotlin/Java Android app with Jetpack Compose UI, Firebase, on-device TFLite barcode ML models, and native fraud/scanning libraries
-
-<sub>Written by a language model from the detected signals (`inferred[]`). It is commentary, not measurement.</sub>
+- 8.3.56 → 26.10.5: added Auth0, Credential Manager, Lottie
 
 ---
 

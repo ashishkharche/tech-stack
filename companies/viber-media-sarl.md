@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/382617920.png" width="20" height="20" alt="Rakuten Viber Messenger icon"> | [Rakuten Viber Messenger](../apps/ios/viber-media-sarl/viber-messenger/README.md) | iOS | 1 | 28.0.2 | 2026-06-19 | 26 | No |
+| <img src="../assets/icons/ios/382617920.png" width="20" height="20" alt="Rakuten Viber Messenger icon"> | [Rakuten Viber Messenger](../apps/ios/viber-media-sarl/viber-messenger/README.md) | iOS | 1 | 28.0.2 | 2026-06-19 | 26 | Yes |
 
 ## SDKs by category
 

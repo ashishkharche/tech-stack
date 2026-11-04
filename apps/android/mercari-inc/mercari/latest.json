@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "9.36.0",
+  "version": "9.46.2",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-19T04:32:23Z",
+    "captured_at": "2026-11-04T08:46:53Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 53,
+    "sdk_count": 55,
     "languages": [
       "C/C++ (native)",
       "Java",
@@ -69,6 +69,12 @@
         "confidence": "inferred"
       },
       {
+        "name": "AppsFlyer",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
         "name": "Branch",
         "version": null,
         "category": "analytics",
@@ -82,12 +88,6 @@
       },
       {
         "name": "Firebase Analytics",
-        "version": null,
-        "category": "analytics",
-        "confidence": "observed"
-      },
-      {
-        "name": "Google Analytics (legacy)",
         "version": null,
         "category": "analytics",
         "confidence": "observed"
@@ -132,6 +132,12 @@
         "name": "Braintree",
         "version": null,
         "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Credential Manager",
+        "version": null,
+        "category": "auth",
         "confidence": "observed"
       },
       {
@@ -339,6 +345,12 @@
         "confidence": "observed"
       },
       {
+        "name": "Fingerprint",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
         "name": "Play Integrity",
         "version": null,
         "category": "anti_fraud",
@@ -378,7 +390,7 @@
     "platform": {
       "min_os": "Android API 25",
       "min_sdk": "25",
-      "target_sdk": "35",
+      "target_sdk": "36",
       "build_sdk": null,
       "xcode": null,
       "device_families": [
@@ -405,7 +417,7 @@
     ],
     "privacy": {
       "declares_tracking": true,
-      "tracking_domain_count": 20,
+      "tracking_domain_count": 19,
       "collected_data_types": [],
       "required_reason_apis": [],
       "android_permissions": [
@@ -417,6 +429,7 @@
         "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
         "android.permission.CAMERA",
         "android.permission.FOREGROUND_SERVICE",
+        "android.permission.HIGH_SAMPLING_RATE_SENSORS",
         "android.permission.INTERNET",
         "android.permission.NFC",
         "android.permission.POST_NOTIFICATIONS",
@@ -436,7 +449,9 @@
         "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         "com.google.android.gms.permission.AD_ID",
         "com.google.android.providers.gsf.permission.READ_GSERVICES",
-        "com.mercariapp.mercari.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+        "com.mercariapp.mercari.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.samsung.android.mapsagent.permission.READ_APP_INFO"
       ]
     }
   },

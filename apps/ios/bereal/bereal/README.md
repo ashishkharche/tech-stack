@@ -4,7 +4,7 @@
 
 # BeReal: Photos & Friends Daily
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
 
 [App Store](https://apps.apple.com/app/id1459645446) · [latest.json](latest.json)
 
@@ -24,7 +24,7 @@
 | Localisations | 14 |
 | Capabilities | 10 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
@@ -67,7 +67,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 4.99.0 | 2026-11-02 |  | 124 | +16 / −26 | Yes | Yes | [4.99.0.json](4.99.0.json) |
+| 4.99.0 | 2026-11-02 | 2026-11-02 | 124 | +16 / −26 | Yes | Yes | [4.99.0.json](4.99.0.json) |
 | 4.79.1 | 2026-06-23 |  | 134 | +4 / −2 | Yes | Yes | [4.79.1.json](4.79.1.json) |
 | 4.77.2 | 2026-06-19 |  | 132 |  | Yes | Yes | [4.77.2.json](4.77.2.json) |
 

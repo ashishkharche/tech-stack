@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "4.92.0",
+  "version": "4.95.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-10-24T19:22:13Z",
-    "store_first_seen_at": "2026-10-25T00:39:31Z",
-    "store_updated_at": "2026-10-22T22:03:08Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "captured_at": "2026-11-04T16:21:46Z",
+    "store_first_seen_at": "2026-11-04T12:06:34Z",
+    "store_updated_at": "2026-11-04T04:34:04Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -88,7 +88,7 @@
       },
       {
         "name": "BGLogin",
-        "version": "4.92.7",
+        "version": "4.95.3",
         "category": "auth",
         "confidence": "observed"
       },
@@ -100,97 +100,97 @@
       },
       {
         "name": "BGAddressScene",
-        "version": "4.91.4",
+        "version": "4.95.1",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGBizUIKit",
-        "version": "4.92.10",
+        "version": "4.95.10",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGCategoryScene",
-        "version": "4.91.5",
+        "version": "4.95.3",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGGoodsDetailScene",
-        "version": "4.92.14",
+        "version": "4.95.10",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGGoodsSku",
-        "version": "4.92.6",
+        "version": "4.95.7",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGHomeScene",
-        "version": "4.92.6",
+        "version": "4.95.3",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGMediaDisplay",
-        "version": "4.92.1",
+        "version": "4.95.1",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGOrderConfirmScene",
-        "version": "4.92.9",
+        "version": "4.95.5",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGOrderService",
-        "version": "4.92.4",
+        "version": "4.95.5",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGPay",
-        "version": "4.92.1",
+        "version": "4.95.4",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGPayScene",
-        "version": "4.91.4",
+        "version": "4.95.2",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGPersonalScene",
-        "version": "4.92.4",
+        "version": "4.95.1",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGPlayEngine",
-        "version": "4.92.1",
+        "version": "4.95.3",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGRecommendServiceKit",
-        "version": "4.92.12",
+        "version": "4.95.4",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGRegionService",
-        "version": "4.92.5",
+        "version": "4.94.1",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGSearch",
-        "version": "4.91.3",
+        "version": "4.95.4",
         "category": "other",
         "confidence": "observed"
       },
@@ -202,19 +202,19 @@
       },
       {
         "name": "BGShopScene",
-        "version": "4.91.6",
+        "version": "4.94.1",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "BGTransactionLink",
-        "version": "4.92.2",
+        "version": "4.95.6",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "MEXPlayerMetal",
-        "version": "4.91.9",
+        "version": "4.93.1",
         "category": "other",
         "confidence": "observed"
       },
@@ -238,25 +238,25 @@
       },
       {
         "name": "TMMessages",
-        "version": "4.92.1",
+        "version": "4.95.6",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "TMNavigation",
-        "version": "0.0.174",
+        "version": "0.0.176",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "TMWebContainer",
-        "version": "0.0.753",
+        "version": "0.0.768",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "WHWebFoundation",
-        "version": "0.0.151",
+        "version": "0.0.154",
         "category": "other",
         "confidence": "observed"
       }
@@ -272,7 +272,7 @@
         "iPad"
       ],
       "abis": [],
-      "localization_count": 52
+      "localization_count": 51
     },
     "capabilities": [
       "App Groups",
@@ -288,10 +288,13 @@
       "declares_tracking": false,
       "tracking_domain_count": 0,
       "collected_data_types": [
+        "CoarseLocation",
         "DeviceID",
         "Name",
         "PaymentInfo",
-        "PhysicalAddress"
+        "PerformanceData",
+        "PhysicalAddress",
+        "PreciseLocation"
       ],
       "required_reason_apis": [
         "FileTimestamp",

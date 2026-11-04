@@ -23,12 +23,12 @@
 <text x="158.17999999999995" y="152" font-size="13" text-anchor="end" fill="#090A0B">Firebase</text>
 <rect x="170.2" y="142" width="199.9" height="14" rx="3" fill="#1EA45A"/>
 <text x="378.1" y="152" font-size="13" fill="#4D5755">3</text>
-<text x="158.17999999999995" y="174" font-size="13" text-anchor="end" fill="#090A0B">Reactive and async</text>
+<text x="158.17999999999995" y="174" font-size="13" text-anchor="end" fill="#090A0B">Maps and location</text>
 <rect x="170.2" y="164" width="199.9" height="14" rx="3" fill="#1EA45A"/>
 <text x="378.1" y="174" font-size="13" fill="#4D5755">3</text>
-<text x="158.17999999999995" y="196" font-size="13" text-anchor="end" fill="#090A0B">Maps and location</text>
-<rect x="170.2" y="186" width="133.3" height="14" rx="3" fill="#1EA45A"/>
-<text x="311.5" y="196" font-size="13" fill="#4D5755">2</text>
+<text x="158.17999999999995" y="196" font-size="13" text-anchor="end" fill="#090A0B">Reactive and async</text>
+<rect x="170.2" y="186" width="199.9" height="14" rx="3" fill="#1EA45A"/>
+<text x="378.1" y="196" font-size="13" fill="#4D5755">3</text>
 <text x="158.17999999999995" y="218" font-size="13" text-anchor="end" fill="#090A0B">Ads</text>
 <rect x="170.2" y="208" width="66.6" height="14" rx="3" fill="#1EA45A"/>
 <text x="244.8" y="218" font-size="13" fill="#4D5755">1</text>

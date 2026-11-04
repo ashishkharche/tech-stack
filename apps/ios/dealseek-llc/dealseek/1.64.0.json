@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "6745274862",
     "bundle_id": "com.dealseekorg.dealseek",
-    "active": false,
+    "active": true,
     "company": {
       "name": "DealSeek LLC",
       "slug": "dealseek-llc",
@@ -19,9 +19,9 @@
   "public_store_build": true,
   "dates": {
     "captured_at": "2026-11-02T14:29:31Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-02T16:03:38Z"
+    "store_first_seen_at": "2026-11-03T00:00:12Z",
+    "store_updated_at": "2026-10-29T18:53:22Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",

@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "414706506",
     "bundle_id": "com.google.Translate",
-    "active": false,
+    "active": true,
     "company": {
       "name": "Google",
       "slug": "google",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-19T04:26:53Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",

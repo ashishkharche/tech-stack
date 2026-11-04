@@ -13,15 +13,15 @@
 | Company | [Instacart](../../../../companies/instacart.md) |
 | Store id | `com.instacart.client` |
 | Bundle / package id | `com.instacart.client` |
-| Latest version | 9.19.1 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 48 |
+| Latest version | 9.39.2 (analysed 2026-11-03) |
+| Versions tracked | 2 |
+| SDKs in latest version | 47 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
 | Build | Gradle (inferred) |
 | Minimum OS | API 26, targets API 36 |
 | Devices / ABIs | Android |
-| Capabilities | 10 |
+| Capabilities | 13 |
 | Declares tracking | Yes |
 | Tracked | No. Kept for history. |
 
@@ -32,7 +32,7 @@
 - **Analytics** (5): Branch, Facebook SDK, Firebase Analytics, Google App Measurement, Segment
 - **UI and rendering** (5): Coil, Glide, Jetpack Compose, Lottie, Material Components
 - **Sign-in and auth** (4): AppAuth, Credential Manager, Facebook Login, Google Sign-In / Auth
-- **Networking** (4): Ktor, OkHttp, Retrofit, Volley
+- **Networking** (4): Cronet, Ktor, OkHttp, Retrofit
 - **Storage** (4): DataStore, Okio, Room, SQLDelight
 - **Crash and performance** (3): Datadog, Sentry, Sentry (native)
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
@@ -43,7 +43,6 @@
 - **ML and AI** (2): ML Kit, ML Kit (barcode/vision)
 - **Payments** (2): Braintree, Stripe
 - **Ads** (1): Google Mobile Ads (AdMob)
-- **AWS** (1): AWS SDK
 - **Logging and diagnostics** (1): Chucker
 - **GraphQL** (1): Apollo GraphQL
 - **Media** (1): Media3 (ExoPlayer)
@@ -51,9 +50,9 @@
 - **Telephony** (1): libphonenumber
 
 <details>
-<summary>Capabilities (10)</summary>
+<summary>Capabilities (13)</summary>
 
-Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, Foreground service, Foreground service: location, Notifications, Precise location, Storage (read)
+Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, Foreground service, Foreground service: location, Microphone, Notifications, Phone / carrier info, Precise location, Storage (read), Storage (write)
 
 </details>
 
@@ -61,7 +60,12 @@ Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 9.39.2 | 2026-11-03 |  | 47 | +1 / −2 | No | No | [9.39.2.json](9.39.2.json) |
 | 9.19.1 | 2026-06-19 |  | 48 |  | No | No | [9.19.1.json](9.19.1.json) |
+
+### SDK changes between versions
+
+- 9.19.1 → 9.39.2: added Cronet; removed AWS SDK, Volley
 
 ---
 

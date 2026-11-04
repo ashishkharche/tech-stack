@@ -4,7 +4,7 @@
 
 # BURGER KING® App
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.emn8.mobilem8.nativeapp.bk) · [latest.json](latest.json)
 
@@ -23,7 +23,7 @@
 | Devices / ABIs | Android |
 | Capabilities | 12 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
@@ -56,7 +56,7 @@ Advertising ID, Approximate location, Biometric auth, Camera, Draw over other ap
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 7.85.0 | 2026-11-01 |  | 29 | +1 / −5 | Yes | No | [7.85.0.json](7.85.0.json) |
+| 7.85.0 | 2026-11-01 | 2026-10-26 | 29 | +1 / −5 | Yes | No | [7.85.0.json](7.85.0.json) |
 | 7.75.0 | 2026-06-22 |  | 33 |  | Yes | No | [7.75.0.json](7.75.0.json) |
 
 ### SDK changes between versions

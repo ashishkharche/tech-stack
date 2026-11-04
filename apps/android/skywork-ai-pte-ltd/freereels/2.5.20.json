@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.freereels.app",
     "bundle_id": "com.freereels.app",
-    "active": false,
+    "active": true,
     "company": {
       "name": "SKYWORK AI PTE.LTD.",
       "slug": "skywork-ai-pte-ltd",
@@ -19,9 +19,9 @@
   "public_store_build": true,
   "dates": {
     "captured_at": "2026-11-02T07:53:25Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-02T08:06:35Z"
+    "store_first_seen_at": "2026-11-03T00:00:12Z",
+    "store_updated_at": "2026-10-27T13:18:57Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",

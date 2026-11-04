@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.dominospizza.png" width="20" height="20" alt="Domino's Pizza USA icon"> | [Domino's Pizza USA](../apps/android/domino-s-pizza-llc/domino-s-pizza-usa/README.md) | Android | 1 | 13.6.0 | 2026-06-19 | 35 | No |
+| <img src="../assets/icons/android/com.dominospizza.png" width="20" height="20" alt="Domino's Pizza USA icon"> | [Domino's Pizza USA](../apps/android/domino-s-pizza-llc/domino-s-pizza-usa/README.md) | Android | 1 | 13.6.0 | 2026-06-19 | 35 | Yes |
 
 ## SDKs by category
 

@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.audiomack.png" width="20" height="20" alt="Audiomack icon"> | [Audiomack: Music Downloader](../apps/android/audiomack-music-apps/audiomack/README.md) | Android | 1 | 8.4.0 | 2026-06-23 | 51 | No |
+| <img src="../assets/icons/android/com.audiomack.png" width="20" height="20" alt="Audiomack icon"> | [Audiomack: Music Downloader](../apps/android/audiomack-music-apps/audiomack/README.md) | Android | 1 | 8.4.0 | 2026-06-23 | 51 | Yes |
 
 ## SDKs by category
 

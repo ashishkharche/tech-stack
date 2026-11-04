@@ -13,8 +13,8 @@
 | Company | [Luka, Inc.](../../../../companies/luka-inc.md) |
 | Store id | `1158555867` |
 | Bundle / package id | `ai.replika.app` |
-| Latest version | 12.5.0 (analysed 2026-11-02) |
-| Versions tracked | 2 |
+| Latest version | 12.5.1 (analysed 2026-11-03) |
+| Versions tracked | 3 |
 | SDKs in latest version | 80 |
 | Languages | C/C++, Objective-C, Swift, Unity (C# / IL2CPP) |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -62,6 +62,7 @@ App Attest, App Groups, Apple Pay, Associated Domains (Universal Links), Backgro
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 12.5.1 | 2026-11-03 | 2026-11-02 | 80 | +0 / −0 | Yes | Yes | [12.5.1.json](12.5.1.json) |
 | 12.5.0 | 2026-11-02 | 2026-10-27 | 80 | +0 / −3 | Yes | Yes | [12.5.0.json](12.5.0.json) |
 | 12.4.2 | 2026-10-24 | 2026-10-13 | 83 |  | Yes | Yes | [12.4.2.json](12.4.2.json) |
 

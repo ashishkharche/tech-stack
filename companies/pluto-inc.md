@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/tv.pluto.android.png" width="20" height="20" alt="PlutoTV icon"> | [PlutoTV: Stream Free Movies/TV](../apps/android/pluto-inc/plutotv/README.md) | Android | 1 | 5.66.0-leanback | 2026-06-19 | 33 | No |
+| <img src="../assets/icons/android/tv.pluto.android.png" width="20" height="20" alt="PlutoTV icon"> | [PlutoTV: Stream Free Movies/TV](../apps/android/pluto-inc/plutotv/README.md) | Android | 1 | 5.66.0-leanback | 2026-06-19 | 33 | Yes |
 
 ## SDKs by category
 

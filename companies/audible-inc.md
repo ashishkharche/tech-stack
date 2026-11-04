@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.audible.application.png" width="20" height="20" alt="Audible icon"> | [Audible: Audiobooks & Podcasts](../apps/android/audible-inc/audible/README.md) | Android | 1 | 26.23.01 | 2026-06-23 | 41 | No |
-| <img src="../assets/icons/ios/379693831.png" width="20" height="20" alt="Audible icon"> | [Audible: Audiobooks & Podcasts](../apps/ios/audible-inc/audible/README.md) | iOS | 1 | 4.71.1 | 2026-06-23 | 29 | No |
+| <img src="../assets/icons/android/com.audible.application.png" width="20" height="20" alt="Audible icon"> | [Audible: Audiobooks & Podcasts](../apps/android/audible-inc/audible/README.md) | Android | 1 | 26.23.01 | 2026-06-23 | 41 | Yes |
+| <img src="../assets/icons/ios/379693831.png" width="20" height="20" alt="Audible icon"> | [Audible: Audiobooks & Podcasts](../apps/ios/audible-inc/audible/README.md) | iOS | 1 | 4.71.1 | 2026-06-23 | 29 | Yes |
 
 ## SDKs by category
 

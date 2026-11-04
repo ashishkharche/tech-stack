@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.classdojo.android.png" width="20" height="20" alt="ClassDojo icon"> | [ClassDojo](../apps/android/classdojo/classdojo/README.md) | Android | 1 | 8.59.0 | 2026-06-19 | 47 | No |
+| <img src="../assets/icons/android/com.classdojo.android.png" width="20" height="20" alt="ClassDojo icon"> | [ClassDojo](../apps/android/classdojo/classdojo/README.md) | Android | 1 | 8.59.0 | 2026-06-19 | 47 | Yes |
 
 ## SDKs by category
 

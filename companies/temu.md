@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **2** versions · **50** distinct SDKs across their latest versions
+**2** apps (1 iOS, 1 Android) · **3** versions · **50** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/temu/temu/README.md"><img src="../assets/icons/android/com.einnovation.temu.png" width="56" height="56" alt="Temu icon"></a><br><a href="../apps/android/temu/temu/README.md"><sub><b>Temu</b></sub></a><br><sub>Android · 21 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/temu/temu/README.md"><img src="../assets/icons/ios/1641486558.png" width="56" height="56" alt="Temu icon"></a><br><a href="../apps/ios/temu/temu/README.md"><sub><b>Temu</b></sub></a><br><sub>iOS · 30 SDKs</sub></td></tr>
@@ -15,7 +15,7 @@ The company name is the developer name on the store listing.
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/android/com.einnovation.temu.png" width="20" height="20" alt="Temu icon"> | [Temu: Shop Like a Billionaire](../apps/android/temu/temu/README.md) | Android | 1 | 4.91.0 | 2026-10-24 | 21 | Yes |
-| <img src="../assets/icons/ios/1641486558.png" width="20" height="20" alt="Temu icon"> | [Temu: Shop Like a Billionaire](../apps/ios/temu/temu/README.md) | iOS | 1 | 4.92.0 | 2026-10-24 | 30 | Yes |
+| <img src="../assets/icons/ios/1641486558.png" width="20" height="20" alt="Temu icon"> | [Temu: Shop Like a Billionaire](../apps/ios/temu/temu/README.md) | iOS | 2 | 4.95.0 | 2026-11-04 | 30 | Yes |
 
 ## SDKs by category
 

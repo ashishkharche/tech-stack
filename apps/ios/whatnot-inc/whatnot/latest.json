@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "26.43.5",
+  "version": "26.45.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-10-24T19:55:23Z",
-    "store_first_seen_at": "2026-10-25T00:39:31Z",
-    "store_updated_at": "2026-10-22T16:07:34Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "captured_at": "2026-11-04T01:11:10Z",
+    "store_first_seen_at": "2026-11-04T00:00:13Z",
+    "store_updated_at": "2026-11-03T14:03:24Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 340,
+    "sdk_count": 349,
     "languages": [
       "C/C++",
       "Metal (shaders)",
@@ -193,7 +193,25 @@
         "confidence": "observed"
       },
       {
+        "name": "LiveWalletInterface",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
         "name": "Payment",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "PaymentsImplementation",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "PaymentsInterface",
         "version": null,
         "category": "payments",
         "confidence": "observed"
@@ -380,7 +398,7 @@
       },
       {
         "name": "RiveRuntime",
-        "version": "6.27.0",
+        "version": "6.28.1",
         "category": "rendering",
         "confidence": "observed"
       },
@@ -1339,6 +1357,12 @@
         "confidence": "observed"
       },
       {
+        "name": "LocalPickupInterface",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
         "name": "LoyaltyRewards",
         "version": null,
         "category": "other",
@@ -1400,7 +1424,7 @@
       },
       {
         "name": "MobileShieldKit",
-        "version": "1.18.3",
+        "version": "2.0.2",
         "category": "other",
         "confidence": "observed"
       },
@@ -1513,6 +1537,12 @@
         "confidence": "observed"
       },
       {
+        "name": "PresalesInterface",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
         "name": "ProductIdentificationImplementation",
         "version": null,
         "category": "other",
@@ -1532,6 +1562,18 @@
       },
       {
         "name": "ProfileVideos",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PUDOImplementation",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PUDOInterface",
         "version": null,
         "category": "other",
         "confidence": "observed"
@@ -1802,6 +1844,18 @@
       },
       {
         "name": "Sounds",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SplashScreenImplementation",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SplashScreenInterface",
         "version": null,
         "category": "other",
         "confidence": "observed"

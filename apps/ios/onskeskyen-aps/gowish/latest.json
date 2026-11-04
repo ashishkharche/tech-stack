@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1605170923",
     "bundle_id": "com.gowish.app",
-    "active": false,
+    "active": true,
     "company": {
       "name": "Onskeskyen ApS",
       "slug": "onskeskyen-aps",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-02T02:01:22Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-02T02:53:24Z"
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",

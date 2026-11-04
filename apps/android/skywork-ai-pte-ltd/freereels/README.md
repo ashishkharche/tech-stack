@@ -4,7 +4,7 @@
 
 # FreeReels - Dramas & Reels
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.freereels.app) · [latest.json](latest.json)
 
@@ -23,7 +23,7 @@
 | Devices / ABIs | Android |
 | Capabilities | 8 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
@@ -56,7 +56,7 @@ Advertising ID, Bluetooth, Calendar (write), Camera, Foreground service, Notific
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 2.5.20 | 2026-11-02 |  | 38 |  | No | No | [2.5.20.json](2.5.20.json) |
+| 2.5.20 | 2026-11-02 | 2026-10-27 | 38 |  | No | No | [2.5.20.json](2.5.20.json) |
 
 ---
 

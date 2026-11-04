@@ -16,7 +16,7 @@ The company name is the developer name on the store listing.
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/android/com.netflix.mediaclient.png" width="20" height="20" alt="Netflix icon"> | [Netflix](../apps/android/netflix-inc/netflix/README.md) | Android | 1 | 9.65.0 build 9 64253 | 2026-06-19 | 29 | Yes |
 | <img src="../assets/icons/ios/363590051.png" width="20" height="20" alt="Netflix icon"> | [Netflix](../apps/ios/netflix-inc/netflix/README.md) | iOS | 1 | 18.34.0 | 2026-06-19 | 74 | Yes |
-| <img src="../assets/icons/ios/6447582581.png" width="20" height="20" alt="Netflix Game Controller icon"> | [Netflix Game Controller](../apps/ios/netflix-inc/netflix-game-controller/README.md) | iOS | 1 | 3.21 | 2026-11-01 | 40 | No |
+| <img src="../assets/icons/ios/6447582581.png" width="20" height="20" alt="Netflix Game Controller icon"> | [Netflix Game Controller](../apps/ios/netflix-inc/netflix-game-controller/README.md) | iOS | 1 | 3.21 | 2026-11-01 | 40 | Yes |
 
 ## SDKs by category
 

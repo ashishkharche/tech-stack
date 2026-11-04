@@ -4,7 +4,7 @@
 
 # Microsoft Bing Webmaster Tools
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.bingwebmastertools.twa) · [latest.json](latest.json)
 
@@ -23,7 +23,7 @@
 | Devices / ABIs | Android |
 | Capabilities | 1 |
 | Declares tracking | No |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 <details>
 <summary>Capabilities (1)</summary>
@@ -36,7 +36,7 @@ Notifications
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 1.0.3 | 2026-06-19 |  | 0 |  | Yes | No | [1.0.3.json](1.0.3.json) |
+| 1.0.3 | 2026-06-19 | 2023-10-26 | 0 |  | Yes | No | [1.0.3.json](1.0.3.json) |
 
 ---
 

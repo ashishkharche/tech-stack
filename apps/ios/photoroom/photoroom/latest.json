@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2026.43.01",
+  "version": "2026.45.01",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-10-24T21:39:13Z",
-    "store_first_seen_at": "2026-10-25T00:39:31Z",
-    "store_updated_at": "2026-10-19T07:59:02Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "captured_at": "2026-11-02T17:21:06Z",
+    "store_first_seen_at": "2026-11-02T19:07:49Z",
+    "store_updated_at": "2026-11-02T12:22:26Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 92,
+    "sdk_count": 87,
     "languages": [
       "C/C++",
       "Metal (shaders)",
@@ -113,7 +113,7 @@
       },
       {
         "name": "BrazeKit",
-        "version": "14.0.1",
+        "version": "19.1.0",
         "category": "analytics",
         "confidence": "observed"
       },
@@ -143,25 +143,25 @@
       },
       {
         "name": "FirebaseAnalytics",
-        "version": "12.8.0",
+        "version": "13.0.1",
         "category": "analytics",
         "confidence": "observed"
       },
       {
         "name": "GoogleAppMeasurement",
-        "version": "12.8.0",
+        "version": "13.0.1",
         "category": "analytics",
         "confidence": "observed"
       },
       {
         "name": "GoogleAppMeasurementIdentitySupport",
-        "version": "12.8.0",
+        "version": "13.0.1",
         "category": "analytics",
         "confidence": "observed"
       },
       {
         "name": "GoogleAdsOnDeviceConversion",
-        "version": "3.2.0",
+        "version": "3.7.0",
         "category": "ads",
         "confidence": "observed"
       },
@@ -185,7 +185,7 @@
       },
       {
         "name": "Sentry",
-        "version": "9.11.0",
+        "version": "9.31.0",
         "category": "crash_perf",
         "confidence": "observed"
       },
@@ -232,8 +232,14 @@
         "confidence": "observed"
       },
       {
+        "name": "InteropForGoogle",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
         "name": "Didomi",
-        "version": "2.52.0",
+        "version": "2.52.1",
         "category": "privacy_consent",
         "confidence": "observed"
       },
@@ -251,7 +257,7 @@
       },
       {
         "name": "Intercom",
-        "version": "19.9.0",
+        "version": "19.9.1",
         "category": "messaging",
         "confidence": "observed"
       },
@@ -275,6 +281,12 @@
       },
       {
         "name": "abseil",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppCheck",
         "version": null,
         "category": "firebase",
         "confidence": "observed"
@@ -419,7 +431,7 @@
       },
       {
         "name": "absl",
-        "version": "1.20240722.0",
+        "version": "1.20250512.2",
         "category": "other",
         "confidence": "observed"
       },
@@ -436,13 +448,7 @@
         "confidence": "observed"
       },
       {
-        "name": "algoliasearch-client-swift",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "app-check",
+        "name": "AlgoliaSearchClient",
         "version": null,
         "category": "other",
         "confidence": "observed"
@@ -460,43 +466,13 @@
         "confidence": "observed"
       },
       {
-        "name": "dd-sdk-ios",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
         "name": "engine",
         "version": "0.0",
         "category": "other",
         "confidence": "observed"
       },
       {
-        "name": "facebook-ios-sdk",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
         "name": "Filters",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "google-ads-on-device-conversion-ios-sdk",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "gtm-session-fetcher",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "interop-ios-for-google-sdks",
         "version": null,
         "category": "other",
         "confidence": "observed"
@@ -509,12 +485,6 @@
       },
       {
         "name": "opensslWrapper",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "purchases-ios",
         "version": null,
         "category": "other",
         "confidence": "observed"
@@ -644,8 +614,8 @@
       "min_os": "18.0",
       "min_sdk": null,
       "target_sdk": null,
-      "build_sdk": "iphoneos27.1",
-      "xcode": "27.1",
+      "build_sdk": "iphoneos27.2",
+      "xcode": "27.2",
       "device_families": [
         "iPhone",
         "iPad"

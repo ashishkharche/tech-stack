@@ -13,16 +13,16 @@
 | Company | [Meta Platforms, Inc.](../../../../companies/meta-platforms-inc.md) |
 | Store id | `1558240027` |
 | Bundle / package id | `com.facebook.stellaapp` |
-| Latest version | 295.0.0 (analysed 2026-10-23) |
-| Versions tracked | 4 |
+| Latest version | 297.0.0 (analysed 2026-11-04) |
+| Versions tracked | 5 |
 | SDKs in latest version | 6 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
 | Build | Unknown / Xcode native |
-| Minimum OS | iOS 17.2 (built with Xcode 27.0, SDK iphoneos27.0) |
+| Minimum OS | iOS 18.4 (built with Xcode 27.1, SDK iphoneos27.1) |
 | Devices / ABIs | iPhone, iPad |
 | Localisations | 43 |
-| Capabilities | 14 |
+| Capabilities | 16 |
 | Declares tracking | No |
 | Tracked | Yes |
 
@@ -45,9 +45,9 @@ ActivityKit (Live Activities), AdServices (Apple Search Ads attribution), AdSupp
 </details>
 
 <details>
-<summary>Capabilities (14)</summary>
+<summary>Capabilities (16)</summary>
 
-App Groups, Associated Domains (Universal Links), Background App Refresh, Background Audio, Background Location, Background Processing, Background Push, Bluetooth (central), CarPlay, External Accessory, HealthKit, Keychain Sharing, Push Notifications (APNs), Time-Sensitive Notifications
+App Attest, App Groups, Apple Pay, Associated Domains (Universal Links), Background App Refresh, Background Audio, Background Location, Background Processing, Background Push, Bluetooth (central), CarPlay, External Accessory, HealthKit, Keychain Sharing, Push Notifications (APNs), Time-Sensitive Notifications
 
 </details>
 
@@ -55,6 +55,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 297.0.0 | 2026-11-04 | 2026-10-30 | 6 | +0 / −0 | Yes | Yes | [297.0.0.json](297.0.0.json) |
 | 295.0.0 | 2026-10-23 | 2026-10-19 | 6 | +0 / −0 | Yes | Yes | [295.0.0.json](295.0.0.json) |
 | 276.0.0 | 2026-06-23 |  | 6 | +1 / −0 | Yes | Yes | [276.0.0.json](276.0.0.json) |
 | 275.0.0 | 2026-06-09 |  | 5 | +0 / −0 | Yes | Yes | [275.0.0.json](275.0.0.json) |

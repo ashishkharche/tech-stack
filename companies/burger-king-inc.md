@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="20" height="20" alt="BURGER KING® App icon"> | [BURGER KING® App](../apps/android/burger-king-inc/burger-king-app/README.md) | Android | 2 | 7.85.0 | 2026-11-01 | 29 | No |
+| <img src="../assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="20" height="20" alt="BURGER KING® App icon"> | [BURGER KING® App](../apps/android/burger-king-inc/burger-king-app/README.md) | Android | 2 | 7.85.0 | 2026-11-01 | 29 | Yes |
 
 ## SDKs by category
 

@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/886445756.png" width="20" height="20" alt="Tubi icon"> | [Tubi: Movies & Live TV](../apps/ios/tubi-inc/tubi/README.md) | iOS | 1 | 10.22.1 | 2026-06-23 | 40 | No |
+| <img src="../assets/icons/ios/886445756.png" width="20" height="20" alt="Tubi icon"> | [Tubi: Movies & Live TV](../apps/ios/tubi-inc/tubi/README.md) | iOS | 1 | 10.22.1 | 2026-06-23 | 40 | Yes |
 
 ## SDKs by category
 

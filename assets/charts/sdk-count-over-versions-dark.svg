@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 372" width="860" height="372" role="img" aria-label="SDK count across versions" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 418" width="860" height="418" role="img" aria-label="SDK count across versions" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
 <title>SDK count across versions</title>
-<rect x="0.5" y="0.5" width="859" height="371" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<rect x="0.5" y="0.5" width="859" height="417" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
 <g transform="translate(20 20)">
 <text x="249.17999999999995" y="34" font-size="13" text-anchor="end" fill="#F1F6F3">Grok (iOS)</text>
 <line x1="261.17999999999995" y1="50.5" x2="670.0" y2="50.5" stroke="#262A2D"/>
@@ -20,23 +20,24 @@
 <circle cx="670.0" cy="42.0" r="2.6" fill="#F1F6F3"/>
 <text x="684.0" y="34" font-size="13" fill="#A9B2BC">57 → 47 SDKs</text>
 <text x="684.0" y="50" font-size="11" fill="#A9B2BC">13 versions</text>
-<text x="249.17999999999995" y="80" font-size="13" text-anchor="end" fill="#F1F6F3">Claude by Anthropic (iOS)</text>
+<text x="249.17999999999995" y="80" font-size="13" text-anchor="end" fill="#F1F6F3">Meta AI (iOS)</text>
 <line x1="261.17999999999995" y1="96.5" x2="670.0" y2="96.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,64.0 397.5,86.8 533.7,82.0 670.0,88.0"/>
-<circle cx="261.2" cy="64.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="397.5" cy="86.8" r="2.6" fill="#F1F6F3"/>
-<circle cx="533.7" cy="82.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="670.0" cy="88.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="80" font-size="13" fill="#A9B2BC">63 → 43 SDKs</text>
-<text x="684.0" y="96" font-size="11" fill="#A9B2BC">4 versions</text>
-<text x="249.17999999999995" y="126" font-size="13" text-anchor="end" fill="#F1F6F3">Meta AI (iOS)</text>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,88.0 363.4,88.0 465.6,64.0 567.8,64.0 670.0,64.0"/>
+<circle cx="261.2" cy="88.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="363.4" cy="88.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="465.6" cy="64.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="567.8" cy="64.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="670.0" cy="64.0" r="2.6" fill="#F1F6F3"/>
+<text x="684.0" y="80" font-size="13" fill="#A9B2BC">5 → 6 SDKs</text>
+<text x="684.0" y="96" font-size="11" fill="#A9B2BC">5 versions</text>
+<text x="249.17999999999995" y="126" font-size="13" text-anchor="end" fill="#F1F6F3">Claude by Anthropic (iOS)</text>
 <line x1="261.17999999999995" y1="142.5" x2="670.0" y2="142.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,134.0 397.5,134.0 533.7,110.0 670.0,110.0"/>
-<circle cx="261.2" cy="134.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="397.5" cy="134.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="533.7" cy="110.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="670.0" cy="110.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="126" font-size="13" fill="#A9B2BC">5 → 6 SDKs</text>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,110.0 397.5,132.8 533.7,128.0 670.0,134.0"/>
+<circle cx="261.2" cy="110.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="397.5" cy="132.8" r="2.6" fill="#F1F6F3"/>
+<circle cx="533.7" cy="128.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="670.0" cy="134.0" r="2.6" fill="#F1F6F3"/>
+<text x="684.0" y="126" font-size="13" fill="#A9B2BC">63 → 43 SDKs</text>
 <text x="684.0" y="142" font-size="11" fill="#A9B2BC">4 versions</text>
 <text x="249.17999999999995" y="172" font-size="13" text-anchor="end" fill="#F1F6F3">BeReal (iOS)</text>
 <line x1="261.17999999999995" y1="188.5" x2="670.0" y2="188.5" stroke="#262A2D"/>
@@ -70,5 +71,13 @@
 <circle cx="670.0" cy="294.0" r="2.6" fill="#F1F6F3"/>
 <text x="684.0" y="310" font-size="13" fill="#A9B2BC">8 → 10 SDKs</text>
 <text x="684.0" y="326" font-size="11" fill="#A9B2BC">3 versions</text>
+<text x="249.17999999999995" y="356" font-size="13" text-anchor="end" fill="#F1F6F3">Pinduoduo (iOS)</text>
+<line x1="261.17999999999995" y1="372.5" x2="670.0" y2="372.5" stroke="#262A2D"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,364.0 465.6,364.0 670.0,364.0"/>
+<circle cx="261.2" cy="364.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="465.6" cy="364.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="670.0" cy="364.0" r="2.6" fill="#F1F6F3"/>
+<text x="684.0" y="356" font-size="13" fill="#A9B2BC">71 → 71 SDKs</text>
+<text x="684.0" y="372" font-size="11" fill="#A9B2BC">3 versions</text>
 </g>
 </svg>

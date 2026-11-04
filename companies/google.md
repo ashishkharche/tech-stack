@@ -19,22 +19,22 @@ The company name is the developer name on the store listing.
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> | [Gemini Notebook](../apps/ios/google/gemini-notebook/README.md) | iOS | 1 | 1.64.1 | 2026-10-24 | 14 | Yes |
 | <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> | [Gmail - Email by Google](../apps/ios/google/gmail-email-by-google/README.md) | iOS | 1 | 6.0.260525 | 2026-06-19 | 14 | Yes |
-| <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> | [Google](../apps/ios/google/google/README.md) | iOS | 1 | 423.5 | 2026-06-19 | 13 | No |
-| <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> | [Google Authenticator](../apps/ios/google/google-authenticator/README.md) | iOS | 1 | 5.0.0 | 2026-06-23 | 16 | No |
+| <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> | [Google](../apps/ios/google/google/README.md) | iOS | 1 | 423.5 | 2026-06-19 | 13 | Yes |
+| <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> | [Google Authenticator](../apps/ios/google/google-authenticator/README.md) | iOS | 1 | 5.0.0 | 2026-06-23 | 16 | Yes |
 | <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google Calendar: Get Organized](../apps/ios/google/google-calendar/README.md) | iOS | 1 | 26.20.0 | 2026-06-19 | 9 | Yes |
-| <img src="../assets/icons/ios/924620788.png" width="20" height="20" alt="Google Classroom icon"> | [Google Classroom](../apps/ios/google/google-classroom/README.md) | iOS | 1 | 3.59.300048840 | 2026-06-23 | 11 | No |
+| <img src="../assets/icons/ios/924620788.png" width="20" height="20" alt="Google Classroom icon"> | [Google Classroom](../apps/ios/google/google-classroom/README.md) | iOS | 1 | 3.59.300048840 | 2026-06-23 | 11 | Yes |
 | <img src="../assets/icons/ios/842842640.png" width="20" height="20" alt="Google Docs icon"> | [Google Docs](../apps/ios/google/google-docs/README.md) | iOS | 1 | 1.2026.22203 | 2026-06-19 | 12 | Yes |
 | <img src="../assets/icons/ios/507874739.png" width="20" height="20" alt="Google Drive icon"> | [Google Drive](../apps/ios/google/google-drive/README.md) | iOS | 2 | 4.2622.41005 | 2026-06-19 | 7 | Yes |
 | <img src="../assets/icons/ios/6477489729.png" width="20" height="20" alt="Google Gemini icon"> | [Google Gemini](../apps/ios/google/gemini/README.md) | iOS | 3 | 1.2026.4171302 | 2026-10-23 | 10 | Yes |
-| <img src="../assets/icons/ios/680819774.png" width="20" height="20" alt="Google Home icon"> | [Google Home](../apps/ios/google/google-home/README.md) | iOS | 1 | 4.17.55 | 2026-06-23 | 23 | No |
+| <img src="../assets/icons/ios/680819774.png" width="20" height="20" alt="Google Home icon"> | [Google Home](../apps/ios/google/google-home/README.md) | iOS | 1 | 4.17.55 | 2026-06-23 | 23 | Yes |
 | <img src="../assets/icons/ios/1029207872.png" width="20" height="20" alt="Google Keep icon"> | [Google Keep - Notes and lists](../apps/ios/google/google-keep/README.md) | iOS | 2 | 2.2026.43101 | 2026-11-01 | 9 | No |
-| <img src="../assets/icons/ios/585027354.png" width="20" height="20" alt="Google Maps icon"> | [Google Maps](../apps/ios/google/google-maps/README.md) | iOS | 1 | 26.22.2 | 2026-06-19 | 15 | No |
-| <img src="../assets/icons/ios/1096918571.png" width="20" height="20" alt="Google Meet icon"> | [Google Meet](../apps/ios/google/google-meet/README.md) | iOS | 2 | 382.1 | 2026-11-02 | 14 | No |
-| <img src="../assets/icons/ios/459182288.png" width="20" height="20" alt="Google News icon"> | [Google News](../apps/ios/google/google-news/README.md) | iOS | 1 | 5.118 | 2026-06-19 | 13 | No |
-| <img src="../assets/icons/ios/962194608.png" width="20" height="20" alt="Google Photos icon"> | [Google Photos: Backup & Edit](../apps/ios/google/google-photos/README.md) | iOS | 1 | 7.79.0 | 2026-06-19 | 13 | No |
+| <img src="../assets/icons/ios/585027354.png" width="20" height="20" alt="Google Maps icon"> | [Google Maps](../apps/ios/google/google-maps/README.md) | iOS | 1 | 26.22.2 | 2026-06-19 | 15 | Yes |
+| <img src="../assets/icons/ios/1096918571.png" width="20" height="20" alt="Google Meet icon"> | [Google Meet](../apps/ios/google/google-meet/README.md) | iOS | 2 | 382.1 | 2026-11-02 | 14 | Yes |
+| <img src="../assets/icons/ios/459182288.png" width="20" height="20" alt="Google News icon"> | [Google News](../apps/ios/google/google-news/README.md) | iOS | 1 | 5.118 | 2026-06-19 | 13 | Yes |
+| <img src="../assets/icons/ios/962194608.png" width="20" height="20" alt="Google Photos icon"> | [Google Photos: Backup & Edit](../apps/ios/google/google-photos/README.md) | iOS | 1 | 7.79.0 | 2026-06-19 | 13 | Yes |
 | <img src="../assets/icons/ios/842849113.png" width="20" height="20" alt="Google Sheets icon"> | [Google Sheets](../apps/ios/google/google-sheets/README.md) | iOS | 1 | 1.2026.22200 | 2026-06-11 | 11 | Yes |
 | <img src="../assets/icons/ios/879478102.png" width="20" height="20" alt="Google Slides icon"> | [Google Slides](../apps/ios/google/google-slides/README.md) | iOS | 1 | 1.2026.22200 | 2026-06-19 | 13 | Yes |
-| <img src="../assets/icons/ios/414706506.png" width="20" height="20" alt="Google Translate icon"> | [Google Translate](../apps/ios/google/google-translate/README.md) | iOS | 1 | 10.21.273 | 2026-06-19 | 9 | No |
+| <img src="../assets/icons/ios/414706506.png" width="20" height="20" alt="Google Translate icon"> | [Google Translate](../apps/ios/google/google-translate/README.md) | iOS | 1 | 10.21.273 | 2026-06-19 | 9 | Yes |
 | <img src="../assets/icons/ios/318698524.png" width="20" height="20" alt="Google Voice icon"> | [Google Voice](../apps/ios/google/google-voice/README.md) | iOS | 2 | 26.22 | 2026-06-19 | 3 | No |
 | <img src="../assets/icons/ios/544007664.png" width="20" height="20" alt="YouTube icon"> | [YouTube](../apps/ios/google/youtube/README.md) | iOS | 1 | 21.42.4 | 2026-10-24 | 19 | Yes |
 | <img src="../assets/icons/ios/1017492454.png" width="20" height="20" alt="YouTube Music icon"> | [YouTube Music](../apps/ios/google/youtube-music/README.md) | iOS | 1 | 9.22.2 | 2026-06-19 | 17 | Yes |

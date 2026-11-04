@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.main.gopuff.png" width="20" height="20" alt="Gopuff icon"> | [Gopuff - Grocery Delivery](../apps/android/gopuff/gopuff/README.md) | Android | 1 | 12.12.0 | 2026-06-30 | 46 | No |
+| <img src="../assets/icons/android/com.main.gopuff.png" width="20" height="20" alt="Gopuff icon"> | [Gopuff - Grocery Delivery](../apps/android/gopuff/gopuff/README.md) | Android | 1 | 12.12.0 | 2026-06-30 | 46 | Yes |
 
 ## SDKs by category
 

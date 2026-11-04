@@ -13,15 +13,15 @@
 | Company | [Temu](../../../../companies/temu.md) |
 | Store id | `1641486558` |
 | Bundle / package id | `com.einnovation.temu` |
-| Latest version | 4.92.0 (analysed 2026-10-24) |
-| Versions tracked | 1 |
+| Latest version | 4.95.0 (analysed 2026-11-04) |
+| Versions tracked | 2 |
 | SDKs in latest version | 30 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
 | Build | Unknown / Xcode native |
 | Minimum OS | iOS 15.0 (built with Xcode 27.1, SDK iphoneos27.1) |
 | Devices / ABIs | iPhone, iPad |
-| Localisations | 52 |
+| Localisations | 51 |
 | Capabilities | 8 |
 | Declares tracking | No |
 | Tracked | Yes |
@@ -30,9 +30,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/temu/temu-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/temu/temu-light.svg"></picture>
 
-- **Other** (27): BGAddressScene 4.91.4, BGBizUIKit 4.92.10, BGCategoryScene 4.91.5, BGGoodsDetailScene 4.92.14, BGGoodsSku 4.92.6, BGHomeScene 4.92.6, BGMediaDisplay 4.92.1, BGOrderConfirmScene 4.92.9, BGOrderService 4.92.4, BGPay 4.92.1, BGPayScene 4.91.4, BGPersonalScene 4.92.4, BGPlayEngine 4.92.1, BGRecommendServiceKit 4.92.12, BGRegionService 4.92.5, BGSearch 4.91.3, BGShare 1.0.144, BGShopScene 4.91.6, BGTransactionLink 4.92.2, MEXPlayerMetal 4.91.9, MEXVideoUIKit 4.90.1, PayPalDataCollector 5.26.0, TMExtensionCommon 0.1.66, TMMessages 4.92.1, TMNavigation 0.0.174, TMWebContainer 0.0.753, WHWebFoundation 0.0.151
+- **Other** (27): BGAddressScene 4.95.1, BGBizUIKit 4.95.10, BGCategoryScene 4.95.3, BGGoodsDetailScene 4.95.10, BGGoodsSku 4.95.7, BGHomeScene 4.95.3, BGMediaDisplay 4.95.1, BGOrderConfirmScene 4.95.5, BGOrderService 4.95.5, BGPay 4.95.4, BGPayScene 4.95.2, BGPersonalScene 4.95.1, BGPlayEngine 4.95.3, BGRecommendServiceKit 4.95.4, BGRegionService 4.94.1, BGSearch 4.95.4, BGShare 1.0.144, BGShopScene 4.94.1, BGTransactionLink 4.95.6, MEXPlayerMetal 4.93.1, MEXVideoUIKit 4.90.1, PayPalDataCollector 5.26.0, TMExtensionCommon 0.1.66, TMMessages 4.95.6, TMNavigation 0.0.176, TMWebContainer 0.0.768, WHWebFoundation 0.0.154
 - **Anti-fraud and integrity** (1): Forter 2.3.1
-- **Sign-in and auth** (1): BGLogin 4.92.7
+- **Sign-in and auth** (1): BGLogin 4.95.3
 - **Payments** (1): Braintree 5.26.0
 
 <details>
@@ -53,6 +53,7 @@ App Groups, Apple Pay, Associated Domains (Universal Links), Background Push, Ke
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 4.95.0 | 2026-11-04 | 2026-11-04 | 30 | +0 / −0 | Yes | Yes | [4.95.0.json](4.95.0.json) |
 | 4.92.0 | 2026-10-24 | 2026-10-22 | 30 |  | Yes | Yes | [4.92.0.json](4.92.0.json) |
 
 ---

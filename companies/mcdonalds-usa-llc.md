@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **43** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **42** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/mcdonalds-usa-llc/mcdonald-s/README.md"><img src="../assets/icons/android/com.mcdonalds.app.png" width="56" height="56" alt="McDonald's icon"></a><br><a href="../apps/android/mcdonalds-usa-llc/mcdonald-s/README.md"><sub><b>McDonald's</b></sub></a><br><sub>Android · 43 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/mcdonalds-usa-llc/mcdonald-s/README.md"><img src="../assets/icons/android/com.mcdonalds.app.png" width="56" height="56" alt="McDonald's icon"></a><br><a href="../apps/android/mcdonalds-usa-llc/mcdonald-s/README.md"><sub><b>McDonald's</b></sub></a><br><sub>Android · 42 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.mcdonalds.app.png" width="20" height="20" alt="McDonald's icon"> | [McDonald's](../apps/android/mcdonalds-usa-llc/mcdonald-s/README.md) | Android | 1 | 26.44.2 | 2026-06-19 | 43 | No |
+| <img src="../assets/icons/android/com.mcdonalds.app.png" width="20" height="20" alt="McDonald's icon"> | [McDonald's](../apps/android/mcdonalds-usa-llc/mcdonald-s/README.md) | Android | 2 | 26.72.5 | 2026-11-04 | 42 | No |
 
 ## SDKs by category
 

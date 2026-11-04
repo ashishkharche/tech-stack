@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/384830320.png" width="20" height="20" alt="Life360 icon"> | [Life360: Family Safety & GPS](../apps/ios/life360/life360/README.md) | iOS | 1 | 26.41.0 | 2026-11-02 | 137 | No |
+| <img src="../assets/icons/ios/384830320.png" width="20" height="20" alt="Life360 icon"> | [Life360: Family Safety & GPS](../apps/ios/life360/life360/README.md) | iOS | 1 | 26.41.0 | 2026-11-02 | 137 | Yes |
 
 ## SDKs by category
 

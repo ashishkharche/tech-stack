@@ -4,7 +4,7 @@
 
 # Microsoft Teams
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.microsoft.teams) · [latest.json](latest.json)
 
@@ -13,27 +13,27 @@
 | Company | [Microsoft Corporation](../../../../companies/microsoft-corporation.md) |
 | Store id | `com.microsoft.teams` |
 | Bundle / package id | `com.microsoft.teams` |
-| Latest version | 1416/1.0.0.2026082702 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 36 |
+| Latest version | 1416/1.0.0.2026202302 (analysed 2026-11-04) |
+| Versions tracked | 2 |
+| SDKs in latest version | 35 |
 | Languages | C/C++ (native), Java, Kotlin, React Native / JavaScript |
 | UI | Coil, Fresco, Glide, Jetpack Compose, Lottie, Material Components, Picasso |
 | Build | Gradle (inferred) |
-| Minimum OS | API 30, targets API 35 |
+| Minimum OS | API 28, targets API 36 |
 | Devices / ABIs | Android |
 | Capabilities | 21 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/microsoft-corporation/microsoft-teams-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/microsoft-corporation/microsoft-teams-light.svg"></picture>
 
 - **UI and rendering** (10): AndroidSVG, Coil, Fresco, Glide, Jetpack Compose, jLaTeXMath, Lottie, Markwon, Material Components, Picasso
-- **Storage** (4): DataStore, greenDAO, Okio, Room
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
 - **Networking** (3): OkHttp, Retrofit, Volley
 - **Reactive and async** (3): Kotlin Coroutines, RxJava, RxJava 3
+- **Storage** (3): greenDAO, Okio, Room
 - **Sign-in and auth** (2): Credential Manager, Google Sign-In / Auth
 - **Crash and performance** (2): App Center, OpenTelemetry
 - **Maps and location** (2): Google Location, Google Maps
@@ -56,13 +56,12 @@ Approximate location, Bluetooth, Bluetooth (connect), Bluetooth (scan), Camera, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1416/1.0.0.2026202302 | 2026-11-04 |  | 35 | +0 / −1 | No | No | [1416_1.0.0.2026202302.json](1416_1.0.0.2026202302.json) |
 | 1416/1.0.0.2026082702 | 2026-06-19 |  | 36 |  | No | No | [1416_1.0.0.2026082702.json](1416_1.0.0.2026082702.json) |
 
-## Model-written summary
+### SDK changes between versions
 
-> Android Microsoft Teams: React Native with Hermes, 30+ native libs including OneAuth/SkyLib/Pdfium, Jetpack Compose, and multi-sovereign Microsoft backends
-
-<sub>Written by a language model from the detected signals (`inferred[]`). It is commentary, not measurement.</sub>
+- 1416/1.0.0.2026082702 → 1416/1.0.0.2026202302: removed DataStore
 
 ---
 

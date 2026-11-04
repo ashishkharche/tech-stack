@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.dunkinbrands.otgo.png" width="20" height="20" alt="Dunkin’ icon"> | [Dunkin’](../apps/android/dunkin-brands-inc/dunkin/README.md) | Android | 1 | 11.8.0.358 | 2026-06-22 | 33 | No |
+| <img src="../assets/icons/android/com.dunkinbrands.otgo.png" width="20" height="20" alt="Dunkin’ icon"> | [Dunkin’](../apps/android/dunkin-brands-inc/dunkin/README.md) | Android | 1 | 11.8.0.358 | 2026-06-22 | 33 | Yes |
 
 ## SDKs by category
 

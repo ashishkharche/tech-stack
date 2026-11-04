@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **1** versions · **87** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **2** versions · **87** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/bending-spoons-operations-spa/remini/README.md"><img src="../assets/icons/ios/1470373330.png" width="56" height="56" alt="Remini icon"></a><br><a href="../apps/ios/bending-spoons-operations-spa/remini/README.md"><sub><b>Remini</b></sub></a><br><sub>iOS · 87 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1470373330.png" width="20" height="20" alt="Remini icon"> | [Remini - AI Photo Enhancer](../apps/ios/bending-spoons-operations-spa/remini/README.md) | iOS | 1 | 2.10.221 | 2026-10-24 | 87 | Yes |
+| <img src="../assets/icons/ios/1470373330.png" width="20" height="20" alt="Remini icon"> | [Remini - AI Photo Enhancer](../apps/ios/bending-spoons-operations-spa/remini/README.md) | iOS | 2 | 2.10.222 | 2026-11-04 | 87 | Yes |
 
 ## SDKs by category
 

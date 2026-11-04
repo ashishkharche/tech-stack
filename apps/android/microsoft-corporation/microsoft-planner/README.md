@@ -13,8 +13,8 @@
 | Company | [Microsoft Corporation](../../../../companies/microsoft-corporation.md) |
 | Store id | `com.microsoft.planner` |
 | Bundle / package id | `com.microsoft.planner` |
-| Latest version | 1.18.38 (analysed 2026-06-19) |
-| Versions tracked | 1 |
+| Latest version | 1.18.40 (analysed 2026-11-04) |
+| Versions tracked | 2 |
 | SDKs in latest version | 16 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Jetpack Compose, Material Components, Picasso |
@@ -50,6 +50,7 @@ Camera, Foreground service, NFC, Notifications, Phone / carrier info, Storage (w
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1.18.40 | 2026-11-04 | 2026-09-24 | 16 | +0 / −0 | No | No | [1.18.40.json](1.18.40.json) |
 | 1.18.38 | 2026-06-19 |  | 16 |  | No | No | [1.18.38.json](1.18.38.json) |
 
 ---

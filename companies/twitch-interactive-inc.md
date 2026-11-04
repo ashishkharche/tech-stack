@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/tv.twitch.android.app.png" width="20" height="20" alt="Twitch icon"> | [Twitch: Live Streaming](../apps/android/twitch-interactive-inc/twitch/README.md) | Android | 1 | 13.0.0.2 | 2026-06-19 | 4 | No |
-| <img src="../assets/icons/ios/460177396.png" width="20" height="20" alt="Twitch icon"> | [Twitch: Live Streaming](../apps/ios/twitch-interactive-inc/twitch/README.md) | iOS | 1 | 29.7 | 2026-06-19 | 38 | No |
+| <img src="../assets/icons/android/tv.twitch.android.app.png" width="20" height="20" alt="Twitch icon"> | [Twitch: Live Streaming](../apps/android/twitch-interactive-inc/twitch/README.md) | Android | 1 | 13.0.0.2 | 2026-06-19 | 4 | Yes |
+| <img src="../assets/icons/ios/460177396.png" width="20" height="20" alt="Twitch icon"> | [Twitch: Live Streaming](../apps/ios/twitch-interactive-inc/twitch/README.md) | iOS | 1 | 29.7 | 2026-06-19 | 38 | Yes |
 
 ## SDKs by category
 

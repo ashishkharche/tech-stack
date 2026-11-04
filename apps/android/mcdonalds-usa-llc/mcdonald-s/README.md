@@ -13,9 +13,9 @@
 | Company | [McDonalds USA, LLC](../../../../companies/mcdonalds-usa-llc.md) |
 | Store id | `com.mcdonalds.app` |
 | Bundle / package id | `com.mcdonalds.app` |
-| Latest version | 26.44.2 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 43 |
+| Latest version | 26.72.5 (analysed 2026-11-04) |
+| Versions tracked | 2 |
+| SDKs in latest version | 42 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
 | Build | Gradle (inferred) |
@@ -29,7 +29,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/mcdonalds-usa-llc/mcdonald-s-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/mcdonalds-usa-llc/mcdonald-s-light.svg"></picture>
 
-- **Analytics** (6): Adobe Experience Platform, Facebook SDK, Firebase Analytics, Google Analytics (legacy), Google App Measurement, Kochava
+- **Analytics** (5): Facebook SDK, Firebase Analytics, Google Analytics (legacy), Google App Measurement, Kochava
 - **UI and rendering** (5): Coil, Glide, Jetpack Compose, Lottie, Material Components
 - **Sign-in and auth** (4): Credential Manager, Facebook Login, Firebase Auth, Google Sign-In / Auth
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
@@ -59,7 +59,12 @@ Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 26.72.5 | 2026-11-04 |  | 42 | +0 / −1 | No | No | [26.72.5.json](26.72.5.json) |
 | 26.44.2 | 2026-06-19 |  | 43 |  | No | No | [26.44.2.json](26.44.2.json) |
+
+### SDK changes between versions
+
+- 26.44.2 → 26.72.5: removed Adobe Experience Platform
 
 ---
 

@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**5** apps (2 iOS, 3 Android) · **7** versions · **139** distinct SDKs across their latest versions
+**5** apps (2 iOS, 3 Android) · **8** versions · **139** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/disney/disney/README.md"><img src="../assets/icons/android/com.disney.disneyplus.png" width="56" height="56" alt="Disney+ icon"></a><br><a href="../apps/android/disney/disney/README.md"><sub><b>Disney+</b></sub></a><br><sub>Android · 28 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/disney/disney/README.md"><img src="../assets/icons/ios/1446075923.png" width="56" height="56" alt="Disney+ icon"></a><br><a href="../apps/ios/disney/disney/README.md"><sub><b>Disney+</b></sub></a><br><sub>iOS · 53 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/disney/espn-fantasy-sports/README.md"><img src="../assets/icons/android/com.espn.fantasy.lm.football.png" width="56" height="56" alt="ESPN Fantasy Sports icon"></a><br><a href="../apps/android/disney/espn-fantasy-sports/README.md"><sub><b>ESPN Fantasy Sports</b></sub></a><br><sub>Android · 34 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/disney/espn/README.md"><img src="../assets/icons/ios/317469184.png" width="56" height="56" alt="ESPN icon"></a><br><a href="../apps/ios/disney/espn/README.md"><sub><b>ESPN</b></sub></a><br><sub>iOS · 54 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/disney/hulu/README.md"><img src="../assets/icons/android/com.hulu.plus.png" width="56" height="56" alt="Hulu icon"></a><br><a href="../apps/android/disney/hulu/README.md"><sub><b>Hulu</b></sub></a><br><sub>Android · 33 SDKs</sub></td></tr>
@@ -14,11 +14,11 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.disney.disneyplus.png" width="20" height="20" alt="Disney+ icon"> | [Disney+](../apps/android/disney/disney/README.md) | Android | 1 | 26.9.0+rc2-2026.06.01 | 2026-06-19 | 28 | No |
-| <img src="../assets/icons/ios/1446075923.png" width="20" height="20" alt="Disney+ icon"> | [Disney+](../apps/ios/disney/disney/README.md) | iOS | 2 | 5.20.5 | 2026-11-02 | 53 | No |
-| <img src="../assets/icons/android/com.espn.fantasy.lm.football.png" width="20" height="20" alt="ESPN Fantasy Sports icon"> | [ESPN Fantasy Sports](../apps/android/disney/espn-fantasy-sports/README.md) | Android | 2 | 9.12.0 | 2026-11-01 | 34 | No |
-| <img src="../assets/icons/ios/317469184.png" width="20" height="20" alt="ESPN icon"> | [ESPN: Live Sports & Scores](../apps/ios/disney/espn/README.md) | iOS | 1 | 8.19.0 | 2026-06-23 | 54 | No |
-| <img src="../assets/icons/android/com.hulu.plus.png" width="20" height="20" alt="Hulu icon"> | [Hulu: Stream TV shows & movies](../apps/android/disney/hulu/README.md) | Android | 1 | 6.29.0+16756762-google | 2026-06-19 | 33 | No |
+| <img src="../assets/icons/android/com.disney.disneyplus.png" width="20" height="20" alt="Disney+ icon"> | [Disney+](../apps/android/disney/disney/README.md) | Android | 1 | 26.9.0+rc2-2026.06.01 | 2026-06-19 | 28 | Yes |
+| <img src="../assets/icons/ios/1446075923.png" width="20" height="20" alt="Disney+ icon"> | [Disney+](../apps/ios/disney/disney/README.md) | iOS | 2 | 5.20.5 | 2026-11-02 | 53 | Yes |
+| <img src="../assets/icons/android/com.espn.fantasy.lm.football.png" width="20" height="20" alt="ESPN Fantasy Sports icon"> | [ESPN Fantasy Sports](../apps/android/disney/espn-fantasy-sports/README.md) | Android | 2 | 9.12.0 | 2026-11-01 | 34 | Yes |
+| <img src="../assets/icons/ios/317469184.png" width="20" height="20" alt="ESPN icon"> | [ESPN: Live Sports & Scores](../apps/ios/disney/espn/README.md) | iOS | 1 | 8.19.0 | 2026-06-23 | 54 | Yes |
+| <img src="../assets/icons/android/com.hulu.plus.png" width="20" height="20" alt="Hulu icon"> | [Hulu: Stream TV shows & movies](../apps/android/disney/hulu/README.md) | Android | 2 | 6.34.0+18552420-google | 2026-11-02 | 33 | Yes |
 
 ## SDKs by category
 

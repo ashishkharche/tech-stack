@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "384830320",
     "bundle_id": "com.life360.safetymap",
-    "active": false,
+    "active": true,
     "company": {
       "name": "Life360",
       "slug": "life360",
@@ -19,9 +19,9 @@
   "public_store_build": true,
   "dates": {
     "captured_at": "2026-11-02T02:19:55Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-02T02:53:24Z"
+    "store_first_seen_at": "2026-11-03T00:00:12Z",
+    "store_updated_at": "2026-10-27T22:14:36Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",

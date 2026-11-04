@@ -13,8 +13,8 @@
 | Company | [TikTok Ltd.](../../../../companies/tiktok-ltd.md) |
 | Store id | `1498607143` |
 | Bundle / package id | `com.bd.nproject` |
-| Latest version | 15.0.0 (analysed 2026-10-24) |
-| Versions tracked | 1 |
+| Latest version | 15.1.0 (analysed 2026-11-03) |
+| Versions tracked | 2 |
 | SDKs in latest version | 57 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
@@ -56,6 +56,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Commun
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 15.1.0 | 2026-11-03 | 2026-10-30 | 57 | +0 / −0 | Yes | Yes | [15.1.0.json](15.1.0.json) |
 | 15.0.0 | 2026-10-24 | 2026-10-23 | 57 |  | Yes | Yes | [15.0.0.json](15.0.0.json) |
 
 ---

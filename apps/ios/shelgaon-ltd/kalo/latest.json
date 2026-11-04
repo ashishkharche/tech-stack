@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Kalo: AI Calorie Counter",
+    "slug": "kalo",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6752915724",
+    "bundle_id": "ai.kalories",
+    "active": true,
+    "company": {
+      "name": "Shelgaon Ltd",
+      "slug": "shelgaon-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.6.9",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:29:03Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-04T16:56:41Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 24,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "App Intents",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "Combine (reactive)",
+      "CryptoKit",
+      "HealthKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftData (persistence)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "FirebaseAnalytics",
+        "version": "10.28.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurement",
+        "version": "10.28.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurementIdentitySupport",
+        "version": "10.28.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "RevenueCat",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "abseil",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseFirestore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "leveldb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Atlantis",
+        "version": null,
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "absl",
+        "version": "1.20240116.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "abslWrapper",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrunoDS",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "opensslWrapper",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.2",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.3",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 1
+    },
+    "capabilities": [
+      "Background App Refresh",
+      "Background Push",
+      "CloudKit",
+      "HealthKit",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CrashData",
+        "OtherDiagnosticData",
+        "PurchaseHistory"
+      ],
+      "required_reason_apis": [
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:02:36Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "platform",
+          "title": "App Intents and Siri shortcuts",
+          "detail": "Declares 5 App Intents for actions including Log a Meal, Log Water, and Check Calories Today, plus multiple Siri shortcut phrases. Enables direct iOS Shortcuts and Siri integration for hands-free nutrition logging."
+        },
+        {
+          "theme": "monetization",
+          "title": "RevenueCat for IAP",
+          "detail": "Bundles RevenueCat SDK with StoreKit. Points to subscription or in-app purchase model for premium AI tracking features."
+        },
+        {
+          "theme": "ui",
+          "title": "SwiftUI with widgets and live activities",
+          "detail": "Primary UI uses SwiftUI plus UIKit, SwiftData persistence, WidgetKit, ActivityKit Live Activities, and Swift Charts. Targets modern iOS 18.2+ surface area."
+        },
+        {
+          "theme": "privacy",
+          "title": "HealthKit with speech and camera",
+          "detail": "Reads and writes HealthKit calorie data; declares camera, microphone, speech recognition, and photo library permissions for meal logging. Collects CrashData and OtherDiagnosticData while declaring no tracking."
+        },
+        {
+          "theme": "analytics",
+          "title": "Firebase analytics stack",
+          "detail": "Includes FirebaseAnalytics, GoogleAppMeasurement, and GoogleUtilities despite declares_tracking false. Recovered as part of 24 third-party SDKs."
+        }
+      ]
+    }
+  ]
+}

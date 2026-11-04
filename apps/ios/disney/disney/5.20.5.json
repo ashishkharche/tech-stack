@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1446075923",
     "bundle_id": "com.disney.disneyplus",
-    "active": false,
+    "active": true,
     "company": {
       "name": "Disney",
       "slug": "disney",
@@ -19,9 +19,9 @@
   "public_store_build": true,
   "dates": {
     "captured_at": "2026-11-02T08:53:53Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-02T10:56:13Z"
+    "store_first_seen_at": "2026-11-03T00:00:12Z",
+    "store_updated_at": "2026-11-01T09:04:06Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",

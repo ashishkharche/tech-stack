@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.chickfila.cfaflagship.png" width="20" height="20" alt="Chick-fil-A® icon"> | [Chick-fil-A®](../apps/android/chick-fil-a-inc/chick-fil-a/README.md) | Android | 1 | 2026.11.1 | 2026-06-23 | 30 | No |
+| <img src="../assets/icons/android/com.chickfila.cfaflagship.png" width="20" height="20" alt="Chick-fil-A® icon"> | [Chick-fil-A®](../apps/android/chick-fil-a-inc/chick-fil-a/README.md) | Android | 1 | 2026.11.1 | 2026-06-23 | 30 | Yes |
 
 ## SDKs by category
 

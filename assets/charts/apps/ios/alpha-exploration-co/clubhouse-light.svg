@@ -1,27 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 210" width="680" height="210" role="img" aria-label="Clubhouse SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 276" width="680" height="276" role="img" aria-label="Clubhouse SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
 <title>Clubhouse SDKs by category</title>
-<rect x="0.5" y="0.5" width="679" height="209" rx="12" fill="#FAF8F3" stroke="#D9E1DD"/>
+<rect x="0.5" y="0.5" width="679" height="275" rx="12" fill="#FAF8F3" stroke="#D9E1DD"/>
 <g transform="translate(20 20)">
-<text x="150.63999999999996" y="20" font-size="13" text-anchor="end" fill="#090A0B">Other</text>
-<rect x="162.6" y="10" width="407.4" height="14" rx="3" fill="#0088FF"/>
-<text x="578.0" y="20" font-size="13" fill="#4D5755">10</text>
-<text x="150.63999999999996" y="42" font-size="13" text-anchor="end" fill="#090A0B">UI and rendering</text>
-<rect x="162.6" y="32" width="122.2" height="14" rx="3" fill="#0088FF"/>
-<text x="292.8" y="42" font-size="13" fill="#4D5755">3</text>
-<text x="150.63999999999996" y="64" font-size="13" text-anchor="end" fill="#090A0B">Payments</text>
-<rect x="162.6" y="54" width="81.5" height="14" rx="3" fill="#0088FF"/>
-<text x="252.1" y="64" font-size="13" fill="#4D5755">2</text>
-<text x="150.63999999999996" y="86" font-size="13" text-anchor="end" fill="#090A0B">Analytics</text>
-<rect x="162.6" y="76" width="40.7" height="14" rx="3" fill="#0088FF"/>
-<text x="211.4" y="86" font-size="13" fill="#4D5755">1</text>
-<text x="150.63999999999996" y="108" font-size="13" text-anchor="end" fill="#090A0B">Crash and performance</text>
-<rect x="162.6" y="98" width="40.7" height="14" rx="3" fill="#0088FF"/>
-<text x="211.4" y="108" font-size="13" fill="#4D5755">1</text>
-<text x="150.63999999999996" y="130" font-size="13" text-anchor="end" fill="#090A0B">Storage</text>
-<rect x="162.6" y="120" width="40.7" height="14" rx="3" fill="#0088FF"/>
-<text x="211.4" y="130" font-size="13" fill="#4D5755">1</text>
-<text x="150.63999999999996" y="152" font-size="13" text-anchor="end" fill="#090A0B">Voice</text>
-<rect x="162.6" y="142" width="40.7" height="14" rx="3" fill="#0088FF"/>
-<text x="211.4" y="152" font-size="13" fill="#4D5755">1</text>
+<text x="158.17999999999995" y="20" font-size="13" text-anchor="end" fill="#090A0B">Other</text>
+<rect x="170.2" y="10" width="399.8" height="14" rx="3" fill="#0088FF"/>
+<text x="578.0" y="20" font-size="13" fill="#4D5755">11</text>
+<text x="158.17999999999995" y="42" font-size="13" text-anchor="end" fill="#090A0B">Analytics</text>
+<rect x="170.2" y="32" width="290.8" height="14" rx="3" fill="#0088FF"/>
+<text x="469.0" y="42" font-size="13" fill="#4D5755">8</text>
+<text x="158.17999999999995" y="64" font-size="13" text-anchor="end" fill="#090A0B">UI and rendering</text>
+<rect x="170.2" y="54" width="109.0" height="14" rx="3" fill="#0088FF"/>
+<text x="287.2" y="64" font-size="13" fill="#4D5755">3</text>
+<text x="158.17999999999995" y="86" font-size="13" text-anchor="end" fill="#090A0B">Social</text>
+<rect x="170.2" y="76" width="109.0" height="14" rx="3" fill="#0088FF"/>
+<text x="287.2" y="86" font-size="13" fill="#4D5755">3</text>
+<text x="158.17999999999995" y="108" font-size="13" text-anchor="end" fill="#090A0B">Payments</text>
+<rect x="170.2" y="98" width="72.7" height="14" rx="3" fill="#0088FF"/>
+<text x="250.9" y="108" font-size="13" fill="#4D5755">2</text>
+<text x="158.17999999999995" y="130" font-size="13" text-anchor="end" fill="#090A0B">Anti-fraud and integrity</text>
+<rect x="170.2" y="120" width="36.3" height="14" rx="3" fill="#0088FF"/>
+<text x="214.5" y="130" font-size="13" fill="#4D5755">1</text>
+<text x="158.17999999999995" y="152" font-size="13" text-anchor="end" fill="#090A0B">Sign-in and auth</text>
+<rect x="170.2" y="142" width="36.3" height="14" rx="3" fill="#0088FF"/>
+<text x="214.5" y="152" font-size="13" fill="#4D5755">1</text>
+<text x="158.17999999999995" y="174" font-size="13" text-anchor="end" fill="#090A0B">Crash and performance</text>
+<rect x="170.2" y="164" width="36.3" height="14" rx="3" fill="#0088FF"/>
+<text x="214.5" y="174" font-size="13" fill="#4D5755">1</text>
+<text x="158.17999999999995" y="196" font-size="13" text-anchor="end" fill="#090A0B">Telephony</text>
+<rect x="170.2" y="186" width="36.3" height="14" rx="3" fill="#0088FF"/>
+<text x="214.5" y="196" font-size="13" fill="#4D5755">1</text>
+<text x="158.17999999999995" y="218" font-size="13" text-anchor="end" fill="#090A0B">Voice</text>
+<rect x="170.2" y="208" width="36.3" height="14" rx="3" fill="#0088FF"/>
+<text x="214.5" y="218" font-size="13" fill="#4D5755">1</text>
 </g>
 </svg>

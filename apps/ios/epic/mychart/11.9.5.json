@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "MyChart",
+    "slug": "mychart",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "382952264",
+    "bundle_id": "com.epic.mychart",
+    "active": true,
+    "company": {
+      "name": "Epic",
+      "slug": "epic",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "11.9.5",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-02T22:46:05Z",
+    "store_first_seen_at": "2026-11-03T00:00:12Z",
+    "store_updated_at": "2026-10-26T13:52:25Z",
+    "exported_at": "2026-11-04T16:56:41Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 0,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Core Bluetooth",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "EventKit (Calendar / Reminders)",
+      "HealthKit",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "SafariServices",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 20
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background Audio",
+      "Background Processing",
+      "Bluetooth (central)",
+      "HealthKit",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AudioData",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Fitness",
+        "Health",
+        "Name",
+        "OtherDiagnosticData",
+        "OtherFinancialInfo",
+        "PaymentInfo",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "PhysicalAddress",
+        "PreciseLocation",
+        "ProductInteraction",
+        "SensitiveInfo",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

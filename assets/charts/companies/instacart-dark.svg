@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 496" width="680" height="496" role="img" aria-label="Instacart SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 474" width="680" height="474" role="img" aria-label="Instacart SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
 <title>Instacart SDKs by category</title>
-<rect x="0.5" y="0.5" width="679" height="495" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<rect x="0.5" y="0.5" width="679" height="473" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
 <g transform="translate(20 20)">
 <text x="158.17999999999995" y="20" font-size="13" text-anchor="end" fill="#F1F6F3">Analytics</text>
 <rect x="170.2" y="10" width="399.8" height="14" rx="3" fill="#F1F6F3"/>
@@ -44,23 +44,20 @@
 <text x="158.17999999999995" y="306" font-size="13" text-anchor="end" fill="#F1F6F3">Ads</text>
 <rect x="170.2" y="296" width="80.0" height="14" rx="3" fill="#F1F6F3"/>
 <text x="258.1" y="306" font-size="13" fill="#A9B2BC">1</text>
-<text x="158.17999999999995" y="328" font-size="13" text-anchor="end" fill="#F1F6F3">AWS</text>
+<text x="158.17999999999995" y="328" font-size="13" text-anchor="end" fill="#F1F6F3">Logging and diagnostics</text>
 <rect x="170.2" y="318" width="80.0" height="14" rx="3" fill="#F1F6F3"/>
 <text x="258.1" y="328" font-size="13" fill="#A9B2BC">1</text>
-<text x="158.17999999999995" y="350" font-size="13" text-anchor="end" fill="#F1F6F3">Logging and diagnostics</text>
+<text x="158.17999999999995" y="350" font-size="13" text-anchor="end" fill="#F1F6F3">GraphQL</text>
 <rect x="170.2" y="340" width="80.0" height="14" rx="3" fill="#F1F6F3"/>
 <text x="258.1" y="350" font-size="13" fill="#A9B2BC">1</text>
-<text x="158.17999999999995" y="372" font-size="13" text-anchor="end" fill="#F1F6F3">GraphQL</text>
+<text x="158.17999999999995" y="372" font-size="13" text-anchor="end" fill="#F1F6F3">Media</text>
 <rect x="170.2" y="362" width="80.0" height="14" rx="3" fill="#F1F6F3"/>
 <text x="258.1" y="372" font-size="13" fill="#A9B2BC">1</text>
-<text x="158.17999999999995" y="394" font-size="13" text-anchor="end" fill="#F1F6F3">Media</text>
+<text x="158.17999999999995" y="394" font-size="13" text-anchor="end" fill="#F1F6F3">Social</text>
 <rect x="170.2" y="384" width="80.0" height="14" rx="3" fill="#F1F6F3"/>
 <text x="258.1" y="394" font-size="13" fill="#A9B2BC">1</text>
-<text x="158.17999999999995" y="416" font-size="13" text-anchor="end" fill="#F1F6F3">Social</text>
+<text x="158.17999999999995" y="416" font-size="13" text-anchor="end" fill="#F1F6F3">Telephony</text>
 <rect x="170.2" y="406" width="80.0" height="14" rx="3" fill="#F1F6F3"/>
 <text x="258.1" y="416" font-size="13" fill="#A9B2BC">1</text>
-<text x="158.17999999999995" y="438" font-size="13" text-anchor="end" fill="#F1F6F3">Telephony</text>
-<rect x="170.2" y="428" width="80.0" height="14" rx="3" fill="#F1F6F3"/>
-<text x="258.1" y="438" font-size="13" fill="#A9B2BC">1</text>
 </g>
 </svg>

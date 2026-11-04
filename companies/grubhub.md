@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.grubhub.android.png" width="20" height="20" alt="Grubhub icon"> | [Grubhub: Food Delivery](../apps/android/grubhub/grubhub/README.md) | Android | 2 | 2026.43.1 | 2026-11-02 | 44 | No |
+| <img src="../assets/icons/android/com.grubhub.android.png" width="20" height="20" alt="Grubhub icon"> | [Grubhub: Food Delivery](../apps/android/grubhub/grubhub/README.md) | Android | 2 | 2026.43.1 | 2026-11-02 | 44 | Yes |
 
 ## SDKs by category
 

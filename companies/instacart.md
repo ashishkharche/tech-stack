@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **48** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **47** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/instacart/instacart/README.md"><img src="../assets/icons/android/com.instacart.client.png" width="56" height="56" alt="Instacart icon"></a><br><a href="../apps/android/instacart/instacart/README.md"><sub><b>Instacart</b></sub></a><br><sub>Android · 48 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/instacart/instacart/README.md"><img src="../assets/icons/android/com.instacart.client.png" width="56" height="56" alt="Instacart icon"></a><br><a href="../apps/android/instacart/instacart/README.md"><sub><b>Instacart</b></sub></a><br><sub>Android · 47 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.instacart.client.png" width="20" height="20" alt="Instacart icon"> | [Instacart: Get Food Delivery](../apps/android/instacart/instacart/README.md) | Android | 1 | 9.19.1 | 2026-06-19 | 48 | No |
+| <img src="../assets/icons/android/com.instacart.client.png" width="20" height="20" alt="Instacart icon"> | [Instacart: Get Food Delivery](../apps/android/instacart/instacart/README.md) | Android | 2 | 9.39.2 | 2026-11-03 | 47 | No |
 
 ## SDKs by category
 

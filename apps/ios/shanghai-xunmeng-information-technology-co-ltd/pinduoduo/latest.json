@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "8.29.0",
+  "version": "8.30.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-01T19:54:15Z",
-    "store_first_seen_at": "2026-10-26T12:20:57Z",
-    "store_updated_at": "2026-10-26T02:18:06Z",
-    "exported_at": "2026-11-01T20:33:33Z"
+    "captured_at": "2026-11-02T16:43:16Z",
+    "store_first_seen_at": "2026-11-02T19:07:49Z",
+    "store_updated_at": "2026-11-02T13:15:44Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -88,25 +88,25 @@
     "sdks": [
       {
         "name": "DuoduoWallet",
-        "version": "2.18.151",
+        "version": "2.18.153",
         "category": "payments",
         "confidence": "observed"
       },
       {
         "name": "PDDPaymentKit",
-        "version": "8.29.5",
+        "version": "8.30.2",
         "category": "payments",
         "confidence": "observed"
       },
       {
         "name": "PDDWalletPay",
-        "version": "8.27.4",
+        "version": "8.30.1",
         "category": "payments",
         "confidence": "observed"
       },
       {
         "name": "PDDWalletScene",
-        "version": "8.6.2",
+        "version": "8.30.2",
         "category": "payments",
         "confidence": "observed"
       },
@@ -118,7 +118,7 @@
       },
       {
         "name": "AlmightyContainer",
-        "version": "8.7.1",
+        "version": "8.30.1",
         "category": "other",
         "confidence": "observed"
       },
@@ -160,7 +160,7 @@
       },
       {
         "name": "PDDAddressScene",
-        "version": "8.6.2",
+        "version": "8.30.1",
         "category": "other",
         "confidence": "observed"
       },
@@ -184,7 +184,7 @@
       },
       {
         "name": "PDDAVGallery",
-        "version": "8.29.2",
+        "version": "8.30.1",
         "category": "other",
         "confidence": "observed"
       },
@@ -196,43 +196,43 @@
       },
       {
         "name": "PDDBasePhotoBrowser",
-        "version": "8.29.3",
+        "version": "8.30.2",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDBizUIKit",
-        "version": "8.29.8",
+        "version": "8.30.6",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDBootScene",
-        "version": "8.29.3",
+        "version": "8.30.3",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDChatScene",
-        "version": "8.29.7",
+        "version": "8.30.4",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDComment",
-        "version": "8.28.8",
+        "version": "8.28.12",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDCommentListScene",
-        "version": "8.29.6",
+        "version": "8.30.6",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDCommentScene",
-        "version": "8.29.8",
+        "version": "8.30.4",
         "category": "other",
         "confidence": "observed"
       },
@@ -274,31 +274,31 @@
       },
       {
         "name": "PDDGoodsDetail",
-        "version": "8.29.8",
+        "version": "8.30.9",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDGoodsDetailScene",
-        "version": "8.29.9",
+        "version": "8.30.9",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDGoodsListing",
-        "version": "8.29.2",
+        "version": "8.30.6",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDGoodsSku",
-        "version": "9.1.1596",
+        "version": "9.1.1605",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDHomeScene",
-        "version": "8.29.3",
+        "version": "8.30.6",
         "category": "other",
         "confidence": "observed"
       },
@@ -310,7 +310,7 @@
       },
       {
         "name": "PDDLego",
-        "version": "8.29.1",
+        "version": "8.30.1",
         "category": "other",
         "confidence": "observed"
       },
@@ -346,13 +346,13 @@
       },
       {
         "name": "PDDMall",
-        "version": "8.29.8",
+        "version": "8.30.1",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDMallScene",
-        "version": "8.29.10",
+        "version": "8.30.4",
         "category": "other",
         "confidence": "observed"
       },
@@ -370,7 +370,7 @@
       },
       {
         "name": "PDDMomentsScene",
-        "version": "8.29.4",
+        "version": "8.30.4",
         "category": "other",
         "confidence": "observed"
       },
@@ -388,25 +388,25 @@
       },
       {
         "name": "PDDOrder",
-        "version": "8.29.6",
+        "version": "8.30.4",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDOrderListScene",
-        "version": "8.29.3",
+        "version": "8.30.8",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDPayBizUIKit",
-        "version": "8.29.3",
+        "version": "8.30.2",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDPersonalScene",
-        "version": "8.29.3",
+        "version": "8.30.2",
         "category": "other",
         "confidence": "observed"
       },
@@ -418,31 +418,31 @@
       },
       {
         "name": "PDDSearch",
-        "version": "8.29.2",
+        "version": "8.30.3",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDSearchKit",
-        "version": "8.29.3",
+        "version": "8.30.5",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDSearchScene",
-        "version": "8.29.3",
+        "version": "8.30.4",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDShareImageTemplates",
-        "version": "1.61.66",
+        "version": "1.61.67",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDShareSharePages",
-        "version": "1.61.66",
+        "version": "1.61.67",
         "category": "other",
         "confidence": "observed"
       },
@@ -460,19 +460,19 @@
       },
       {
         "name": "PDDSocial",
-        "version": "8.29.2",
+        "version": "8.30.3",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDUser",
-        "version": "7.91.44",
+        "version": "7.91.46",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PDDVideoPageScene",
-        "version": "8.29.2",
+        "version": "8.30.1",
         "category": "other",
         "confidence": "observed"
       },
@@ -484,13 +484,13 @@
       },
       {
         "name": "PDDWeb",
-        "version": "5.78.518",
+        "version": "5.78.520",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "PTZImagePicker",
-        "version": "8.28.1",
+        "version": "8.30.2",
         "category": "other",
         "confidence": "observed"
       },

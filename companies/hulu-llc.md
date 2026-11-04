@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/376510438.png" width="20" height="20" alt="Hulu icon"> | [Hulu: Stream TV shows & movies](../apps/ios/hulu-llc/hulu/README.md) | iOS | 1 | 9.34.0 | 2026-06-19 | 28 | No |
+| <img src="../assets/icons/ios/376510438.png" width="20" height="20" alt="Hulu icon"> | [Hulu: Stream TV shows & movies](../apps/ios/hulu-llc/hulu/README.md) | iOS | 1 | 9.34.0 | 2026-06-19 | 28 | Yes |
 
 ## SDKs by category
 

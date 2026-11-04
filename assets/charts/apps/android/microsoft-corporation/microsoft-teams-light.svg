@@ -5,16 +5,16 @@
 <text x="158.17999999999995" y="20" font-size="13" text-anchor="end" fill="#090A0B">UI and rendering</text>
 <rect x="170.2" y="10" width="399.8" height="14" rx="3" fill="#1EA45A"/>
 <text x="578.0" y="20" font-size="13" fill="#4D5755">10</text>
-<text x="158.17999999999995" y="42" font-size="13" text-anchor="end" fill="#090A0B">Storage</text>
-<rect x="170.2" y="32" width="159.9" height="14" rx="3" fill="#1EA45A"/>
-<text x="338.1" y="42" font-size="13" fill="#4D5755">4</text>
-<text x="158.17999999999995" y="64" font-size="13" text-anchor="end" fill="#090A0B">Firebase</text>
+<text x="158.17999999999995" y="42" font-size="13" text-anchor="end" fill="#090A0B">Firebase</text>
+<rect x="170.2" y="32" width="119.9" height="14" rx="3" fill="#1EA45A"/>
+<text x="298.1" y="42" font-size="13" fill="#4D5755">3</text>
+<text x="158.17999999999995" y="64" font-size="13" text-anchor="end" fill="#090A0B">Networking</text>
 <rect x="170.2" y="54" width="119.9" height="14" rx="3" fill="#1EA45A"/>
 <text x="298.1" y="64" font-size="13" fill="#4D5755">3</text>
-<text x="158.17999999999995" y="86" font-size="13" text-anchor="end" fill="#090A0B">Networking</text>
+<text x="158.17999999999995" y="86" font-size="13" text-anchor="end" fill="#090A0B">Reactive and async</text>
 <rect x="170.2" y="76" width="119.9" height="14" rx="3" fill="#1EA45A"/>
 <text x="298.1" y="86" font-size="13" fill="#4D5755">3</text>
-<text x="158.17999999999995" y="108" font-size="13" text-anchor="end" fill="#090A0B">Reactive and async</text>
+<text x="158.17999999999995" y="108" font-size="13" text-anchor="end" fill="#090A0B">Storage</text>
 <rect x="170.2" y="98" width="119.9" height="14" rx="3" fill="#1EA45A"/>
 <text x="298.1" y="108" font-size="13" fill="#4D5755">3</text>
 <text x="158.17999999999995" y="130" font-size="13" text-anchor="end" fill="#090A0B">Sign-in and auth</text>

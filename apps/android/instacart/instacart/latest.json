@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "9.19.1",
+  "version": "9.39.2",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-19T04:32:16Z",
+    "captured_at": "2026-11-03T13:05:12Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 48,
+    "sdk_count": 47,
     "languages": [
       "C/C++ (native)",
       "Java",
@@ -145,6 +145,12 @@
         "confidence": "observed"
       },
       {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
         "name": "Ktor",
         "version": null,
         "category": "networking",
@@ -158,12 +164,6 @@
       },
       {
         "name": "Retrofit",
-        "version": null,
-        "category": "networking",
-        "confidence": "observed"
-      },
-      {
-        "name": "Volley",
         "version": null,
         "category": "networking",
         "confidence": "observed"
@@ -256,12 +256,6 @@
         "name": "SQLDelight",
         "version": null,
         "category": "storage",
-        "confidence": "observed"
-      },
-      {
-        "name": "AWS SDK",
-        "version": null,
-        "category": "aws",
         "confidence": "observed"
       },
       {
@@ -365,13 +359,16 @@
       "Fingerprint auth",
       "Foreground service",
       "Foreground service: location",
+      "Microphone",
       "Notifications",
+      "Phone / carrier info",
       "Precise location",
-      "Storage (read)"
+      "Storage (read)",
+      "Storage (write)"
     ],
     "privacy": {
       "declares_tracking": true,
-      "tracking_domain_count": 11,
+      "tracking_domain_count": 12,
       "collected_data_types": [],
       "required_reason_apis": [],
       "android_permissions": [
@@ -382,19 +379,22 @@
         "android.permission.ACCESS_COARSE_LOCATION",
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.ACCESS_NETWORK_STATE",
-        "android.permission.ACCESS_WIFI_STATE",
         "android.permission.CAMERA",
         "android.permission.FLASHLIGHT",
         "android.permission.FOREGROUND_SERVICE",
         "android.permission.FOREGROUND_SERVICE_LOCATION",
         "android.permission.INTERNET",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
         "android.permission.POST_NOTIFICATIONS",
         "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_PHONE_STATE",
         "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
         "android.permission.USE_BIOMETRIC",
         "android.permission.USE_FINGERPRINT",
         "android.permission.VIBRATE",
         "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
         "com.google.android.c2dm.permission.RECEIVE",
         "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         "com.google.android.gms.permission.AD_ID",
@@ -403,25 +403,5 @@
       ]
     }
   },
-  "inferred": [
-    {
-      "kind": "analysis",
-      "method": "model_written_summary_of_detected_signals",
-      "note": "Written by a language model from the analysis; treat as unverified.",
-      "generated_at": "2026-06-11T23:49:33Z",
-      "headline": null,
-      "insights": [
-        {
-          "theme": "ui",
-          "title": "Jetpack Compose primary UI",
-          "detail": "Renders with Jetpack Compose and Material Components, using Glide/Coil for images and Lottie for animations."
-        },
-        {
-          "theme": "notable",
-          "title": "Braintree and Stripe integration",
-          "detail": "Ships Braintree and Stripe SDKs with registered schemes for braintree-payments, venmo-return, and stripe."
-        }
-      ]
-    }
-  ]
+  "inferred": []
 }

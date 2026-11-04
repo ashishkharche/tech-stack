@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "295.0.0",
+  "version": "297.0.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-10-23T16:16:07Z",
-    "store_first_seen_at": "2026-10-20T00:09:16Z",
-    "store_updated_at": "2026-10-19T15:54:51Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "captured_at": "2026-11-04T12:23:56Z",
+    "store_first_seen_at": "2026-10-31T00:18:03Z",
+    "store_updated_at": "2026-10-30T18:41:33Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -137,11 +137,11 @@
       }
     ],
     "platform": {
-      "min_os": "17.2",
+      "min_os": "18.4",
       "min_sdk": null,
       "target_sdk": null,
-      "build_sdk": "iphoneos27.0",
-      "xcode": "27.0",
+      "build_sdk": "iphoneos27.1",
+      "xcode": "27.1",
       "device_families": [
         "iPhone",
         "iPad"
@@ -150,7 +150,9 @@
       "localization_count": 43
     },
     "capabilities": [
+      "App Attest",
       "App Groups",
+      "Apple Pay",
       "Associated Domains (Universal Links)",
       "Background App Refresh",
       "Background Audio",

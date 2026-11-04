@@ -13,9 +13,9 @@
 <rect x="162.6" y="62" width="587.4" height="18" rx="3" fill="#1EA45A"/>
 <text x="758.0" y="76" font-size="13" fill="#4D5755">21</text>
 <text x="150.64000000000001" y="104" font-size="13" text-anchor="end" fill="#090A0B">Microsoft Corporation</text>
-<rect x="162.6" y="90" width="195.8" height="18" rx="3" fill="#0088FF"/>
-<rect x="360.4" y="90" width="333.6" height="18" rx="3" fill="#1EA45A"/>
-<text x="702.1" y="104" font-size="13" fill="#4D5755">19</text>
+<rect x="162.6" y="90" width="223.8" height="18" rx="3" fill="#0088FF"/>
+<rect x="388.4" y="90" width="333.6" height="18" rx="3" fill="#1EA45A"/>
+<text x="730.0" y="104" font-size="13" fill="#4D5755">20</text>
 <text x="150.64000000000001" y="132" font-size="13" text-anchor="end" fill="#090A0B">Meta Platforms, Inc.</text>
 <rect x="162.6" y="118" width="83.9" height="18" rx="3" fill="#0088FF"/>
 <rect x="248.5" y="118" width="81.9" height="18" rx="3" fill="#1EA45A"/>
@@ -42,12 +42,11 @@
 <rect x="162.6" y="286" width="55.9" height="18" rx="3" fill="#0088FF"/>
 <rect x="220.6" y="286" width="26.0" height="18" rx="3" fill="#1EA45A"/>
 <text x="254.5" y="300" font-size="13" fill="#4D5755">3</text>
-<text x="150.64000000000001" y="328" font-size="13" text-anchor="end" fill="#090A0B">Alibaba Mobile</text>
-<rect x="162.6" y="314" width="55.9" height="18" rx="3" fill="#1EA45A"/>
-<text x="226.6" y="328" font-size="13" fill="#4D5755">2</text>
-<text x="150.64000000000001" y="356" font-size="13" text-anchor="end" fill="#090A0B">Alpha Exploration Co.</text>
-<rect x="162.6" y="342" width="28.0" height="18" rx="3" fill="#0088FF"/>
-<rect x="192.6" y="342" width="26.0" height="18" rx="3" fill="#1EA45A"/>
+<text x="150.64000000000001" y="328" font-size="13" text-anchor="end" fill="#090A0B">TikTok Pte. Ltd.</text>
+<rect x="162.6" y="314" width="83.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="254.5" y="328" font-size="13" fill="#4D5755">3</text>
+<text x="150.64000000000001" y="356" font-size="13" text-anchor="end" fill="#090A0B">Alibaba Mobile</text>
+<rect x="162.6" y="342" width="55.9" height="18" rx="3" fill="#1EA45A"/>
 <text x="226.6" y="356" font-size="13" fill="#4D5755">2</text>
 </g>
 </svg>

@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/392796698.png" width="20" height="20" alt="GroupMe icon"> | [GroupMe](../apps/ios/skype-communications-s-a-r-l/groupme/README.md) | iOS | 1 | 15.76.3 | 2026-06-19 | 76 | No |
+| <img src="../assets/icons/ios/392796698.png" width="20" height="20" alt="GroupMe icon"> | [GroupMe](../apps/ios/skype-communications-s-a-r-l/groupme/README.md) | iOS | 1 | 15.76.3 | 2026-06-19 | 76 | Yes |
 
 ## SDKs by category
 

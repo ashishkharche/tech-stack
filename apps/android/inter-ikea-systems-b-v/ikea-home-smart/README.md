@@ -4,7 +4,7 @@
 
 # IKEA Home smart
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.ikea.inter.homesmart.system2) · [latest.json](latest.json)
 
@@ -13,17 +13,17 @@
 | Company | [Inter IKEA Systems B.V](../../../../companies/inter-ikea-systems-b-v.md) |
 | Store id | `com.ikea.inter.homesmart.system2` |
 | Bundle / package id | `com.ikea.inter.homesmart.system2` |
-| Latest version | 1.67.0 (analysed 2026-06-19) |
-| Versions tracked | 1 |
+| Latest version | 1.73.0 (analysed 2026-11-02) |
+| Versions tracked | 2 |
 | SDKs in latest version | 18 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Glide, Jetpack Compose, Material Components |
 | Build | Gradle (inferred) |
-| Minimum OS | API 29, targets API 36 |
+| Minimum OS | API 29, targets API 37 |
 | Devices / ABIs | Android |
 | Capabilities | 10 |
 | Declares tracking | Yes |
-| Tracked | No. Kept for history. |
+| Tracked | Yes |
 
 ## SDKs by category
 
@@ -51,13 +51,8 @@ Approximate location, Biometric auth, Bluetooth, Bluetooth (connect), Bluetooth 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1.73.0 | 2026-11-02 | 2026-10-15 | 18 | +0 / −0 | No | No | [1.73.0.json](1.73.0.json) |
 | 1.67.0 | 2026-06-19 |  | 18 |  | No | No | [1.67.0.json](1.67.0.json) |
-
-## Model-written summary
-
-> Android Kotlin app for IKEA smart home with Jetpack Compose, native libCHIPController for Matter, ML Kit barcode models, Firebase, and first-party cloud backends
-
-<sub>Written by a language model from the detected signals (`inferred[]`). It is commentary, not measurement.</sub>
 
 ---
 

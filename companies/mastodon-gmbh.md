@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **1** versions · **12** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **2** versions · **14** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/mastodon-gmbh/mastodon/README.md"><img src="../assets/icons/ios/1571998974.png" width="56" height="56" alt="Mastodon icon"></a><br><a href="../apps/ios/mastodon-gmbh/mastodon/README.md"><sub><b>Mastodon</b></sub></a><br><sub>iOS · 12 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/mastodon-gmbh/mastodon/README.md"><img src="../assets/icons/ios/1571998974.png" width="56" height="56" alt="Mastodon icon"></a><br><a href="../apps/ios/mastodon-gmbh/mastodon/README.md"><sub><b>Mastodon</b></sub></a><br><sub>iOS · 14 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1571998974.png" width="20" height="20" alt="Mastodon icon"> | [Mastodon](../apps/ios/mastodon-gmbh/mastodon/README.md) | iOS | 1 | 2026.03 | 2026-06-19 | 12 | No |
+| <img src="../assets/icons/ios/1571998974.png" width="20" height="20" alt="Mastodon icon"> | [Mastodon](../apps/ios/mastodon-gmbh/mastodon/README.md) | iOS | 2 | 2026.07 | 2026-11-04 | 14 | Yes |
 
 ## SDKs by category
 

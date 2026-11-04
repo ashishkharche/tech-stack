@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.sling.airtvmini.png" width="20" height="20" alt="SLING icon"> | [SLING: Live TV, Shows & Movies](../apps/android/sling-tv/sling/README.md) | Android | 1 | 9.4.29 | 2026-06-19 | 27 | No |
+| <img src="../assets/icons/android/com.sling.airtvmini.png" width="20" height="20" alt="SLING icon"> | [SLING: Live TV, Shows & Movies](../apps/android/sling-tv/sling/README.md) | Android | 1 | 9.4.29 | 2026-06-19 | 27 | Yes |
 
 ## SDKs by category
 

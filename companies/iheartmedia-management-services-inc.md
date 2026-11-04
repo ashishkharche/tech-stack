@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeart: Radio, Music, Podcasts](../apps/ios/iheartmedia-management-services-inc/iheart/README.md) | iOS | 1 | 10.64.0 | 2026-06-23 | 88 | No |
+| <img src="../assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeart: Radio, Music, Podcasts](../apps/ios/iheartmedia-management-services-inc/iheart/README.md) | iOS | 1 | 10.64.0 | 2026-06-23 | 88 | Yes |
 
 ## SDKs by category
 

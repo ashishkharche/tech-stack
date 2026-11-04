@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.handmark.sportcaster",
     "bundle_id": "com.handmark.sportcaster",
-    "active": false,
+    "active": true,
     "company": {
       "name": "CBS Interactive, Inc.",
       "slug": "cbs-interactive-inc",
@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "10.72.1",
+  "version": "10.78",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-19T04:32:14Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "captured_at": "2026-11-02T18:37:48Z",
+    "store_first_seen_at": "2026-11-04T12:06:34Z",
+    "store_updated_at": "2026-11-01T04:00:28Z",
+    "exported_at": "2026-11-04T16:56:41Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 50,
+    "sdk_count": 47,
     "languages": [
       "C/C++ (native)",
       "Java",
@@ -67,12 +67,6 @@
         "version": null,
         "category": "analytics",
         "confidence": "inferred"
-      },
-      {
-        "name": "Branch",
-        "version": null,
-        "category": "analytics",
-        "confidence": "observed"
       },
       {
         "name": "comScore",
@@ -129,18 +123,6 @@
         "confidence": "observed"
       },
       {
-        "name": "Sentry",
-        "version": null,
-        "category": "crash_perf",
-        "confidence": "observed"
-      },
-      {
-        "name": "Sentry (native)",
-        "version": null,
-        "category": "crash_perf",
-        "confidence": "observed"
-      },
-      {
         "name": "Google Play Billing",
         "version": null,
         "category": "payments",
@@ -172,6 +154,12 @@
       },
       {
         "name": "Cronet (Google)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Ktor",
         "version": null,
         "category": "networking",
         "confidence": "observed"
@@ -219,13 +207,13 @@
         "confidence": "observed"
       },
       {
-        "name": "ExoPlayer",
+        "name": "Google Cast",
         "version": null,
         "category": "media",
         "confidence": "observed"
       },
       {
-        "name": "Google Cast",
+        "name": "Media3 (ExoPlayer)",
         "version": null,
         "category": "media",
         "confidence": "observed"
@@ -349,18 +337,12 @@
         "version": null,
         "category": "feature_flags",
         "confidence": "observed"
-      },
-      {
-        "name": "Optimizely",
-        "version": null,
-        "category": "feature_flags",
-        "confidence": "observed"
       }
     ],
     "platform": {
       "min_os": "Android API 28",
       "min_sdk": "28",
-      "target_sdk": "35",
+      "target_sdk": "36",
       "build_sdk": null,
       "xcode": null,
       "device_families": [
@@ -387,7 +369,7 @@
     ],
     "privacy": {
       "declares_tracking": true,
-      "tracking_domain_count": 29,
+      "tracking_domain_count": 24,
       "collected_data_types": [],
       "required_reason_apis": [],
       "android_permissions": [
@@ -410,6 +392,7 @@
         "android.permission.VIBRATE",
         "android.permission.WAKE_LOCK",
         "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.amazon.privacypass.ATTEST",
         "com.android.vending.BILLING",
         "com.google.android.c2dm.permission.RECEIVE",
         "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
@@ -418,20 +401,5 @@
       ]
     }
   },
-  "inferred": [
-    {
-      "kind": "analysis",
-      "method": "model_written_summary_of_detected_signals",
-      "note": "Written by a language model from the analysis; treat as unverified.",
-      "generated_at": "2026-06-10T17:28:11Z",
-      "headline": "Hybrid React Native (Hermes, Expo) Android app with Jetpack Compose, 50 third-party SDKs, CBS Sports backends, Firebase, and root detection",
-      "insights": [
-        {
-          "theme": "ui",
-          "title": "Hybrid Jetpack Compose and React Native UI",
-          "detail": "Ships Jetpack Compose, Material Components and Lottie together with React Native Reanimated and react-native-svg, showing a mix of native Android and cross-platform rendering layers."
-        }
-      ]
-    }
-  ]
+  "inferred": []
 }

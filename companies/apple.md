@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/284993459.png" width="20" height="20" alt="Shazam icon"> | [Shazam: Find Music & Concerts](../apps/ios/apple/shazam/README.md) | iOS | 1 | 26.11.0 | 2026-06-19 | 1 | No |
+| <img src="../assets/icons/ios/284993459.png" width="20" height="20" alt="Shazam icon"> | [Shazam: Find Music & Concerts](../apps/ios/apple/shazam/README.md) | iOS | 1 | 26.11.0 | 2026-06-19 | 1 | Yes |
 
 ## SDKs by category
 

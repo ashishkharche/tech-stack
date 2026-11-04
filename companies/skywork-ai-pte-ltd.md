@@ -15,7 +15,7 @@ The company name is the developer name on the store listing.
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/ios/6670430706.png" width="20" height="20" alt="DramaWave icon"> | [DramaWave - Dramas & Reels](../apps/ios/skywork-ai-pte-ltd/dramawave/README.md) | iOS | 1 | 2.0.30 | 2026-10-24 | 93 | Yes |
-| <img src="../assets/icons/android/com.freereels.app.png" width="20" height="20" alt="FreeReels icon"> | [FreeReels - Dramas & Reels](../apps/android/skywork-ai-pte-ltd/freereels/README.md) | Android | 1 | 2.5.20 | 2026-11-02 | 38 | No |
+| <img src="../assets/icons/android/com.freereels.app.png" width="20" height="20" alt="FreeReels icon"> | [FreeReels - Dramas & Reels](../apps/android/skywork-ai-pte-ltd/freereels/README.md) | Android | 1 | 2.5.20 | 2026-11-02 | 38 | Yes |
 
 ## SDKs by category
 
