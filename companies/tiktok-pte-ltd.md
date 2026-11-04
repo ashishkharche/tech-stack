@@ -4,17 +4,16 @@
 
 The company name is the developer name on the store listing.
 
-**3** apps (1 iOS, 2 Android) · **3** versions · **86** distinct SDKs across their latest versions
+**2** apps (0 iOS, 2 Android) · **2** versions · **31** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/tiktok-pte-ltd/lemon8/README.md"><img src="../assets/icons/ios/1498607143.png" width="56" height="56" alt="Lemon8 icon"></a><br><a href="../apps/ios/tiktok-pte-ltd/lemon8/README.md"><sub><b>Lemon8</b></sub></a><br><sub>iOS · 57 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/tiktok-pte-ltd/tiktok/README.md"><img src="../assets/icons/android/com.zhiliaoapp.musically.png" width="56" height="56" alt="TikTok icon"></a><br><a href="../apps/android/tiktok-pte-ltd/tiktok/README.md"><sub><b>TikTok</b></sub></a><br><sub>Android · 31 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/tiktok-pte-ltd/tiktok-pro/README.md"><img src="../assets/icons/android/com.ss.android.ugc.tiktok.pro.png" width="56" height="56" alt="TikTok Pro icon"></a><br><a href="../apps/android/tiktok-pte-ltd/tiktok-pro/README.md"><sub><b>TikTok Pro</b></sub></a><br><sub>Android · 21 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/tiktok-pte-ltd/tiktok/README.md"><img src="../assets/icons/android/com.zhiliaoapp.musically.png" width="56" height="56" alt="TikTok icon"></a><br><a href="../apps/android/tiktok-pte-ltd/tiktok/README.md"><sub><b>TikTok</b></sub></a><br><sub>Android · 31 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/tiktok-pte-ltd/tiktok-pro/README.md"><img src="../assets/icons/android/com.ss.android.ugc.tiktok.pro.png" width="56" height="56" alt="TikTok Pro icon"></a><br><a href="../apps/android/tiktok-pte-ltd/tiktok-pro/README.md"><sub><b>TikTok Pro</b></sub></a><br><sub>Android · 21 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1498607143.png" width="20" height="20" alt="Lemon8 icon"> | [Lemon8 - Lifestyle Community](../apps/ios/tiktok-pte-ltd/lemon8/README.md) | iOS | 1 | 15.0.0 | 2026-10-24 | 57 | Yes |
 | <img src="../assets/icons/android/com.zhiliaoapp.musically.png" width="20" height="20" alt="TikTok icon"> | [TikTok - Videos, Shop & LIVE](../apps/android/tiktok-pte-ltd/tiktok/README.md) | Android | 1 | 45.5.1 | 2026-06-19 | 31 | Yes |
 | <img src="../assets/icons/android/com.ss.android.ugc.tiktok.pro.png" width="20" height="20" alt="TikTok Pro icon"> | [TikTok Pro - Events](../apps/android/tiktok-pte-ltd/tiktok-pro/README.md) | Android | 1 | 47.4.3 | 2026-11-01 | 21 | No |
 
@@ -28,26 +27,26 @@ Counted across the latest version of each app.
 
 | SDK | Apps |
 |---|---|
-| AppAuth | 3 of 3 |
-| Facebook SDK | 3 of 3 |
-| Cronet | 2 of 3 |
-| Facebook Login | 2 of 3 |
-| Facebook Share | 2 of 3 |
-| Firebase | 2 of 3 |
-| Firebase Analytics | 2 of 3 |
-| Firebase Messaging | 2 of 3 |
-| Fresco | 2 of 3 |
-| Google App Measurement | 2 of 3 |
-| Google DataTransport | 2 of 3 |
-| Google Location | 2 of 3 |
-| Google Maps | 2 of 3 |
-| Google Play services | 2 of 3 |
-| Google Sign-In / Auth | 2 of 3 |
-| Markwon | 2 of 3 |
-| Material Components | 2 of 3 |
-| OkHttp | 2 of 3 |
-| Play Integrity | 2 of 3 |
-| RxJava | 2 of 3 |
+| AppAuth | 2 of 2 |
+| Cronet | 2 of 2 |
+| Facebook Login | 2 of 2 |
+| Facebook SDK | 2 of 2 |
+| Facebook Share | 2 of 2 |
+| Firebase | 2 of 2 |
+| Firebase Analytics | 2 of 2 |
+| Firebase Messaging | 2 of 2 |
+| Fresco | 2 of 2 |
+| Google App Measurement | 2 of 2 |
+| Google DataTransport | 2 of 2 |
+| Google Location | 2 of 2 |
+| Google Maps | 2 of 2 |
+| Google Play services | 2 of 2 |
+| Google Sign-In / Auth | 2 of 2 |
+| Markwon | 2 of 2 |
+| Material Components | 2 of 2 |
+| OkHttp | 2 of 2 |
+| Play Integrity | 2 of 2 |
+| RxJava | 2 of 2 |
 
 ---
 

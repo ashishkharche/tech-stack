@@ -4,17 +4,16 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **4** versions · **61** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **3** versions · **28** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/openai-opco-llc/chatgpt/README.md"><img src="../assets/icons/android/com.openai.chatgpt.png" width="56" height="56" alt="ChatGPT icon"></a><br><a href="../apps/android/openai-opco-llc/chatgpt/README.md"><sub><b>ChatGPT</b></sub></a><br><sub>Android · 36 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/openai-opco-llc/chatgpt/README.md"><img src="../assets/icons/ios/6448311069.png" width="56" height="56" alt="ChatGPT icon"></a><br><a href="../apps/ios/openai-opco-llc/chatgpt/README.md"><sub><b>ChatGPT</b></sub></a><br><sub>iOS · 28 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/openai-opco-llc/chatgpt/README.md"><img src="../assets/icons/ios/6448311069.png" width="56" height="56" alt="ChatGPT icon"></a><br><a href="../apps/ios/openai-opco-llc/chatgpt/README.md"><sub><b>ChatGPT</b></sub></a><br><sub>iOS · 28 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.openai.chatgpt.png" width="20" height="20" alt="ChatGPT icon"> | [ChatGPT](../apps/android/openai-opco-llc/chatgpt/README.md) | Android | 1 | 1.2026.286 | 2026-10-23 | 36 | Yes |
 | <img src="../assets/icons/ios/6448311069.png" width="20" height="20" alt="ChatGPT icon"> | [ChatGPT](../apps/ios/openai-opco-llc/chatgpt/README.md) | iOS | 3 | 1.2026.286 | 2026-10-23 | 28 | Yes |
 
 ## SDKs by category
@@ -22,14 +21,6 @@ The company name is the developer name on the store listing.
 Counted across the latest version of each app.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../assets/charts/companies/openai-opco-llc-dark.svg"><img alt="SDKs by category" src="../assets/charts/companies/openai-opco-llc-light.svg"></picture>
-
-## SDKs shared across their apps
-
-| SDK | Apps |
-|---|---|
-| Lottie | 2 of 2 |
-| Segment | 2 of 2 |
-| Stripe | 2 of 2 |
 
 ---
 

@@ -1,4 +1,4 @@
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/logo/logo-dark.svg"><img src="../../../../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../../../../README.md) / [BYTEDANCE PTE. LTD.](../../../../companies/bytedance-pte-ltd.md) / CapCut</sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/logo/logo-dark.svg"><img src="../../../../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../../../../README.md) / [Bytedance Pte. Ltd](../../../../companies/bytedance-pte-ltd.md) / CapCut</sub>
 
 <img src="../../../../assets/icons/ios/1500855883.png" width="96" height="96" alt="CapCut icon">
 
@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| Company | [BYTEDANCE PTE. LTD.](../../../../companies/bytedance-pte-ltd.md) |
+| Company | [Bytedance Pte. Ltd](../../../../companies/bytedance-pte-ltd.md) |
 | Store id | `1500855883` |
 | Bundle / package id | `com.lemon.lvoverseas` |
 | Latest version | 19.8.1 (analysed 2026-10-24) |

@@ -182,6 +182,11 @@ def build_doc(rec: dict) -> tuple[dict, dict]:
         company = dict(rec["paths"].get("company") or company, slug=rec["paths"]["company_slug"])
         if company.get("source"):
             company["source"] = COMPANY_SOURCE
+    # A name checked against the live store listing (data/company-sources.csv) always wins, so a
+    # differently spelled source name or an earlier mapping can't come back on the next export.
+    verified = resolve_company(platform, rec["app_id"])
+    if verified:
+        company = verified
     app_slug = (rec.get("paths") or {}).get("app_slug") or app.get("slug") or payload.get("slug") or slugify(app.get("name") or rec["app_id"])
     version = rec["version"]
     vinfo = rec.get("vinfo") or {}

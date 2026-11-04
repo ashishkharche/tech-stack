@@ -4,36 +4,36 @@
 <g transform="translate(20 20)">
 <text x="115.01999999999998" y="20" font-size="13" text-anchor="end" fill="#090A0B">Other</text>
 <rect x="127.0" y="10" width="443.0" height="14" rx="3" fill="#090A0B"/>
-<text x="578.0" y="20" font-size="13" fill="#4D5755">108</text>
-<text x="115.01999999999998" y="42" font-size="13" text-anchor="end" fill="#090A0B">Sign-in and auth</text>
-<rect x="127.0" y="32" width="20.5" height="14" rx="3" fill="#090A0B"/>
-<text x="155.5" y="42" font-size="13" fill="#4D5755">5</text>
-<text x="115.01999999999998" y="64" font-size="13" text-anchor="end" fill="#090A0B">Firebase</text>
-<rect x="127.0" y="54" width="20.5" height="14" rx="3" fill="#090A0B"/>
-<text x="155.5" y="64" font-size="13" fill="#4D5755">5</text>
-<text x="115.01999999999998" y="86" font-size="13" text-anchor="end" fill="#090A0B">Payments</text>
-<rect x="127.0" y="76" width="20.5" height="14" rx="3" fill="#090A0B"/>
-<text x="155.5" y="86" font-size="13" fill="#4D5755">5</text>
-<text x="115.01999999999998" y="108" font-size="13" text-anchor="end" fill="#090A0B">UI and rendering</text>
-<rect x="127.0" y="98" width="16.4" height="14" rx="3" fill="#090A0B"/>
-<text x="151.4" y="108" font-size="13" fill="#4D5755">4</text>
-<text x="115.01999999999998" y="130" font-size="13" text-anchor="end" fill="#090A0B">Analytics</text>
-<rect x="127.0" y="120" width="12.3" height="14" rx="3" fill="#090A0B"/>
-<text x="147.3" y="130" font-size="13" fill="#4D5755">3</text>
-<text x="115.01999999999998" y="152" font-size="13" text-anchor="end" fill="#090A0B">Social</text>
-<rect x="127.0" y="142" width="12.3" height="14" rx="3" fill="#090A0B"/>
-<text x="147.3" y="152" font-size="13" fill="#4D5755">3</text>
-<text x="115.01999999999998" y="174" font-size="13" text-anchor="end" fill="#090A0B">Maps and location</text>
-<rect x="127.0" y="164" width="8.2" height="14" rx="3" fill="#090A0B"/>
-<text x="143.2" y="174" font-size="13" fill="#4D5755">2</text>
-<text x="115.01999999999998" y="196" font-size="13" text-anchor="end" fill="#090A0B">Media</text>
-<rect x="127.0" y="186" width="8.2" height="14" rx="3" fill="#090A0B"/>
-<text x="143.2" y="196" font-size="13" fill="#4D5755">2</text>
-<text x="115.01999999999998" y="218" font-size="13" text-anchor="end" fill="#090A0B">Ads</text>
-<rect x="127.0" y="208" width="4.1" height="14" rx="3" fill="#090A0B"/>
-<text x="139.1" y="218" font-size="13" fill="#4D5755">1</text>
+<text x="578.0" y="20" font-size="13" fill="#4D5755">146</text>
+<text x="115.01999999999998" y="42" font-size="13" text-anchor="end" fill="#090A0B">Firebase</text>
+<rect x="127.0" y="32" width="33.4" height="14" rx="3" fill="#090A0B"/>
+<text x="168.4" y="42" font-size="13" fill="#4D5755">11</text>
+<text x="115.01999999999998" y="64" font-size="13" text-anchor="end" fill="#090A0B">Sign-in and auth</text>
+<rect x="127.0" y="54" width="27.3" height="14" rx="3" fill="#090A0B"/>
+<text x="162.3" y="64" font-size="13" fill="#4D5755">9</text>
+<text x="115.01999999999998" y="86" font-size="13" text-anchor="end" fill="#090A0B">Analytics</text>
+<rect x="127.0" y="76" width="24.3" height="14" rx="3" fill="#090A0B"/>
+<text x="159.3" y="86" font-size="13" fill="#4D5755">8</text>
+<text x="115.01999999999998" y="108" font-size="13" text-anchor="end" fill="#090A0B">Payments</text>
+<rect x="127.0" y="98" width="15.2" height="14" rx="3" fill="#090A0B"/>
+<text x="150.2" y="108" font-size="13" fill="#4D5755">5</text>
+<text x="115.01999999999998" y="130" font-size="13" text-anchor="end" fill="#090A0B">Social</text>
+<rect x="127.0" y="120" width="15.2" height="14" rx="3" fill="#090A0B"/>
+<text x="150.2" y="130" font-size="13" fill="#4D5755">5</text>
+<text x="115.01999999999998" y="152" font-size="13" text-anchor="end" fill="#090A0B">UI and rendering</text>
+<rect x="127.0" y="142" width="12.1" height="14" rx="3" fill="#090A0B"/>
+<text x="147.2" y="152" font-size="13" fill="#4D5755">4</text>
+<text x="115.01999999999998" y="174" font-size="13" text-anchor="end" fill="#090A0B">Media</text>
+<rect x="127.0" y="164" width="9.1" height="14" rx="3" fill="#090A0B"/>
+<text x="144.1" y="174" font-size="13" fill="#4D5755">3</text>
+<text x="115.01999999999998" y="196" font-size="13" text-anchor="end" fill="#090A0B">Ads</text>
+<rect x="127.0" y="186" width="6.1" height="14" rx="3" fill="#090A0B"/>
+<text x="141.1" y="196" font-size="13" fill="#4D5755">2</text>
+<text x="115.01999999999998" y="218" font-size="13" text-anchor="end" fill="#090A0B">Maps and location</text>
+<rect x="127.0" y="208" width="6.1" height="14" rx="3" fill="#090A0B"/>
+<text x="141.1" y="218" font-size="13" fill="#4D5755">2</text>
 <text x="115.01999999999998" y="240" font-size="13" text-anchor="end" fill="#090A0B">Storage</text>
-<rect x="127.0" y="230" width="4.1" height="14" rx="3" fill="#090A0B"/>
-<text x="139.1" y="240" font-size="13" fill="#4D5755">1</text>
+<rect x="127.0" y="230" width="3.0" height="14" rx="3" fill="#090A0B"/>
+<text x="138.1" y="240" font-size="13" fill="#4D5755">1</text>
 </g>
 </svg>

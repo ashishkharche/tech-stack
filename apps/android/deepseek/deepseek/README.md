@@ -1,4 +1,4 @@
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/logo/logo-dark.svg"><img src="../../../../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../../../../README.md) / [杭州深度求索人工智能基础技术研究有限公司](../../../../companies/deepseek.md) / DeepSeek</sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/logo/logo-dark.svg"><img src="../../../../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../../../../README.md) / [DeepSeek](../../../../companies/deepseek.md) / DeepSeek</sub>
 
 <img src="../../../../assets/icons/android/com.deepseek.chat.png" width="96" height="96" alt="DeepSeek icon">
 
@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| Company | [杭州深度求索人工智能基础技术研究有限公司](../../../../companies/deepseek.md) |
+| Company | [DeepSeek](../../../../companies/deepseek.md) |
 | Store id | `com.deepseek.chat` |
 | Bundle / package id | `com.deepseek.chat` |
 | Latest version | 2.7.1 (analysed 2026-10-24) |

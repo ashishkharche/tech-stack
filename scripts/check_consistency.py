@@ -147,7 +147,7 @@ def main() -> int:
     pct = round(100 * sum(any(s["category"] == "analytics" for s in d["stack"]["sdks"]) for d in vals) / len(vals))
     claim(r"(\d+)% of apps ship at least one analytics SDK", (pct,), "analytics share")
     per_co = Counter(d["app"]["company"]["slug"] for d in vals)
-    claim(r"has the most apps, with (\d+)\. (\d+) of (\d+) companies have one app",
+    claim(r"(?:has|share) the most apps, with (\d+)(?: each)?\. (\d+) of (\d+) companies have one app",
           (per_co.most_common(1)[0][1], sum(v == 1 for v in per_co.values()), len(per_co)), "apps per company")
     inactive = sum(not d["app"]["active"] for d in vals)
     claim(r"(\d+) apps are no longer tracked", (inactive,), "inactive apps")

@@ -108,10 +108,37 @@ def apply(root: Path = ROOT, dry_run: bool = False) -> dict:
                 d["app"]["slug"] = dest.name
                 (dest / f.name).write_text(dump_json(d))
         shutil.rmtree(app_dir)
+    # Every exported app whose company differs from its verified store developer name is rewritten
+    # (and moved when the slug changes), so the files always match data/company-sources.csv.
+    renamed = []
+    for app_dir in sorted(p for p in (root / "apps").glob("*/*/*") if p.is_dir() and p.parent.name != UNKNOWN_SLUG):
+        files = sorted(p for p in app_dir.glob("*.json") if p.name != "latest.json")
+        if not files:
+            continue
+        first = json.loads(files[0].read_text())
+        comp = resolve(first["app"]["platform"], first["app"]["store_id"])
+        cur = first["app"]["company"]
+        if comp is None or (cur.get("name"), cur.get("slug")) == (comp["name"], comp["slug"]):
+            continue
+        dest = root / "apps" / first["app"]["platform"] / comp["slug"] / app_dir.name
+        renamed.append(f"{first['app']['platform']}/{first['app']['store_id']}: {cur.get('name')!r} -> {comp['name']!r}")
+        if dry_run:
+            continue
+        if dest != app_dir and dest.exists():
+            raise SystemExit(f"companies: {dest} already exists, can't move {app_dir}")
+        for f in files:
+            d = json.loads(f.read_text())
+            d["app"]["company"] = dict(comp)
+            f.write_text(dump_json(d))
+        if dest != app_dir:
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            shutil.move(str(app_dir), str(dest))
+            if not any(app_dir.parent.iterdir()):
+                app_dir.parent.rmdir()
     for d in (root / "apps").glob(f"*/{UNKNOWN_SLUG}"):
         if d.is_dir() and not any(d.iterdir()):
             d.rmdir()
-    return {"moved": moved, "dropped": dropped}
+    return {"moved": moved, "dropped": dropped, "renamed": renamed}
 
 
 def main() -> int:
@@ -122,6 +149,9 @@ def main() -> int:
     if not (args.apply or args.dry_run):
         ap.error("use --apply or --dry-run")
     res = apply(dry_run=args.dry_run)
+    print(f"renamed to the verified store name: {len(res['renamed'])}")
+    for x in res["renamed"]:
+        print(f"  {x}")
     print(f"moved: {len(res['moved'])}, left out (no verified company): {len(res['dropped'])}")
     for x in res["dropped"]:
         print(f"  left out: {x}")

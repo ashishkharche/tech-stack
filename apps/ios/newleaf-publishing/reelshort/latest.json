@@ -1,0 +1,647 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "ReelShort - Stream Drama & TV",
+    "slug": "reelshort",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1636235979",
+    "bundle_id": "com.newleaf.app.ios.vic",
+    "active": true,
+    "company": {
+      "name": "NewLeaf Publishing",
+      "slug": "newleaf-publishing",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "4.2.00",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T19:45:38Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-09-28T01:36:57Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 84,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyerLib",
+        "version": "6.18.1",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAEMKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKCoreKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenSDK",
+        "version": "2.5.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenShareSDK",
+        "version": "2.5.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppLovin",
+        "version": "13.6.1",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAudienceNetwork",
+        "version": "1.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMobileAds",
+        "version": "13.7.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "MolocoSDK",
+        "version": "4.9.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "VungleAds",
+        "version": "7.7.6",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": "12.17.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": "1.7.6",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Login",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKLoginKit",
+        "version": "1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "8.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": "4.1.1",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": "3.5.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "UserMessagingPlatform",
+        "version": "3.1.0",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "AFNetworking",
+        "version": "4.0.2",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Alamofire",
+        "version": "5.10.2",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": "12.17.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleInteractiveMediaAds",
+        "version": "3.24.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReactiveObjC",
+        "version": "3.1.1",
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMKV",
+        "version": "2.4.0",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMKVCore",
+        "version": "2.4.0",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSZipArchive",
+        "version": "2.4.3",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Protobuf",
+        "version": "3.25.3",
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppCheck",
+        "version": "11.2.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": "12.17.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "12.17.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "12.17.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "12.17.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": "12.17.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.1.1",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.6.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "5.21.3",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SVGAPlayer",
+        "version": "2.5.7",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKShareKit",
+        "version": "1.0",
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "Fingerprint",
+        "version": "1.4.1",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "1.0.0",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AdsGlobalSDK",
+        "version": "8.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "alivcffmpeg",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AliyunOSSiOS",
+        "version": "2.10.22",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AliyunPlayer",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CMSEventTracking",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CMSIM",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DTCoreText",
+        "version": "1.6.27",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DTFoundation",
+        "version": "1.7.19",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "hermesvm",
+        "version": "0.12.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HyprMX",
+        "version": "6.4.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IQKeyboardManager",
+        "version": "6.5.19",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IronSourceAdQualityPrivacyInfo",
+        "version": "9.9.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IronSourcePrivacyInfo",
+        "version": "9.5.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JJException",
+        "version": "0.2.13",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "KVOController",
+        "version": "1.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Masonry",
+        "version": "1.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MBProgressHUD",
+        "version": "1.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MJRefresh",
+        "version": "3.7.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PAGAdSDK",
+        "version": "8.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PlaytimeMonetize",
+        "version": "4.3.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RSCache",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RSDesignToken",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RSFoundationKit",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RSLog",
+        "version": "1.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RSModuleCore",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RSShare",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RSUIComponents",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDCycleScrollView",
+        "version": "1.82.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "sqlcipher",
+        "version": "1.4.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokBusinessSDK",
+        "version": "8.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenAuthSDK",
+        "version": "2.5.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "UICKeyChainStore",
+        "version": "2.2.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "UnityCoherenceLib",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "WCDBObjc",
+        "version": "2.1.16",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "YYCategories",
+        "version": "1.0.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "YYModel",
+        "version": "1.0.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "YYText",
+        "version": "1.0.7",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZLCollectionViewFlowLayout",
+        "version": "1.4.9",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.6",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 22
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background Audio",
+      "Background Push",
+      "Communication Notifications",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 19,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContent",
+        "PerformanceData",
+        "PhoneNumber",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

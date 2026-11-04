@@ -27,6 +27,6 @@ jobs:
         run: python3 scripts/check_consistency.py
       - name: Generated files are up to date
         run: |
-          python3 scripts/generate.py
+          python3 scripts/export.py --regenerate-only
           git status --porcelain -- . ':(exclude)*.png'
           test -z "$(git status --porcelain -- . ':(exclude)*.png')"

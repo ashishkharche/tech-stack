@@ -4,17 +4,16 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **3** versions · **55** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **2** versions · **22** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/spotify/spotify/README.md"><img src="../assets/icons/android/com.spotify.music.png" width="56" height="56" alt="Spotify icon"></a><br><a href="../apps/android/spotify/spotify/README.md"><sub><b>Spotify</b></sub></a><br><sub>Android · 35 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/spotify/spotify/README.md"><img src="../assets/icons/ios/324684580.png" width="56" height="56" alt="Spotify icon"></a><br><a href="../apps/ios/spotify/spotify/README.md"><sub><b>Spotify</b></sub></a><br><sub>iOS · 22 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/spotify/spotify/README.md"><img src="../assets/icons/ios/324684580.png" width="56" height="56" alt="Spotify icon"></a><br><a href="../apps/ios/spotify/spotify/README.md"><sub><b>Spotify</b></sub></a><br><sub>iOS · 22 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.spotify.music.png" width="20" height="20" alt="Spotify icon"> | [Spotify: Music and Podcasts](../apps/android/spotify/spotify/README.md) | Android | 1 | 9.1.52.1394 | 2026-06-23 | 35 | Yes |
 | <img src="../assets/icons/ios/324684580.png" width="20" height="20" alt="Spotify icon"> | [Spotify: Music and Podcasts](../apps/ios/spotify/spotify/README.md) | iOS | 2 | 9.1.92 | 2026-10-23 | 22 | Yes |
 
 ## SDKs by category
@@ -22,13 +21,6 @@ The company name is the developer name on the store listing.
 Counted across the latest version of each app.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../assets/charts/companies/spotify-dark.svg"><img alt="SDKs by category" src="../assets/charts/companies/spotify-light.svg"></picture>
-
-## SDKs shared across their apps
-
-| SDK | Apps |
-|---|---|
-| Branch | 2 of 2 |
-| Facebook SDK | 2 of 2 |
 
 ---
 

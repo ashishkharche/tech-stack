@@ -4,17 +4,16 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **2** versions · **62** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **1** versions · **26** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/perplexity-ai-inc/perplexity/README.md"><img src="../assets/icons/android/ai.perplexity.app.android.png" width="56" height="56" alt="Perplexity icon"></a><br><a href="../apps/android/perplexity-ai-inc/perplexity/README.md"><sub><b>Perplexity</b></sub></a><br><sub>Android · 37 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/perplexity-ai-inc/perplexity/README.md"><img src="../assets/icons/ios/1668000334.png" width="56" height="56" alt="Perplexity icon"></a><br><a href="../apps/ios/perplexity-ai-inc/perplexity/README.md"><sub><b>Perplexity</b></sub></a><br><sub>iOS · 26 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/perplexity-ai-inc/perplexity/README.md"><img src="../assets/icons/ios/1668000334.png" width="56" height="56" alt="Perplexity icon"></a><br><a href="../apps/ios/perplexity-ai-inc/perplexity/README.md"><sub><b>Perplexity</b></sub></a><br><sub>iOS · 26 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/ai.perplexity.app.android.png" width="20" height="20" alt="Perplexity icon"> | [Perplexity - AI Search & Chat](../apps/android/perplexity-ai-inc/perplexity/README.md) | Android | 1 | 2.101.0 | 2026-10-24 | 37 | Yes |
 | <img src="../assets/icons/ios/1668000334.png" width="20" height="20" alt="Perplexity icon"> | [Perplexity - AI Search & Chat](../apps/ios/perplexity-ai-inc/perplexity/README.md) | iOS | 1 | 26.42.0 | 2026-10-24 | 26 | Yes |
 
 ## SDKs by category
@@ -22,12 +21,6 @@ The company name is the developer name on the store listing.
 Counted across the latest version of each app.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../assets/charts/companies/perplexity-ai-inc-dark.svg"><img alt="SDKs by category" src="../assets/charts/companies/perplexity-ai-inc-light.svg"></picture>
-
-## SDKs shared across their apps
-
-| SDK | Apps |
-|---|---|
-| RevenueCat | 2 of 2 |
 
 ---
 

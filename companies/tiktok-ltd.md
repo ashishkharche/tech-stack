@@ -4,16 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **1** versions · **139** distinct SDKs across their latest versions
+**2** apps (2 iOS, 0 Android) · **2** versions · **153** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/tiktok-ltd/tiktok/README.md"><img src="../assets/icons/ios/835599320.png" width="56" height="56" alt="TikTok icon"></a><br><a href="../apps/ios/tiktok-ltd/tiktok/README.md"><sub><b>TikTok</b></sub></a><br><sub>iOS · 139 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/tiktok-ltd/lemon8/README.md"><img src="../assets/icons/ios/1498607143.png" width="56" height="56" alt="Lemon8 icon"></a><br><a href="../apps/ios/tiktok-ltd/lemon8/README.md"><sub><b>Lemon8</b></sub></a><br><sub>iOS · 57 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/tiktok-ltd/tiktok/README.md"><img src="../assets/icons/ios/835599320.png" width="56" height="56" alt="TikTok icon"></a><br><a href="../apps/ios/tiktok-ltd/tiktok/README.md"><sub><b>TikTok</b></sub></a><br><sub>iOS · 139 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
+| <img src="../assets/icons/ios/1498607143.png" width="20" height="20" alt="Lemon8 icon"> | [Lemon8 - Lifestyle Community](../apps/ios/tiktok-ltd/lemon8/README.md) | iOS | 1 | 15.0.0 | 2026-10-24 | 57 | Yes |
 | <img src="../assets/icons/ios/835599320.png" width="20" height="20" alt="TikTok icon"> | [TikTok - Videos, Shop & LIVE](../apps/ios/tiktok-ltd/tiktok/README.md) | iOS | 1 | 45.4.0 | 2026-06-19 | 139 | Yes |
 
 ## SDKs by category
@@ -21,6 +22,31 @@ The company name is the developer name on the store listing.
 Counted across the latest version of each app.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../assets/charts/companies/tiktok-ltd-dark.svg"><img alt="SDKs by category" src="../assets/charts/companies/tiktok-ltd-light.svg"></picture>
+
+## SDKs shared across their apps
+
+| SDK | Apps |
+|---|---|
+| AppAuth | 2 of 2 |
+| AppsFlyerLib | 2 of 2 |
+| BDALog | 2 of 2 |
+| BDAlogProtocol | 2 of 2 |
+| BDFishhookPrivacyInfo | 2 of 2 |
+| BDMemoryMatrix | 2 of 2 |
+| BDTuringLocalized-en | 2 of 2 |
+| BDWebKit | 2 of 2 |
+| boringssl | 2 of 2 |
+| Bytedance1 | 2 of 2 |
+| bytevc1enc | 2 of 2 |
+| crypto | 2 of 2 |
+| dashdec | 2 of 2 |
+| Facebook SDK | 2 of 2 |
+| FirebaseCore | 2 of 2 |
+| FirebaseCoreInternal | 2 of 2 |
+| FirebaseInstallations | 2 of 2 |
+| GoogleSignIn | 2 of 2 |
+| GoogleUtilities | 2 of 2 |
+| GTMAppAuth | 2 of 2 |
 
 ---
 

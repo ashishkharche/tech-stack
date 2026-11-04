@@ -481,7 +481,10 @@ def story(f, stats, apps, ios, andr, companies):
     rows = f["comp_rows"]
     if rows:
         section("Who makes the apps",
-                f"{rows[0][0]} has the most apps, with {sum(rows[0][1])}. {f['solo']} of {len(rows)} companies have one app each.",
+                (lambda tops: (f"{tops[0]} has the most apps, with {sum(rows[0][1])}." if len(tops) == 1 else
+                               f"{', '.join(tops[:-1])} and {tops[-1]} share the most apps, with {sum(rows[0][1])} each."))(
+                    [r[0] for r in rows if sum(r[1]) == sum(rows[0][1])])
+                + f" {f['solo']} of {len(rows)} companies have one app each.",
                 [("top-companies", "Companies with the most apps")])
         out.extend(["[All companies](companies/README.md)", ""])
     return "\n".join(out).rstrip()

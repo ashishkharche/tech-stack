@@ -4,16 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **39** distinct SDKs across their latest versions
+**2** apps (1 iOS, 1 Android) · **2** versions · **94** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/canva/canva/README.md"><img src="../assets/icons/android/com.canva.editor.png" width="56" height="56" alt="Canva icon"></a><br><a href="../apps/android/canva/canva/README.md"><sub><b>Canva</b></sub></a><br><sub>Android · 39 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/canva/canva-ai-photo-video-editor/README.md"><img src="../assets/icons/ios/897446215.png" width="56" height="56" alt="Canva AI Photo &amp; Video Editor icon"></a><br><a href="../apps/ios/canva/canva-ai-photo-video-editor/README.md"><sub><b>Canva AI Photo &amp; Video Editor</b></sub></a><br><sub>iOS · 57 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/canva/canva/README.md"><img src="../assets/icons/android/com.canva.editor.png" width="56" height="56" alt="Canva icon"></a><br><a href="../apps/android/canva/canva/README.md"><sub><b>Canva</b></sub></a><br><sub>Android · 39 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
+| <img src="../assets/icons/ios/897446215.png" width="20" height="20" alt="Canva AI Photo &amp; Video Editor icon"> | [Canva AI Photo & Video Editor](../apps/ios/canva/canva-ai-photo-video-editor/README.md) | iOS | 1 | 4.232.1 | 2026-10-24 | 57 | Yes |
 | <img src="../assets/icons/android/com.canva.editor.png" width="20" height="20" alt="Canva icon"> | [Canva: AI Photo & Video Editor](../apps/android/canva/canva/README.md) | Android | 1 | 2.383.0 | 2026-10-24 | 39 | Yes |
 
 ## SDKs by category
@@ -21,6 +22,13 @@ The company name is the developer name on the store listing.
 Counted across the latest version of each app.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../assets/charts/companies/canva-dark.svg"><img alt="SDKs by category" src="../assets/charts/companies/canva-light.svg"></picture>
+
+## SDKs shared across their apps
+
+| SDK | Apps |
+|---|---|
+| Segment | 2 of 2 |
+| Sentry | 2 of 2 |
 
 ---
 

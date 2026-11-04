@@ -1,0 +1,984 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "rednote",
+    "slug": "rednote",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "741292507",
+    "bundle_id": "com.xingin.discover",
+    "active": true,
+    "company": {
+      "name": "Xingin",
+      "slug": "xingin",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "9.51.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T20:06:32Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-20T08:31:40Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 139,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "Core NFC",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "HealthKit",
+      "HomeKit",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyerLib",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AMSPaymentCheckout",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYConsent",
+        "version": "1.0.7",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYLottieAnimationView",
+        "version": "0.2.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "AlipaySDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AMSElement",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AMSFoundation",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Bifrost",
+        "version": "4.0.715",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DSLTemplate",
+        "version": "0.1.14",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Hey",
+        "version": "0.1.13",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IAPLogLite",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IAPProviderManager",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IQKeyboardManager",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IWebContainer",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "KasaSDK",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MJRefresh",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "QMapKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RedI18N",
+        "version": "1.2.178",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RedNQE",
+        "version": "9.39.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "rn-resource-hermes-72",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sources",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TencentCloudHuiyanSDKFace",
+        "version": "8.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TencentRTCSDK",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TXFFmpeg",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TXSoundTouch",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XHSApplet",
+        "version": "4.25.11",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XHSPrivacyGuard",
+        "version": "1.0.16",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYAdsBase",
+        "version": "1.3.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYAdsBusiness",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYAdsSplash",
+        "version": "0.2.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYADVendorReturnManager",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYAGI",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYAlertCenter",
+        "version": "0.4.64",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYAlphaShare",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYAPIRoute",
+        "version": "2.1.261",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYApplicationModule",
+        "version": "0.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYASDKNoteCardComponent",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYAuthFlowKit",
+        "version": "1.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYAVCamera",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYAVKit",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYBarley",
+        "version": "0.2.103",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYBCIM",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYCanvas",
+        "version": "9.48.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYCMusicPlayer",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYCNYAtmosphereKit",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYCommentBar",
+        "version": "0.2.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYCommentUtils",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYComponentKit",
+        "version": "0.5.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYDeveloperKit",
+        "version": "0.7.151",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYDots",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYDotsAgentPage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYDotsBase",
+        "version": "1.0.12",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYDotsComponent",
+        "version": "1.0.16",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYEmojiConvert",
+        "version": "0.0.21",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYExploreModule",
+        "version": "1.6.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYFeedLandRecommend",
+        "version": "0.2.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYFoundation",
+        "version": "0.2.31",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYGlobalBusinessModules",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYGoodsDetail",
+        "version": "9.49.12",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYHomeModule",
+        "version": "0.1.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYHula",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYHybridJSEngine",
+        "version": "0.0.12",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYHybridModule",
+        "version": "0.5.308",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYImageCropKit",
+        "version": "0.2.38",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYiOSMathKit",
+        "version": "1.0.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYJavaScriptKit",
+        "version": "1.0.27",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYLiveKit",
+        "version": "0.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYLivePlayManager",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYLiveUIKit",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYLocalModule",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYMapBiz",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYMediaBrowser",
+        "version": "0.0.59",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYMediaFfmpeg",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYMenuButton",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYMerchantBridge",
+        "version": "1.0.41",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYMessageUIKit",
+        "version": "1.2.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYNegativeFeedback",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYNewUserPresent",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYNoteBasic",
+        "version": "0.2.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYNoteCardComponent",
+        "version": "0.0.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYNoteModule",
+        "version": "0.1.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYOldNoteModule",
+        "version": "0.0.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPBPhotoBrowser",
+        "version": "1.3.48",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPHBindPhoneManager",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPHBoard",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPHNotificationManager",
+        "version": "0.3.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPhotosKit",
+        "version": "0.1.120",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPhotosUIKit",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPHPhoneZonesViewController",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPHProfile",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPHSetting",
+        "version": "0.1.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPHUserList",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPMFileManager",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPodcastCore",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPodcastModule",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPOILocation",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPopMessageBox",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPostBeautyKit",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPostKit",
+        "version": "3.13.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPostParallelModule",
+        "version": "0.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPrivacy",
+        "version": "0.2.57",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYProAccountC2C",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYPullToRefresh",
+        "version": "0.2.36",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYQRCode",
+        "version": "0.1.78",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYRainbow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYRedLocation",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYRedMedia",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYResizableKit",
+        "version": "1.0.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYSearchBar",
+        "version": "0.3.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYSearchImageModule",
+        "version": "0.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYSearchKit",
+        "version": "0.21.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYSearchPlaceholderManager",
+        "version": "0.0.13",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYSecurity",
+        "version": "1.1.40",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYSemiModalPresenter",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYSettlement",
+        "version": "1.0.286",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYSharingUIKit",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYShopExtension",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYShopping",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYSparkModule",
+        "version": "2.1.17",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYSurpriceBox",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYTagOverlayer",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYTeenagerModeKit",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYTesseract",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYTextKit",
+        "version": "0.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYTipsManager",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYTradeDiversion",
+        "version": "1.0.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYTradeFMP",
+        "version": "1.0.51",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYTXLivePusherFramework",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYUIKit",
+        "version": "1.0.89",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYUITheme",
+        "version": "0.2.334",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYUniCore",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYUserAvatar",
+        "version": "0.3.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYUserGrowth",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYUserProfileSetting",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYVideoCast",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYVideoDetail",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYVision",
+        "version": "0.0.243",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XYWidgetExtension",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos27.1",
+      "xcode": "27.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 12
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Location",
+      "Background Processing",
+      "Background Push",
+      "Communication Notifications",
+      "HealthKit",
+      "Keychain Sharing",
+      "NFC",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit",
+      "Time-Sensitive Notifications",
+      "Wallet passes"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 16,
+      "collected_data_types": [
+        "DeviceID",
+        "ProductInteraction"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

@@ -1,4 +1,4 @@
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/logo/logo-dark.svg"><img src="../../../../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../../../../README.md) / [TIKTOK PTE. LTD.](../../../../companies/tiktok-pte-ltd.md) / TikTok Pro</sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/logo/logo-dark.svg"><img src="../../../../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../../../../README.md) / [TikTok Pte. Ltd.](../../../../companies/tiktok-pte-ltd.md) / TikTok Pro</sub>
 
 <img src="../../../../assets/icons/android/com.ss.android.ugc.tiktok.pro.png" width="96" height="96" alt="TikTok Pro icon">
 
@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| Company | [TIKTOK PTE. LTD.](../../../../companies/tiktok-pte-ltd.md) |
+| Company | [TikTok Pte. Ltd.](../../../../companies/tiktok-pte-ltd.md) |
 | Store id | `com.ss.android.ugc.tiktok.pro` |
 | Bundle / package id | `com.ss.android.ugc.tiktok.pro` |
 | Latest version | 47.4.3 (analysed 2026-11-01) |

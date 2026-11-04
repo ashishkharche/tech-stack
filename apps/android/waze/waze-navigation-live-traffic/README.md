@@ -1,4 +1,4 @@
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/logo/logo-dark.svg"><img src="../../../../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../../../../README.md) / [waze](../../../../companies/waze.md) / Waze Navigation & Live Traffic</sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/logo/logo-dark.svg"><img src="../../../../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../../../../README.md) / [Waze](../../../../companies/waze.md) / Waze Navigation & Live Traffic</sub>
 
 <img src="../../../../assets/icons/android/com.waze.png" width="96" height="96" alt="Waze Navigation &amp; Live Traffic icon">
 
@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| Company | [waze](../../../../companies/waze.md) |
+| Company | [Waze](../../../../companies/waze.md) |
 | Store id | `com.waze` |
 | Bundle / package id | `com.waze` |
 | Latest version | 5.19.90.900 (analysed 2026-06-19) |

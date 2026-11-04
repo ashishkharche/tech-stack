@@ -1,4 +1,4 @@
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/logo/logo-dark.svg"><img src="../../../../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../../../../README.md) / [Suno Inc.](../../../../companies/suno-inc.md) / Suno</sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/logo/logo-dark.svg"><img src="../../../../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../../../../README.md) / [Suno, Inc.](../../../../companies/suno-inc.md) / Suno</sub>
 
 <img src="../../../../assets/icons/ios/6480136315.png" width="96" height="96" alt="Suno icon">
 
@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| Company | [Suno Inc.](../../../../companies/suno-inc.md) |
+| Company | [Suno, Inc.](../../../../companies/suno-inc.md) |
 | Store id | `6480136315` |
 | Bundle / package id | `ai.suno.ios` |
 | Latest version | 1.93.0 (analysed 2026-10-24) |

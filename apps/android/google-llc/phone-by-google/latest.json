@@ -1,0 +1,310 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Phone by Google",
+    "slug": "phone-by-google",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.google.android.dialer",
+    "bundle_id": "com.google.android.dialer",
+    "active": false,
+    "company": {
+      "name": "Google LLC",
+      "slug": "google-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "224.0.924927661-go",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:12Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 15,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide",
+      "Jetpack Compose",
+      "Lottie",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Google)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Maps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 30",
+      "min_sdk": "30",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Approximate location",
+      "Bluetooth",
+      "Bluetooth (connect)",
+      "Camera",
+      "Contacts (read)",
+      "Contacts (write)",
+      "Draw over other apps",
+      "Foreground service",
+      "Foreground service: microphone",
+      "Microphone",
+      "NFC",
+      "Notifications",
+      "Phone / carrier info",
+      "Precise location",
+      "Query all installed apps",
+      "SMS (receive)",
+      "SMS (send)",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_NOTIFICATION_POLICY",
+        "android.permission.ACCESS_RCS_USER_CAPABILITY_EXCHANGE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ALLOW_ANY_CODEC_FOR_PLAYBACK",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.BLUETOOTH_CONNECT",
+        "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+        "android.permission.BYPASS_CONCURRENT_RECORD_AUDIO_RESTRICTION",
+        "android.permission.CALL_PHONE",
+        "android.permission.CAMERA",
+        "android.permission.CAPTURE_AUDIO_OUTPUT",
+        "android.permission.CAPTURE_VOICE_COMMUNICATION_OUTPUT",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.CONNECTIVITY_USE_RESTRICTED_NETWORKS",
+        "android.permission.CONTROL_INCALL_EXPERIENCE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+        "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_ACCOUNTS_PRIVILEGED",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.HIGH_SAMPLING_RATE_SENSORS",
+        "android.permission.INTERACT_ACROSS_USERS",
+        "android.permission.INTERNET",
+        "android.permission.LOCATION_BYPASS",
+        "android.permission.MANAGE_ACCOUNTS",
+        "android.permission.MANAGE_OWN_CALLS",
+        "android.permission.MODIFY_AUDIO_ROUTING",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.MODIFY_PHONE_STATE",
+        "android.permission.NFC",
+        "android.permission.PERSONAL_CONTEXT_HOST_INSIGHT_SURFACE",
+        "android.permission.PERSONAL_CONTEXT_PUBLISH_HINTS",
+        "android.permission.PERSONAL_CONTEXT_RECEIVE_INSIGHTS",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.POST_PROMOTED_NOTIFICATIONS",
+        "android.permission.QUERY_ADVANCED_PROTECTION_MODE",
+        "android.permission.QUERY_ALL_PACKAGES",
+        "android.permission.READ_APP_BADGE",
+        "android.permission.READ_CALL_LOG",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_PHONE_NUMBERS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.READ_PRIVILEGED_PHONE_STATE",
+        "android.permission.READ_PROFILE",
+        "android.permission.READ_SYNC_SETTINGS",
+        "android.permission.READ_SYSTEM_GRAMMATICAL_GENDER",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.SATELLITE_COMMUNICATION",
+        "android.permission.SEND_SMS",
+        "android.permission.STATUS_BAR",
+        "android.permission.STOP_APP_SWITCHES",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_CALL_LOG",
+        "android.permission.WRITE_CONTACTS",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WRITE_SECURE_SETTINGS",
+        "android.permission.WRITE_SETTINGS",
+        "com.anddoes.launcher.permission.UPDATE_COUNT",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.android.voicemail.permission.ADD_VOICEMAIL",
+        "com.android.voicemail.permission.READ_VOICEMAIL",
+        "com.android.voicemail.permission.WRITE_VOICEMAIL",
+        "com.cequint.ecid.CALLER_ID_LOOKUP",
+        "com.google.android.apps.aicore.service.BIND_SERVICE",
+        "com.google.android.apps.pixel.support.LAUNCH_SUPPORT",
+        "com.google.android.apps.tycho#com.google.android.ims.providers.ACCESS_DATA",
+        "com.google.android.dialer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.google.android.ims.receivers.FEEDBACK_SETTING",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "com.htc.launcher.permission.READ_SETTINGS",
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        "com.huawei.android.launcher.permission.READ_SETTINGS",
+        "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+        "com.majeur.launcher.permission.UPDATE_BADGE",
+        "com.motorola.android.permission.USERPREFERREDSIM",
+        "com.motorola.incallui.permission.INCOMING_CALL_VISIBILITY_CHANGED",
+        "com.oppo.launcher.permission.READ_SETTINGS",
+        "com.oppo.launcher.permission.WRITE_SETTINGS",
+        "com.sec.android.provider.badge.permission.READ",
+        "com.sec.android.provider.badge.permission.WRITE",
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:21:03Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "Jetpack Compose declarative UI",
+          "detail": "Renders with Jetpack Compose, Material Components, Lottie animations and Glide image loading for modern Android UI."
+        },
+        {
+          "theme": "sdks",
+          "title": "Google SDK stack dominance",
+          "detail": "Pulls in Google Play services, Firebase, Cronet, Maps, Auth, Media3 ExoPlayer, Coroutines and Room from 15 third-party SDKs."
+        },
+        {
+          "theme": "platform",
+          "title": "Telephony and app integration",
+          "detail": "Registers tel/sms/voicemail schemes, queries Maps/Contacts/Tachyon/Safetycore apps, and declares 37 activities plus 23 services."
+        }
+      ]
+    }
+  ]
+}

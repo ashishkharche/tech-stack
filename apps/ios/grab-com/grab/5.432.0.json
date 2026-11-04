@@ -1,0 +1,656 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Grab: Taxi Ride, Food Delivery",
+    "slug": "grab",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "647268330",
+    "bundle_id": "com.grabtaxi.iphone",
+    "active": true,
+    "company": {
+      "name": "Grab.com",
+      "slug": "grab-com",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "5.432.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T20:33:25Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-13T00:38:13Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 79,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "Core NFC",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "PencilKit",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyer",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppsFlyerLib",
+        "version": "6.17.7",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Branch",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAEMKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKCoreKit",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseAnalytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurement",
+        "version": "11.11.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurementIdentitySupport",
+        "version": "11.11.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAdsOnDeviceConversion",
+        "version": "3.1.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMobileAds",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Datadog",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Stripe",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKLoginKit",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "UserMessagingPlatform",
+        "version": "3.1.0",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "Alamofire",
+        "version": "5.9.0",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMaps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxBlocking",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxCocoa",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxSwift",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "IndoorMapSDK",
+        "version": "0.5.8",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "static",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "VoipKit",
+        "version": null,
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "CredoAppTelephony",
+        "version": "3.0.1",
+        "category": "telephony",
+        "confidence": "observed"
+      },
+      {
+        "name": "GKYC",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "MocaKYC",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "RecaptchaEnterprise",
+        "version": "1.0",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "AudioRecordingKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ContactManager",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CredoAppApplication",
+        "version": "3.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CredoAppCalendarEvents",
+        "version": "3.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CredoAppContacts",
+        "version": "3.3.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CredoAppCore",
+        "version": "3.11.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CredoAppLocation",
+        "version": "3.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CredoAppMedia",
+        "version": "3.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GeoSmartKit",
+        "version": "1.3.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GSelfieSDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Hedwig",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HomeGrownNavigation",
+        "version": "1.6.22",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JedAIAppKit",
+        "version": "5.51.15",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JedAIConfigKit",
+        "version": "5.51.15",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JedAIGeofenceKit",
+        "version": "5.51.15",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JedAIJEMAKit",
+        "version": "5.51.15",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JedAIKit",
+        "version": "5.51.15",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JedAILambdaKit",
+        "version": "5.51.15",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JedAIMetricsKit",
+        "version": "5.51.15",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JedAIPOIKit",
+        "version": "5.51.15",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JedAIReportKit",
+        "version": "5.51.15",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JedAISignalKit",
+        "version": "5.51.15",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JedAIUIKit",
+        "version": "5.51.15",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "KampungMap",
+        "version": "2.15.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "KartaPOI",
+        "version": "2.2.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LocationKit",
+        "version": "1.2.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MapComponentKit",
+        "version": "2.10.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MegLiveDetect",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MegLiveV5Detect",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MegLiveV5Manager",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MessageCenterSDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MGFaceIDBaseKit",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SafetyReporting",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SafetyUIKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ScannerKit",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.1",
+      "xcode": "26.1.1",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 12
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Location",
+      "Background Processing",
+      "Background Push",
+      "Bluetooth (central)",
+      "Bluetooth (peripheral)",
+      "Communication Notifications",
+      "Keychain Sharing",
+      "NFC",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "Time-Sensitive Notifications",
+      "VoIP",
+      "Wallet passes"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 21,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "BrowsingHistory",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CreditInfo",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "EmailsOrTextMessages",
+        "Fitness",
+        "Head",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherFinancialInfo",
+        "OtherUsageData",
+        "OtherUserContactInfo",
+        "OtherUserContent",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "PhysicalAddress",
+        "PreciseLocation",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

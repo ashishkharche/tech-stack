@@ -1,6 +1,6 @@
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/logo/logo-dark.svg"><img src="../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../README.md) / [Companies](README.md) / 杭州深度求索人工智能基础技术研究有限公司</sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/logo/logo-dark.svg"><img src="../assets/logo/logo-light.svg" width="14" height="14" alt=""></picture> [Tech Stack](../README.md) / [Companies](README.md) / DeepSeek</sub>
 
-# 杭州深度求索人工智能基础技术研究有限公司
+# DeepSeek
 
 The company name is the developer name on the store listing.
 

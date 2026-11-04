@@ -38,10 +38,12 @@ inspected for languages, frameworks, SDKs, platform targets, capabilities and pr
 - **`inferred[]` is model-written.** Headlines and insights were written by a language model from the
   detected signals and are labelled with their method. Treat them as commentary, not measurement.
 - **Inactive apps** (`app.active: false`) are no longer tracked. Their history stays here.
-- **Companies** use the developer name on the store listing. When the source has none, the name comes
-  from `data/company-sources.csv`, which keeps the store source for each app (the iTunes Lookup
-  `artistName` or the Google Play listing's developer). Names are never guessed: an app with no verified
-  company is left out, and the build fails on any blank or placeholder company.
+- **Companies** use the developer name on the store listing, exactly as shown there: the iTunes Lookup
+  `artistName` for iOS (the developer shown under the app name; it can differ from the "Seller") and the
+  Google Play listing's developer for Android. A store can spell a company differently per platform, and
+  that spelling is kept. `data/company-sources.csv` holds the live-checked name and its source for every
+  app; it overrides the source record on every export and regenerate. Names are never guessed: an app with
+  no verified company is left out, and the build fails on any blank or placeholder company.
 - **App icons** come from the public store listings (iTunes Lookup `artworkUrl512` for iOS, the Google
   Play listing for Android), cached at 128 px and given the same rounded corners. Each icon's source is
   kept in `data/icon-sources.csv`. An app without a verified icon is left out instead of showing a
