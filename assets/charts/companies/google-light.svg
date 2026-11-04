@@ -4,42 +4,42 @@
 <g transform="translate(20 20)">
 <text x="125.16" y="20" font-size="13" text-anchor="end" fill="#090A0B">Other</text>
 <rect x="137.2" y="10" width="432.8" height="14" rx="3" fill="#090A0B"/>
-<text x="578.0" y="20" font-size="13" fill="#4D5755">106</text>
+<text x="578.0" y="20" font-size="13" fill="#4D5755">107</text>
 <text x="125.16" y="42" font-size="13" text-anchor="end" fill="#090A0B">UI and rendering</text>
-<rect x="137.2" y="32" width="171.5" height="14" rx="3" fill="#090A0B"/>
-<text x="316.7" y="42" font-size="13" fill="#4D5755">42</text>
+<rect x="137.2" y="32" width="169.9" height="14" rx="3" fill="#090A0B"/>
+<text x="315.1" y="42" font-size="13" fill="#4D5755">42</text>
 <text x="125.16" y="64" font-size="13" text-anchor="end" fill="#090A0B">Networking</text>
-<rect x="137.2" y="54" width="114.3" height="14" rx="3" fill="#090A0B"/>
-<text x="259.5" y="64" font-size="13" fill="#4D5755">28</text>
+<rect x="137.2" y="54" width="113.3" height="14" rx="3" fill="#090A0B"/>
+<text x="258.4" y="64" font-size="13" fill="#4D5755">28</text>
 <text x="125.16" y="86" font-size="13" text-anchor="end" fill="#090A0B">Sign-in and auth</text>
-<rect x="137.2" y="76" width="81.7" height="14" rx="3" fill="#090A0B"/>
-<text x="226.8" y="86" font-size="13" fill="#4D5755">20</text>
+<rect x="137.2" y="76" width="80.9" height="14" rx="3" fill="#090A0B"/>
+<text x="226.1" y="86" font-size="13" fill="#4D5755">20</text>
 <text x="125.16" y="108" font-size="13" text-anchor="end" fill="#090A0B">Firebase</text>
-<rect x="137.2" y="98" width="81.7" height="14" rx="3" fill="#090A0B"/>
-<text x="226.8" y="108" font-size="13" fill="#4D5755">20</text>
+<rect x="137.2" y="98" width="80.9" height="14" rx="3" fill="#090A0B"/>
+<text x="226.1" y="108" font-size="13" fill="#4D5755">20</text>
 <text x="125.16" y="130" font-size="13" text-anchor="end" fill="#090A0B">Ads</text>
-<rect x="137.2" y="120" width="77.6" height="14" rx="3" fill="#090A0B"/>
-<text x="222.7" y="130" font-size="13" fill="#4D5755">19</text>
+<rect x="137.2" y="120" width="76.9" height="14" rx="3" fill="#090A0B"/>
+<text x="222.0" y="130" font-size="13" fill="#4D5755">19</text>
 <text x="125.16" y="152" font-size="13" text-anchor="end" fill="#090A0B">Analytics</text>
-<rect x="137.2" y="142" width="44.9" height="14" rx="3" fill="#090A0B"/>
-<text x="190.1" y="152" font-size="13" fill="#4D5755">11</text>
+<rect x="137.2" y="142" width="44.5" height="14" rx="3" fill="#090A0B"/>
+<text x="189.7" y="152" font-size="13" fill="#4D5755">11</text>
 <text x="125.16" y="174" font-size="13" text-anchor="end" fill="#090A0B">Apple frameworks</text>
-<rect x="137.2" y="164" width="20.4" height="14" rx="3" fill="#090A0B"/>
-<text x="165.6" y="174" font-size="13" fill="#4D5755">5</text>
+<rect x="137.2" y="164" width="20.2" height="14" rx="3" fill="#090A0B"/>
+<text x="165.4" y="174" font-size="13" fill="#4D5755">5</text>
 <text x="125.16" y="196" font-size="13" text-anchor="end" fill="#090A0B">Media</text>
-<rect x="137.2" y="186" width="20.4" height="14" rx="3" fill="#090A0B"/>
-<text x="165.6" y="196" font-size="13" fill="#4D5755">5</text>
+<rect x="137.2" y="186" width="20.2" height="14" rx="3" fill="#090A0B"/>
+<text x="165.4" y="196" font-size="13" fill="#4D5755">5</text>
 <text x="125.16" y="218" font-size="13" text-anchor="end" fill="#090A0B">Serialization</text>
-<rect x="137.2" y="208" width="16.3" height="14" rx="3" fill="#090A0B"/>
-<text x="161.5" y="218" font-size="13" fill="#4D5755">4</text>
-<text x="125.16" y="240" font-size="13" text-anchor="end" fill="#090A0B">Maps and location</text>
-<rect x="137.2" y="230" width="8.2" height="14" rx="3" fill="#090A0B"/>
-<text x="153.3" y="240" font-size="13" fill="#4D5755">2</text>
-<text x="125.16" y="262" font-size="13" text-anchor="end" fill="#090A0B">Storage</text>
-<rect x="137.2" y="252" width="8.2" height="14" rx="3" fill="#090A0B"/>
+<rect x="137.2" y="208" width="16.2" height="14" rx="3" fill="#090A0B"/>
+<text x="161.3" y="218" font-size="13" fill="#4D5755">4</text>
+<text x="125.16" y="240" font-size="13" text-anchor="end" fill="#090A0B">Storage</text>
+<rect x="137.2" y="230" width="12.1" height="14" rx="3" fill="#090A0B"/>
+<text x="157.3" y="240" font-size="13" fill="#4D5755">3</text>
+<text x="125.16" y="262" font-size="13" text-anchor="end" fill="#090A0B">Maps and location</text>
+<rect x="137.2" y="252" width="8.1" height="14" rx="3" fill="#090A0B"/>
 <text x="153.3" y="262" font-size="13" fill="#4D5755">2</text>
 <text x="125.16" y="284" font-size="13" text-anchor="end" fill="#090A0B">Messaging and push</text>
-<rect x="137.2" y="274" width="4.1" height="14" rx="3" fill="#090A0B"/>
+<rect x="137.2" y="274" width="4.0" height="14" rx="3" fill="#090A0B"/>
 <text x="149.2" y="284" font-size="13" fill="#4D5755">1</text>
 </g>
 </svg>

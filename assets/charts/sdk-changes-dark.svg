@@ -22,46 +22,46 @@
 <text x="375.6" y="97" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
 <rect x="478.7" y="84" width="194.2" height="16" rx="3" fill="#F1F6F3"/>
 <text x="678.9" y="97" font-size="12" fill="#A9B2BC">4</text>
-<text x="145.44" y="122" font-size="13" text-anchor="end" fill="#F1F6F3">Firebase Messaging</text>
+<text x="145.44" y="122" font-size="13" text-anchor="end" fill="#F1F6F3">Cronet</text>
 <rect x="478.7" y="109" width="194.2" height="16" rx="3" fill="#F1F6F3"/>
 <text x="678.9" y="122" font-size="12" fill="#A9B2BC">4</text>
-<text x="145.44" y="147" font-size="13" text-anchor="end" fill="#F1F6F3">Credential Manager</text>
-<rect x="478.7" y="134" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
-<text x="630.4" y="147" font-size="12" fill="#A9B2BC">3</text>
-<text x="145.44" y="172" font-size="13" text-anchor="end" fill="#F1F6F3">Cronet</text>
-<rect x="478.7" y="159" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
-<text x="630.4" y="172" font-size="12" fill="#A9B2BC">3</text>
-<text x="145.44" y="197" font-size="13" text-anchor="end" fill="#F1F6F3">DatadogCore</text>
+<text x="145.44" y="147" font-size="13" text-anchor="end" fill="#F1F6F3">Firebase Messaging</text>
+<rect x="478.7" y="134" width="194.2" height="16" rx="3" fill="#F1F6F3"/>
+<text x="678.9" y="147" font-size="12" fill="#A9B2BC">4</text>
+<text x="145.44" y="172" font-size="13" text-anchor="end" fill="#F1F6F3">MaterialM3CTextField</text>
+<rect x="478.7" y="159" width="194.2" height="16" rx="3" fill="#F1F6F3"/>
+<text x="678.9" y="172" font-size="12" fill="#A9B2BC">4</text>
+<text x="145.44" y="197" font-size="13" text-anchor="end" fill="#F1F6F3">Auth0</text>
 <rect x="381.6" y="184" width="97.1" height="16" rx="3" fill="#5F6A6C"/>
 <text x="375.6" y="197" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
 <rect x="478.7" y="184" width="48.5" height="16" rx="3" fill="#F1F6F3"/>
 <text x="533.3" y="197" font-size="12" fill="#A9B2BC">1</text>
-<text x="145.44" y="222" font-size="13" text-anchor="end" fill="#F1F6F3">FirebaseCore</text>
-<rect x="430.2" y="209" width="48.5" height="16" rx="3" fill="#5F6A6C"/>
-<text x="424.2" y="222" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
-<rect x="478.7" y="209" width="97.1" height="16" rx="3" fill="#F1F6F3"/>
-<text x="581.8" y="222" font-size="12" fill="#A9B2BC">2</text>
-<text x="145.44" y="247" font-size="13" text-anchor="end" fill="#F1F6F3">libphonenumber</text>
+<text x="145.44" y="222" font-size="13" text-anchor="end" fill="#F1F6F3">Credential Manager</text>
+<rect x="478.7" y="209" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
+<text x="630.4" y="222" font-size="12" fill="#A9B2BC">3</text>
+<text x="145.44" y="247" font-size="13" text-anchor="end" fill="#F1F6F3">Cronet (Google)</text>
 <rect x="478.7" y="234" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
 <text x="630.4" y="247" font-size="12" fill="#A9B2BC">3</text>
-<text x="145.44" y="272" font-size="13" text-anchor="end" fill="#F1F6F3">Lodash</text>
-<rect x="430.2" y="259" width="48.5" height="16" rx="3" fill="#5F6A6C"/>
-<text x="424.2" y="272" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
-<rect x="478.7" y="259" width="97.1" height="16" rx="3" fill="#F1F6F3"/>
-<text x="581.8" y="272" font-size="12" fill="#A9B2BC">2</text>
-<text x="145.44" y="297" font-size="13" text-anchor="end" fill="#F1F6F3">Mapbox</text>
-<rect x="478.7" y="284" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
-<text x="630.4" y="297" font-size="12" fill="#A9B2BC">3</text>
-<text x="145.44" y="322" font-size="13" text-anchor="end" fill="#F1F6F3">MaterialM3CTextField</text>
+<text x="145.44" y="272" font-size="13" text-anchor="end" fill="#F1F6F3">DatadogCore</text>
+<rect x="381.6" y="259" width="97.1" height="16" rx="3" fill="#5F6A6C"/>
+<text x="375.6" y="272" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
+<rect x="478.7" y="259" width="48.5" height="16" rx="3" fill="#F1F6F3"/>
+<text x="533.3" y="272" font-size="12" fill="#A9B2BC">1</text>
+<text x="145.44" y="297" font-size="13" text-anchor="end" fill="#F1F6F3">FirebaseCore</text>
+<rect x="430.2" y="284" width="48.5" height="16" rx="3" fill="#5F6A6C"/>
+<text x="424.2" y="297" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
+<rect x="478.7" y="284" width="97.1" height="16" rx="3" fill="#F1F6F3"/>
+<text x="581.8" y="297" font-size="12" fill="#A9B2BC">2</text>
+<text x="145.44" y="322" font-size="13" text-anchor="end" fill="#F1F6F3">libphonenumber</text>
 <rect x="478.7" y="309" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
 <text x="630.4" y="322" font-size="12" fill="#A9B2BC">3</text>
-<text x="145.44" y="347" font-size="13" text-anchor="end" fill="#F1F6F3">React Native</text>
-<rect x="381.6" y="334" width="97.1" height="16" rx="3" fill="#5F6A6C"/>
-<text x="375.6" y="347" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
-<rect x="478.7" y="334" width="48.5" height="16" rx="3" fill="#F1F6F3"/>
-<text x="533.3" y="347" font-size="12" fill="#A9B2BC">1</text>
-<text x="145.44" y="372" font-size="13" text-anchor="end" fill="#F1F6F3">react-native-svg</text>
-<rect x="333.1" y="359" width="145.6" height="16" rx="3" fill="#5F6A6C"/>
-<text x="327.1" y="372" font-size="12" text-anchor="end" fill="#A9B2BC">3</text>
+<text x="145.44" y="347" font-size="13" text-anchor="end" fill="#F1F6F3">Lodash</text>
+<rect x="430.2" y="334" width="48.5" height="16" rx="3" fill="#5F6A6C"/>
+<text x="424.2" y="347" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
+<rect x="478.7" y="334" width="97.1" height="16" rx="3" fill="#F1F6F3"/>
+<text x="581.8" y="347" font-size="12" fill="#A9B2BC">2</text>
+<text x="145.44" y="372" font-size="13" text-anchor="end" fill="#F1F6F3">Mapbox</text>
+<rect x="478.7" y="359" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
+<text x="630.4" y="372" font-size="12" fill="#A9B2BC">3</text>
 </g>
 </svg>

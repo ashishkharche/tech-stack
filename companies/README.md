@@ -2,11 +2,11 @@
 
 # Companies
 
-192 companies. Each name is the developer name on the store listing.
+194 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 27 | 85 |
+| <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 28 | 85 |
 | <img src="../assets/icons/android/com.google.android.gm.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/android/com.google.android.googlequicksearchbox.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/android/com.google.android.calendar.png" width="20" height="20" alt="Google Calendar icon"> <img src="../assets/icons/android/com.google.android.apps.dynamite.png" width="20" height="20" alt="Google Chat icon"> <img src="../assets/icons/android/com.android.chrome.png" width="20" height="20" alt="Google Chrome icon"> | [Google LLC](google-llc.md) | 21 | 0 | 21 | 27 | 41 |
 | <img src="../assets/icons/android/com.azure.authenticator.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/983156458.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/345323231.png" width="20" height="20" alt="Microsoft Bing Search icon"> <img src="../assets/icons/android/com.microsoft.bingwebmastertools.twa.png" width="20" height="20" alt="Microsoft Bing Webmaster Tools icon"> <img src="../assets/icons/ios/541164041.png" width="20" height="20" alt="Microsoft Copilot icon"> | [Microsoft Corporation](microsoft-corporation.md) | 20 | 8 | 12 | 26 | 249 |
 | <img src="../assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/454638411.png" width="20" height="20" alt="Messenger icon"> <img src="../assets/icons/android/com.facebook.stella.png" width="20" height="20" alt="Meta AI icon"> <img src="../assets/icons/ios/1558240027.png" width="20" height="20" alt="Meta AI icon"> | [Meta Platforms, Inc.](meta-platforms-inc.md) | 6 | 3 | 3 | 11 | 46 |
@@ -44,7 +44,7 @@
 | <img src="../assets/icons/ios/6752915724.png" width="20" height="20" alt="Kalo icon"> <img src="../assets/icons/ios/6813645709.png" width="20" height="20" alt="Workout Director icon"> | [Shelgaon Ltd](shelgaon-ltd.md) | 2 | 2 | 0 | 2 | 29 |
 | <img src="../assets/icons/ios/6670430706.png" width="20" height="20" alt="DramaWave icon"> <img src="../assets/icons/android/com.freereels.app.png" width="20" height="20" alt="FreeReels icon"> | [SKYWORK AI PTE.LTD.](skywork-ai-pte-ltd.md) | 2 | 1 | 1 | 2 | 124 |
 | <img src="../assets/icons/android/com.snapchat.android.png" width="20" height="20" alt="Snapchat icon"> <img src="../assets/icons/ios/447188370.png" width="20" height="20" alt="Snapchat icon"> | [Snap Inc](snap-inc.md) | 2 | 1 | 1 | 2 | 35 |
-| <img src="../assets/icons/android/ai.x.grok.png" width="20" height="20" alt="Grok icon"> <img src="../assets/icons/android/ai.x.grok.bot.png" width="20" height="20" alt="Grok Bot icon"> | [SpaceX Super Intelligence](spacex-super-intelligence.md) | 2 | 0 | 2 | 2 | 45 |
+| <img src="../assets/icons/android/ai.x.grok.png" width="20" height="20" alt="Grok icon"> <img src="../assets/icons/android/ai.x.grok.bot.png" width="20" height="20" alt="Grok Bot icon"> | [SpaceX Super Intelligence](spacex-super-intelligence.md) | 2 | 0 | 2 | 3 | 44 |
 | <img src="../assets/icons/android/com.suno.android.png" width="20" height="20" alt="Suno icon"> <img src="../assets/icons/ios/6480136315.png" width="20" height="20" alt="Suno icon"> | [Suno, Inc](suno-inc.md) | 2 | 1 | 1 | 2 | 67 |
 | <img src="../assets/icons/android/org.telegram.messenger.png" width="20" height="20" alt="Telegram icon"> <img src="../assets/icons/ios/686449807.png" width="20" height="20" alt="Telegram Messenger icon"> | [Telegram FZ-LLC](telegram-fz-llc.md) | 2 | 1 | 1 | 3 | 24 |
 | <img src="../assets/icons/android/com.einnovation.temu.png" width="20" height="20" alt="Temu icon"> <img src="../assets/icons/ios/1641486558.png" width="20" height="20" alt="Temu icon"> | [Temu](temu.md) | 2 | 1 | 1 | 3 | 50 |
@@ -59,6 +59,7 @@
 | <img src="../assets/icons/android/com.aa.android.png" width="20" height="20" alt="American Airlines icon"> | [American Airlines, Inc.](american-airlines-inc.md) | 1 | 0 | 1 | 1 | 32 |
 | <img src="../assets/icons/ios/6473753684.png" width="20" height="20" alt="Claude by Anthropic icon"> | [Anthropic PBC](anthropic-pbc.md) | 1 | 1 | 0 | 4 | 43 |
 | <img src="../assets/icons/ios/284993459.png" width="20" height="20" alt="Shazam icon"> | [Apple](apple.md) | 1 | 1 | 0 | 1 | 1 |
+| <img src="../assets/icons/android/co.astra_ai.app.twa.png" width="20" height="20" alt="Astra AI icon"> | [Astra AI](astra-ai.md) | 1 | 0 | 1 | 1 | 12 |
 | <img src="../assets/icons/android/com.audiomack.png" width="20" height="20" alt="Audiomack icon"> | [Audiomack Music Apps](audiomack-music-apps.md) | 1 | 0 | 1 | 1 | 51 |
 | <img src="../assets/icons/ios/382201985.png" width="20" height="20" alt="百度-AI智能搜索 icon"> | [Beijing Baidu Netcom Science & Technology Co.,Ltd](beijing-baidu-netcom-science-technology-co-ltd.md) | 1 | 1 | 0 | 1 | 188 |
 | <img src="../assets/icons/ios/432274380.png" width="20" height="20" alt="知乎 icon"> | [Beijing Zhizhetianxia Technology Co., Ltd.](beijing-zhizhetianxia-technology-co-ltd.md) | 1 | 1 | 0 | 1 | 214 |
@@ -193,6 +194,7 @@
 | <img src="../assets/icons/ios/1089294040.png" width="20" height="20" alt="Capital One Shopping icon"> | [Wikibuy, LLC](wikibuy-llc.md) | 1 | 1 | 0 | 1 | 22 |
 | <img src="../assets/icons/ios/741292507.png" width="20" height="20" alt="rednote icon"> | [Xingin](xingin.md) | 1 | 1 | 0 | 1 | 139 |
 | <img src="../assets/icons/android/com.yelp.android.png" width="20" height="20" alt="Yelp icon"> | [Yelp, Inc](yelp-inc.md) | 1 | 0 | 1 | 1 | 32 |
+| <img src="../assets/icons/ios/1644664646.png" width="20" height="20" alt="A101 icon"> | [YENİ MAĞAZACILIK ANONİM ŞİRKETİ](yeni-magazacilik-anonim-sirketi.md) | 1 | 1 | 0 | 1 | 51 |
 | <img src="../assets/icons/android/com.yum.kfc.png" width="20" height="20" alt="KFC India online ordering app icon"> | [Yum Brands Inc - KFC India Division](yum-brands-inc-kfc-india-division.md) | 1 | 0 | 1 | 1 | 45 |
 | <img src="../assets/icons/android/com.zelle.fmattendance.png" width="20" height="20" alt="Zelle Track icon"> | [Zelle Solutions](zelle-solutions.md) | 1 | 0 | 1 | 1 | 14 |
 | <img src="../assets/icons/ios/546505307.png" width="20" height="20" alt="Zoom Workplace icon"> | [Zoom Communications, Inc.](zoom-communications-inc.md) | 1 | 1 | 0 | 1 | 18 |

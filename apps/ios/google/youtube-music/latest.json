@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "9.22.2",
+  "version": "9.44.2",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-19T04:25:32Z",
+    "captured_at": "2026-11-04T20:23:02Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-04T20:55:49Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 17,
+    "sdk_count": 19,
     "languages": [
       "C/C++",
       "Metal (shaders)",
@@ -127,6 +127,12 @@
         "confidence": "observed"
       },
       {
+        "name": "GaeguNormal",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
         "name": "gRPC",
         "version": null,
         "category": "firebase",
@@ -185,14 +191,20 @@
         "version": null,
         "category": "other",
         "confidence": "observed"
+      },
+      {
+        "name": "MaterialM3CTextField",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
       }
     ],
     "platform": {
-      "min_os": "16.0",
+      "min_os": "17.0",
       "min_sdk": null,
       "target_sdk": null,
-      "build_sdk": "iphoneos26.2",
-      "xcode": "26.2",
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4.1",
       "device_families": [
         "iPhone",
         "iPad"
@@ -232,25 +244,5 @@
       "android_permissions": []
     }
   },
-  "inferred": [
-    {
-      "kind": "analysis",
-      "method": "model_written_summary_of_detected_signals",
-      "note": "Written by a language model from the analysis; treat as unverified.",
-      "generated_at": "2026-06-10T16:40:39Z",
-      "headline": "SwiftUI/UIKit iOS app with Metal shaders, on-device segmentation ML model, Firebase, GoogleCast, WidgetKit extensions and App Attest",
-      "insights": [
-        {
-          "theme": "ml_ai",
-          "title": "On-device segmentation ML model",
-          "detail": "Bundles ML model segmentation-512x512_aimatter-2023_07_23-v5748.f16, indicating on-device machine learning for image or video segmentation tasks."
-        },
-        {
-          "theme": "languages",
-          "title": "Swift with Metal shaders",
-          "detail": "Languages and runtimes include Swift, Objective-C, C/C++ and Metal (shaders); ships 12 Metal shader functions plus MetalKit framework for GPU compute or rendering."
-        }
-      ]
-    }
-  ]
+  "inferred": []
 }

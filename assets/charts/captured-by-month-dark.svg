@@ -24,9 +24,9 @@
 <rect x="587.0" y="141.5" width="46.0" height="15.8" rx="2" fill="#3DDC84"/>
 <text x="610.0" y="135.5" font-size="12" text-anchor="middle" fill="#A9B2BC">89</text>
 <text x="610.0" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-10</text>
-<rect x="720.3" y="169.1" width="46.0" height="30.9" rx="2" fill="#0091FF"/>
-<rect x="720.3" y="150.0" width="46.0" height="17.1" rx="2" fill="#3DDC84"/>
-<text x="743.3" y="144.0" font-size="12" text-anchor="middle" fill="#A9B2BC">76</text>
+<rect x="720.3" y="167.8" width="46.0" height="32.2" rx="2" fill="#0091FF"/>
+<rect x="720.3" y="147.4" width="46.0" height="18.4" rx="2" fill="#3DDC84"/>
+<text x="743.3" y="141.4" font-size="12" text-anchor="middle" fill="#A9B2BC">80</text>
 <text x="743.3" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-11</text>
 </g>
 </svg>

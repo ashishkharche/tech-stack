@@ -13,13 +13,13 @@
 | Company | [Google](../../../../companies/google.md) |
 | Store id | `1017492454` |
 | Bundle / package id | `com.google.ios.youtubemusic` |
-| Latest version | 9.22.2 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 17 |
+| Latest version | 9.44.2 (analysed 2026-11-04) |
+| Versions tracked | 2 |
+| SDKs in latest version | 19 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
-| Minimum OS | iOS 16.0 (built with Xcode 26.2, SDK iphoneos26.2) |
+| Minimum OS | iOS 17.0 (built with Xcode 26.4.1, SDK iphoneos26.4) |
 | Devices / ABIs | iPhone, iPad |
 | Localisations | 79 |
 | Capabilities | 11 |
@@ -30,7 +30,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/google/youtube-music-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/google/youtube-music-light.svg"></picture>
 
-- **Other** (7): CardboardSDK, ChronosSiriShortcutManager, GoogleKitDatePicker, GoogleS3KitVoiceSearch, GWACore, GWALocalization, MaterialContributionsSwitch
+- **Other** (8): CardboardSDK, ChronosSiriShortcutManager, GoogleKitDatePicker, GoogleS3KitVoiceSearch, GWACore, GWALocalization, MaterialContributionsSwitch, MaterialM3CTextField
 - **Sign-in and auth** (2): GoogleSignIn, SSOAuth
 - **Networking** (2): GoogleKitCore, GoogleKitWeb
 - **UI and rendering** (2): MaterialDialogs, MaterialSearch
@@ -38,6 +38,7 @@
 - **Analytics** (1): Facebook SDK
 - **Firebase** (1): gRPC
 - **Media** (1): GoogleCast
+- **Storage** (1): GaeguNormal
 
 <details>
 <summary>Frameworks (31)</summary>
@@ -57,13 +58,12 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 9.44.2 | 2026-11-04 |  | 19 | +2 / −0 | Yes | Yes | [9.44.2.json](9.44.2.json) |
 | 9.22.2 | 2026-06-19 |  | 17 |  | Yes | Yes | [9.22.2.json](9.22.2.json) |
 
-## Model-written summary
+### SDK changes between versions
 
-> SwiftUI/UIKit iOS app with Metal shaders, on-device segmentation ML model, Firebase, GoogleCast, WidgetKit extensions and App Attest
-
-<sub>Written by a language model from the detected signals (`inferred[]`). It is commentary, not measurement.</sub>
+- 9.22.2 → 9.44.2: added GaeguNormal, MaterialM3CTextField
 
 ---
 

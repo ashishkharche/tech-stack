@@ -13,15 +13,15 @@
 | Company | [SpaceX Super Intelligence](../../../../companies/spacex-super-intelligence.md) |
 | Store id | `ai.x.grok` |
 | Bundle / package id | `ai.x.grok` |
-| Latest version | 1.1.78-release.02 (analysed 2026-06-23) |
-| Versions tracked | 1 |
-| SDKs in latest version | 37 |
+| Latest version | 1.2.53-release.00 (analysed 2026-11-04) |
+| Versions tracked | 2 |
+| SDKs in latest version | 36 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Jetpack Compose, Material Components |
 | Build | Gradle (inferred), R8 / ProGuard (name obfuscation detected) |
-| Minimum OS | API 28, targets API 36 |
+| Minimum OS | API 29, targets API 36 |
 | Devices / ABIs | Android |
-| Capabilities | 16 |
+| Capabilities | 13 |
 | Declares tracking | Yes |
 | Tracked | Yes |
 
@@ -30,25 +30,25 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/spacex-super-intelligence/grok-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/spacex-super-intelligence/grok-light.svg"></picture>
 
 - **UI and rendering** (6): AndroidSVG, Coil, Jetpack Compose, jLaTeXMath, Markwon, Material Components
+- **Networking** (5): Cronet, Cronet (Google), Ktor, OkHttp, Retrofit
 - **Analytics** (4): AppsFlyer, Firebase Analytics, Google App Measurement, Mixpanel
-- **Networking** (4): Ktor, OkHttp, Retrofit, Volley
-- **Sign-in and auth** (3): Auth0, Credential Manager, Google Sign-In / Auth
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
 - **Messaging and push** (3): Braze, Firebase Messaging, Intercom
-- **Anti-fraud and integrity** (2): Play Integrity, RootBeer
+- **Sign-in and auth** (2): Credential Manager, Google Sign-In / Auth
 - **Crash and performance** (2): Firebase Crashlytics, Firebase Performance
 - **Maps and location** (2): Google Location, Google Maps
+- **Payments** (2): Google Play Billing, Plaid
 - **Storage** (2): DataStore, Room
-- **Voice** (2): LiveKit, WebRTC
+- **Anti-fraud and integrity** (1): Play Integrity
 - **Feature flags** (1): Firebase Remote Config
 - **Media** (1): Media3 (ExoPlayer)
-- **Payments** (1): Google Play Billing
+- **ML and AI** (1): ML Kit
 - **Reactive and async** (1): Kotlin Coroutines
 
 <details>
-<summary>Capabilities (16)</summary>
+<summary>Capabilities (13)</summary>
 
-Advertising ID, Approximate location, Biometric auth, Bluetooth, Bluetooth (connect), Camera, Fingerprint auth, Foreground service, Foreground service: media playback, Foreground service: microphone, Media: images, Microphone, Notifications, Precise location, Storage (read), Storage (write)
+Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, Foreground service, Foreground service: media playback, Foreground service: microphone, Media: images, Microphone, Notifications, Storage (read), Storage (write)
 
 </details>
 
@@ -56,7 +56,12 @@ Advertising ID, Approximate location, Biometric auth, Bluetooth, Bluetooth (conn
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1.2.53-release.00 | 2026-11-04 | 2026-10-29 | 36 | +4 / −5 | Yes | No | [1.2.53-release.00.json](1.2.53-release.00.json) |
 | 1.1.78-release.02 | 2026-06-23 |  | 37 |  | Yes | No | [1.1.78-release.02.json](1.1.78-release.02.json) |
+
+### SDK changes between versions
+
+- 1.1.78-release.02 → 1.2.53-release.00: added Cronet, Cronet (Google), ML Kit, Plaid; removed Auth0, LiveKit, RootBeer, Volley, WebRTC
 
 ---
 
