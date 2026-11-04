@@ -1,0 +1,32 @@
+name: Validate data
+
+# Schema, safety, cross-file consistency and README stats, plus a check that every generated file
+# is up to date with apps/. Runs on pushes and pull requests; needs no secrets or network beyond pip.
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install jsonschema
+      - name: Schema
+        run: python3 scripts/validate.py
+      - name: Safety check
+        run: python3 scripts/safety_check.py
+      - name: Cross-file consistency and README stats
+        run: python3 scripts/check_consistency.py
+      - name: Generated files are up to date
+        run: |
+          python3 scripts/generate.py
+          git status --porcelain -- . ':(exclude)*.png'
+          test -z "$(git status --porcelain -- . ':(exclude)*.png')"

@@ -19,6 +19,7 @@ store listing when a company name or icon is involved.
   python3 scripts/export.py --regenerate-only
   python3 scripts/validate.py        # needs: pip install jsonschema
   python3 scripts/safety_check.py
+  python3 scripts/check_consistency.py
   ```
 
 - Only public store builds belong here. Pre-release channels, non-store builds, network hosts,

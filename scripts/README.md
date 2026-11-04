@@ -15,6 +15,7 @@ All standard-library Python 3.10+, except `validate.py`, which needs `pip instal
 | `stacklib.py` | Shared helpers: API client, version compare, JSON writer, `SCHEMA_VERSION`. |
 | `leakscan.py` | URL / hostname / email / key-like patterns used by the transform and the safety check. |
 | `validate.py` | Validates every version file against `schema/app-version.schema.json`. |
+| `check_consistency.py` | Checks that `index.csv`, `sdks.csv`, every `latest.json`, `companies/` and the README headline numbers agree with the version files. Standard library only. |
 | `safety_check.py` | Fails if the export has non-public versions, URLs, hostnames, emails, key-like strings, source-site brand names or never-export fields. |
 
 ## Running an export against the API
