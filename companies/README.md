@@ -186,7 +186,7 @@
 | <img src="../assets/icons/android/com.yum.kfc.png" width="20" height="20" alt="KFC India online ordering app icon"> | [Yum Brands Inc - KFC India Division](yum-brands-inc-kfc-india-division.md) | 1 | 0 | 1 | 1 | 45 |
 | <img src="../assets/icons/android/com.zelle.fmattendance.png" width="20" height="20" alt="Zelle Track icon"> | [Zelle Solutions](zelle-solutions.md) | 1 | 0 | 1 | 1 | 14 |
 | <img src="../assets/icons/ios/546505307.png" width="20" height="20" alt="Zoom Workplace icon"> | [Zoom Communications, Inc.](zoom-communications-inc.md) | 1 | 1 | 0 | 1 | 18 |
-| <img src="../assets/icons/ios/1044283059.png" width="20" height="20" alt="Pinduoduo icon"> | [上海寻梦信息技术有限公司](company-526fbdd8cb.md) | 1 | 1 | 0 | 2 | 71 |
+| <img src="../assets/icons/ios/1044283059.png" width="20" height="20" alt="Pinduoduo icon"> | [上海寻梦信息技术有限公司](shanghai-xunmeng-information-technology-co-ltd.md) | 1 | 1 | 0 | 2 | 71 |
 | <img src="../assets/icons/android/com.xingin.xhs.png" width="20" height="20" alt="rednote icon"> | [行吟信息科技(上海)有限公司](xingin-information-technology-shanghai-co-ltd.md) | 1 | 0 | 1 | 1 | 35 |
 
 ---

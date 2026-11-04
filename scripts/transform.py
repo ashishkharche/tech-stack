@@ -10,7 +10,7 @@ from __future__ import annotations
 import re
 
 from leakscan import unsafe_text
-from companies import company_slug, is_placeholder, resolve as resolve_company
+from companies import bundle_publisher, company_slug, is_placeholder, resolve as resolve_company
 from stacklib import SCHEMA_VERSION, iso_utc, slugify
 
 COMPANY_SOURCE = "store_listing_developer"
@@ -173,7 +173,7 @@ def build_doc(rec: dict) -> tuple[dict, dict]:
     # Without one, the verified mapping in data/company-sources.csv is used. With neither, the company
     # stays unknown and export.py leaves the app out.
     if dev and not is_placeholder(dev):
-        company = {"name": dev, "slug": app.get("developer_slug") or company_slug(dev),
+        company = {"name": dev, "slug": app.get("developer_slug") or company_slug(dev, app.get("seller"), bundle_publisher(app.get("bundle_id"))),
                    "source": COMPANY_SOURCE, "unknown": False}
     else:
         company = resolve_company(platform, rec["app_id"]) or {"name": None, "slug": "_unknown", "source": None, "unknown": True}

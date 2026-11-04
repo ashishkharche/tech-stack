@@ -38,11 +38,28 @@ def is_placeholder(name) -> bool:
     return name is None or not isinstance(name, str) or bool(PLACEHOLDER_RE.fullmatch(name.strip()))
 
 
-def company_slug(name: str) -> str:
-    """A folder-safe slug. Names with no Latin letters (e.g. Chinese company names) get a stable
-    hash-based slug instead of falling back to an unknown bucket."""
-    s = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
-    s = re.sub(r"[^A-Za-z0-9]+", "-", s).strip("-").lower()
+def _ascii_slug(s: str) -> str:
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
+    return re.sub(r"[^A-Za-z0-9]+", "-", s).strip("-").lower()
+
+
+def bundle_publisher(bundle_id: str | None) -> str | None:
+    """The publisher part of a reverse-DNS bundle id: com.xunmeng.pinduoduo -> xunmeng."""
+    parts = [p for p in (bundle_id or "").split(".") if p]
+    return parts[1] if len(parts) >= 3 else None
+
+
+def company_slug(name: str, *hints: str | None) -> str:
+    """A readable, folder-safe slug. A name with no Latin letters (e.g. a Chinese company name) takes
+    its slug from the first hint that has some: the store's Latin-script seller name, then the
+    publisher part of the bundle id. Only when none of those exist is a stable hash used."""
+    s = _ascii_slug(name)
+    if re.search(r"[a-z]", s):
+        return s
+    for h in hints:
+        hs = _ascii_slug(h or "")
+        if re.search(r"[a-z]", hs):
+            return hs
     return s or "company-" + hashlib.sha1(name.strip().encode()).hexdigest()[:10]
 
 

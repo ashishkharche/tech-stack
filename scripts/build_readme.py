@@ -506,7 +506,7 @@ def readme_blocks(apps, ios, andr, companies, sdk_apps, stats, f):
         f'{K.fmt(stats["companies"])} companies · {K.fmt(stats["sdks"])} SDKs</p>',
         "",
         '<p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · '
-        '<a href="#about-the-data">About the data</a></p>',
+        '<a href="docs/data-notes.md">About the data</a></p>',
         "",
         "<br>",
     ])
@@ -527,13 +527,6 @@ def readme_blocks(apps, ios, andr, companies, sdk_apps, stats, f):
         g += ["", "</details>", ""]
     b["explore"] = "\n".join(g).rstrip()
 
-    b["data-facts"] = "\n".join([
-        f"The data covers {stats['months_label']}. "
-        f"{stats['inactive_apps']} apps are no longer tracked and are kept for history. "
-        f"{stats['versions_with_inferred']} versions carry model-written notes. "
-        "Every company name is the developer name on the store listing, and every icon comes from the store listing.",
-        "", picture("", "captured-by-month", "Versions captured per month"),
-    ])
     b["footer"] = f"<sub>{FOOTER}</sub>"
     return b
 

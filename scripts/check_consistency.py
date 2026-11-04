@@ -112,6 +112,9 @@ def main() -> int:
     pages = {p.stem for p in (ROOT / "companies").glob("*.md")} - {"README"}
     for s in sorted(set(companies) ^ pages):
         err(f"companies/: page/company mismatch for {s}")
+    for s in companies:
+        if re.fullmatch(r"company-[0-9a-f]{10}", s):
+            err(f"company slug {s} is a hash; give it a readable slug in data/company-sources.csv")
     for s, names in companies.items():
         if len(names) > 1:
             warn(f"company {s} is spelled {len(names)} ways: {sorted(names)}")
@@ -149,10 +152,6 @@ def main() -> int:
     per_co = Counter(d["app"]["company"]["slug"] for d in vals)
     claim(r"(?:has|share) the most apps, with (\d+)(?: each)?\. (\d+) of (\d+) companies have one app",
           (per_co.most_common(1)[0][1], sum(v == 1 for v in per_co.values()), len(per_co)), "apps per company")
-    inactive = sum(not d["app"]["active"] for d in vals)
-    claim(r"(\d+) apps are no longer tracked", (inactive,), "inactive apps")
-    cap = sorted(d["dates"]["captured_at"][:10] for d in docs.values())
-    claim(r"published between (\d{4}-\d\d-\d\d) and (\d{4}-\d\d-\d\d)", (cap[0], cap[-1]), "capture range")
 
     for w in warnings:
         print(f"warning: {w}")
