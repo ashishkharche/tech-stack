@@ -1,0 +1,375 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Trip.com: Book Flights, Hotels",
+    "slug": "trip-com",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "ctrip.english",
+    "bundle_id": "ctrip.english",
+    "active": true,
+    "company": {
+      "name": "Trip.com",
+      "slug": "trip-com",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "8.59.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T21:05:12Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-22T11:36:07Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 37,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin",
+      "React Native / JavaScript"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Fresco",
+      "Jetpack Compose",
+      "Lottie",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Adjust",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Analytics (legacy)",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Crashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Braintree",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Credential Manager",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Login",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Retrofit",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Volley",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Maps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mapbox",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExoPlayer",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "ML Kit",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "ONNX Runtime",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "TensorFlow",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "TensorFlow Lite",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxJava",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "greenDAO",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMKV",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Okio",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Fresco",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Share",
+        "version": null,
+        "category": "social",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 24",
+      "min_sdk": "24",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Approximate location",
+      "Biometric auth",
+      "Calendar (read)",
+      "Calendar (write)",
+      "Camera",
+      "Draw over other apps",
+      "Fingerprint auth",
+      "Foreground service",
+      "Foreground service: microphone",
+      "Media: audio",
+      "Media: images",
+      "Media: video",
+      "Microphone",
+      "NFC",
+      "Notifications",
+      "Precise location",
+      "Storage (read)",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 12,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_ADSERVICES_CUSTOM_AUDIENCE",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_MEDIA_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_SURFACE_FLINGER",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CAMERA",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.DETECT_SCREEN_CAPTURE",
+        "android.permission.FLASHLIGHT",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_DEVICE_POLICY_MANAGED_SUBSCRIPTIONS",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.NFC",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.POST_PROMOTED_NOTIFICATIONS",
+        "android.permission.READ_BASIC_PHONE_STATE",
+        "android.permission.READ_CALENDAR",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_AUDIO",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_MEDIA_VIDEO",
+        "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_CALENDAR",
+        "android.permission.WRITE_EMBEDDED_SUBSCRIPTIONS",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE",
+        "com.huawei.android.launcher.permission.CHANGE_BADGE",
+        "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+        "com.nets.netspay.QR_TRANSACTION",
+        "ctrip.english.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "ctrip.english.permission.C2D_MESSAGE",
+        "ctrip.english.permission.MIPUSH_RECEIVE"
+      ]
+    }
+  },
+  "inferred": []
+}

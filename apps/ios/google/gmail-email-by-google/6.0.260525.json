@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Gmail - Email by Google",
+    "slug": "gmail-email-by-google",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "422689480",
+    "bundle_id": "com.google.Gmail",
+    "active": true,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "6.0.260525",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:25:12Z",
+    "store_first_seen_at": "2026-06-02T20:07:33Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 14,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "App Intents",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "GIPPseudonymousID",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "OneGoogle",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitWeb",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialSearch",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "ABCCalloutView",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppUpdateService",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosIntentDetectors",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosSiriShortcutManager",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosWidgets",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleS3KitVoiceSearch",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MapsAppClip",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MediaPicker",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SystemIcons",
+        "version": "26.21",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 63
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "Communication Notifications",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "SiriKit",
+      "Time-Sensitive Notifications",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:24:34Z",
+      "headline": "Gmail iOS app using SwiftUI/UIKit hybrid with Metal, iOS 18 minimum, Google/Firebase backends, App Attest, and WidgetKit/SiriKit extensions",
+      "insights": [
+        {
+          "theme": "platform",
+          "title": "iOS 18+ with multiple system extensions",
+          "detail": "Targets minimum iOS 18.0 and ships BroadcastUpload, Notification, Share, SiriKit, and WidgetKit extensions along with VoIP and background capabilities."
+        },
+        {
+          "theme": "ui",
+          "title": "Hybrid SwiftUI/UIKit with Metal compute",
+          "detail": "Declares both SwiftUI and UIKit plus MetalKit, with detected Metal GPU compute and 3 shader functions for custom graphics or processing."
+        },
+        {
+          "theme": "notable",
+          "title": "Queries other Google apps for integration",
+          "detail": "The app queries a long list of other Google apps including com.google.chat, com.googlegemini, googledrive, and gmeet, suggesting deep suite integration."
+        }
+      ]
+    }
+  ]
+}

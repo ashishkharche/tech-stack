@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Signal - Private Messenger",
+    "slug": "signal-private-messenger",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "874139669",
+    "bundle_id": "org.whispersystems.signal",
+    "active": true,
+    "company": {
+      "name": "Signal Messenger, LLC",
+      "slug": "signal-messenger-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "8.14",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:30:20Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 9,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "CloudKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "GRDB",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Protobuf",
+        "version": "2.69.1",
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "abseil",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Down",
+        "version": "1.2.1",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "WebRTC",
+        "version": null,
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "libPhoneNumber",
+        "version": null,
+        "category": "telephony",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.5",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 47
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "Communication Notifications",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "PhoneNumber"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T18:09:31Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "First-party Signal modules",
+          "detail": "Ships with observed likely first-party modules signal-crypto, SignalServiceKit, SignalRingRTC, SignalUI, and signal-media, indicating modular in-house implementation of the core protocol and UI."
+        },
+        {
+          "theme": "sdks",
+          "title": "Voice and storage SDKs",
+          "detail": "Bundles WebRTC under voice, GRDB under storage, plus Protobuf and Lottie as observed third-party components in a 9-SDK footprint."
+        },
+        {
+          "theme": "languages",
+          "title": "Mixed languages with shaders",
+          "detail": "Built with Swift, Objective-C, C/C++, and Metal (2 shader functions); targets iPhone/iPad from iOS 15.0 with 47 localizations."
+        }
+      ]
+    }
+  ]
+}

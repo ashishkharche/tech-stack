@@ -1,0 +1,437 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "CBS Sports: Live Scores & News",
+    "slug": "cbs-sports",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.handmark.sportcaster",
+    "bundle_id": "com.handmark.sportcaster",
+    "active": false,
+    "company": {
+      "name": "CBS Interactive, Inc.",
+      "slug": "cbs-interactive-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "10.72.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:14Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 50,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin",
+      "React Native / JavaScript"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Fresco",
+      "Glide",
+      "Jetpack Compose",
+      "Lottie",
+      "Material Components",
+      "Picasso"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Adobe Experience Platform",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Amplitude",
+        "version": null,
+        "category": "analytics",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Branch",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "comScore",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kochava",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Ad Manager",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Crashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Performance",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry (native)",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Credential Manager",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Login",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Google)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Retrofit",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Volley",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Apollo GraphQL",
+        "version": null,
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "Airship",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExoPlayer",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Cast",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mux",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Okio",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Realm",
+        "version": null,
+        "category": "storage",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWS SDK",
+        "version": null,
+        "category": "aws",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Fresco",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Picasso",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Native Reanimated",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "react-native-svg",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Facebook Share",
+        "version": null,
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Remote Config",
+        "version": null,
+        "category": "feature_flags",
+        "confidence": "observed"
+      },
+      {
+        "name": "Optimizely",
+        "version": null,
+        "category": "feature_flags",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 28",
+      "min_sdk": "28",
+      "target_sdk": "35",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Approximate location",
+      "Biometric auth",
+      "Fingerprint auth",
+      "Foreground service",
+      "Notifications",
+      "Precise location",
+      "Storage (read)",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 29,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_ADSERVICES_TOPICS",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.AD_SERVICES_CONFIG",
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.TRANSMIT_IR",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.android.vending.BILLING",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.handmark.sportcaster.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:28:11Z",
+      "headline": "Hybrid React Native (Hermes, Expo) Android app with Jetpack Compose, 50 third-party SDKs, CBS Sports backends, Firebase, and root detection",
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "Hybrid Jetpack Compose and React Native UI",
+          "detail": "Ships Jetpack Compose, Material Components and Lottie together with React Native Reanimated and react-native-svg, showing a mix of native Android and cross-platform rendering layers."
+        }
+      ]
+    }
+  ]
+}

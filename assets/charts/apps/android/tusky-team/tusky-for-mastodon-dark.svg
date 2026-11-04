@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 144" width="680" height="144" role="img" aria-label="Tusky for Mastodon SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Tusky for Mastodon SDKs by category</title>
+<rect x="0.5" y="0.5" width="679" height="143" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<g transform="translate(20 20)">
+<text x="109.56000000000002" y="20" font-size="13" text-anchor="end" fill="#F1F6F3">UI and rendering</text>
+<rect x="121.6" y="10" width="448.4" height="14" rx="3" fill="#3DDC84"/>
+<text x="578.0" y="20" font-size="13" fill="#A9B2BC">4</text>
+<text x="109.56000000000002" y="42" font-size="13" text-anchor="end" fill="#F1F6F3">Media</text>
+<rect x="121.6" y="32" width="112.1" height="14" rx="3" fill="#3DDC84"/>
+<text x="241.7" y="42" font-size="13" fill="#A9B2BC">1</text>
+<text x="109.56000000000002" y="64" font-size="13" text-anchor="end" fill="#F1F6F3">Networking</text>
+<rect x="121.6" y="54" width="112.1" height="14" rx="3" fill="#3DDC84"/>
+<text x="241.7" y="64" font-size="13" fill="#A9B2BC">1</text>
+<text x="109.56000000000002" y="86" font-size="13" text-anchor="end" fill="#F1F6F3">Storage</text>
+<rect x="121.6" y="76" width="112.1" height="14" rx="3" fill="#3DDC84"/>
+<text x="241.7" y="86" font-size="13" fill="#A9B2BC">1</text>
+</g>
+</svg>

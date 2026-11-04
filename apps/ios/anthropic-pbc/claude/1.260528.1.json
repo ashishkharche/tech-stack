@@ -1,0 +1,418 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Claude by Anthropic",
+    "slug": "claude",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6473753684",
+    "bundle_id": "com.anthropic.claude",
+    "active": true,
+    "company": {
+      "name": "Anthropic PBC",
+      "slug": "anthropic-pbc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.260528.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-09T02:32:55Z",
+    "store_first_seen_at": "2026-06-03T03:03:37Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 44,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "App Intents",
+      "AVFoundation (audio/video)",
+      "CloudKit",
+      "Core Data",
+      "Core Location",
+      "HealthKit",
+      "MapKit",
+      "MetalKit",
+      "Natural Language",
+      "StoreKit (in-app purchase)",
+      "SwiftData (persistence)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "GoogleAppMeasurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "JSONSafeEncoding",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Segment",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sovran",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Datadog",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "DatadogCrashReporting",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "DatadogRUM",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "KSCrash",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "opentelemetry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "InteropForGoogle",
+        "version": null,
+        "category": "auth",
+        "confidence": "unknown"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "GMSCore",
+        "version": "26.03.0",
+        "category": "maps",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GoogleMaps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "YouTubeiOSPlayerHelper",
+        "version": null,
+        "category": "media",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GRDB",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "abseil",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppCheck",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "leveldb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "cmark-gfm",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Highlightr",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kingfisher",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "NetworkImage",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "swift-markdown-ui",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SwiftMath",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftSoup",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "PhoneNumberKit",
+        "version": null,
+        "category": "telephony",
+        "confidence": "observed"
+      },
+      {
+        "name": "sift-ios",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-collections",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 11
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "HealthKit",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "App Name",
+        "App Version",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "PhoneNumber",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-09T02:32:55Z",
+      "headline": "Modular Swift iOS 18 client for Claude AI with 106 Metal shaders and LockedCameraCapture extension",
+      "insights": [
+        {
+          "theme": "notable",
+          "title": "106 Metal shader functions",
+          "detail": "106 Metal shader functions plus explicit Metal GPU compute and MetalKit usage indicate a custom on-device compute layer, likely for accelerated rendering or image processing beyond standard UI frameworks."
+        },
+        {
+          "theme": "platform",
+          "title": "iOS 18 system integrations",
+          "detail": "LockedCameraCaptureExtension, App Intents with auto shortcuts, ActivityKit, and WidgetKit enable direct camera capture, shortcuts, live activities, and widgets on a minimum iOS 18.0 deployment."
+        },
+        {
+          "theme": "analytics",
+          "title": "Layered observability stack",
+          "detail": "Co-presence of Datadog RUM and crash reporting with Sentry and KSCrash implies redundant or environment-specific monitoring layers on top of Firebase services."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 270" width="860" height="270" role="img" aria-label="Versions captured per month" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Versions captured per month</title>
+<rect x="0.5" y="0.5" width="859" height="269" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<g transform="translate(20 20)">
+<rect x="10" y="8" width="12" height="12" rx="3" fill="#0091FF"/>
+<text x="28" y="18" font-size="13" fill="#A9B2BC">iOS</text>
+<rect x="70.53999999999999" y="8" width="12" height="12" rx="3" fill="#3DDC84"/>
+<text x="88.53999999999999" y="18" font-size="13" fill="#A9B2BC">Android</text>
+<line x1="10" y1="200.5" x2="810" y2="200.5" stroke="#262A2D"/>
+<rect x="53.7" y="144.1" width="46.0" height="55.9" rx="2" fill="#0091FF"/>
+<rect x="53.7" y="54.0" width="46.0" height="88.1" rx="2" fill="#3DDC84"/>
+<text x="76.7" y="48.0" font-size="12" text-anchor="middle" fill="#A9B2BC">235</text>
+<text x="76.7" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-06</text>
+<rect x="187.0" y="198.1" width="46.0" height="1.9" rx="2" fill="#0091FF"/>
+<text x="210.0" y="192.1" font-size="12" text-anchor="middle" fill="#A9B2BC">3</text>
+<text x="210.0" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-07</text>
+<rect x="320.3" y="195.7" width="46.0" height="4.3" rx="2" fill="#0091FF"/>
+<text x="343.3" y="189.7" font-size="12" text-anchor="middle" fill="#A9B2BC">7</text>
+<text x="343.3" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-08</text>
+<rect x="453.7" y="199.4" width="46.0" height="1.5" rx="2" fill="#3DDC84"/>
+<text x="476.7" y="193.4" font-size="12" text-anchor="middle" fill="#A9B2BC">1</text>
+<text x="476.7" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-09</text>
+<rect x="587.0" y="159.0" width="46.0" height="41.0" rx="2" fill="#0091FF"/>
+<rect x="587.0" y="141.0" width="46.0" height="16.0" rx="2" fill="#3DDC84"/>
+<text x="610.0" y="135.0" font-size="12" text-anchor="middle" fill="#A9B2BC">95</text>
+<text x="610.0" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-10</text>
+<rect x="720.3" y="185.1" width="46.0" height="14.9" rx="2" fill="#0091FF"/>
+<rect x="720.3" y="175.1" width="46.0" height="7.9" rx="2" fill="#3DDC84"/>
+<text x="743.3" y="169.1" font-size="12" text-anchor="middle" fill="#A9B2BC">40</text>
+<text x="743.3" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-11</text>
+</g>
+</svg>

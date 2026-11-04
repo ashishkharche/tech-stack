@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Kimi",
+    "slug": "kimi",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.moonshot.kimichat",
+    "bundle_id": "com.moonshot.kimichat",
+    "active": true,
+    "company": {
+      "name": "Moonshot AI",
+      "slug": "moonshot-ai",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "3.1.5",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T19:54:01Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-20T13:01:28Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 26,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Coil",
+      "Glide",
+      "Jetpack Compose",
+      "Rive"
+    ],
+    "build_system": [
+      "Gradle (inferred)",
+      "R8 / ProGuard (name obfuscation detected)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyer",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Credential Manager",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Ktor",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "ML Kit",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "ML Kit (barcode/vision)",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMKV",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Coil",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "jLaTeXMath",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Markwon",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Rive",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Play Integrity",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 26",
+      "min_sdk": "26",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Approximate location",
+      "Biometric auth",
+      "Bluetooth",
+      "Camera",
+      "Fingerprint auth",
+      "Foreground service",
+      "Foreground service: media playback",
+      "Foreground service: microphone",
+      "Microphone",
+      "Notifications",
+      "Phone / carrier info",
+      "Precise location",
+      "Storage (read)",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 3,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_LOCAL_NETWORK",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.CAMERA",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+        "android.permission.INTERNET",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.android.vending.BILLING",
+        "com.android.vending.CHECK_LICENSE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+        "com.moonshot.kimichat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.moonshot.kimichat.permission.JPUSH_MESSAGE",
+        "com.samsung.android.mapsagent.permission.READ_APP_INFO",
+        "oplus.permission.settings.LAUNCH_FOR_EXPORT"
+      ]
+    }
+  },
+  "inferred": []
+}

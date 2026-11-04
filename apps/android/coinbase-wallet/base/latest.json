@@ -1,0 +1,406 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Base: Built to Trade & Earn",
+    "slug": "base",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "org.toshi",
+    "bundle_id": "org.toshi",
+    "active": false,
+    "company": {
+      "name": "Coinbase Wallet",
+      "slug": "coinbase-wallet",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "29.97.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:33:16Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 42,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin",
+      "React Native / JavaScript"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Fresco",
+      "Glide",
+      "Jetpack Compose",
+      "Lottie",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Amplitude",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppsFlyer",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Branch",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Ad Manager",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Datadog",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Firebase Crashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry (native)",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Credential Manager",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "axios",
+        "version": null,
+        "category": "networking",
+        "confidence": "inferred"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Retrofit",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Apollo GraphQL",
+        "version": null,
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "ML Kit",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "ML Kit (barcode/vision)",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxJava",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMKV",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Okio",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Realm",
+        "version": null,
+        "category": "storage",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "AndroidSVG",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Fresco",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Native Reanimated",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "react-native-svg",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Firebase Remote Config",
+        "version": null,
+        "category": "feature_flags",
+        "confidence": "observed"
+      },
+      {
+        "name": "Statsig",
+        "version": null,
+        "category": "feature_flags",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Redux",
+        "version": null,
+        "category": "architecture",
+        "confidence": "inferred"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 24",
+      "min_sdk": "24",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Activity / fitness recognition",
+      "Advertising ID",
+      "Biometric auth",
+      "Camera",
+      "Contacts (read)",
+      "Contacts (write)",
+      "Fingerprint auth",
+      "Foreground service",
+      "Foreground service: media playback",
+      "Media: audio",
+      "NFC",
+      "Notifications",
+      "Storage (read)",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 7,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_NOTIFICATION_POLICY",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACTIVITY_RECOGNITION",
+        "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+        "android.permission.CAMERA",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.INTERNET",
+        "android.permission.NFC",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_AUDIO",
+        "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_CONTACTS",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID",
+        "org.toshi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T18:24:04Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "ml_ai",
+          "title": "Bundled on-device ML models",
+          "detail": "Ships ML Kit (barcode/vision) and TFLite models barcode_ssd_mobilenet_v1_dmp25_quant, oned_auto_regressor_mobile, and oned_feature_extractor_mobile."
+        },
+        {
+          "theme": "notable",
+          "title": "Inter-app crypto queries and schemes",
+          "detail": "Queries 25+ other apps including Coinbase, Binance, and Phantom; registers schemes for bitcoin, ethereum, solana, and wc."
+        },
+        {
+          "theme": "ui",
+          "title": "Hybrid UI frameworks",
+          "detail": "Declares Jetpack Compose and Material Components while including React Native Reanimated and react-native-svg."
+        }
+      ]
+    }
+  ]
+}

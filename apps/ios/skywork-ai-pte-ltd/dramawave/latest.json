@@ -1,0 +1,696 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "DramaWave - Dramas & Reels",
+    "slug": "dramawave",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6670430706",
+    "bundle_id": "com.dramabuzz.app",
+    "active": true,
+    "company": {
+      "name": "SKYWORK AI PTE LTD",
+      "slug": "skywork-ai-pte-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "2.0.30",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T19:57:19Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-09T03:11:16Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 93,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyerLib",
+        "version": "6.18.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAEMKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKCoreKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppLovin",
+        "version": "7.12.8",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAudienceNetwork",
+        "version": "1.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMobileAds",
+        "version": "13.4.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "VungleAds",
+        "version": "7.7.1",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": "12.13.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": "1.7.6",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Login",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKLoginKit",
+        "version": "1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "7.1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": "4.1.1",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": "3.5.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "OAuthCore",
+        "version": "0.0.1",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "UserMessagingPlatform",
+        "version": "2.7.0",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "AFNetworking",
+        "version": "4.0.2",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": "12.13.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxCocoa",
+        "version": "6.9.0",
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxRelay",
+        "version": "6.9.0",
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxSwift",
+        "version": "6.9.0",
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMKV",
+        "version": "2.2.4",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMKVCore",
+        "version": "2.2.4",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SAMKeychain",
+        "version": "1.5.2",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "sqliterk",
+        "version": "1.2.2",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSZipArchive",
+        "version": "2.4.3",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Protobuf",
+        "version": "3.25.3",
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftyJSON",
+        "version": "5.0.2",
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.1",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": "12.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "12.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "12.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "12.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebasePerformance",
+        "version": "12.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": "12.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.2",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": "2.4.1",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.5.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "0.14.6",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SkeletonView",
+        "version": "1.31.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SnapKit",
+        "version": "5.7.1",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftSoup",
+        "version": "2.7.2",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "CocoaLumberjack",
+        "version": "3.9.0",
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Resolver",
+        "version": "1.5.1",
+        "category": "architecture",
+        "confidence": "observed"
+      },
+      {
+        "name": "AdsGlobalSDK",
+        "version": "7.5.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AlexMaxAdapter",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AnyThinkSDK",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Base64",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CHIPageControl",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DAUIKit",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FCUUID",
+        "version": "1.3.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FMDB",
+        "version": "2.7.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IQKeyboardCore",
+        "version": "1.0.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IQKeyboardManagerSwift",
+        "version": "8.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IQKeyboardNotification",
+        "version": "1.0.7",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IQKeyboardReturnManager",
+        "version": "1.0.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IQKeyboardToolbar",
+        "version": "1.1.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IQKeyboardToolbarManager",
+        "version": "1.1.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IQTextInputViewNotification",
+        "version": "1.0.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IQTextView",
+        "version": "1.0.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JKSwiftExtension",
+        "version": "2.7.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JXSegmentedView",
+        "version": "1.3.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "KakaJSON",
+        "version": "1.1.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "libwebp",
+        "version": "1.5.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Masonry",
+        "version": "1.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MBProgressHUD",
+        "version": "1.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MJRefresh",
+        "version": "3.7.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MQTTClient",
+        "version": "0.15.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NVActivityIndicatorView",
+        "version": "5.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PAGAdSDK",
+        "version": "7.5.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Premium",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ProtocolBuffers",
+        "version": "1.9.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "QMIM",
+        "version": "2.1.31",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RegExCategories",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SmartdigimktSDK",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SMToastTools",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "sqlcipher",
+        "version": "1.2.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftTip",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TradPlusAds",
+        "version": "11.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TradPlusADX",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TXFFmpeg",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TXSoundTouch",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TXVodPlayer",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "UICKeyChainStore",
+        "version": "2.1.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VisualEffectView",
+        "version": "4.1.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "WCDBSwift",
+        "version": "1.0.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "YYCache",
+        "version": "1.0.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "YYModel",
+        "version": "1.0.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "YYText",
+        "version": "1.0.7",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.3",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 25
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 18,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "PhoneNumber",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

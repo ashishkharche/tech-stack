@@ -1,0 +1,187 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Keep - Notes and lists",
+    "slug": "google-keep",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1029207872",
+    "bundle_id": "com.google.Keep",
+    "active": false,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "2.2026.22200",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:25:34Z",
+    "store_first_seen_at": "2026-06-03T16:07:45Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 8,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "App Intents",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "OneGoogle",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSOAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitCore",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitWeb",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialDialogs",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialSearch",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "FeedbackKitFeedbackPrompt",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 82
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background Push",
+      "Keychain Sharing",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T16:41:45Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "sdks",
+          "title": "Google first-party SDKs",
+          "detail": "Bundles GoogleKitCore, GoogleKitWeb, SSOAuth, OneGoogle, gRPC plus first-party modules including GoogleS3KitVoiceSearch and GSK."
+        },
+        {
+          "theme": "architecture",
+          "title": "Swift Objective-C hybrid",
+          "detail": "Implements in Swift, Objective-C, and C/C++ with SwiftUI and UIKit UI layers plus Combine for reactive code."
+        },
+        {
+          "theme": "platform",
+          "title": "Share extension and capabilities",
+          "detail": "Includes KeepShareExtension.appex; declares App Groups, Keychain Sharing, Background Push, and queries other Google apps."
+        },
+        {
+          "theme": "privacy",
+          "title": "Permissions for notes features",
+          "detail": "Declares no tracking but requests camera, microphone, location (always), photo library, and contacts access for notes, audio, reminders, and sharing."
+        }
+      ]
+    }
+  ]
+}

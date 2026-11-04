@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Threads",
+    "slug": "threads",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6446901002",
+    "bundle_id": "com.burbn.barcelona",
+    "active": true,
+    "company": {
+      "name": "Instagram, Inc.",
+      "slug": "instagram-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "432.1.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:34:43Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 7,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "ARKit",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "CloudKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "Core NFC",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "libavcodec",
+        "version": "1.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "libavutil",
+        "version": "1.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "libPhoneNumber",
+        "version": null,
+        "category": "telephony",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBBrowserIntegrityLoggingKit",
+        "version": null,
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "BCNBasketballGameSounds",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IGDrawKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.3",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 35
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Push",
+      "Communication Notifications",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "BrowsingHistory",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CreditInfo",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "EmailsOrTextMessages",
+        "Fitness",
+        "GameplayContent",
+        "Health",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherFinancialInfo",
+        "OtherUsageData",
+        "OtherUserContactInfo",
+        "OtherUserContent",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "PhysicalAddress",
+        "PreciseLocation",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "SensitiveInfo",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:13:17Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "languages",
+          "title": "Metal GPU shaders",
+          "detail": "Ships 42 Metal shader functions and MetalKit, indicating custom GPU-accelerated graphics or compute beyond standard UI rendering."
+        },
+        {
+          "theme": "platform",
+          "title": "Widgets and Live Activities",
+          "detail": "Bundles dedicated extensions for widgets, live activities, notifications and sharing using WidgetKit and ActivityKit."
+        },
+        {
+          "theme": "ui",
+          "title": "SwiftUI and UIKit hybrid",
+          "detail": "Declares both SwiftUI and UIKit plus 7 bundled font families, pointing to a mixed declarative/imperative UI implementation."
+        },
+        {
+          "theme": "privacy",
+          "title": "Broad data collection",
+          "detail": "Privacy manifest declares tracking as false while listing extensive data types including location, contacts and photos."
+        }
+      ]
+    }
+  ]
+}

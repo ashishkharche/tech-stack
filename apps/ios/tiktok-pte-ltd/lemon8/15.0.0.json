@@ -1,0 +1,489 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Lemon8 - Lifestyle Community",
+    "slug": "lemon8",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1498607143",
+    "bundle_id": "com.bd.nproject",
+    "active": true,
+    "company": {
+      "name": "TIKTOK PTE. LTD.",
+      "slug": "tiktok-pte-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "15.0.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T20:31:13Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-23T08:35:24Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 57,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "ARKit",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyerLib",
+        "version": "6.17.7",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "SCSDKCoreKit",
+        "version": "1.6",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenSDK",
+        "version": "2.5.1",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenShareSDK",
+        "version": "2.5.1",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GABMediation",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": "1.7.6",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "7.1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": "4.1.1",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": "3.3.2",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "dashdec",
+        "version": "1.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "SCSDKCreativeKit",
+        "version": "1.6",
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "TwitterKit",
+        "version": null,
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDALog",
+        "version": "0.9.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDAlogProtocol",
+        "version": "1.3.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDFishhookPrivacyInfo",
+        "version": "0.2.13",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDMemoryMatrix",
+        "version": "0.0.26",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDTuringLocalized-en",
+        "version": "2.3.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDWebKit",
+        "version": "1.4.18",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "boringssl",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Bytedance1",
+        "version": "1.4.13",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "bytevc1enc",
+        "version": "1.9.7",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "crypto",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GMTIAB",
+        "version": "0.4.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GMTSKOverlayImpl",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HeimdallrPrivacyInfo",
+        "version": "0.8.99",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Hermas",
+        "version": "2.1.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HMDGWPAsanPrivacyInfo",
+        "version": "0.3.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IESLiveVideoGift",
+        "version": "1.4.27",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IESPhoto",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IESWebViewMonitor",
+        "version": "1.7.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "L8IM",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "L8ShareModule",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "libvcn",
+        "version": "4.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LUXIcons",
+        "version": "7.6.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MemoryGraphCapture",
+        "version": "1.4.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MJRefresh",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NewsMaster-Settings-Watch",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NImagePicker",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NUGCEditor",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OrbuculumCore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "splashResourceCore",
+        "version": "2.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "StingerPrivacyInfo",
+        "version": "1.0.19",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenAuthSDKPrivacyInfo",
+        "version": "2.5.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTAppStoreStarManager",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTFFmpeg",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTPOrbuService",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TwitterShareExtensionUI",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "umvfi",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "vhdr",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "videovrsr",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "14.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.0",
+      "xcode": "26.0",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 6
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Communication Notifications",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 16,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContactInfo",
+        "OtherUserContent",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

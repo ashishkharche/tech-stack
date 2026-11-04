@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "New York Road Runners",
+    "slug": "new-york-road-runners",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6742177802",
+    "bundle_id": "com.tcs.nyrr",
+    "active": false,
+    "company": {
+      "name": "New York Road Runners, Inc.",
+      "slug": "new-york-road-runners-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "3.0.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-01T19:56:17Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T20:33:33Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 32,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "VisionKit (document/data scanning)",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "BrazeKit",
+        "version": "16.0.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReachabilitySwift",
+        "version": "5.2.4",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeUI",
+        "version": "16.0.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.1",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "12.10.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "12.10.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "12.10.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.3",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.6.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNSVGFilters",
+        "version": "15.15.4",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "1.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "glog",
+        "version": null,
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "boost",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeLocation",
+        "version": "16.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EXConstants",
+        "version": "56.0.24",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoFileSystem",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoImage",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoLocation",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoMediaLibrary",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoModulesCore",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoModulesJSI",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoModulesWorklets",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoPrint",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoVideo",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EXUpdates",
+        "version": "56.0.25",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "folly",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "hermesvm",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "libavif",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "React",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReactNativeDependencies",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNViewShotPrivacyInfo",
+        "version": "5.1.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.4",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4.1",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 1
+    },
+    "capabilities": [
+      "Background Audio",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CoarseLocation",
+        "DeviceID",
+        "OtherDiagnosticData",
+        "PreciseLocation",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Dropbox: Cloud Storage Backup",
+    "slug": "dropbox",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "327630330",
+    "bundle_id": "com.getdropbox.Dropbox",
+    "active": true,
+    "company": {
+      "name": "Dropbox, Inc.",
+      "slug": "dropbox-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "474.4",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-09T02:19:29Z",
+    "store_first_seen_at": "2026-05-31T16:32:41Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 19,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CloudKit",
+      "Core Data",
+      "Core Location",
+      "MapKit",
+      "MetalKit",
+      "Natural Language",
+      "StoreKit (in-app purchase)",
+      "SwiftData (persistence)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Adjust",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "MUXSDKStats",
+        "version": "4.8.2",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "UserLeapKit",
+        "version": "4.8.5",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": "8.35.1",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "6.0.2",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "MuxCore",
+        "version": "5.6.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "PSPDFKit",
+        "version": "26.4.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "PSPDFKitUI",
+        "version": "0",
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TreeSitterMarkdownInlineQueries",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TreeSitterMarkdownQueries",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TreeSitterBashQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TreeSitterCQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TreeSitterCSSQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TreeSitterHTMLQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TreeSitterJavaQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TreeSitterJavaScriptQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TreeSitterJSONQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TreeSitterPythonQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TreeSitterTOMLQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      }
+    ],
+    "platform": {
+      "min_os": "16.7.10",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 22
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "CloudKit",
+      "iCloud",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContent",
+        "PerformanceData",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-09T02:19:29Z",
+      "headline": "Native Swift Dropbox app with extensive extensions, PSPDFKit and TreeSitter for file handling.",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Deep iOS integration via extensions",
+          "detail": "Seven app extensions including FileProviderExtension, WidgetsExtension and NotificationServiceExtension plus SiriKit capability enable tight coupling with Files app, widgets and background tasks."
+        },
+        {
+          "theme": "notable",
+          "title": "PDF and code rendering stack",
+          "detail": "PSPDFKit plus eleven TreeSitter query bundles for languages like Java, Python and Markdown indicate first-class preview and parsing support for documents and source files."
+        },
+        {
+          "theme": "languages",
+          "title": "Mixed languages with Metal",
+          "detail": "Swift primary alongside Objective-C, C/C++ and Metal shaders implies performance-sensitive paths for rendering, parsing or file processing beyond pure SwiftUI."
+        }
+      ]
+    }
+  ]
+}

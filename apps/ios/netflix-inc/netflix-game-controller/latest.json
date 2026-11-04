@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Netflix Game Controller",
+    "slug": "netflix-game-controller",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6447582581",
+    "bundle_id": "com.netflix.ssicapp",
+    "active": false,
+    "company": {
+      "name": "Netflix, Inc.",
+      "slug": "netflix-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "3.21",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-01T21:10:29Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T21:22:52Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 40,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AVFoundation (audio/video)",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Core Image",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "VisionKit (document/data scanning)",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "FirebaseAnalytics",
+        "version": "12.8.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurement",
+        "version": "12.8.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurementIdentitySupport",
+        "version": "12.8.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "EducationalInterstitial",
+        "version": "3.21",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAdsOnDeviceConversion",
+        "version": "3.2.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "AuthenticationUI",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Apollo",
+        "version": null,
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "ApolloAPI",
+        "version": null,
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "GRDB",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZIPFoundation",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "3.21",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "AgoraRtcKit",
+        "version": "4.7.0",
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "RecaptchaEnterprise",
+        "version": "1.0",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "AgoraAiNoiseSuppressionExtension",
+        "version": "4.7.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Agorafdkaac",
+        "version": "4.7.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AgoraffmpegExtension",
+        "version": "4.7.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AgoraRtmKit",
+        "version": "2.2.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AgoraSoundTouch",
+        "version": "4.7.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "aosl",
+        "version": "1.3.16",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Callouts",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Emojis",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HawkinsCommerce",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HawkinsComponents",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IdentityEditor",
+        "version": "3.21",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ModalPresentation",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NFURLSession",
+        "version": "3.21",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NGCCDXUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Pictograms",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ProfileProtocol",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos27.1",
+      "xcode": "27.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 40
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "Game Center",
+      "Push Notifications (APNs)",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "ProductInteraction"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

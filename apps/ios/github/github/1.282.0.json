@@ -1,0 +1,511 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "GitHub",
+    "slug": "github",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1477376905",
+    "bundle_id": "com.github.stormbreaker.prod",
+    "active": true,
+    "company": {
+      "name": "GitHub",
+      "slug": "github",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.282.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T21:47:18Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-23T09:51:42Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 65,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Core Image",
+      "CryptoKit",
+      "Local Authentication (Face ID / Touch ID)",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PDFKit",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "FirebaseCrashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": "1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "KaTeX",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "MathJax",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "SDWebImage",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SnapKit",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterMarkdownQueries",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "CCryptoBoringSSL",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CCryptoBoringSSLShims",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Crypto",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CryptoBoringWrapper",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CryptoExtras",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GULNSData",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GULUserDefaults",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "KeyboardToolbar",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "PrimerSwiftUI",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PrimerTokens",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PrimerUIKit",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Runestone",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftTerm",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "third-party-IsAppEncrypted",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterAstroQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterBashQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterCommentQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterCPPQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterCQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterCSharpQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterCSSQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterElixirQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterElmQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterGoQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterHaskellQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterHTMLQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterJavaQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterJavaScriptQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterJSDocQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterJSON5Queries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterJSONQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterLaTeXQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterLuaQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterOCamlQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterPerlQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterPHPQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterPythonQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterRegexQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterRQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterRubyQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterRustQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterSCSSQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterSvelteQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterSwiftQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterTOMLQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterTSXQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterTypeScriptQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterYAMLQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.6",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 7
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Push",
+      "Communication Notifications",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "SiriKit",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CrashData",
+        "DeviceID",
+        "OtherDataTypes",
+        "OtherDiagnosticData"
+      ],
+      "required_reason_apis": [
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

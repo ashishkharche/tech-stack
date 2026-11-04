@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "LinkedIn: Community & Network",
+    "slug": "linkedin",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "288429040",
+    "bundle_id": "com.linkedin.LinkedIn",
+    "active": true,
+    "company": {
+      "name": "LinkedIn Corporation",
+      "slug": "linkedin-corporation",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "2026.0601.2241",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:27:05Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 18,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "Core NFC",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "VisionKit (document/data scanning)",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Qualtrics",
+        "version": "2.22.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Segment",
+        "version": "1.0.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "WalletLibrary",
+        "version": "1.0",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": "1.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "1.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": "1.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": "1.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Conversations",
+        "version": "1.0.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Lottie",
+        "version": "1.0.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "AzureCommunicationCalling",
+        "version": "2.15.0",
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "WebRTC",
+        "version": "1.0",
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "FraudProtection",
+        "version": "2.0.2",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "Persona",
+        "version": "2.0.1",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "Persona2",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "AVFoundationCollector",
+        "version": "3.24.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AzureCommunicationCommon",
+        "version": "1.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CoreCollector",
+        "version": "3.24.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.6",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.0",
+      "xcode": "26.0",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 35
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "Bluetooth (central)",
+      "Bluetooth (peripheral)",
+      "CloudKit",
+      "Communication Notifications",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "Keychain Sharing",
+      "NFC",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit",
+      "Time-Sensitive Notifications",
+      "VoIP",
+      "Wallet passes"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "PhoneNumber",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:01:13Z",
+      "headline": "Native iOS LinkedIn app with SwiftUI/UIKit, 18 Metal shaders, 5 extensions including Live Activities, modular first-party modules, and third-party SDKs for auth/analytics/voice",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Modular first-party structure",
+          "detail": "Ships with dozens of likely first-party modules (FeedFramework, HomeNav, InfraBase, etc.) plus five app extensions, indicating a large, componentized native codebase."
+        },
+        {
+          "theme": "sdks",
+          "title": "Third-party SDK mix for core features",
+          "detail": "18 third-party SDKs observed including GoogleSignIn/AppAuth for auth, AzureCommunicationCalling/WebRTC for voice, Qualtrics/Segment for analytics, and Persona for anti-fraud."
+        },
+        {
+          "theme": "ui",
+          "title": "Hybrid UI with Metal rendering",
+          "detail": "Combines SwiftUI and UIKit with Lottie animations and 18 Metal shader functions, plus MetalKit for GPU compute."
+        },
+        {
+          "theme": "platform",
+          "title": "Heavy Apple platform integration",
+          "detail": "Uses WidgetKit, ActivityKit, Core ML, Vision, StoreKit, and many other frameworks; supports iPhone/iPad with min iOS 16.6 and 35 locales."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 122" width="680" height="122" role="img" aria-label="WeChat SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>WeChat SDKs by category</title>
+<rect x="0.5" y="0.5" width="679" height="121" rx="12" fill="#FAF8F3" stroke="#D9E1DD"/>
+<g transform="translate(20 20)">
+<text x="109.56000000000002" y="20" font-size="13" text-anchor="end" fill="#090A0B">Other</text>
+<rect x="121.6" y="10" width="448.4" height="14" rx="3" fill="#090A0B"/>
+<text x="578.0" y="20" font-size="13" fill="#4D5755">15</text>
+<text x="109.56000000000002" y="42" font-size="13" text-anchor="end" fill="#090A0B">Analytics</text>
+<rect x="121.6" y="32" width="29.9" height="14" rx="3" fill="#090A0B"/>
+<text x="159.5" y="42" font-size="13" fill="#4D5755">1</text>
+<text x="109.56000000000002" y="64" font-size="13" text-anchor="end" fill="#090A0B">UI and rendering</text>
+<rect x="121.6" y="54" width="29.9" height="14" rx="3" fill="#090A0B"/>
+<text x="159.5" y="64" font-size="13" fill="#4D5755">1</text>
+</g>
+</svg>

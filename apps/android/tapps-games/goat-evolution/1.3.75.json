@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Goat Evolution: Animal Merge",
+    "slug": "goat-evolution",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "br.com.tapps.goatevolution",
+    "bundle_id": "br.com.tapps.goatevolution",
+    "active": false,
+    "company": {
+      "name": "Tapps Games",
+      "slug": "tapps-games",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.3.75",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:30:08Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 35,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin",
+      "Unity (C# / IL2CPP)"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide",
+      "Picasso"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Singular",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppLovin",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Fyber",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "ironSource",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Meta Audience Network",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mintegral",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Pangle",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Unity Ads",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Vungle",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Crashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Credential Manager",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Google)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxJava",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Okio",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Picasso",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Play Integrity",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "reCAPTCHA",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Remote Config",
+        "version": null,
+        "category": "feature_flags",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 26",
+      "min_sdk": "26",
+      "target_sdk": "35",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Foreground service",
+      "Notifications",
+      "Storage (read)",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 37,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_ADSERVICES_TOPICS",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "br.com.tapps.goatevolution.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "br.com.tapps.goatevolution.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "br.com.tapps.goatevolution.permission.C2D_MESSAGE",
+        "com.android.vending.BILLING",
+        "com.android.vending.CHECK_LICENSE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:02:32Z",
+      "headline": "Unity Android game with IL2CPP, 13 native JNI libs, Firebase Realtime DB backend and nine ad networks",
+      "insights": [
+        {
+          "theme": "languages",
+          "title": "Unity IL2CPP plus native C++",
+          "detail": "Built with Unity (C# / IL2CPP) alongside Java/Kotlin and C/C++ native code; ships 13 JNI libraries including audio and input support."
+        },
+        {
+          "theme": "monetization",
+          "title": "Nine ad networks integrated",
+          "detail": "Bundles AppLovin, Vungle, Pangle, ironSource, Meta Audience Network, Mintegral, Fyber, Unity Ads and Google Mobile Ads."
+        },
+        {
+          "theme": "analytics",
+          "title": "Multiple analytics providers",
+          "detail": "Integrates Firebase Analytics, Google App Measurement and Singular alongside ad network tracking."
+        }
+      ]
+    }
+  ]
+}

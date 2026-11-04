@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google TV Home",
+    "slug": "google-tv-home",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.google.android.apps.tv.launcherx",
+    "bundle_id": "com.google.android.apps.tv.launcherx",
+    "active": false,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.0.775915464",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:11Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 15,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide",
+      "Lottie",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Google)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 29",
+      "min_sdk": "29",
+      "target_sdk": "33",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "armeabi-v7a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Draw over other apps",
+      "Foreground service",
+      "Microphone",
+      "Notifications",
+      "Query all installed apps"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 2,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_NOTIFICATIONS",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CHANGE_COMPONENT_ENABLED_STATE",
+        "android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST",
+        "android.permission.DELETE_PACKAGES",
+        "android.permission.DUMP",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_ACCOUNTS_PRIVILEGED",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.HDMI_CEC",
+        "android.permission.INTERACT_ACROSS_USERS",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_USERS",
+        "android.permission.MEDIA_CONTENT_CONTROL",
+        "android.permission.OBSERVE_APP_USAGE",
+        "android.permission.OBSERVE_SENSOR_PRIVACY",
+        "android.permission.PACKAGE_USAGE_STATS",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.QUERY_ALL_PACKAGES",
+        "android.permission.READ_CONTENT_RATING_SYSTEMS",
+        "android.permission.READ_DREAM_STATE",
+        "android.permission.READ_LOGS",
+        "android.permission.REAL_GET_TASKS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.SET_UNRESTRICTED_KEEP_CLEAR_AREAS",
+        "android.permission.SET_WALLPAPER",
+        "android.permission.SET_WALLPAPER_HINTS",
+        "android.permission.SUSPEND_APPS",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.SYSTEM_APPLICATION_OVERLAY",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_DREAM_STATE",
+        "android.permission.WRITE_SECURE_SETTINGS",
+        "com.android.permission.INSTALL_EXISTING_PACKAGES",
+        "com.android.providers.tv.permission.ACCESS_ALL_EPG_DATA",
+        "com.android.providers.tv.permission.WRITE_EPG_DATA",
+        "com.android.settings.connectivity.READ_NETWORK_CHANGE_DATA",
+        "com.android.setupwizard.permission.SETUP",
+        "com.android.vending.setup.PLAY_SETUP_SERVICE",
+        "com.google.android.apps.mediashell.permission.MULTIZONE_INFO",
+        "com.google.android.apps.tv.launcherx.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.google.android.apps.tv.launcherx.MULTI_PROCESS_BROADCAST_PERMISSION",
+        "com.google.android.assistant.READ_HOTWORD_STATE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "com.google.android.tv.axel.permission.MAGIC",
+        "com.google.android.tv.bali.permission.CAMERA",
+        "com.netflix.ninja.permission.DET"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:18:58Z",
+      "headline": "Google TV Home: Kotlin/Java Android TV system app with 94 activities, heavy Google SDKs, native Renderscript, and privileged permissions",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Large-scale TV launcher components",
+          "detail": "94 activities, 66 receivers and 23 services indicate a complex home screen, recommendation engine and multi-process TV UI."
+        },
+        {
+          "theme": "sdks",
+          "title": "Google-centric SDK stack",
+          "detail": "15 third-party SDKs are dominated by Google Play services, AdMob, Media3 ExoPlayer, Cronet, DataStore, Room and Lottie."
+        },
+        {
+          "theme": "platform",
+          "title": "Privileged system permissions",
+          "detail": "Requests QUERY_ALL_PACKAGES, SYSTEM_ALERT_WINDOW, FOREGROUND_SERVICE and multiple Google TV-specific permissions for deep launcher integration."
+        }
+      ]
+    }
+  ]
+}

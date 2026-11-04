@@ -1,0 +1,688 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Duolingo: Learn Languages",
+    "slug": "duolingo",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "570060128",
+    "bundle_id": "com.duolingo.DuolingoMobile",
+    "active": true,
+    "company": {
+      "name": "Duolingo, Inc",
+      "slug": "duolingo-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "7.145.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T19:26:31Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-21T17:05:12Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 87,
+    "languages": [
+      "C/C++",
+      "Kotlin Multiplatform",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift",
+      "Unity (C# / IL2CPP)"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Family Controls / Screen Time",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "PencilKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Adjust",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AdjustSdk",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FacebookAEM",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FacebookCore",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAEMKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKCoreKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseAnalytics",
+        "version": "12.19.2",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FullStory",
+        "version": "1.64.2",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurement",
+        "version": "12.19.2",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurementIdentitySupport",
+        "version": "12.19.2",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAudienceNetwork",
+        "version": "1.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAdsOnDeviceConversion",
+        "version": "3.7.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMobileAds",
+        "version": "13.4.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "MolocoSDK",
+        "version": "4.5.1",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "FacebookLogin",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKLoginKit",
+        "version": "1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "UserMessagingPlatform",
+        "version": "3.1.0",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "Ably",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "SupportProvidersSDK",
+        "version": "8.0.2",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskCoreSDK",
+        "version": "5.0.2",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Autodesk FBX",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleInteractiveMediaAds",
+        "version": "3.31.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Unity Timeline",
+        "version": null,
+        "category": "media",
+        "confidence": "inferred"
+      },
+      {
+        "name": "UnityFramework",
+        "version": "1.0",
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "GRDB",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "GZIP",
+        "version": "1.0",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Realm",
+        "version": "1.0",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Unity Addressables",
+        "version": null,
+        "category": "storage",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Unity ResourceManager",
+        "version": null,
+        "category": "storage",
+        "confidence": "inferred"
+      },
+      {
+        "name": "ZIPFoundation",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "DGCharts",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "1.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "RiveRuntime",
+        "version": "6.27.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SnapKit",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftMath",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Unity TextMeshPro",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Unity Universal Render Pipeline",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "FacebookShare",
+        "version": null,
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKShareKit",
+        "version": "1.0",
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "PhoneNumberKit",
+        "version": null,
+        "category": "telephony",
+        "confidence": "observed"
+      },
+      {
+        "name": "CocoaLumberjack",
+        "version": null,
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Graphy (perf HUD)",
+        "version": null,
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "DequeModule",
+        "version": "1.0",
+        "category": "apple_std",
+        "confidence": "observed"
+      },
+      {
+        "name": "AdsGlobalPackage",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BUAdSDK",
+        "version": "7.2.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Clocks",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ConfiantSDK",
+        "version": "6.1.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ContextSDK",
+        "version": "5.16.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ContextSDKExtension",
+        "version": "5.16.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CSJAdSDK",
+        "version": "7.2.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Dependencies",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Excess",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IronSource",
+        "version": "9.4.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IronSourceAdapter",
+        "version": "9.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IronSourceAdQualitySDK",
+        "version": "7.24.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IssueReporting",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LiftoffMonetizeAdapter",
+        "version": "7.7.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MetaAdapter",
+        "version": "6.21.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MolocoAdapter",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mutex",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Newtonsoft.Json",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ogg",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OpenSSL",
+        "version": "3.1.5007",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "opus",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PAGAdSDK",
+        "version": "7.6.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PangleAdapter",
+        "version": "7.8.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Prebidorg",
+        "version": "1.5.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SnapshotPreferences",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Tagged",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "UID2",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "UID2GMAPlugin",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "UnityAdapter",
+        "version": "4.16.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "UnityAds",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VungleAdsSDK",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XCTestDynamicOverlay",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XiaoHongShuOpenSDK",
+        "version": "1.2.4",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.5",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 35
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "Communication Notifications",
+      "Family Controls / Screen Time",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 10,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "BrowsingHistory",
+        "CoarseLocation",
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

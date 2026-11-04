@@ -1,0 +1,407 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "GoWish - Your Digital Wishlist",
+    "slug": "gowish",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1605170923",
+    "bundle_id": "com.gowish.app",
+    "active": false,
+    "company": {
+      "name": "Onskeskyen ApS",
+      "slug": "onskeskyen-aps",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "9.2.4",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-02T02:01:22Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-02T02:53:24Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 45,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "VisionKit (document/data scanning)",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Intercom UI",
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Amplitude",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppsFlyerLib",
+        "version": "6.17.9",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": "8.58.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Usercentrics",
+        "version": "1.0",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "Axios",
+        "version": null,
+        "category": "networking",
+        "confidence": "inferred"
+      },
+      {
+        "name": "ReachabilitySwift",
+        "version": "5.2.4",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Apollo GraphQL",
+        "version": null,
+        "category": "graphql",
+        "confidence": "inferred"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": "12.6.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Intercom",
+        "version": "19.5.7",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.1",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "12.6.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "12.6.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "12.6.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.1.1",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.5",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.6.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Native",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "React Native Reanimated",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "react-native-svg",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "RNSVGFilters",
+        "version": "15.15.4",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "1.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "glog",
+        "version": null,
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Redux",
+        "version": null,
+        "category": "architecture",
+        "confidence": "inferred"
+      },
+      {
+        "name": "boost",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EXConstants",
+        "version": "57.0.22",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoContacts",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoFileSystem",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoImage",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoMediaLibrary",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoModulesCore",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoModulesJSI",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoModulesWorklets",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoVideo",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoWidgets",
+        "version": "57.0.27",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EXUpdates",
+        "version": "57.0.26",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "folly",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "hermesvm",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "libavif",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "React",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReactNativeDependencies",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNDeviceInfoPrivacyInfo",
+        "version": "14.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNViewShotPrivacyInfo",
+        "version": "5.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "UsercentricsUI",
+        "version": "2.28.1",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.4",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.6",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 12
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background Push",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 16,
+      "collected_data_types": [
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "PerformanceData",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

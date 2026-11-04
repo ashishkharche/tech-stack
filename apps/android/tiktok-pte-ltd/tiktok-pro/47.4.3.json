@@ -1,0 +1,205 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "TikTok Pro - Events",
+    "slug": "tiktok-pro",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.ss.android.ugc.tiktok.pro",
+    "bundle_id": "com.ss.android.ugc.tiktok.pro",
+    "active": false,
+    "company": {
+      "name": "TIKTOK PTE. LTD.",
+      "slug": "tiktok-pte-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "47.4.3",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-01T20:27:02Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T20:33:33Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 21,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Fresco",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Stripe",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Login",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Maps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxJava",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Fresco",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Markwon",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Share",
+        "version": null,
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "Play Integrity",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 23",
+      "min_sdk": "23",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 16,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

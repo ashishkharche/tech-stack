@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 364" width="680" height="364" role="img" aria-label="Pandora Media, LLC SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Pandora Media, LLC SDKs by category</title>
+<rect x="0.5" y="0.5" width="679" height="363" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<g transform="translate(20 20)">
+<text x="158.17999999999995" y="20" font-size="13" text-anchor="end" fill="#F1F6F3">Analytics</text>
+<rect x="170.2" y="10" width="399.8" height="14" rx="3" fill="#F1F6F3"/>
+<text x="578.0" y="20" font-size="13" fill="#A9B2BC">9</text>
+<text x="158.17999999999995" y="42" font-size="13" text-anchor="end" fill="#F1F6F3">Other</text>
+<rect x="170.2" y="32" width="399.8" height="14" rx="3" fill="#F1F6F3"/>
+<text x="578.0" y="42" font-size="13" fill="#A9B2BC">9</text>
+<text x="158.17999999999995" y="64" font-size="13" text-anchor="end" fill="#F1F6F3">Crash and performance</text>
+<rect x="170.2" y="54" width="222.1" height="14" rx="3" fill="#F1F6F3"/>
+<text x="400.3" y="64" font-size="13" fill="#A9B2BC">5</text>
+<text x="158.17999999999995" y="86" font-size="13" text-anchor="end" fill="#F1F6F3">Ads</text>
+<rect x="170.2" y="76" width="133.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="311.5" y="86" font-size="13" fill="#A9B2BC">3</text>
+<text x="158.17999999999995" y="108" font-size="13" text-anchor="end" fill="#F1F6F3">Sign-in and auth</text>
+<rect x="170.2" y="98" width="133.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="311.5" y="108" font-size="13" fill="#A9B2BC">3</text>
+<text x="158.17999999999995" y="130" font-size="13" text-anchor="end" fill="#F1F6F3">Social</text>
+<rect x="170.2" y="120" width="133.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="311.5" y="130" font-size="13" fill="#A9B2BC">3</text>
+<text x="158.17999999999995" y="152" font-size="13" text-anchor="end" fill="#F1F6F3">Networking</text>
+<rect x="170.2" y="142" width="88.8" height="14" rx="3" fill="#F1F6F3"/>
+<text x="267.0" y="152" font-size="13" fill="#A9B2BC">2</text>
+<text x="158.17999999999995" y="174" font-size="13" text-anchor="end" fill="#F1F6F3">Anti-fraud and integrity</text>
+<rect x="170.2" y="164" width="44.4" height="14" rx="3" fill="#F1F6F3"/>
+<text x="222.6" y="174" font-size="13" fill="#A9B2BC">1</text>
+<text x="158.17999999999995" y="196" font-size="13" text-anchor="end" fill="#F1F6F3">Logging and diagnostics</text>
+<rect x="170.2" y="186" width="44.4" height="14" rx="3" fill="#F1F6F3"/>
+<text x="222.6" y="196" font-size="13" fill="#A9B2BC">1</text>
+<text x="158.17999999999995" y="218" font-size="13" text-anchor="end" fill="#F1F6F3">GraphQL</text>
+<rect x="170.2" y="208" width="44.4" height="14" rx="3" fill="#F1F6F3"/>
+<text x="222.6" y="218" font-size="13" fill="#A9B2BC">1</text>
+<text x="158.17999999999995" y="240" font-size="13" text-anchor="end" fill="#F1F6F3">Media</text>
+<rect x="170.2" y="230" width="44.4" height="14" rx="3" fill="#F1F6F3"/>
+<text x="222.6" y="240" font-size="13" fill="#A9B2BC">1</text>
+<text x="158.17999999999995" y="262" font-size="13" text-anchor="end" fill="#F1F6F3">Messaging and push</text>
+<rect x="170.2" y="252" width="44.4" height="14" rx="3" fill="#F1F6F3"/>
+<text x="222.6" y="262" font-size="13" fill="#A9B2BC">1</text>
+<text x="158.17999999999995" y="284" font-size="13" text-anchor="end" fill="#F1F6F3">Privacy and consent</text>
+<rect x="170.2" y="274" width="44.4" height="14" rx="3" fill="#F1F6F3"/>
+<text x="222.6" y="284" font-size="13" fill="#A9B2BC">1</text>
+<text x="158.17999999999995" y="306" font-size="13" text-anchor="end" fill="#F1F6F3">UI and rendering</text>
+<rect x="170.2" y="296" width="44.4" height="14" rx="3" fill="#F1F6F3"/>
+<text x="222.6" y="306" font-size="13" fill="#A9B2BC">1</text>
+</g>
+</svg>

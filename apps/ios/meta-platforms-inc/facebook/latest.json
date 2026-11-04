@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Facebook",
+    "slug": "facebook",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "284882215",
+    "bundle_id": "com.facebook.Facebook",
+    "active": true,
+    "company": {
+      "name": "Meta Platforms, Inc.",
+      "slug": "meta-platforms-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "564.0.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:40:00Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 11,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "ARKit",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "Core NFC",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "RealityKit",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "VisionKit (document/data scanning)",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mapbox",
+        "version": null,
+        "category": "maps",
+        "confidence": "inferred"
+      },
+      {
+        "name": "SpotifyiOS",
+        "version": "5.0.1",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "libPhoneNumber",
+        "version": null,
+        "category": "telephony",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBBrowserIntegrityLoggingKit",
+        "version": null,
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "InternalCollectionsUtilities",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "inferred"
+      },
+      {
+        "name": "FBCommunicationSoundKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBComposerLiteExtension",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBMediaProcessingKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBPhotosSyncKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBStickersKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.1",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 36
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "Bluetooth (peripheral)",
+      "CloudKit",
+      "Communication Notifications",
+      "External Accessory",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "Keychain Sharing",
+      "NFC",
+      "Push Notifications (APNs)",
+      "SiriKit",
+      "Time-Sensitive Notifications",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 1,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "BrowsingHistory",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CreditInfo",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "EmailsOrTextMessages",
+        "Fitness",
+        "GameplayContent",
+        "Health",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherFinancialInfo",
+        "OtherUsageData",
+        "OtherUserContactInfo",
+        "OtherUserContent",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "PhysicalAddress",
+        "PreciseLocation",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "SensitiveInfo",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:22:16Z",
+      "headline": "SwiftUI/UIKit iOS app with 9 app extensions, App Intents, 47 Metal shaders, Mapbox markers, and App Attest",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Nine app extensions and App Intents",
+          "detail": "Bundles nine extensions for widgets, broadcast upload, share, notifications, and intents; declares seven App Intents actions with auto shortcuts and shortcut phrases."
+        },
+        {
+          "theme": "languages",
+          "title": "47 custom Metal shader functions",
+          "detail": "Includes MetalKit and 47 Metal shader functions, indicating custom GPU compute or rendering code in addition to standard UIKit and SwiftUI."
+        },
+        {
+          "theme": "sdks",
+          "title": "Mapbox mapping SDK",
+          "detail": "Asset catalog contains Mapbox SDK markers; also links MapKit and declares location and NFC capabilities."
+        },
+        {
+          "theme": "ml_ai",
+          "title": "On-device Vision and Speech",
+          "detail": "Links Core ML, Vision for on-device OCR and image analysis, and Speech recognition; no ML models are listed in the bundle."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Telegram Messenger",
+    "slug": "telegram-messenger",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "686449807",
+    "bundle_id": "ph.telegra.Telegraph",
+    "active": true,
+    "company": {
+      "name": "Telegram FZ-LLC",
+      "slug": "telegram-fz-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "13.1.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-23T17:02:43Z",
+    "store_first_seen_at": "2026-10-25T17:44:07Z",
+    "store_updated_at": "2026-10-22T18:45:59Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 2,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "CloudKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "VisionKit (document/data scanning)",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "TDLibFramework",
+        "version": "1.8.64",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos27.1",
+      "xcode": "27.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 19
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Location",
+      "Background Processing",
+      "Background Push",
+      "CarPlay",
+      "CloudKit",
+      "Communication Notifications",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

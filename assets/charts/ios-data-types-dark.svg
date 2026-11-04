@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 476" width="860" height="476" role="img" aria-label="Most declared iOS collected data types" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Most declared iOS collected data types</title>
+<rect x="0.5" y="0.5" width="859" height="475" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<g transform="translate(20 20)">
+<text x="135.03999999999996" y="24" font-size="13" text-anchor="end" fill="#F1F6F3">DeviceID</text>
+<rect x="147.0" y="10" width="603.0" height="18" rx="3" fill="#0091FF"/>
+<text x="758.0" y="24" font-size="13" fill="#A9B2BC">118</text>
+<text x="135.03999999999996" y="52" font-size="13" text-anchor="end" fill="#F1F6F3">ProductInteraction</text>
+<rect x="147.0" y="38" width="567.2" height="18" rx="3" fill="#0091FF"/>
+<text x="722.2" y="52" font-size="13" fill="#A9B2BC">111</text>
+<text x="135.03999999999996" y="80" font-size="13" text-anchor="end" fill="#F1F6F3">CrashData</text>
+<rect x="147.0" y="66" width="562.1" height="18" rx="3" fill="#0091FF"/>
+<text x="717.1" y="80" font-size="13" fill="#A9B2BC">110</text>
+<text x="135.03999999999996" y="108" font-size="13" text-anchor="end" fill="#F1F6F3">UserID</text>
+<rect x="147.0" y="94" width="562.1" height="18" rx="3" fill="#0091FF"/>
+<text x="717.1" y="108" font-size="13" fill="#A9B2BC">110</text>
+<text x="135.03999999999996" y="136" font-size="13" text-anchor="end" fill="#F1F6F3">OtherDiagnosticData</text>
+<rect x="147.0" y="122" width="551.9" height="18" rx="3" fill="#0091FF"/>
+<text x="706.9" y="136" font-size="13" fill="#A9B2BC">108</text>
+<text x="135.03999999999996" y="164" font-size="13" text-anchor="end" fill="#F1F6F3">PerformanceData</text>
+<rect x="147.0" y="150" width="541.6" height="18" rx="3" fill="#0091FF"/>
+<text x="696.7" y="164" font-size="13" fill="#A9B2BC">106</text>
+<text x="135.03999999999996" y="192" font-size="13" text-anchor="end" fill="#F1F6F3">CoarseLocation</text>
+<rect x="147.0" y="178" width="511.0" height="18" rx="3" fill="#0091FF"/>
+<text x="666.0" y="192" font-size="13" fill="#A9B2BC">100</text>
+<text x="135.03999999999996" y="220" font-size="13" text-anchor="end" fill="#F1F6F3">OtherDataTypes</text>
+<rect x="147.0" y="206" width="444.6" height="18" rx="3" fill="#0091FF"/>
+<text x="599.6" y="220" font-size="13" fill="#A9B2BC">87</text>
+<text x="135.03999999999996" y="248" font-size="13" text-anchor="end" fill="#F1F6F3">EmailAddress</text>
+<rect x="147.0" y="234" width="429.2" height="18" rx="3" fill="#0091FF"/>
+<text x="584.3" y="248" font-size="13" fill="#A9B2BC">84</text>
+<text x="135.03999999999996" y="276" font-size="13" text-anchor="end" fill="#F1F6F3">Name</text>
+<rect x="147.0" y="262" width="388.3" height="18" rx="3" fill="#0091FF"/>
+<text x="543.4" y="276" font-size="13" fill="#A9B2BC">76</text>
+<text x="135.03999999999996" y="304" font-size="13" text-anchor="end" fill="#F1F6F3">PhoneNumber</text>
+<rect x="147.0" y="290" width="388.3" height="18" rx="3" fill="#0091FF"/>
+<text x="543.4" y="304" font-size="13" fill="#A9B2BC">76</text>
+<text x="135.03999999999996" y="332" font-size="13" text-anchor="end" fill="#F1F6F3">OtherUsageData</text>
+<rect x="147.0" y="318" width="383.2" height="18" rx="3" fill="#0091FF"/>
+<text x="538.3" y="332" font-size="13" fill="#A9B2BC">75</text>
+<text x="135.03999999999996" y="360" font-size="13" text-anchor="end" fill="#F1F6F3">AdvertisingData</text>
+<rect x="147.0" y="346" width="332.1" height="18" rx="3" fill="#0091FF"/>
+<text x="487.2" y="360" font-size="13" fill="#A9B2BC">65</text>
+<text x="135.03999999999996" y="388" font-size="13" text-anchor="end" fill="#F1F6F3">PhotosorVideos</text>
+<rect x="147.0" y="374" width="265.7" height="18" rx="3" fill="#0091FF"/>
+<text x="420.8" y="388" font-size="13" fill="#A9B2BC">52</text>
+<text x="135.03999999999996" y="416" font-size="13" text-anchor="end" fill="#F1F6F3">PreciseLocation</text>
+<rect x="147.0" y="402" width="250.4" height="18" rx="3" fill="#0091FF"/>
+<text x="405.4" y="416" font-size="13" fill="#A9B2BC">49</text>
+</g>
+</svg>

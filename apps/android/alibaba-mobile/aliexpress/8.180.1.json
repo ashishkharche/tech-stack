@@ -1,0 +1,294 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "AliExpress - Shopping App",
+    "slug": "aliexpress",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.alibaba.aliexpresshd",
+    "bundle_id": "com.alibaba.aliexpresshd",
+    "active": false,
+    "company": {
+      "name": "Alibaba Mobile",
+      "slug": "alibaba-mobile",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "8.180.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-01T20:01:36Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T20:33:33Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 24,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide",
+      "Lottie",
+      "Material Components",
+      "Picasso"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Braintree",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Credential Manager",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Login",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Retrofit",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Maps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxJava",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "greenDAO",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Okio",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Picasso",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Share",
+        "version": null,
+        "category": "social",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 21",
+      "min_sdk": "21",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "armeabi-v7a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Approximate location",
+      "Calendar (write)",
+      "Camera",
+      "Draw over other apps",
+      "Foreground service",
+      "Media: audio",
+      "Media: images",
+      "Media: video",
+      "Microphone",
+      "Notifications",
+      "Phone / carrier info",
+      "Precise location",
+      "Storage (read)",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 6,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_MEDIA_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.AUTHENTICATE_ACCOUNTS",
+        "android.permission.CAMERA",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.DETECT_SCREEN_CAPTURE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_ACCOUNTS",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_AUDIO",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_MEDIA_VIDEO",
+        "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.READ_SETTINGS",
+        "android.permission.READ_SYNC_SETTINGS",
+        "android.permission.READ_SYNC_STATS",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.REORDER_TASKS",
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.USE_FULL_SCREEN_INTENT",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_APP_BADGE",
+        "android.permission.WRITE_CALENDAR",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WRITE_SETTINGS",
+        "android.permission.WRITE_SYNC_SETTINGS",
+        "com.alibaba.aliexpresshd.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.alibaba.aliexpresshd.permission.PROCESS_PUSH_MSG",
+        "com.alibaba.aliexpresshd.permission.PUSH_PROVIDER",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+        "com.android.providers.media.MediaProvider",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.hihonor.push.permission.READ_PUSH_NOTIFICATION_INFO",
+        "com.hihonor.security.permission.ACCESS_THREAT_DETECTION",
+        "com.sec.android.provider.badge.permission.READ",
+        "com.sec.android.provider.badge.permission.WRITE",
+        "com.taobao.taobao.permission.C2D_MESSAGE",
+        "com.xiaomi.security.permission.ACCESS_XSOF"
+      ]
+    }
+  },
+  "inferred": []
+}

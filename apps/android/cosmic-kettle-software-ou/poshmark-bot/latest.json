@@ -1,0 +1,233 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Poshmark Bot: Poshwatch",
+    "slug": "poshmark-bot",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "io.poshwatch.mobile",
+    "bundle_id": "io.poshwatch.mobile",
+    "active": false,
+    "company": {
+      "name": "Cosmic Kettle Software OÜ",
+      "slug": "cosmic-kettle-software-ou",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "2.7.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:33:13Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 19,
+    "languages": [
+      "C/C++ (native)",
+      "Flutter / Dart",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Coil",
+      "Jetpack Compose"
+    ],
+    "build_system": [
+      "Gradle (inferred)",
+      "R8 / ProGuard (name obfuscation detected)"
+    ],
+    "sdks": [
+      {
+        "name": "Sentry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry (native)",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "RevenueCat",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Credential Manager",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Coil",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Play Integrity",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "reCAPTCHA",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Remote Config",
+        "version": null,
+        "category": "feature_flags",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 24",
+      "min_sdk": "24",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "armeabi-v7a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Camera",
+      "Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 2,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.CAMERA",
+        "android.permission.INTERNET",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.VIBRATE",
+        "com.android.vending.BILLING",
+        "com.android.vending.CHECK_LICENSE",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "io.poshwatch.mobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T18:19:46Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "Jetpack Compose rendering",
+          "detail": "Lists Jetpack Compose and Coil among its UI and graphics SDKs, suggesting declarative native Android UI is used in addition to or within the Flutter app."
+        },
+        {
+          "theme": "monetization",
+          "title": "RevenueCat and Google Play Billing",
+          "detail": "Integrates RevenueCat for payments alongside Google Play Billing, enabling subscription-based monetization with in-app purchase support."
+        },
+        {
+          "theme": "sdks",
+          "title": "Sentry for crashes and performance",
+          "detail": "Bundles Sentry Android and native libraries for crash reporting and monitoring, providing visibility into app stability across Java and C++ code."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Translate",
+    "slug": "google-translate",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "414706506",
+    "bundle_id": "com.google.Translate",
+    "active": false,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "10.21.273",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:26:53Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 9,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "App Intents",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "GIPPseudonymousID",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "OneGoogle",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSOAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitCore",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitWeb",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialSearch",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosSiriShortcutManager",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleS3KitVoiceSearch",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.0",
+      "xcode": "26.0.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 83
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Keychain Sharing",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:22:08Z",
+      "headline": "SwiftUI/UIKit iOS app with 25 Metal shaders, 20+ on-device ML models for OCR/translation, 8 App Intents, WidgetKit and TranslationProvider extensions, and Google backend.",
+      "insights": [
+        {
+          "theme": "ml_ai",
+          "title": "On-device ML for OCR and translation",
+          "detail": "Ships numerous Core ML and TFLite models including text detectors, deep paragraph segmentation, language ID, and gOCR recognizers for many scripts, plus inpainting, supporting offline camera-based features."
+        },
+        {
+          "theme": "notable",
+          "title": "App Intents for translation actions",
+          "detail": "Exposes 8 App Intents including Camera, Dictation, TranslateText, Conversation, Practice, and mute toggles, with a TranslationProviderExtension for system integration."
+        },
+        {
+          "theme": "ui",
+          "title": "Hybrid SwiftUI and UIKit",
+          "detail": "Leverages both SwiftUI and UIKit, with WidgetKit for widgets and ActivityKit for Live Activities, plus App Intents for modern iOS features."
+        },
+        {
+          "theme": "platform",
+          "title": "Metal GPU acceleration",
+          "detail": "Links MetalKit and includes 25 Metal shader functions, likely for accelerating ML inference and image processing on device."
+        },
+        {
+          "theme": "languages",
+          "title": "Support across 83 locales",
+          "detail": "Localized in 83 languages with dedicated TFLite recognizers for diverse scripts like Knda, Taml, Hebr, Cyrl, and others."
+        }
+      ]
+    }
+  ]
+}

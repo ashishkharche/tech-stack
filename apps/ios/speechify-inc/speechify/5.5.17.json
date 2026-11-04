@@ -1,0 +1,768 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Speechify – Text to Speech PDF",
+    "slug": "speechify",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1209815023",
+    "bundle_id": "com.cliffweitzman.speechifyMobile2",
+    "active": true,
+    "company": {
+      "name": "Speechify Inc.",
+      "slug": "speechify-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "5.5.17",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T21:34:28Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-20T09:08:50Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 103,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftData (persistence)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Intercom UI",
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Branch",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FacebookAEM",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FacebookCore",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAEMKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKCoreKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseAnalytics",
+        "version": "11.15.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurement",
+        "version": "11.15.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurementIdentitySupport",
+        "version": "11.15.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Segment",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAdsOnDeviceConversion",
+        "version": "2.3.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": "8.58.4",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "SubscriptionsService",
+        "version": "1.0",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "FacebookLogin",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKLoginKit",
+        "version": "1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "NewAuthenticationFlow",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Alamofire",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Intercom",
+        "version": "19.6.5",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "GRDB",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZIPFoundation",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "abseil",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseAuth",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseDynamicLinks",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseFirestore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "leveldb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Highlight.js",
+        "version": "11.9.0",
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "HighlightSwift",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kingfisher",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "PSPDFKit",
+        "version": "14.3.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "PSPDFKitUI",
+        "version": "0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Native",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "SDWebImage",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImageSwiftUI",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftMessages",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "FacebookShare",
+        "version": null,
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKShareKit",
+        "version": "1.0",
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "LiveKit",
+        "version": null,
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "absl",
+        "version": "1.20240722.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "abslWrapper",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AIVoices",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AssistantFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AudioBrowserFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Autocorrect",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AxonSDK",
+        "version": "1.3.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BooksFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CioDataPipelines",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CioMessagingInApp",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CioMessagingPushFCM",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CreateNoteFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DictationService",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EnigmaSDK",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FacebookBasics",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Factory",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FactoryKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAPIClientForRESTCore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "KindleFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LibraryFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LifetimeTracker",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "NewHomeFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NewImportFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NewScanFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OnboardingFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "onnxruntime",
+        "version": "1.20.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "opensslWrapper",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PaywallFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PodcastPlayer",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PodcastSourcesKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ProfileFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RaTeX",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RustLiveKitUniFFI",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ScanFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SettingsFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SleepTimerFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SPLComponents",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSML",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftPhonemizer",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftUIIntrospect",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Then",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "UserFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VMS",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VMSCore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VoiceKeyboardHost",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VoiceLibrary",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VoiceWizardFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "WidgetFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos27.0",
+      "xcode": "27.0",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 43
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background Audio",
+      "Background Push",
+      "CloudKit",
+      "iCloud",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 3,
+      "collected_data_types": [
+        "AdvertisingData",
+        "App Name",
+        "App Version",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "PerformanceData",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

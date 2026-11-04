@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Lens",
+    "slug": "google-lens",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.google.ar.lens",
+    "bundle_id": "com.google.ar.lens",
+    "active": false,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.18.250731009",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:14Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 8,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 23",
+      "min_sdk": "23",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 3,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "com.google.android.gms.permission.AD_ID",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:26:10Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "notable",
+          "title": "Queries for AR/VR packages",
+          "detail": "Manifest queries com.google.android.googlequicksearchbox and many com.google.vr.apps.ornament.content.stickers packages; implies AR feature detection or integration."
+        },
+        {
+          "theme": "notable",
+          "title": "Dynamic loading APIs",
+          "detail": "Uses ClassLoader, Reflection, and Runtime Process exec; supports dynamic behavior and system-level operations."
+        },
+        {
+          "theme": "architecture",
+          "title": "Background components",
+          "detail": "Declares 6 services and 4 receivers; points to significant background processing and event handling."
+        }
+      ]
+    }
+  ]
+}

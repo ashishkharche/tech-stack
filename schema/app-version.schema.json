@@ -1,0 +1,406 @@
+{
+  "$id": "app-version.schema.json",
+  "title": "Tech Stack: one public store app version",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "app",
+    "version",
+    "public_store_build",
+    "dates",
+    "source",
+    "confidence",
+    "stack",
+    "inferred"
+  ],
+  "$defs": {
+    "str_list": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "nstr": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ts": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+    }
+  },
+  "properties": {
+    "schema_version": {
+      "const": "1.1"
+    },
+    "app": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "slug",
+        "platform",
+        "store",
+        "store_id",
+        "bundle_id",
+        "active",
+        "company"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        "platform": {
+          "enum": [
+            "ios",
+            "android"
+          ]
+        },
+        "store": {
+          "enum": [
+            "app_store",
+            "google_play"
+          ]
+        },
+        "store_id": {
+          "type": "string",
+          "pattern": "^(\\d{6,12}|[A-Za-z][A-Za-z0-9_]*(\\.[A-Za-z][A-Za-z0-9_]*)+)$"
+        },
+        "bundle_id": {
+          "$ref": "#/$defs/nstr"
+        },
+        "active": {
+          "type": "boolean"
+        },
+        "company": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "name",
+            "slug",
+            "source",
+            "unknown"
+          ],
+          "properties": {
+            "name": {
+              "type": "string",
+              "minLength": 1,
+              "not": {
+                "pattern": "(?i)^\\W*(unknown|n/?a|tbd|tba|none|null|undefined)?\\W*$"
+              }
+            },
+            "slug": {
+              "type": "string",
+              "pattern": "^[a-z0-9][a-z0-9-]*$"
+            },
+            "source": {
+              "const": "store_listing_developer"
+            },
+            "unknown": {
+              "const": false,
+              "description": "Always false: an app with no verified company is left out of the export."
+            }
+          }
+        }
+      }
+    },
+    "version": {
+      "type": "string",
+      "minLength": 1,
+      "not": {
+        "pattern": "([Tt]est[Ff]light|[Nn]ightly|[Ii]nternal|[Aa]lpha|[Bb]eta|[Dd]ebug|[Aa]dhoc|[Dd]ogfood|[Cc]anary|[Ss]taging)"
+      }
+    },
+    "public_store_build": {
+      "const": true
+    },
+    "dates": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "captured_at",
+        "store_first_seen_at",
+        "store_updated_at",
+        "exported_at"
+      ],
+      "properties": {
+        "captured_at": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$",
+          "description": "When the analysis was published, not download time."
+        },
+        "store_first_seen_at": {
+          "$ref": "#/$defs/ts"
+        },
+        "store_updated_at": {
+          "$ref": "#/$defs/ts"
+        },
+        "exported_at": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind",
+        "artifact",
+        "tool"
+      ],
+      "properties": {
+        "kind": {
+          "const": "static_binary_analysis"
+        },
+        "artifact": {
+          "enum": [
+            "ipa",
+            "apk"
+          ]
+        },
+        "tool": {
+          "const": "static-analyzer"
+        }
+      }
+    },
+    "confidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "sdk_list_is_floor",
+        "binary_encrypted",
+        "packed",
+        "packers",
+        "stale"
+      ],
+      "properties": {
+        "sdk_list_is_floor": {
+          "type": "boolean"
+        },
+        "binary_encrypted": {
+          "type": "boolean"
+        },
+        "packed": {
+          "type": "boolean"
+        },
+        "packers": {
+          "$ref": "#/$defs/str_list"
+        },
+        "stale": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "The analysis was marked as behind the store version. null = not known (API source)."
+        }
+      }
+    },
+    "stack": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "sdk_count",
+        "languages",
+        "frameworks",
+        "ui_graphics",
+        "build_system",
+        "sdks",
+        "platform",
+        "capabilities",
+        "privacy"
+      ],
+      "properties": {
+        "sdk_count": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "languages": {
+          "$ref": "#/$defs/str_list"
+        },
+        "frameworks": {
+          "$ref": "#/$defs/str_list"
+        },
+        "ui_graphics": {
+          "$ref": "#/$defs/str_list"
+        },
+        "build_system": {
+          "$ref": "#/$defs/str_list"
+        },
+        "sdks": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "name",
+              "version",
+              "category",
+              "confidence"
+            ],
+            "properties": {
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "version": {
+                "$ref": "#/$defs/nstr"
+              },
+              "category": {
+                "type": "string"
+              },
+              "confidence": {
+                "enum": [
+                  "observed",
+                  "inferred",
+                  "unknown"
+                ]
+              }
+            }
+          }
+        },
+        "platform": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "min_os",
+            "min_sdk",
+            "target_sdk",
+            "build_sdk",
+            "xcode",
+            "device_families",
+            "abis",
+            "localization_count"
+          ],
+          "properties": {
+            "min_os": {
+              "$ref": "#/$defs/nstr"
+            },
+            "min_sdk": {
+              "$ref": "#/$defs/nstr"
+            },
+            "target_sdk": {
+              "$ref": "#/$defs/nstr"
+            },
+            "build_sdk": {
+              "$ref": "#/$defs/nstr"
+            },
+            "xcode": {
+              "$ref": "#/$defs/nstr"
+            },
+            "device_families": {
+              "$ref": "#/$defs/str_list"
+            },
+            "abis": {
+              "$ref": "#/$defs/str_list"
+            },
+            "localization_count": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            }
+          }
+        },
+        "capabilities": {
+          "$ref": "#/$defs/str_list"
+        },
+        "privacy": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "declares_tracking",
+            "tracking_domain_count",
+            "collected_data_types",
+            "required_reason_apis",
+            "android_permissions"
+          ],
+          "properties": {
+            "declares_tracking": {
+              "type": "boolean"
+            },
+            "tracking_domain_count": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "collected_data_types": {
+              "$ref": "#/$defs/str_list"
+            },
+            "required_reason_apis": {
+              "$ref": "#/$defs/str_list"
+            },
+            "android_permissions": {
+              "$ref": "#/$defs/str_list"
+            }
+          }
+        }
+      }
+    },
+    "inferred": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "kind",
+          "method",
+          "note",
+          "generated_at",
+          "headline",
+          "insights"
+        ],
+        "properties": {
+          "kind": {
+            "const": "analysis"
+          },
+          "method": {
+            "const": "model_written_summary_of_detected_signals"
+          },
+          "note": {
+            "type": "string"
+          },
+          "generated_at": {
+            "$ref": "#/$defs/ts"
+          },
+          "headline": {
+            "$ref": "#/$defs/nstr"
+          },
+          "insights": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "theme",
+                "title",
+                "detail"
+              ],
+              "properties": {
+                "theme": {
+                  "type": "string"
+                },
+                "title": {
+                  "type": "string"
+                },
+                "detail": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

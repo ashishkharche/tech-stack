@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Snapchat",
+    "slug": "snapchat",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "447188370",
+    "bundle_id": "com.toyopagroup.picaboo",
+    "active": true,
+    "company": {
+      "name": "Snap, Inc.",
+      "slug": "snap-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "13.95.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:29:16Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 7,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "ARKit",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mapbox",
+        "version": "5.9.0",
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "AudioPresets",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "insights",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NLPGeoParser",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "reactions",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SCMemoriesSearch",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.0",
+      "xcode": "26.0.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 42
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Location",
+      "Background Processing",
+      "Background Push",
+      "Bluetooth (central)",
+      "Communication Notifications",
+      "External Accessory",
+      "iCloud Key-Value Storage",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "Time-Sensitive Notifications",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CrashData",
+        "OtherDiagnosticData",
+        "OtherUserContactInfo",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:28:48Z",
+      "headline": "iOS Snapchat app with Swift/Objective-C, 163 Metal shaders, 9 app extensions, App Intents, and first-party backends",
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "Heavy custom Metal rendering",
+          "detail": "163 Metal shader functions and MetalKit usage indicate extensive custom GPU compute for camera, lenses, and AR effects."
+        },
+        {
+          "theme": "architecture",
+          "title": "Nine app extensions for integration",
+          "detail": "Bundles extensions for messaging, screen capture, notifications, keyboard, widgets, and intents with camera shortcuts."
+        },
+        {
+          "theme": "privacy",
+          "title": "Tracking not declared",
+          "detail": "Privacy section declares tracking false despite App Tracking Transparency and AdSupport frameworks."
+        }
+      ]
+    }
+  ]
+}

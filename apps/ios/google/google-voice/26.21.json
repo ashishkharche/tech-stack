@@ -1,0 +1,159 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Voice",
+    "slug": "google-voice",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "318698524",
+    "bundle_id": "com.google.GVDialer",
+    "active": false,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "26.21",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-09T02:18:29Z",
+    "store_first_seen_at": "2026-06-04T08:07:51Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 3,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "App Intents",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Core Location",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "GeocodingMetadata",
+        "version": null,
+        "category": "maps",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "SystemIcons",
+        "version": "26.21",
+        "category": "other",
+        "confidence": "unknown"
+      }
+    ],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 78
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "Communication Notifications",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "SiriKit",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CoarseLocation",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "PerformanceData",
+        "PhoneNumber",
+        "ProductInteraction",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "FileTimestamp",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-09T02:18:29Z",
+      "headline": "Native Swift iOS app with WidgetKit/SiriKit/VoIP extensions and SwiftProtobuf for Google Voice telephony.",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Deep system extensions for voice",
+          "detail": "Three app extensions plus VoIP, SiriKit, Background Audio, and Push capabilities enable direct iOS telephony and assistant integration beyond typical apps."
+        },
+        {
+          "theme": "sdks",
+          "title": "Minimal third-party dependencies",
+          "detail": "Only three third-party SDKs observed, dominated by SwiftProtobuf for serialization, plus first-party modules like VoiceFramework indicating controlled, Google-centric stack."
+        },
+        {
+          "theme": "platform",
+          "title": "iOS 18+ with SwiftUI and UIKit",
+          "detail": "Minimum deployment iOS 18.0 combined with SwiftUI, UIKit, and WidgetKit shows modern framework adoption while retaining legacy UIKit for complex UI and iPad support."
+        }
+      ]
+    }
+  ]
+}

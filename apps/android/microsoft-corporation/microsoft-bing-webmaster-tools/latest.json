@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Microsoft Bing Webmaster Tools",
+    "slug": "microsoft-bing-webmaster-tools",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.microsoft.bingwebmastertools.twa",
+    "bundle_id": "com.microsoft.bingwebmastertools.twa",
+    "active": false,
+    "company": {
+      "name": "Microsoft Corporation",
+      "slug": "microsoft-corporation",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.0.3",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:25Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 0,
+    "languages": [
+      "Java"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Android Views (inferred)"
+    ],
+    "build_system": [
+      "Gradle (inferred)",
+      "R8 / ProGuard (name obfuscation detected)"
+    ],
+    "sdks": [],
+    "platform": {
+      "min_os": "Android API 19",
+      "min_sdk": "19",
+      "target_sdk": "33",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.POST_NOTIFICATIONS"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T11:31:55Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "languages",
+          "title": "Java with R8/ProGuard obfuscation",
+          "detail": "Static analysis shows Java runtime and partial recovery due to R8/ProGuard obfuscation; class and SDK names are mangled, limiting static visibility."
+        },
+        {
+          "theme": "architecture",
+          "title": "WebView and Reflection API usage",
+          "detail": "Detected API usage and capability signals include WebView and Reflection; indicates hybrid web content or dynamic loading patterns."
+        },
+        {
+          "theme": "architecture",
+          "title": "5 activities, 1 service, 1 provider",
+          "detail": "Manifest declares 5 activities, 1 service, and 1 provider with zero receivers; points to a multi-screen tool with background tasks and data exposure."
+        }
+      ]
+    }
+  ]
+}

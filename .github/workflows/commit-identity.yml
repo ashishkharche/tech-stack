@@ -1,0 +1,35 @@
+name: Commit identity
+
+# Every new commit pushed to main must have author and committer exactly
+# ashishkharche <thekharche@gmail.com>. Pull requests and other branches are not checked,
+# so outside contributions can be opened freely; land them on main with that identity.
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check author and committer of every new commit on main
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.event.after }}
+        run: |
+          set -euo pipefail
+          zero='^0+$'
+          if [[ ! "$BEFORE" =~ $zero ]] && git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            set -- "$BEFORE..$AFTER"
+          else
+            set -- "$AFTER"
+          fi
+          echo "Range: $*"
+          bash scripts/check_commit_identity.sh "$@"

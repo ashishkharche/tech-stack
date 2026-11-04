@@ -1,0 +1,1127 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "CapCut: Photo & Video Editor",
+    "slug": "capcut",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1500855883",
+    "bundle_id": "com.lemon.lvoverseas",
+    "active": true,
+    "company": {
+      "name": "BYTEDANCE PTE. LTD.",
+      "slug": "bytedance-pte-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "19.8.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T19:20:35Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-22T06:53:20Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 163,
+    "languages": [
+      "C/C++",
+      "Kotlin Multiplatform",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CloudKit",
+      "Combine (reactive)",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Adjust",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppsFlyerLib",
+        "version": "6.17.7",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenSDK",
+        "version": "2.5.3",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenShareSDK",
+        "version": "2.5.3",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppLovin",
+        "version": "13.6.1",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAudienceNetwork",
+        "version": "6.21.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GABMediation",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMobileAds",
+        "version": "13.11.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "MolocoSDK",
+        "version": "4.11.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "VungleAds",
+        "version": "7.7.1",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVSubscription",
+        "version": "0.1.0",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVSubscriptionBase",
+        "version": "0.1.0",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "7.1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVLogin",
+        "version": "0.0.1",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Axios",
+        "version": null,
+        "category": "networking",
+        "confidence": "inferred"
+      },
+      {
+        "name": "dashdec",
+        "version": "1.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "normal",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.0.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Highlight.js",
+        "version": "9.13.1",
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Native",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "RetouchAnimation",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SVG",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "XLPagerTabStrip",
+        "version": "9.0.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "AdsGlobalSDK",
+        "version": "7.8.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "agent",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AIGCWatermarkI18N",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "animate",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDALog",
+        "version": "0.9.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDAlogProtocol",
+        "version": "1.3.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDFishhookPrivacyInfo",
+        "version": "0.3.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDInstallPopup",
+        "version": "0.4.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDLRepairer",
+        "version": "19.8.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDMemoryMatrix",
+        "version": "0.0.26",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDTuringLocalized-en",
+        "version": "2.3.10",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDWebKit",
+        "version": "1.4.40",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDXServiceCenter",
+        "version": "3.0.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "boringssl",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Bytedance1",
+        "version": "1.4.13",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "bytevc1enc",
+        "version": "1.9.7",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CCUX",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "crypto",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "deflicker",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Emoji",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "enhance",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FrameRecoverPrivacyInfo",
+        "version": "1.37.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GMTIAB",
+        "version": "0.3.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GMTSKOverlayImpl",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "guide",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HandwriteBrush",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HeimdallrPrivacyInfo",
+        "version": "0.8.103",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Hermas",
+        "version": "2.1.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HMDGWPAsanPrivacyInfo",
+        "version": "0.3.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "iBaseKit",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IESPhoto",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IESWebViewMonitor",
+        "version": "1.7.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ImageEffect",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "languages",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lemon8OpenSDK",
+        "version": "0.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "libvcn",
+        "version": "4.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "loading",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "LVAdCapCut",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVAdCommon",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVAIDigitalPortrait",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVAIDubbingScene",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVAILab",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVAILabAgent",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVAILabAgentFoundationLegacy",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVAILabAgentLegacy",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVAISound",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVAlbum",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVAppSettings",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVCamera",
+        "version": "0.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVCloudSpace",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVCompliance",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVCreatorAssistant",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVDigitalHuman",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVDoraemon",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVDraftBox",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVEditor",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVEditorAIClipper",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVEditorAIGC",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVEditorAIMusic",
+        "version": "12.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVEditorAudio",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVEditorBizUI",
+        "version": "9.9.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVEditorCommon",
+        "version": "12.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVEditorEffect",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVEditorSearch",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVEditorSearchAPI",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVEditorText",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVExport",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVExtension",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVFeed",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVFeedCommon",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVFigureEditor",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVFileShare",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVGenAI",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVGenAIBizUI",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVHomepage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVI18N",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVInbox",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVInspiration",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVLynxKit",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVMain",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVMaskEditor",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVMaterialGenerate",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVNextEditorUI",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVNextFeed",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVPersonalizedMaterial",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVPhotoEditor",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVProfile",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVPublish",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVShare",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVSmartScriptTemplate",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVTemplateAssembler",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVTemplateFoundation",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVTemplateUI",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVUGKit",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVUIKit",
+        "version": "9.9.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVUserGuidance",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVVideoAgent",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LVWebView",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MemoryGraphCapture",
+        "version": "1.4.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MJRefresh",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MTGSDK",
+        "version": "8.0.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OrbuculumCore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PAGAdSDK",
+        "version": "7.8.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "patch.ofx",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Retouch",
+        "version": "18.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RetouchCompile",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RetouchFilter",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RetouchLocalAdjust",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RetouchMiddleware-Config",
+        "version": "16.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RetouchShapeMask",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RetouchSticker",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ShareExtension",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SmartCropResourceNew",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "splashResourceCore",
+        "version": "2.2.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sticker",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "StingerPrivacyInfo",
+        "version": "1.0.22",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TailLeader",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokBusinessSDK",
+        "version": "7.8.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenAuthSDKPrivacyInfo",
+        "version": "2.5.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ToolBox",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTAppStoreStarManager",
+        "version": "1.2.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTFFmpeg",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTPOrbuService",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "umvfi",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "vhdr",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "vmb",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VoiceClone",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "vsf",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Watermark",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XConsole",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.0",
+      "xcode": "26.0",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 22
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "Communication Notifications",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 19,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "CoarseLocation",
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUserContactInfo",
+        "OtherUserContent",
+        "PerformanceData",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

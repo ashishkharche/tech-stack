@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 386" width="680" height="386" role="img" aria-label="Manus AI SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Manus AI SDKs by category</title>
+<rect x="0.5" y="0.5" width="679" height="385" rx="12" fill="#FAF8F3" stroke="#D9E1DD"/>
+<g transform="translate(20 20)">
+<text x="158.17999999999995" y="20" font-size="13" text-anchor="end" fill="#090A0B">Analytics</text>
+<rect x="170.2" y="10" width="399.8" height="14" rx="3" fill="#1EA45A"/>
+<text x="578.0" y="20" font-size="13" fill="#4D5755">5</text>
+<text x="158.17999999999995" y="42" font-size="13" text-anchor="end" fill="#090A0B">Sign-in and auth</text>
+<rect x="170.2" y="32" width="319.9" height="14" rx="3" fill="#1EA45A"/>
+<text x="498.0" y="42" font-size="13" fill="#4D5755">4</text>
+<text x="158.17999999999995" y="64" font-size="13" text-anchor="end" fill="#090A0B">Anti-fraud and integrity</text>
+<rect x="170.2" y="54" width="239.9" height="14" rx="3" fill="#1EA45A"/>
+<text x="418.1" y="64" font-size="13" fill="#4D5755">3</text>
+<text x="158.17999999999995" y="86" font-size="13" text-anchor="end" fill="#090A0B">Crash and performance</text>
+<rect x="170.2" y="76" width="239.9" height="14" rx="3" fill="#1EA45A"/>
+<text x="418.1" y="86" font-size="13" fill="#4D5755">3</text>
+<text x="158.17999999999995" y="108" font-size="13" text-anchor="end" fill="#090A0B">Firebase</text>
+<rect x="170.2" y="98" width="239.9" height="14" rx="3" fill="#1EA45A"/>
+<text x="418.1" y="108" font-size="13" fill="#4D5755">3</text>
+<text x="158.17999999999995" y="130" font-size="13" text-anchor="end" fill="#090A0B">UI and rendering</text>
+<rect x="170.2" y="120" width="239.9" height="14" rx="3" fill="#1EA45A"/>
+<text x="418.1" y="130" font-size="13" fill="#4D5755">3</text>
+<text x="158.17999999999995" y="152" font-size="13" text-anchor="end" fill="#090A0B">Payments</text>
+<rect x="170.2" y="142" width="159.9" height="14" rx="3" fill="#1EA45A"/>
+<text x="338.1" y="152" font-size="13" fill="#4D5755">2</text>
+<text x="158.17999999999995" y="174" font-size="13" text-anchor="end" fill="#090A0B">Storage</text>
+<rect x="170.2" y="164" width="159.9" height="14" rx="3" fill="#1EA45A"/>
+<text x="338.1" y="174" font-size="13" fill="#4D5755">2</text>
+<text x="158.17999999999995" y="196" font-size="13" text-anchor="end" fill="#090A0B">Ads</text>
+<rect x="170.2" y="186" width="80.0" height="14" rx="3" fill="#1EA45A"/>
+<text x="258.1" y="196" font-size="13" fill="#4D5755">1</text>
+<text x="158.17999999999995" y="218" font-size="13" text-anchor="end" fill="#090A0B">Feature flags</text>
+<rect x="170.2" y="208" width="80.0" height="14" rx="3" fill="#1EA45A"/>
+<text x="258.1" y="218" font-size="13" fill="#4D5755">1</text>
+<text x="158.17999999999995" y="240" font-size="13" text-anchor="end" fill="#090A0B">Media</text>
+<rect x="170.2" y="230" width="80.0" height="14" rx="3" fill="#1EA45A"/>
+<text x="258.1" y="240" font-size="13" fill="#4D5755">1</text>
+<text x="158.17999999999995" y="262" font-size="13" text-anchor="end" fill="#090A0B">Messaging and push</text>
+<rect x="170.2" y="252" width="80.0" height="14" rx="3" fill="#1EA45A"/>
+<text x="258.1" y="262" font-size="13" fill="#4D5755">1</text>
+<text x="158.17999999999995" y="284" font-size="13" text-anchor="end" fill="#090A0B">Networking</text>
+<rect x="170.2" y="274" width="80.0" height="14" rx="3" fill="#1EA45A"/>
+<text x="258.1" y="284" font-size="13" fill="#4D5755">1</text>
+<text x="158.17999999999995" y="306" font-size="13" text-anchor="end" fill="#090A0B">Social</text>
+<rect x="170.2" y="296" width="80.0" height="14" rx="3" fill="#1EA45A"/>
+<text x="258.1" y="306" font-size="13" fill="#4D5755">1</text>
+<text x="158.17999999999995" y="328" font-size="13" text-anchor="end" fill="#090A0B">Voice</text>
+<rect x="170.2" y="318" width="80.0" height="14" rx="3" fill="#1EA45A"/>
+<text x="258.1" y="328" font-size="13" fill="#4D5755">1</text>
+</g>
+</svg>

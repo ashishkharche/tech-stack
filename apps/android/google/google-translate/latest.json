@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Translate",
+    "slug": "google-translate",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.google.android.apps.translate",
+    "bundle_id": "com.google.android.apps.translate",
+    "active": false,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "10.20.41.923213375.5-release",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:10Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 13,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide",
+      "Jetpack Compose",
+      "Lottie",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Google)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Retrofit",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 26",
+      "min_sdk": "26",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Draw over other apps",
+      "Foreground service",
+      "Foreground service: microphone",
+      "Microphone",
+      "NFC",
+      "Notifications",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.INTERNET",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.NFC",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.POST_PROMOTED_NOTIFICATIONS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.google.android.apps.translate.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:18:25Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "Jetpack Compose and Material UI",
+          "detail": "UI layer uses Jetpack Compose, Material Components, Lottie and Glide, reflecting adoption of declarative UI, vector animations and efficient image loading in a modern Android app."
+        },
+        {
+          "theme": "sdks",
+          "title": "Google Play services and Play Core",
+          "detail": "Bundles Google Play services, Firebase, Google Sign-In and Play Core for in-app updates and dynamic features, plus Cronet and Kotlin Coroutines."
+        },
+        {
+          "theme": "notable",
+          "title": "Foreground mic and overlay capabilities",
+          "detail": "Declares FOREGROUND_SERVICE_MICROPHONE, SYSTEM_ALERT_WINDOW and RECORD_AUDIO permissions with matching capabilities, enabling persistent voice input or drawing over other apps."
+        },
+        {
+          "theme": "platform",
+          "title": "WebView with JS bridge",
+          "detail": "Includes WebView and WebView JavaScript bridge usage plus queries for Chrome and Google apps, supporting hybrid web content and inter-app integration."
+        }
+      ]
+    }
+  ]
+}

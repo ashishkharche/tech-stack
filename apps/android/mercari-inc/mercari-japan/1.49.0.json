@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Mercari Japan: Anime Shopping",
+    "slug": "mercari-japan",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.mercari.global",
+    "bundle_id": "com.mercari.global",
+    "active": false,
+    "company": {
+      "name": "Mercari, Inc",
+      "slug": "mercari-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.49.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:22Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 22,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Coil",
+      "Jetpack Compose",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)",
+      "R8 / ProGuard (name obfuscation detected)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyer",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Datadog",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Crashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Performance",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Retrofit",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Coil",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Play Integrity",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Remote Config",
+        "version": null,
+        "category": "feature_flags",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 32",
+      "min_sdk": "32",
+      "target_sdk": "35",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Camera",
+      "Foreground service",
+      "Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 4,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CAMERA",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK",
+        "com.android.vending.CHECK_LICENSE",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+        "com.mercari.global.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.samsung.android.mapsagent.permission.READ_APP_INFO"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:31:27Z",
+      "headline": "Android Mercari Japan app using Kotlin, Jetpack Compose, custom native image libs, dual Datadog/Firebase monitoring, and first-party Mercari backends",
+      "insights": [
+        {
+          "theme": "sdks",
+          "title": "Dual crash and performance monitoring",
+          "detail": "The app ships both Datadog and Firebase Crashlytics with Performance. This is observed alongside Play Integrity for anti-fraud."
+        },
+        {
+          "theme": "ui",
+          "title": "Jetpack Compose declarative UI",
+          "detail": "Declares Jetpack Compose with Material Components and Coil for image loading, indicating a modern declarative UI implementation."
+        },
+        {
+          "theme": "analytics",
+          "title": "Multi-vendor analytics stack",
+          "detail": "Integrates AppsFlyer for attribution alongside Firebase Analytics and Google App Measurement."
+        },
+        {
+          "theme": "notable",
+          "title": "Queries for social media apps",
+          "detail": "Queries other installed apps including com.facebook.katana, com.instagram.android, and com.samsung.android.mapsagent."
+        }
+      ]
+    }
+  ]
+}

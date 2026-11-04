@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Tusky for Mastodon",
+    "slug": "tusky-for-mastodon",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.keylesspalace.tusky",
+    "bundle_id": "com.keylesspalace.tusky",
+    "active": false,
+    "company": {
+      "name": "Tusky Team",
+      "slug": "tusky-team",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "32.2",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:17Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 7,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Coil",
+      "Glide",
+      "Jetpack Compose",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)",
+      "R8 / ProGuard (name obfuscation detected)"
+    ],
+    "sdks": [
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Coil",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 24",
+      "min_sdk": "24",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "armeabi-v7a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Foreground service",
+      "Notifications",
+      "Storage (read)",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.keylesspalace.tusky.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:30:31Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "Jetpack Compose with dual image loaders",
+          "detail": "Static analysis shows Jetpack Compose and Material Components for UI rendering, plus both Coil and Glide for image handling."
+        },
+        {
+          "theme": "sdks",
+          "title": "Media3 ExoPlayer for media",
+          "detail": "Bundles Media3 (ExoPlayer) in media category, OkHttp for networking, and Room for storage."
+        },
+        {
+          "theme": "notable",
+          "title": "Native AVIF GIF and graphics libs",
+          "detail": "Ships on-disk native libraries for AVIF decoding, GIF animation, graphics paths, and Conscrypt."
+        },
+        {
+          "theme": "privacy",
+          "title": "No tracking or Firebase",
+          "detail": "Privacy signals indicate declares_tracking false, no collected data types, and firebase false."
+        },
+        {
+          "theme": "platform",
+          "title": "Targets SDK 36 with services",
+          "detail": "Min SDK 24 and target SDK 36; declares foreground service, notifications, and external storage permissions."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+raw/
+*.raw.json
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+.blocked-terms

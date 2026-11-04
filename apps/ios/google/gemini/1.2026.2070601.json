@@ -1,0 +1,190 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Gemini",
+    "slug": "gemini",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6477489729",
+    "bundle_id": "com.google.gemini",
+    "active": true,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.2026.2070601",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-09T02:33:52Z",
+    "store_first_seen_at": "2026-05-28T09:26:24Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 8,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "App Intents",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Core Data",
+      "Core Location",
+      "MetalKit",
+      "PencilKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "GIPPseudonymousID",
+        "version": null,
+        "category": "analytics",
+        "confidence": "unknown"
+      },
+      {
+        "name": "OneGoogle",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSOAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "SpotifyiOS",
+        "version": "3.0.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialDialogs",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialPullToRefresh",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "MaterialSearch",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.4",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 85
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "Keychain Sharing",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "OtherDataTypes",
+        "PerformanceData",
+        "PreciseLocation",
+        "ProductInteraction",
+        "SearchHistory"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-09T02:33:52Z",
+      "headline": "iOS Google Gemini app built in Swift with 128 Metal shaders and deep first-party Google integrations.",
+      "insights": [
+        {
+          "theme": "languages",
+          "title": "128 Metal shader functions",
+          "detail": "High shader count plus explicit Metal GPU compute usage indicates custom on-device rendering or compute workloads, atypical for a conversational AI client."
+        },
+        {
+          "theme": "sdks",
+          "title": "Embedded Google first-party modules",
+          "detail": "Presence of GMSCore, GoogleMaps, GooglePlaces, and GoogleKitCore alongside Firebase gRPC shows reuse of shared Google service and mapping infrastructure."
+        },
+        {
+          "theme": "platform",
+          "title": "Extensive system extensions and intents",
+          "detail": "Four app extensions plus WidgetKit, ActivityKit, and nine App Intents with auto shortcuts enable widgets, live activities, and deep OS integration."
+        }
+      ]
+    }
+  ]
+}

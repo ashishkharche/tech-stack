@@ -1,0 +1,386 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "rednote",
+    "slug": "rednote",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.xingin.xhs",
+    "bundle_id": "com.xingin.xhs",
+    "active": true,
+    "company": {
+      "name": "行吟信息科技(上海)有限公司",
+      "slug": "xingin-information-technology-shanghai-co-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "9.51.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T20:50:09Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-23T11:37:20Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 35,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin",
+      "React Native / JavaScript"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Fresco",
+      "Jetpack Compose",
+      "Lottie",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyer",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry (native)",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Credential Manager",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Login",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Chromium net)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Ktor",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Retrofit",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Maps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxJava",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "Okio",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Fresco",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "jLaTeXMath",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Markwon",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Share",
+        "version": null,
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "WebRTC",
+        "version": null,
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "Play Integrity",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 21",
+      "min_sdk": "21",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Approximate location",
+      "Biometric auth",
+      "Bluetooth (connect)",
+      "Calendar (read)",
+      "Calendar (write)",
+      "Camera",
+      "Contacts (read)",
+      "Draw over other apps",
+      "Fingerprint auth",
+      "Foreground service",
+      "Foreground service: media playback",
+      "Foreground service: microphone",
+      "Media: audio",
+      "Media: images",
+      "Media: video",
+      "Microphone",
+      "NFC",
+      "Notifications",
+      "Precise location",
+      "Storage (read)",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 6,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_MEDIA_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.AUTHENTICATE_ACCOUNTS",
+        "android.permission.BATTERY_STATS",
+        "android.permission.BLUETOOTH_CONNECT",
+        "android.permission.CAMERA",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.DEVICE_POWER",
+        "android.permission.EXPAND_STATUS_BAR",
+        "android.permission.FLASHLIGHT",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+        "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_ACCOUNTS",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.NFC",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_CALENDAR",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_AUDIO",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_MEDIA_VIDEO",
+        "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+        "android.permission.READ_SYNC_SETTINGS",
+        "android.permission.RECEIVE_USER_PRESENT",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.USE_CREDENTIALS",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_CALENDAR",
+        "android.permission.WRITE_CLIPBOARD_SERVICE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WRITE_SYNC_SETTINGS",
+        "cn.org.ifaa.permission.USE_IFAA_MANAGER",
+        "com.android.gallery3d.permission.GalleryDataProvider",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.android.launcher.permission.READ_SETTINGS",
+        "com.android.vending.BILLING",
+        "com.asus.msa.SupplementaryDID.ACCESS",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.hihonor.permission.ACCESS_HW_KEYSTORE",
+        "com.hihonor.security.permission.ACCESS_THREAT_DETECTION",
+        "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+        "com.huawei.permission.ACCESS_HW_KEYSTORE",
+        "com.miui.home.launcher.permission.INSTALL_WIDGET",
+        "com.open.gallery.smart.Provider",
+        "com.oplus.ocs.permission.third",
+        "com.samsung.android.mapsagent.permission.READ_APP_INFO",
+        "com.samsung.android.sume.nn.service.permission.ACCESS_SUME_NN_SERVICE",
+        "com.xiaomi.security.permission.ACCESS_XSOF",
+        "com.xingin.xhs.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.xingin.xhs.manual.dump",
+        "com.xingin.xhs.matrix.permission.PROCESS_SUPERVISOR",
+        "freemme.permission.msa"
+      ]
+    }
+  },
+  "inferred": []
+}

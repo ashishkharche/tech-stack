@@ -1,0 +1,804 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Microsoft Bing Search",
+    "slug": "microsoft-bing-search",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "345323231",
+    "bundle_id": "com.microsoft.bing",
+    "active": false,
+    "company": {
+      "name": "Microsoft Corporation",
+      "slug": "microsoft-corporation",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "33.4.440603001",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-09T02:21:13Z",
+    "store_first_seen_at": "2026-06-04T20:09:22Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 110,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "App Intents",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Core Data",
+      "Core Location",
+      "MapKit",
+      "MetalKit",
+      "RealityKit",
+      "SceneKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Adjust",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Attribution",
+        "version": null,
+        "category": "analytics",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AppCenter",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": "8.58.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "CopilotPayCheckout",
+        "version": null,
+        "category": "payments",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ManageSubscription",
+        "version": null,
+        "category": "payments",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ShopifyCheckoutSheetKit",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Auth0",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Authentication",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "AnswerCardsConsent",
+        "version": null,
+        "category": "privacy_consent",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Alamofire",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "PlaybackKit",
+        "version": null,
+        "category": "media",
+        "confidence": "unknown"
+      },
+      {
+        "name": "MMKV",
+        "version": "1.3.14",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Realm",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "RealmSwift",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftyJSON",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FluentIcons",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "HighlightSwift",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "iosMath",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.6.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "MarkdownText",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SDWebImage",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImageSwiftUI",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Accounts",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCards",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsAds",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsComposeEmail",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsFinance",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsFlashcard",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsJob",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsLocal",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsM365",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsMedia",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsPersonalArtifacts",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsQuiz",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsRecipe",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsSafetyHelpline",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsShopping",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsShoppingCuration",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsSports",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AnswerCardsWeather",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AppAppearanceSettings",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Attachments",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AutoSuggestions",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Banning",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Camera",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CameraSearch",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ChainOfThought",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ChatAPI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChatInfra",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ChatModal",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ChatSessions",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Citations",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Composer",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CopilotDesignSystem",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "CopilotPayAPI",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "CopilotVision",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "DeepResearch",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "DeveloperOptions",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Discover",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "FeatureLimit",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Feedback",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FlexLayout-Dynamic",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "FoundationExtensions",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GenUI",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GLTFKit2",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GroupChat",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Healthcare",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Home",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "KumoDesignSystem",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Lumi",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "M365Redirection",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "MainContent",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "MapFoundation",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "MapLibre",
+        "version": "6.11.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MediaFoundation",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Memory",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "MsnWebBridge",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Notifications",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Pages",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PagesAPI",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "PagesWebView",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Podcast",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Promotions",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ReadAloud",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Recipe",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Reminders",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Root",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SapphireMiniApp",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SapphireUIComponent",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Share",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Shopping",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ThinkDeeper",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "TurnLimits",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "UserSurvey",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "VideoGen",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ViewComponents",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "VoiceCall",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "VoiceSettings",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "YouTubePlayerKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.3",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 45
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background Audio",
+      "Background Processing",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 8,
+      "collected_data_types": [
+        "CrashData",
+        "DeviceID",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-09T02:21:13Z",
+      "headline": "Swift and React Native hybrid with WidgetKit, App Intents, and triple crash reporting via AppCenter, Firebase, and Sentry",
+      "insights": [
+        {
+          "theme": "analytics",
+          "title": "Triple crash reporting stack",
+          "detail": "Concurrent AppCenter, FirebaseCrashlytics, and Sentry usage implies redundant or segmented observability across product surfaces or environments."
+        },
+        {
+          "theme": "architecture",
+          "title": "Hybrid Swift and React Native",
+          "detail": "React Native / JavaScript alongside Swift, Objective-C, and C/C++ indicates mixed architecture, likely for shared logic or web-derived components."
+        },
+        {
+          "theme": "platform",
+          "title": "App Intents and widget extensions",
+          "detail": "App Intents with auto shortcuts, WidgetKit, ActivityKit, and three extensions show investment in iOS 16+ system integrations for shortcuts and live UI."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Messenger",
+    "slug": "messenger",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "454638411",
+    "bundle_id": "com.facebook.Messenger",
+    "active": true,
+    "company": {
+      "name": "Meta Platforms, Inc.",
+      "slug": "meta-platforms-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "563.0.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:40:15Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 1,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "ARKit",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "VisionKit (document/data scanning)",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.1",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 33
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Location",
+      "Background Processing",
+      "Background Push",
+      "Bluetooth (central)",
+      "Bluetooth (peripheral)",
+      "CloudKit",
+      "Communication Notifications",
+      "External Accessory",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "SiriKit",
+      "Time-Sensitive Notifications",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "BrowsingHistory",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CreditInfo",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "EmailsOrTextMessages",
+        "Fitness",
+        "GameplayContent",
+        "Health",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherFinancialInfo",
+        "OtherUsageData",
+        "OtherUserContactInfo",
+        "OtherUserContent",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "PhysicalAddress",
+        "PreciseLocation",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "SensitiveInfo",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:23:09Z",
+      "headline": "Hybrid SwiftUI/UIKit iOS Messenger with 7 app extensions, 4 App Intents, 27 Metal shaders, and LightSpeed/RTC modules",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Custom LightSpeed and RTC engines",
+          "detail": "Bundles likely first-party modules LightSpeedCore, LightSpeedEngine, and RTCAndSpark (13 total recovered modules), revealing a custom architecture for messaging and real-time comms instead of external SDKs."
+        },
+        {
+          "theme": "platform",
+          "title": "Deep OS integration via extensions",
+          "detail": "Ships seven app extensions (Siri, broadcast upload, live activities, notifications, share, widget) plus App Intents with actions including mute/unmute microphone and disconnect."
+        },
+        {
+          "theme": "languages",
+          "title": "Swift, Obj-C, C++ plus Metal shaders",
+          "detail": "Implements in Swift, Objective-C, C/C++ with 27 Metal shader functions and detected Metal GPU compute usage for performance-critical graphics."
+        },
+        {
+          "theme": "ui",
+          "title": "SwiftUI and UIKit hybrid",
+          "detail": "Declares both SwiftUI and UIKit plus WidgetKit and ActivityKit, indicating mixed declarative and imperative UI with support for widgets and live activities."
+        }
+      ]
+    }
+  ]
+}

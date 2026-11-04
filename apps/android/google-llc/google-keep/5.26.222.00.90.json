@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Keep - Notes and lists",
+    "slug": "google-keep",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.google.android.keep",
+    "bundle_id": "com.google.android.keep",
+    "active": false,
+    "company": {
+      "name": "Google LLC",
+      "slug": "google-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "5.26.222.00.90",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:13Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 10,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide",
+      "Jetpack Compose",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Google)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 29",
+      "min_sdk": "29",
+      "target_sdk": "37",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Contacts (read)",
+      "Microphone",
+      "Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.INTERNET",
+        "android.permission.LAUNCH_CAPTURE_CONTENT_ACTIVITY_FOR_NOTE",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_SYNC_SETTINGS",
+        "android.permission.READ_SYNC_STATS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.SUBSCRIBED_FEEDS_READ",
+        "android.permission.SUBSCRIBED_FEEDS_WRITE",
+        "android.permission.USE_CREDENTIALS",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_SYNC_SETTINGS",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "com.google.android.voicesearch.AUDIO_FILE_ACCESS"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:24:27Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "Jetpack Compose and Material",
+          "detail": "UI built with Jetpack Compose and Material Components, using Glide for image loading."
+        },
+        {
+          "theme": "notable",
+          "title": "Queries other Google apps",
+          "detail": "Queries package names of Chrome, Maps, Tasks, and Calendar, suggesting coordination with the Google app ecosystem."
+        },
+        {
+          "theme": "sdks",
+          "title": "Google SDK stack with Cronet",
+          "detail": "Depends on Firebase, Google Play services, Cronet for networking, Kotlin Coroutines, and Room for storage."
+        },
+        {
+          "theme": "platform",
+          "title": "Play Core for updates",
+          "detail": "Uses Play Core library for in-app updates and dynamic feature delivery."
+        },
+        {
+          "theme": "privacy",
+          "title": "Microphone and contacts permissions",
+          "detail": "Declares RECORD_AUDIO and READ_CONTACTS permissions with no tracking declared."
+        }
+      ]
+    }
+  ]
+}

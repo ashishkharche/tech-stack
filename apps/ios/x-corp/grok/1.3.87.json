@@ -1,0 +1,605 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Grok - AI Chat & Video",
+    "slug": "grok",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6670324846",
+    "bundle_id": "ai.x.GrokApp",
+    "active": true,
+    "company": {
+      "name": "X Corp.",
+      "slug": "x-corp",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.3.87",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:29:17Z",
+    "store_first_seen_at": "2026-06-04T12:08:27Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 70,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift",
+      "Unity (C# / IL2CPP)"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Intercom UI",
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyerLib",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeKit",
+        "version": "14.1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mixpanel",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenSDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenShareSDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": "8.49.1",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "connect-swift",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google API GAX (.NET)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google APIs (.NET)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google LongRunning",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC (.NET)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "NIOPosix",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "NIOSSL",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Polly (resilience)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Starscream",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Intercom",
+        "version": "18.5.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Autodesk FBX",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cinemachine (camera)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "uLipSync (lip-sync)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Unity Timeline",
+        "version": null,
+        "category": "media",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Groq API",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "inferred"
+      },
+      {
+        "name": "OpenAI API",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "inferred"
+      },
+      {
+        "name": "UnityFramework",
+        "version": "0.0.1",
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "Unity Addressables",
+        "version": null,
+        "category": "storage",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Unity ResourceManager",
+        "version": null,
+        "category": "storage",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Protobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "swift-protobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Bakery (lightmapper)",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Highlight.js",
+        "version": "11.9.0",
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.6.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "LWGUI",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "MagicaCloth (cloth physics)",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Markdownosaur",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "MarkdownView",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "MathJax",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "NiloToon (toon shader)",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Nuke",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "swift-markdown",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Unity Animation Rigging",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Unity RenderPipelines Core",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Unity TextMeshPro",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Unity Universal Render Pipeline",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Volumetric Light Beam",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Deepgram speech",
+        "version": null,
+        "category": "voice",
+        "confidence": "inferred"
+      },
+      {
+        "name": "ElevenLabs TTS",
+        "version": null,
+        "category": "voice",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Google Speech-to-Text",
+        "version": null,
+        "category": "voice",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Graphy (perf HUD)",
+        "version": null,
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Serilog",
+        "version": null,
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "swift-collections",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "observed"
+      },
+      {
+        "name": "Files",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ios-sdk",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Microsoft.Bcl",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Microsoft.Extensions (.NET)",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Newtonsoft.Json",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SimpleKeychain",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "swift-atomics",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "swift-cmark",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "swift-nio",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "swift-nio-http2",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "swift-nio-ssl",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "swift-secp256k1",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "swift-system",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "swiftui-introspect",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 43
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "CarPlay",
+      "Communication Notifications",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "PhoneNumber",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:03:20Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "SwiftUI with embedded Unity",
+          "detail": "Bundles UnityFramework and IL2CPP alongside SwiftUI, UIKit, and multiple Unity rendering packages, indicating hybrid native UI with 3D or animated content layers."
+        },
+        {
+          "theme": "notable",
+          "title": "Custom Metal voice shaders",
+          "detail": "13 Metal shader functions and first-party GrokParticleShaders plus GrokVoiceShaders modules indicate custom GPU-accelerated effects beyond standard MetalKit."
+        },
+        {
+          "theme": "platform",
+          "title": "App Intents and extensions",
+          "detail": "Declares 7 App Intents with voice actions like Talk to Grok and auto shortcuts, plus GrokWidgetExtension, GrokShareExtension, and NotificationService."
+        },
+        {
+          "theme": "ml_ai",
+          "title": "Bundled Silero VAD model",
+          "detail": "Ships silero-vad-unified-v6.0.0 ML model with GrokSileroVAD module and Speech framework, indicating Core ML usage for voice features."
+        },
+        {
+          "theme": "analytics",
+          "title": "Multiple analytics SDKs",
+          "detail": "Integrates AppsFlyer, Braze, Mixpanel, Sentry, and Intercom alongside TikTok and Google auth components."
+        }
+      ]
+    }
+  ]
+}

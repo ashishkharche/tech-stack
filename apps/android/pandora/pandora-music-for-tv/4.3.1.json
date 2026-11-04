@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Pandora Music for TV",
+    "slug": "pandora-music-for-tv",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.pandora.android.atv",
+    "bundle_id": "com.pandora.android.atv",
+    "active": false,
+    "company": {
+      "name": "Pandora",
+      "slug": "pandora",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "4.3.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:29Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 12,
+    "languages": [
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExoPlayer",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "Okio",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 24",
+      "min_sdk": "24",
+      "target_sdk": "35",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Foreground service",
+      "Foreground service: media playback",
+      "Microphone"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.WAKE_LOCK",
+        "com.android.providers.tv.permission.READ_EPG_DATA",
+        "com.android.providers.tv.permission.WRITE_EPG_DATA",
+        "com.android.vending.BILLING",
+        "com.pandora.android.atv.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:48:12Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "sdks",
+          "title": "Google ecosystem and ExoPlayer",
+          "detail": "Depends on 12 third-party SDKs including Google Sign-In, Play services, Billing, Location, Firebase, ExoPlayer for media, OkHttp, Room, and Kotlin Coroutines."
+        },
+        {
+          "theme": "notable",
+          "title": "WebView JavaScript bridge",
+          "detail": "Includes WebView and WebView JavaScript bridge, enabling web content to interoperate with native code."
+        },
+        {
+          "theme": "monetization",
+          "title": "In-app billing via Google",
+          "detail": "Declares com.android.vending.BILLING permission and bundles Google Play Billing SDK for purchases or subscriptions."
+        },
+        {
+          "theme": "ui",
+          "title": "Glide for image handling",
+          "detail": "Uses Glide for rendering, appropriate for efficient album art and media UI in a streaming app."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "iHeartRadio for Google TV",
+    "slug": "iheartradio-for-google-tv",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.clearchannel.iheartradio.tv",
+    "bundle_id": "com.clearchannel.iheartradio.tv",
+    "active": false,
+    "company": {
+      "name": "iHeartMedia, Inc.",
+      "slug": "iheartmedia-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "4.12.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:31:56Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 17,
+    "languages": [
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Crashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Retrofit",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExoPlayer",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxJava",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "Okio",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 22",
+      "min_sdk": "22",
+      "target_sdk": "34",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Foreground service",
+      "Foreground service: media playback"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 4,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK",
+        "com.android.providers.tv.permission.READ_EPG_DATA",
+        "com.android.providers.tv.permission.WRITE_EPG_DATA",
+        "com.android.vending.BILLING",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:00:28Z",
+      "headline": "Android TV app in Kotlin/Java using ExoPlayer for media, Retrofit networking to Firebase, Google SDKs for ads/billing, with 10 services",
+      "insights": [
+        {
+          "theme": "platform",
+          "title": "Google TV EPG integration",
+          "detail": "Requests read/write permissions for TV EPG data, indicating direct integration with Google TV's electronic program guide platform features."
+        },
+        {
+          "theme": "sdks",
+          "title": "ExoPlayer for media playback",
+          "detail": "Bundles ExoPlayer for media alongside foreground service media playback capability, indicating primary audio/video streaming with background support."
+        },
+        {
+          "theme": "architecture",
+          "title": "10 services and background components",
+          "detail": "Declares 10 services, 4 receivers and 4 activities, implying complex background orchestration for media, sync and events."
+        },
+        {
+          "theme": "monetization",
+          "title": "Google AdMob and Play Billing",
+          "detail": "Integrates Google Mobile Ads (AdMob) for advertising and Google Play Billing for payments and subscriptions."
+        },
+        {
+          "theme": "languages",
+          "title": "Kotlin with Coroutines and RxJava",
+          "detail": "Uses both Kotlin and Java runtimes with Kotlin Coroutines and RxJava for reactive and asynchronous code."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 416" width="860" height="416" role="img" aria-label="Companies with the most apps" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Companies with the most apps</title>
+<rect x="0.5" y="0.5" width="859" height="415" rx="12" fill="#FAF8F3" stroke="#D9E1DD"/>
+<g transform="translate(20 20)">
+<rect x="162.64000000000001" y="8" width="12" height="12" rx="3" fill="#0088FF"/>
+<text x="180.64000000000001" y="18" font-size="13" fill="#4D5755">iOS</text>
+<rect x="223.18" y="8" width="12" height="12" rx="3" fill="#1EA45A"/>
+<text x="241.18" y="18" font-size="13" fill="#4D5755">Android</text>
+<text x="150.64000000000001" y="48" font-size="13" text-anchor="end" fill="#090A0B">Google</text>
+<rect x="162.6" y="34" width="367.1" height="18" rx="3" fill="#0088FF"/>
+<rect x="531.7" y="34" width="218.3" height="18" rx="3" fill="#1EA45A"/>
+<text x="758.0" y="48" font-size="13" fill="#4D5755">32</text>
+<text x="150.64000000000001" y="76" font-size="13" text-anchor="end" fill="#090A0B">Microsoft Corporation</text>
+<rect x="162.6" y="62" width="128.5" height="18" rx="3" fill="#0088FF"/>
+<rect x="293.1" y="62" width="218.3" height="18" rx="3" fill="#1EA45A"/>
+<text x="519.4" y="76" font-size="13" fill="#4D5755">19</text>
+<text x="150.64000000000001" y="104" font-size="13" text-anchor="end" fill="#090A0B">Google LLC</text>
+<rect x="162.6" y="90" width="18.4" height="18" rx="3" fill="#0088FF"/>
+<rect x="183.0" y="90" width="163.2" height="18" rx="3" fill="#1EA45A"/>
+<text x="354.2" y="104" font-size="13" fill="#4D5755">10</text>
+<text x="150.64000000000001" y="132" font-size="13" text-anchor="end" fill="#090A0B">Meta Platforms, Inc.</text>
+<rect x="162.6" y="118" width="55.1" height="18" rx="3" fill="#0088FF"/>
+<rect x="219.7" y="118" width="53.1" height="18" rx="3" fill="#1EA45A"/>
+<text x="280.8" y="132" font-size="13" fill="#4D5755">6</text>
+<text x="150.64000000000001" y="160" font-size="13" text-anchor="end" fill="#090A0B">Disney</text>
+<rect x="162.6" y="146" width="36.7" height="18" rx="3" fill="#0088FF"/>
+<rect x="201.4" y="146" width="53.1" height="18" rx="3" fill="#1EA45A"/>
+<text x="262.4" y="160" font-size="13" fill="#4D5755">5</text>
+<text x="150.64000000000001" y="188" font-size="13" text-anchor="end" fill="#090A0B">Uber Technologies, Inc.</text>
+<rect x="162.6" y="174" width="36.7" height="18" rx="3" fill="#0088FF"/>
+<rect x="201.4" y="174" width="34.7" height="18" rx="3" fill="#1EA45A"/>
+<text x="244.1" y="188" font-size="13" fill="#4D5755">4</text>
+<text x="150.64000000000001" y="216" font-size="13" text-anchor="end" fill="#090A0B">X Corp.</text>
+<rect x="162.6" y="202" width="55.1" height="18" rx="3" fill="#0088FF"/>
+<rect x="219.7" y="202" width="16.4" height="18" rx="3" fill="#1EA45A"/>
+<text x="244.1" y="216" font-size="13" fill="#4D5755">4</text>
+<text x="150.64000000000001" y="244" font-size="13" text-anchor="end" fill="#090A0B">CBS Interactive, Inc.</text>
+<rect x="162.6" y="230" width="55.1" height="18" rx="3" fill="#1EA45A"/>
+<text x="225.7" y="244" font-size="13" fill="#4D5755">3</text>
+<text x="150.64000000000001" y="272" font-size="13" text-anchor="end" fill="#090A0B">Instagram, Inc.</text>
+<rect x="162.6" y="258" width="55.1" height="18" rx="3" fill="#0088FF"/>
+<text x="225.7" y="272" font-size="13" fill="#4D5755">3</text>
+<text x="150.64000000000001" y="300" font-size="13" text-anchor="end" fill="#090A0B">Netflix, Inc.</text>
+<rect x="162.6" y="286" width="36.7" height="18" rx="3" fill="#0088FF"/>
+<rect x="201.4" y="286" width="16.4" height="18" rx="3" fill="#1EA45A"/>
+<text x="225.7" y="300" font-size="13" fill="#4D5755">3</text>
+<text x="150.64000000000001" y="328" font-size="13" text-anchor="end" fill="#090A0B">TikTok Pte. Ltd.</text>
+<rect x="162.6" y="314" width="18.4" height="18" rx="3" fill="#0088FF"/>
+<rect x="183.0" y="314" width="34.7" height="18" rx="3" fill="#1EA45A"/>
+<text x="225.7" y="328" font-size="13" fill="#4D5755">3</text>
+<text x="150.64000000000001" y="356" font-size="13" text-anchor="end" fill="#090A0B">Alibaba Mobile</text>
+<rect x="162.6" y="342" width="36.7" height="18" rx="3" fill="#1EA45A"/>
+<text x="207.4" y="356" font-size="13" fill="#4D5755">2</text>
+</g>
+</svg>

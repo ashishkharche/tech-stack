@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Meta AI",
+    "slug": "meta-ai",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1558240027",
+    "bundle_id": "com.facebook.stellaapp",
+    "active": true,
+    "company": {
+      "name": "Meta Platforms, Inc.",
+      "slug": "meta-platforms-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "274.1.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-01T11:08:16Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": true
+  },
+  "stack": {
+    "sdk_count": 5,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "App Intents",
+      "ARKit",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Core Location",
+      "Core ML",
+      "HealthKit",
+      "MapKit",
+      "MetalKit",
+      "Natural Language",
+      "RealityKit",
+      "SceneKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SpotifyiOS",
+        "version": "5.0.1",
+        "category": "media",
+        "confidence": "unknown"
+      },
+      {
+        "name": "LiveKit",
+        "version": "1.0",
+        "category": "voice",
+        "confidence": "unknown"
+      },
+      {
+        "name": "libPhoneNumber",
+        "version": null,
+        "category": "telephony",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ConnectIQ",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "unknown"
+      }
+    ],
+    "platform": {
+      "min_os": "17.2",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 43
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Location",
+      "Background Processing",
+      "Background Push",
+      "Bluetooth (central)",
+      "External Accessory",
+      "HealthKit",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "BrowsingHistory",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CreditInfo",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "EmailsOrTextMessages",
+        "Fitness",
+        "GameplayContent",
+        "Health",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherFinancialInfo",
+        "OtherUsageData",
+        "OtherUserContactInfo",
+        "OtherUserContent",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "PhysicalAddress",
+        "PreciseLocation",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "SensitiveInfo",
+        "UserID"
+      ],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

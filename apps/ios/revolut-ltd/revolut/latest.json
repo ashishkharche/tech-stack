@@ -1,0 +1,379 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Revolut: send, spend, and save",
+    "slug": "revolut",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "932493382",
+    "bundle_id": "com.revolut.revolut",
+    "active": true,
+    "company": {
+      "name": "Revolut Ltd",
+      "slug": "revolut-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "10.153",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T20:39:03Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-23T08:09:26Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 36,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "Core NFC",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kronos",
+        "version": "4.3.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": "12.1.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": "2.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "9.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": "5.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": "3.5.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "NIOPosix",
+        "version": "1.0",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": "12.1.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": "12.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "12.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "12.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "12.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": "12.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.4.1",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "5.19.1",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "TwilioVoice",
+        "version": "6.13.5",
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "PhoneNumberKit",
+        "version": "4.0.1",
+        "category": "telephony",
+        "confidence": "observed"
+      },
+      {
+        "name": "HCaptcha",
+        "version": "2.8.0",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "ItrustEkycLibrary",
+        "version": "1.7.1",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "Onfido",
+        "version": "1.0",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "TrustdockEkycJapaneseICChipReading",
+        "version": "1.5.2",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "IncdOnboarding",
+        "version": "5.44.1-str",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LinkSDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OpenSSL",
+        "version": "3.3.3001",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "runtime",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SeonSDK",
+        "version": "5.5.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TrustdockAPI",
+        "version": "1.5.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TrustdockSDKCommon",
+        "version": "1.5.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TrustKit",
+        "version": "3.0.7",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos27.1",
+      "xcode": "27.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 29
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background Location",
+      "Background Push",
+      "Bluetooth (central)",
+      "CloudKit",
+      "Communication Notifications",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "NFC",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "VoIP",
+      "Wallet passes"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AudioData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "EnvironmentScanning",
+        "Head",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "PhysicalAddress",
+        "PreciseLocation",
+        "ProductInteraction",
+        "SensitiveInfo",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

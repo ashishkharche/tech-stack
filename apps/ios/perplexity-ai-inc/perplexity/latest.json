@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Perplexity - AI Search & Chat",
+    "slug": "perplexity",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1668000334",
+    "bundle_id": "ai.perplexity.app",
+    "active": true,
+    "company": {
+      "name": "Perplexity AI, Inc.",
+      "slug": "perplexity-ai-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "26.42.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T19:05:48Z",
+    "store_first_seen_at": "2026-10-24T00:18:46Z",
+    "store_updated_at": "2026-10-23T11:59:45Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 26,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "HealthKit",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "MusicKit",
+      "Network.framework",
+      "PDFKit",
+      "PencilKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "GoogleAdsOnDeviceConversion",
+        "version": "2.3.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": "9.29.2",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "RevenueCat",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GRDB",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "NukeUI",
+        "version": "1.0",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppCheck",
+        "version": "1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "cmark-gfm",
+        "version": "1.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "KaTeX",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Nuke",
+        "version": "1.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "PhoneNumberKit",
+        "version": null,
+        "category": "telephony",
+        "confidence": "observed"
+      },
+      {
+        "name": "DesignTokens",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DynamicJSON",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EppoFlagging",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FactoryKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GULUserDefaults",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "libaic",
+        "version": "0.21.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Semver",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "third-party-IsAppEncrypted",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "YouTubePlayerKit",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos27.1",
+      "xcode": "27.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 75
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background Audio",
+      "Background Push",
+      "CarPlay",
+      "HealthKit",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit",
+      "Time-Sensitive Notifications",
+      "WeatherKit"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "PhoneNumber",
+        "PreciseLocation",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

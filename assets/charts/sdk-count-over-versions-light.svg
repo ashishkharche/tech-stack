@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 372" width="860" height="372" role="img" aria-label="SDK count across versions" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>SDK count across versions</title>
+<rect x="0.5" y="0.5" width="859" height="371" rx="12" fill="#FAF8F3" stroke="#D9E1DD"/>
+<g transform="translate(20 20)">
+<text x="249.17999999999995" y="34" font-size="13" text-anchor="end" fill="#090A0B">Grok (iOS)</text>
+<line x1="261.17999999999995" y1="50.5" x2="670.0" y2="50.5" stroke="#D9E1DD"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#090A0B" points="261.2,32.8 295.2,20.8 329.3,19.8 363.4,19.8 397.5,19.8 431.5,18.0 465.6,18.0 499.7,18.0 533.7,18.0 567.8,18.0 601.9,18.0 635.9,18.0 670.0,42.0"/>
+<circle cx="261.2" cy="32.8" r="2.6" fill="#090A0B"/>
+<circle cx="295.2" cy="20.8" r="2.6" fill="#090A0B"/>
+<circle cx="329.3" cy="19.8" r="2.6" fill="#090A0B"/>
+<circle cx="363.4" cy="19.8" r="2.6" fill="#090A0B"/>
+<circle cx="397.5" cy="19.8" r="2.6" fill="#090A0B"/>
+<circle cx="431.5" cy="18.0" r="2.6" fill="#090A0B"/>
+<circle cx="465.6" cy="18.0" r="2.6" fill="#090A0B"/>
+<circle cx="499.7" cy="18.0" r="2.6" fill="#090A0B"/>
+<circle cx="533.7" cy="18.0" r="2.6" fill="#090A0B"/>
+<circle cx="567.8" cy="18.0" r="2.6" fill="#090A0B"/>
+<circle cx="601.9" cy="18.0" r="2.6" fill="#090A0B"/>
+<circle cx="635.9" cy="18.0" r="2.6" fill="#090A0B"/>
+<circle cx="670.0" cy="42.0" r="2.6" fill="#090A0B"/>
+<text x="684.0" y="34" font-size="13" fill="#4D5755">57 → 47 SDKs</text>
+<text x="684.0" y="50" font-size="11" fill="#4D5755">13 versions</text>
+<text x="249.17999999999995" y="80" font-size="13" text-anchor="end" fill="#090A0B">Claude by Anthropic (iOS)</text>
+<line x1="261.17999999999995" y1="96.5" x2="670.0" y2="96.5" stroke="#D9E1DD"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#090A0B" points="261.2,64.0 397.5,86.8 533.7,82.0 670.0,88.0"/>
+<circle cx="261.2" cy="64.0" r="2.6" fill="#090A0B"/>
+<circle cx="397.5" cy="86.8" r="2.6" fill="#090A0B"/>
+<circle cx="533.7" cy="82.0" r="2.6" fill="#090A0B"/>
+<circle cx="670.0" cy="88.0" r="2.6" fill="#090A0B"/>
+<text x="684.0" y="80" font-size="13" fill="#4D5755">63 → 43 SDKs</text>
+<text x="684.0" y="96" font-size="11" fill="#4D5755">4 versions</text>
+<text x="249.17999999999995" y="126" font-size="13" text-anchor="end" fill="#090A0B">Meta AI (iOS)</text>
+<line x1="261.17999999999995" y1="142.5" x2="670.0" y2="142.5" stroke="#D9E1DD"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#090A0B" points="261.2,134.0 397.5,134.0 533.7,110.0 670.0,110.0"/>
+<circle cx="261.2" cy="134.0" r="2.6" fill="#090A0B"/>
+<circle cx="397.5" cy="134.0" r="2.6" fill="#090A0B"/>
+<circle cx="533.7" cy="110.0" r="2.6" fill="#090A0B"/>
+<circle cx="670.0" cy="110.0" r="2.6" fill="#090A0B"/>
+<text x="684.0" y="126" font-size="13" fill="#4D5755">5 → 6 SDKs</text>
+<text x="684.0" y="142" font-size="11" fill="#4D5755">4 versions</text>
+<text x="249.17999999999995" y="172" font-size="13" text-anchor="end" fill="#090A0B">BeReal (iOS)</text>
+<line x1="261.17999999999995" y1="188.5" x2="670.0" y2="188.5" stroke="#D9E1DD"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#090A0B" points="261.2,160.8 465.6,156.0 670.0,180.0"/>
+<circle cx="261.2" cy="160.8" r="2.6" fill="#090A0B"/>
+<circle cx="465.6" cy="156.0" r="2.6" fill="#090A0B"/>
+<circle cx="670.0" cy="180.0" r="2.6" fill="#090A0B"/>
+<text x="684.0" y="172" font-size="13" fill="#4D5755">132 → 124 SDKs</text>
+<text x="684.0" y="188" font-size="11" fill="#4D5755">3 versions</text>
+<text x="249.17999999999995" y="218" font-size="13" text-anchor="end" fill="#090A0B">ChatGPT (iOS)</text>
+<line x1="261.17999999999995" y1="234.5" x2="670.0" y2="234.5" stroke="#D9E1DD"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#090A0B" points="261.2,202.0 465.6,202.0 670.0,226.0"/>
+<circle cx="261.2" cy="202.0" r="2.6" fill="#090A0B"/>
+<circle cx="465.6" cy="202.0" r="2.6" fill="#090A0B"/>
+<circle cx="670.0" cy="226.0" r="2.6" fill="#090A0B"/>
+<text x="684.0" y="218" font-size="13" fill="#4D5755">42 → 28 SDKs</text>
+<text x="684.0" y="234" font-size="11" fill="#4D5755">3 versions</text>
+<text x="249.17999999999995" y="264" font-size="13" text-anchor="end" fill="#090A0B">DuckDuckGo, optional Duck.ai (Android)</text>
+<line x1="261.17999999999995" y1="280.5" x2="670.0" y2="280.5" stroke="#D9E1DD"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#090A0B" points="261.2,248.0 465.6,248.0 670.0,272.0"/>
+<circle cx="261.2" cy="248.0" r="2.6" fill="#090A0B"/>
+<circle cx="465.6" cy="248.0" r="2.6" fill="#090A0B"/>
+<circle cx="670.0" cy="272.0" r="2.6" fill="#090A0B"/>
+<text x="684.0" y="264" font-size="13" fill="#4D5755">19 → 18 SDKs</text>
+<text x="684.0" y="280" font-size="11" fill="#4D5755">3 versions</text>
+<text x="249.17999999999995" y="310" font-size="13" text-anchor="end" fill="#090A0B">Google Gemini (iOS)</text>
+<line x1="261.17999999999995" y1="326.5" x2="670.0" y2="326.5" stroke="#D9E1DD"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#090A0B" points="261.2,318.0 465.6,318.0 670.0,294.0"/>
+<circle cx="261.2" cy="318.0" r="2.6" fill="#090A0B"/>
+<circle cx="465.6" cy="318.0" r="2.6" fill="#090A0B"/>
+<circle cx="670.0" cy="294.0" r="2.6" fill="#090A0B"/>
+<text x="684.0" y="310" font-size="13" fill="#4D5755">8 → 10 SDKs</text>
+<text x="684.0" y="326" font-size="11" fill="#4D5755">3 versions</text>
+</g>
+</svg>

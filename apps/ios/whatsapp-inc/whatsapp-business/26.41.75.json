@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "WhatsApp Business",
+    "slug": "whatsapp-business",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1386412985",
+    "bundle_id": "net.whatsapp.WhatsAppSMB",
+    "active": true,
+    "company": {
+      "name": "WhatsApp Inc.",
+      "slug": "whatsapp-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "26.41.75",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T21:11:16Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-22T15:54:06Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 6,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "App Intents",
+      "ARKit",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "CloudKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "VisionKit (document/data scanning)",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "OrderedCollections",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "inferred"
+      },
+      {
+        "name": "CommonLibrary",
+        "version": "2.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PsiphonTunnel",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.1",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos27.0",
+      "xcode": "27.0",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 45
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Location",
+      "Background Processing",
+      "Background Push",
+      "CarPlay",
+      "CloudKit",
+      "Communication Notifications",
+      "iCloud",
+      "Push Notifications (APNs)",
+      "SiriKit",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "OtherDiagnosticData",
+        "OtherUserContent",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PreciseLocation",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

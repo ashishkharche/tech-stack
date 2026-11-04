@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 320" width="680" height="320" role="img" aria-label="Beijing Zhizhetianxia Technology Co., Ltd. SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Beijing Zhizhetianxia Technology Co., Ltd. SDKs by category</title>
+<rect x="0.5" y="0.5" width="679" height="319" rx="12" fill="#FAF8F3" stroke="#D9E1DD"/>
+<g transform="translate(20 20)">
+<text x="150.63999999999996" y="20" font-size="13" text-anchor="end" fill="#090A0B">Other</text>
+<rect x="162.6" y="10" width="407.4" height="14" rx="3" fill="#090A0B"/>
+<text x="578.0" y="20" font-size="13" fill="#4D5755">181</text>
+<text x="150.63999999999996" y="42" font-size="13" text-anchor="end" fill="#090A0B">UI and rendering</text>
+<rect x="162.6" y="32" width="24.8" height="14" rx="3" fill="#090A0B"/>
+<text x="195.4" y="42" font-size="13" fill="#4D5755">11</text>
+<text x="150.63999999999996" y="64" font-size="13" text-anchor="end" fill="#090A0B">Storage</text>
+<rect x="162.6" y="54" width="11.3" height="14" rx="3" fill="#090A0B"/>
+<text x="181.9" y="64" font-size="13" fill="#4D5755">5</text>
+<text x="150.63999999999996" y="86" font-size="13" text-anchor="end" fill="#090A0B">Crash and performance</text>
+<rect x="162.6" y="76" width="9.0" height="14" rx="3" fill="#090A0B"/>
+<text x="179.6" y="86" font-size="13" fill="#4D5755">4</text>
+<text x="150.63999999999996" y="108" font-size="13" text-anchor="end" fill="#090A0B">Reactive and async</text>
+<rect x="162.6" y="98" width="9.0" height="14" rx="3" fill="#090A0B"/>
+<text x="179.6" y="108" font-size="13" fill="#4D5755">4</text>
+<text x="150.63999999999996" y="130" font-size="13" text-anchor="end" fill="#090A0B">Payments</text>
+<rect x="162.6" y="120" width="6.8" height="14" rx="3" fill="#090A0B"/>
+<text x="177.4" y="130" font-size="13" fill="#4D5755">3</text>
+<text x="150.63999999999996" y="152" font-size="13" text-anchor="end" fill="#090A0B">Ads</text>
+<rect x="162.6" y="142" width="2.3" height="14" rx="3" fill="#090A0B"/>
+<text x="172.9" y="152" font-size="13" fill="#4D5755">1</text>
+<text x="150.63999999999996" y="174" font-size="13" text-anchor="end" fill="#090A0B">Analytics</text>
+<rect x="162.6" y="164" width="2.3" height="14" rx="3" fill="#090A0B"/>
+<text x="172.9" y="174" font-size="13" fill="#4D5755">1</text>
+<text x="150.63999999999996" y="196" font-size="13" text-anchor="end" fill="#090A0B">Sign-in and auth</text>
+<rect x="162.6" y="186" width="2.3" height="14" rx="3" fill="#090A0B"/>
+<text x="172.9" y="196" font-size="13" fill="#4D5755">1</text>
+<text x="150.63999999999996" y="218" font-size="13" text-anchor="end" fill="#090A0B">Media</text>
+<rect x="162.6" y="208" width="2.3" height="14" rx="3" fill="#090A0B"/>
+<text x="172.9" y="218" font-size="13" fill="#4D5755">1</text>
+<text x="150.63999999999996" y="240" font-size="13" text-anchor="end" fill="#090A0B">Networking</text>
+<rect x="162.6" y="230" width="2.3" height="14" rx="3" fill="#090A0B"/>
+<text x="172.9" y="240" font-size="13" fill="#4D5755">1</text>
+<text x="150.63999999999996" y="262" font-size="13" text-anchor="end" fill="#090A0B">Serialization</text>
+<rect x="162.6" y="252" width="2.3" height="14" rx="3" fill="#090A0B"/>
+<text x="172.9" y="262" font-size="13" fill="#4D5755">1</text>
+</g>
+</svg>

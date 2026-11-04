@@ -1,0 +1,351 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Reddit",
+    "slug": "reddit",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1064216828",
+    "bundle_id": "com.reddit.Reddit",
+    "active": true,
+    "company": {
+      "name": "REDDIT, INC.",
+      "slug": "reddit-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "2026.22.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:28:21Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 33,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Core Data",
+      "Core Image",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyerLib",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Branch",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAdsOnDeviceConversion",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "InteropForGoogle",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "AFNetworking",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "NIOPosix",
+        "version": "1.0",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Apollo",
+        "version": null,
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "ApolloAPI",
+        "version": null,
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "SQLite.swift",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "DifferenceKit",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "IGListKit",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Nuke",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "RecaptchaEnterprise",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "Experiment",
+        "version": null,
+        "category": "feature_flags",
+        "confidence": "inferred"
+      },
+      {
+        "name": "DequeModule",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "inferred"
+      },
+      {
+        "name": "OrderedCollections",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "inferred"
+      },
+      {
+        "name": "swift-collections",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "observed"
+      },
+      {
+        "name": "PINCache",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PINOperation",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.1",
+      "xcode": "26.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 35
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Push",
+      "CloudKit",
+      "iCloud",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 2,
+      "collected_data_types": [
+        "CrashData",
+        "DeviceID",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "PerformanceData"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T16:42:45Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "Hybrid SwiftUI and UIKit rendering",
+          "detail": "Declares both SwiftUI and UIKit plus WidgetKit and ActivityKit; bundles IGListKit, DifferenceKit, Lottie and Nuke indicating complex feed UIs with declarative views, list diffing and vector animations."
+        },
+        {
+          "theme": "languages",
+          "title": "Swift with Metal GPU compute",
+          "detail": "Primary Swift runtime alongside Objective-C and C/C++; includes MetalKit and exactly 2 Metal shader functions for GPU compute tasks."
+        }
+      ]
+    }
+  ]
+}

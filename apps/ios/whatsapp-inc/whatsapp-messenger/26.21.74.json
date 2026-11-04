@@ -1,0 +1,201 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "WhatsApp Messenger",
+    "slug": "whatsapp-messenger",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "310633997",
+    "bundle_id": "net.whatsapp.WhatsApp",
+    "active": true,
+    "company": {
+      "name": "WhatsApp Inc.",
+      "slug": "whatsapp-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "26.21.74",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:29:51Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 4,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "App Intents",
+      "ARKit",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CloudKit",
+      "Core Data",
+      "Core Location",
+      "Core ML",
+      "MapKit",
+      "MetalKit",
+      "Natural Language",
+      "PassKit (Wallet / Apple Pay)",
+      "SceneKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "PsiphonTunnel",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "unknown"
+      }
+    ],
+    "platform": {
+      "min_os": "15.1",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 45
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Location",
+      "Background Processing",
+      "Background Push",
+      "Bluetooth (central)",
+      "Bluetooth (peripheral)",
+      "CarPlay",
+      "CloudKit",
+      "Communication Notifications",
+      "iCloud",
+      "Push Notifications (APNs)",
+      "SiriKit",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "OtherDiagnosticData",
+        "OtherUserContent",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T22:02:24Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "sdks",
+          "title": "PsiphonTunnel for restricted networks",
+          "detail": "Third-party SDKs include PsiphonTunnel alongside Lottie and SwiftProtobuf; provides network circumvention capabilities for regions with restrictions."
+        },
+        {
+          "theme": "architecture",
+          "title": "Six specialized app extensions",
+          "detail": "Bundles WidgetExtension, BroadcastUploadExtension, Intents, ShareExtension, NotificationExtension and ServiceExtension; enables widgets, broadcast uploads, custom intents and advanced sharing."
+        },
+        {
+          "theme": "languages",
+          "title": "Custom Metal GPU shaders",
+          "detail": "Ships 39 Metal shader functions with MetalKit, C/C++ and Objective-C alongside Swift; indicates custom GPU-accelerated rendering or compute paths."
+        },
+        {
+          "theme": "ml_ai",
+          "title": "On-device Vision processing",
+          "detail": "Includes Vision framework for on-device OCR and image analysis with Core ML; no bundled ML models are present in the binary."
+        },
+        {
+          "theme": "platform",
+          "title": "Rich Apple and cross-app integrations",
+          "detail": "Supports CarPlay, VoIP, SiriKit, Bluetooth central/peripheral, CloudKit and queries schemes for Facebook, Instagram, UPI apps and browsers."
+        }
+      ]
+    }
+  ]
+}

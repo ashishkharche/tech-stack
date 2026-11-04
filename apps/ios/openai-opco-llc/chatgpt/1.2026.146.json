@@ -1,0 +1,425 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "ChatGPT",
+    "slug": "chatgpt",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6448311069",
+    "bundle_id": "com.openai.chat",
+    "active": true,
+    "company": {
+      "name": "OpenAI OpCo, LLC",
+      "slug": "openai-opco-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.2026.146",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:27:53Z",
+    "store_first_seen_at": "2026-06-03T16:07:45Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 42,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "App Intents",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "HealthKit",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "PencilKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Segment",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "DatadogCore",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "LinkKit",
+        "version": "6.4.7",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Stripe",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Auth0",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "APIClient",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "APICore",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Conversations",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "ConversationsCore",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Highlight.js",
+        "version": "11.11.1",
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Highlightr",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "KaTeX",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Kingfisher",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.5.2",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "OAIMarkdown",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "LiveKit",
+        "version": "1.0",
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "PhoneNumberKit",
+        "version": null,
+        "category": "telephony",
+        "confidence": "observed"
+      },
+      {
+        "name": "Account",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CalpicoCore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CalpicoCoreUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CodexAppServer",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CodexRemote",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CodexRemoteCore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CodexRemoteHost",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CodexRemoteModels",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CodexRemoteThread",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DeviceHaptics",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DevicePhotos",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EmojiKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Factory",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Files",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FileUploadService",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OAIDiff",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OAIStatsig",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PhoneNumberUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PhoneVerification",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SharedSettings",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftCSV",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftUIStyleguide",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Threads",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Transceiver",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Users",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 64
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background Audio",
+      "Background Push",
+      "CarPlay",
+      "Communication Notifications",
+      "HealthKit",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "App Name",
+        "App Version",
+        "DeviceID",
+        "PaymentInfo",
+        "PerformanceData",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:55:21Z",
+      "headline": "Native Swift iOS app with SwiftUI, 11 App Intents, 12 Metal shaders, LiveKit voice, Stripe payments, and modular first-party ChatGPT modules",
+      "insights": [
+        {
+          "theme": "notable",
+          "title": "Extensive App Intents integration",
+          "detail": "Declares 11 App Intents actions including Voice Mode and image queries, plus auto shortcuts for Siri/Spotlight chat initiation."
+        },
+        {
+          "theme": "sdks",
+          "title": "LiveKit for real-time voice",
+          "detail": "Integrates LiveKit SDK with a dedicated VoiceScreenSharing extension and AVFoundation, supporting voice mode and screen sharing."
+        },
+        {
+          "theme": "languages",
+          "title": "Custom Metal shaders",
+          "detail": "Ships 12 Metal shader functions alongside MetalKit, indicating custom GPU-accelerated rendering or effects."
+        },
+        {
+          "theme": "monetization",
+          "title": "Stripe payments and Apple Pay",
+          "detail": "Uses Stripe and LinkKit for payments, plus StoreKit and Apple Pay capability for commerce and in-app purchases."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "ChatGPT",
+    "slug": "chatgpt",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6448311069",
+    "bundle_id": "com.openai.chat",
+    "active": true,
+    "company": {
+      "name": "OpenAI OpCo, LLC",
+      "slug": "openai-opco-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.2026.139",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-01T11:08:17Z",
+    "store_first_seen_at": "2026-05-29T13:18:35Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 42,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "App Intents",
+      "AVFoundation (audio/video)",
+      "Core Data",
+      "Core Location",
+      "HealthKit",
+      "MapKit",
+      "MetalKit",
+      "Natural Language",
+      "PassKit (Wallet / Apple Pay)",
+      "PencilKit",
+      "SceneKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Segment",
+        "version": null,
+        "category": "analytics",
+        "confidence": "unknown"
+      },
+      {
+        "name": "DatadogCore",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "unknown"
+      },
+      {
+        "name": "LinkKit",
+        "version": "6.4.7",
+        "category": "payments",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Stripe",
+        "version": null,
+        "category": "payments",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Auth0",
+        "version": null,
+        "category": "auth",
+        "confidence": "unknown"
+      },
+      {
+        "name": "APIClient",
+        "version": null,
+        "category": "networking",
+        "confidence": "unknown"
+      },
+      {
+        "name": "APICore",
+        "version": null,
+        "category": "networking",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Conversations",
+        "version": null,
+        "category": "messaging",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ConversationsCore",
+        "version": null,
+        "category": "messaging",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Highlightr",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Kingfisher",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.5.2",
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "OAIMarkdown",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "LiveKit",
+        "version": "1.0",
+        "category": "voice",
+        "confidence": "unknown"
+      },
+      {
+        "name": "PhoneNumberKit",
+        "version": null,
+        "category": "telephony",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Account",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Assets",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "CalpicoCore",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "CalpicoCoreUI",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "CodexRemote",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "CodexRemoteCore",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "CodexRemoteHost",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "CodexRemoteModels",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "CodexRemoteThread",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "DeviceHaptics",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "DevicePhotos",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "EmojiKit",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Factory",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Files",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "FileUploadService",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Localization",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "OAIDiff",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "OAIStatsig",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Onboarding",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "PhoneNumberUI",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "PhoneVerification",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SharedSettings",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SwiftCSV",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SwiftUIStyleguide",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Threads",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Transceiver",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Users",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      }
+    ],
+    "platform": {
+      "min_os": "17.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 64
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background Audio",
+      "Background Push",
+      "CarPlay",
+      "Communication Notifications",
+      "HealthKit",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "App Name",
+        "App Version",
+        "DeviceID",
+        "PaymentInfo",
+        "PerformanceData",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

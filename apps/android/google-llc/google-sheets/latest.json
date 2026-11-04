@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Sheets",
+    "slug": "google-sheets",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.google.android.apps.docs.editors.sheets",
+    "bundle_id": "com.google.android.apps.docs.editors.sheets",
+    "active": true,
+    "company": {
+      "name": "Google LLC",
+      "slug": "google-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.26.222.02.90",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:06Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 22,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Coil",
+      "Glide",
+      "Jetpack Compose",
+      "Lottie",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Google)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "TensorFlow",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxJava",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Okio",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "AndroidSVG",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Coil",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 26",
+      "min_sdk": "26",
+      "target_sdk": "37",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Contacts (read)",
+      "Foreground service",
+      "Microphone",
+      "Notifications",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_ACCOUNTS",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_SYNC_SETTINGS",
+        "android.permission.READ_SYNC_STATS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.RUN_USER_INITIATED_JOBS",
+        "android.permission.SUBSCRIBED_FEEDS_READ",
+        "android.permission.SUBSCRIBED_FEEDS_WRITE",
+        "android.permission.USE_CREDENTIALS",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WRITE_SYNC_SETTINGS",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.google.android.apps.docs.editors.sheets.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.google.android.apps.docs.editors.trix.permission.READ_MY_DATA",
+        "com.google.android.apps.docs.editors.trix.permission.SYNC_STATUS",
+        "com.google.android.gm.permission.READ_GMAIL",
+        "com.google.android.googleapps.permission.GOOGLE_AUTH",
+        "com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES",
+        "com.google.android.googleapps.permission.GOOGLE_AUTH.OTHER_SERVICES",
+        "com.google.android.googleapps.permission.GOOGLE_AUTH.wise",
+        "com.google.android.googleapps.permission.GOOGLE_AUTH.writely",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:12:18Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "Jetpack Compose with Material and media libs",
+          "detail": "UI built on Jetpack Compose and Material Components; bundles Glide, Coil for images and Lottie for animations."
+        },
+        {
+          "theme": "architecture",
+          "title": "Kotlin/Java with native C++ and dynamic loading",
+          "detail": "Languages include Kotlin, Java, and C/C++; uses DexClassLoader for dynamic code loading plus Play Core for in-app updates and features."
+        },
+        {
+          "theme": "ml_ai",
+          "title": "TensorFlow SDK for ML",
+          "detail": "Bundles TensorFlow SDK under the ml_ai third-party category, indicating integrated machine learning capabilities."
+        }
+      ]
+    }
+  ]
+}

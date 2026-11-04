@@ -1,0 +1,229 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Authenticator",
+    "slug": "google-authenticator",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "388497605",
+    "bundle_id": "com.google.Authenticator",
+    "active": false,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "5.0.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:42:02Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 16,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Core Image",
+      "Core Location",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "GIPPseudonymousID",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "OneGoogle",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSOAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitCore",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitWeb",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Chips",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosPrivacyScreen",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitContentViews",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitDialogsArrows",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitHeader",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitProgressBar",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitRefreshControl",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMaterialOpenSearch",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMaterialOpenSearchBarView",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "QuantumCollections",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos18.5",
+      "xcode": "16.4",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 34
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Keychain Sharing",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:42:02Z",
+      "headline": "SwiftUI and UIKit iOS Google Authenticator using GoogleKit/Material components, App Attest, CryptoKit and otpauth schemes",
+      "insights": [
+        {
+          "theme": "sdks",
+          "title": "GoogleKit and Material SDKs",
+          "detail": "Recovers 30 modules with GoogleKitCore, GoogleKitWeb, SSOAuth and several Material* UI components."
+        },
+        {
+          "theme": "ui",
+          "title": "SwiftUI and UIKit hybrid",
+          "detail": "Declares SwiftUI and UIKit frameworks with Combine reactive programming and 5 bundled font families."
+        },
+        {
+          "theme": "privacy",
+          "title": "No tracking and limited permissions",
+          "detail": "Declares no tracking; camera used to scan barcodes and Face ID to verify the user."
+        },
+        {
+          "theme": "platform",
+          "title": "iOS 16+ iPhone and iPad",
+          "detail": "Minimum deployment iOS 16.0 for iPhone and iPad; built with Xcode 16.4 and dark mode support."
+        }
+      ]
+    }
+  ]
+}

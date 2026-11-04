@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Character AI: Chat, Talk, Text",
+    "slug": "character-ai",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1671705818",
+    "bundle_id": "ai.character.app",
+    "active": true,
+    "company": {
+      "name": "Character.AI",
+      "slug": "character-ai",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.17.4",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T19:08:43Z",
+    "store_first_seen_at": "2026-10-25T17:44:07Z",
+    "store_updated_at": "2026-10-02T22:39:33Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 74,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Amplitude",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppsFlyerLib",
+        "version": "6.17.9",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeKit",
+        "version": "13.0.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppLovin",
+        "version": "13.6.3",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAudienceNetwork",
+        "version": "1.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMobileAds",
+        "version": "13.5.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "InMobiSDK",
+        "version": "11.4.1",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "MolocoSDK",
+        "version": "4.10.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "VungleAds",
+        "version": "7.7.4",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": "9.7.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "RevenueCat",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": "1.7.6",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "7.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": "3.5.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "UserMessagingPlatform",
+        "version": "3.1.0",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeUI",
+        "version": "13.0.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": "12.2.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleCast",
+        "version": "4.8.4",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaPlatform",
+        "version": "5.14.0",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMKV",
+        "version": null,
+        "category": "storage",
+        "confidence": "inferred"
+      },
+      {
+        "name": "AppMetricaProtobuf",
+        "version": "5.14.0",
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaProtobufUtils",
+        "version": "5.14.0",
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseAuth",
+        "version": "12.2.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "12.2.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "12.2.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "12.2.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.6.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialDialogs",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Native",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "RNSVGFilters",
+        "version": "15.15.5",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "5.21.7",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "WebRTC",
+        "version": "1.0",
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "RecaptchaEnterprise",
+        "version": "18.7.0",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "glog",
+        "version": null,
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "AdsGlobalSDK",
+        "version": "8.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaAdSupport",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaCore",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaCoreExtension",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaCoreUtils",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaEncodingUtils",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaFMDB",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaHostState",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaIdentifiers",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaIDSync",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaKeychain",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaLibraryAdapter",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaLog",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaLogSwift",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaNetwork",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaStorageUtils",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppMetricaSynchronization",
+        "version": "5.14.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "boost",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeLocation",
+        "version": "13.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CloudXCore",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "folly",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "hermesvm",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IronSourceAdQualityPrivacyInfo",
+        "version": "9.9.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "PAGAdSDK",
+        "version": "8.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PrivacyInfo",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PurchasesHybridCommon",
+        "version": "17.33.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReactNativeBlobUtilPrivacyInfo",
+        "version": "0.24.7",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReactNativeDependencies",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNCameraRollPrivacyInfo",
+        "version": "7.10.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNImagePickerPrivacyInfo",
+        "version": "7.2.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNPermissionsPrivacyInfo",
+        "version": "5.4.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SimulaAdSDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokBusinessSDK",
+        "version": "8.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VGSLFundamentalsPrivacyInfo",
+        "version": "7.25.1",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.1",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.6",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 29
+    },
+    "capabilities": [
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 22,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "OtherData",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "PhotosorVideos",
+        "PreciseLocation",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

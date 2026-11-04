@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Paramount+",
+    "slug": "paramount-com-cbs-ott",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.cbs.ott",
+    "bundle_id": "com.cbs.ott",
+    "active": false,
+    "company": {
+      "name": "CBS Interactive, Inc.",
+      "slug": "cbs-interactive-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "16.12.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:21:27Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 24,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide",
+      "Jetpack Compose",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Adobe Experience Platform",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "comScore",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kochava",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "New Relic",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "OneTrust",
+        "version": null,
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "Ktor",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Retrofit",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Braze",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Cast",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Okio",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 28",
+      "min_sdk": "28",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "armeabi-v7a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Foreground service",
+      "Microphone",
+      "Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 12,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.AD_SERVICES_CONFIG",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.GET_TASKS",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_ACCOUNTS",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.WAKE_LOCK",
+        "com.android.providers.tv.permission.READ_EPG_DATA",
+        "com.android.providers.tv.permission.WRITE_EPG_DATA",
+        "com.android.vending.BILLING",
+        "com.cbs.ott.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:21:27Z",
+      "headline": "Android Kotlin/Java app with Jetpack Compose, Firebase, ExoPlayer, Kochava/Braze analytics, root detection, and TV launcher queries",
+      "insights": [
+        {
+          "theme": "platform",
+          "title": "TV launcher and EPG queries",
+          "detail": "Queries 10+ TV launcher and recommendation packages and declares com.android.providers.tv EPG permissions, pointing to Android TV and streaming device support."
+        },
+        {
+          "theme": "analytics",
+          "title": "Multi-vendor analytics stack",
+          "detail": "Ships Kochava, Braze, New Relic, Adobe Experience Platform, and comScore for analytics, advertising, and crash reporting alongside OneTrust consent."
+        },
+        {
+          "theme": "ui",
+          "title": "Jetpack Compose UI layer",
+          "detail": "Renders with Jetpack Compose and Material Components; Glide handles image loading."
+        }
+      ]
+    }
+  ]
+}

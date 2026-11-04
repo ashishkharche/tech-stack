@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google",
+    "slug": "google",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "284815942",
+    "bundle_id": "com.google.GoogleMobile",
+    "active": false,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "423.5",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:25:19Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 13,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "ARKit",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "MusicKit",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "OneGoogle",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSOAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitCore",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleKitWeb",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialDialogs",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialPullToRefresh",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialSearch",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "AmpKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosSiriShortcutManager",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosSpotlight",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DiscoverPersonalizationConfigs",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MapsAppClip",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 45
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "AutoFill Credentials",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T16:58:05Z",
+      "headline": "Swift/Objective-C iOS Google app with SwiftUI/UIKit, 15 App Intents for search/Lens/AI, 26 Metal shaders, Firebase, and App Attest",
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "Extensive App Intents and widgets",
+          "detail": "Declares 15 App Intents covering search, Lens, voice, AI mode and live activities with auto shortcuts and phrases; ships multiple extensions including GoogleWidgets, NotificationService, and Intents."
+        },
+        {
+          "theme": "languages",
+          "title": "Custom Metal GPU shaders",
+          "detail": "26 Metal shader functions plus MetalKit, ARKit, SceneKit and SpriteKit frameworks indicate custom GPU compute, AR and 3D rendering layers beyond standard UIKit."
+        },
+        {
+          "theme": "sdks",
+          "title": "Google first-party modules",
+          "detail": "13 third-party SDKs including gRPC and OneGoogle; references likely first-party modules such as LensOnDeviceFramework, GoogleS3KitVoiceSearch and GSK."
+        },
+        {
+          "theme": "ml_ai",
+          "title": "On-device AI frameworks",
+          "detail": "Core ML, Natural Language and Speech frameworks bundled alongside LensOnDeviceFramework; no ML models detected in bundle signals."
+        }
+      ]
+    }
+  ]
+}

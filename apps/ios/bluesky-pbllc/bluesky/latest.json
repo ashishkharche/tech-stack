@@ -1,0 +1,202 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Bluesky Social",
+    "slug": "bluesky",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6444370199",
+    "bundle_id": "xyz.blueskyweb.app",
+    "active": true,
+    "company": {
+      "name": "Bluesky PBLLC",
+      "slug": "bluesky-pbllc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.136.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-23T18:44:38Z",
+    "store_first_seen_at": "2026-10-25T17:44:07Z",
+    "store_updated_at": "2026-10-22T16:03:25Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 13,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "VisionKit (document/data scanning)",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Sentry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "inferred"
+      },
+      {
+        "name": "ReachabilitySwift",
+        "version": "5.2.4",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mantis",
+        "version": "3.1.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNSVGFilters",
+        "version": "15.15.4",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "5.21.7",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Navigation",
+        "version": null,
+        "category": "architecture",
+        "confidence": "inferred"
+      },
+      {
+        "name": "EXConstants",
+        "version": "57.0.19",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExpoModulesJSI",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EXUpdates",
+        "version": "57.0.23",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "hermesvm",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "MCEmojiPicker",
+        "version": "1.2.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNViewShotPrivacyInfo",
+        "version": "5.1.1",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.4",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 41
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background Push",
+      "Communication Notifications",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CrashData",
+        "OtherDiagnosticData",
+        "PerformanceData"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

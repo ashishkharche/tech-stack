@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Microsoft OneNote",
+    "slug": "microsoft-onenote",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "410395246",
+    "bundle_id": "com.microsoft.onenote",
+    "active": false,
+    "company": {
+      "name": "Microsoft Corporation",
+      "slug": "microsoft-corporation",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "16.109.3",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-11T10:17:47Z",
+    "store_first_seen_at": "2026-06-04T08:07:51Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 2,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "App Intents",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Core Data",
+      "Core ML",
+      "MetalKit",
+      "Natural Language",
+      "PassKit (Wallet / Apple Pay)",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "intl",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "LocalizedStringKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 37
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "Custom Fonts",
+      "iCloud Key-Value Storage",
+      "Keychain Sharing",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AudioData",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T22:04:08Z",
+      "headline": "SwiftUI/UIKit hybrid with React Native for Microsoft OneNote, featuring on-device UNET ML, 10 Metal shaders, Intune MAM, and Aria/Loki Microsoft backends",
+      "insights": [
+        {
+          "theme": "ml_ai",
+          "title": "On-device ML document model",
+          "detail": "Bundles UNET_DOCS_08_EXP_09 model with Core ML and Vision for on-device OCR and image analysis, enabling local document processing."
+        },
+        {
+          "theme": "architecture",
+          "title": "Hybrid SwiftUI and React Native",
+          "detail": "Uses SwiftUI, UIKit, and React Native/JavaScript alongside first-party modules like FluidFrameworkResources and FluentUIResources-ios for layered Office document UI."
+        },
+        {
+          "theme": "ui",
+          "title": "Widgets, extensions, App Intents",
+          "detail": "Includes WidgetKit, share, and today extensions plus App Intents with auto shortcuts for system integration."
+        },
+        {
+          "theme": "sdks",
+          "title": "Minimal third-party SDKs",
+          "detail": "Only two third-party SDKs (LocalizedStringKit, intl) while shipping many first-party Microsoft modules including IntuneMAMSwift and AppCenterDistribute."
+        },
+        {
+          "theme": "platform",
+          "title": "iOS 18+ with Metal shaders",
+          "detail": "Targets minimum iOS 18 and ships 10 Metal shader functions with MetalKit and GPU compute usage."
+        }
+      ]
+    }
+  ]
+}

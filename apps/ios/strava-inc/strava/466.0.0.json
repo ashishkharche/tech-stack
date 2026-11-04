@@ -1,0 +1,491 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Strava: Run, Bike, Walk",
+    "slug": "strava",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "426826309",
+    "bundle_id": "com.strava.stravaride",
+    "active": false,
+    "company": {
+      "name": "Strava, Inc.",
+      "slug": "strava-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "466.0.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:28:53Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 50,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "HealthKit",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Branch",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseAnalytics",
+        "version": "12.10.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurement",
+        "version": "12.10.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurementIdentitySupport",
+        "version": "12.10.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenSDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenShareSDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAdsOnDeviceConversion",
+        "version": "3.3.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "DemangleFilter",
+        "version": "1.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Embrace",
+        "version": "1.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "EmbraceConfigInternal",
+        "version": "1.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "EmbraceCore",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "EmbraceIO",
+        "version": "1.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "EmbraceOTelInternal",
+        "version": "1.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "KSCrash",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "opentelemetry",
+        "version": "1.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": "8.53.2",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GCDWebServer",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Apollo",
+        "version": null,
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "ApolloAPI",
+        "version": null,
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "MessagingAPI",
+        "version": "6.0.2",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "MessagingSDK",
+        "version": "6.3.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "SupportProvidersSDK",
+        "version": "9.0.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "SupportSDK",
+        "version": "9.3.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskCoreSDK",
+        "version": "5.0.5",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "FatmapSDK",
+        "version": "24.0.0",
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mapbox",
+        "version": "24.7.0",
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "MapboxMaps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "GRDB",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZIPFoundation",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "CommonUISDK",
+        "version": "9.3.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "IGListKit",
+        "version": "3.4.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "RiveRuntime",
+        "version": "6.11.4",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "PhoneNumberKit",
+        "version": null,
+        "category": "telephony",
+        "confidence": "observed"
+      },
+      {
+        "name": "ForceUpdateFeature",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OnboardingFeature",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RecordingFeature",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDKConfigurations",
+        "version": "4.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SettingsFeature",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Spandex",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.3",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 24
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background Audio",
+      "Background Location",
+      "Background Push",
+      "Bluetooth (central)",
+      "External Accessory",
+      "HealthKit",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 2,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "Fitness",
+        "Health",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContent",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "PreciseLocation",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T22:04:36Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Feature-modular bundle structure",
+          "detail": "Ships many likely first-party modules such as ActivityListBundle, ActivitySearchBundle and FeedKitBundle, indicating a componentized feature architecture."
+        },
+        {
+          "theme": "sdks",
+          "title": "Multiple crash and performance SDKs",
+          "detail": "Integrates Embrace, Sentry, KSCrash and OpenTelemetry, suggesting layered observability or staged migration."
+        },
+        {
+          "theme": "notable",
+          "title": "Specialized maps beyond MapKit",
+          "detail": "Bundles Mapbox and FatmapSDK alongside MapKit for activity routes and terrain."
+        },
+        {
+          "theme": "platform",
+          "title": "Deep HealthKit and fitness integration",
+          "detail": "Leverages HealthKit, Core Location, Core Motion and background location for activity recording and data sync."
+        },
+        {
+          "theme": "ui",
+          "title": "SwiftUI and UIKit hybrid UI",
+          "detail": "Declares both SwiftUI and UIKit plus RiveRuntime and IGListKit for rendering and list views."
+        }
+      ]
+    }
+  ]
+}

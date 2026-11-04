@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Voice",
+    "slug": "google-voice",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "318698524",
+    "bundle_id": "com.google.GVDialer",
+    "active": false,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "26.22",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:25:28Z",
+    "store_first_seen_at": "2026-06-05T20:08:21Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 3,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "App Intents",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Image",
+      "Core Location",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MessageUI (mail / SMS compose)",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "GeocodingMetadata",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "inferred"
+      },
+      {
+        "name": "SystemIcons",
+        "version": "26.22",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 78
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "Communication Notifications",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "SiriKit",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CoarseLocation",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "PerformanceData",
+        "PhoneNumber",
+        "ProductInteraction",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "FileTimestamp",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:04:34Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "platform",
+          "title": "VoIP telephony with CallKit and PushKit",
+          "detail": "Declares CallKit, PushKit, AVFoundation, and VoIP/background audio capabilities, indicating implementation of IP-based calling and incoming call push notifications."
+        },
+        {
+          "theme": "architecture",
+          "title": "App extensions for widgets and notifications",
+          "detail": "Includes WidgetKitExtension.appex, NotificationExtension.appex, and IntentsExtension.appex, providing widget support, enhanced notifications, and potential Siri intents."
+        },
+        {
+          "theme": "ui",
+          "title": "Hybrid SwiftUI and UIKit interface",
+          "detail": "Declares both SwiftUI and UIKit frameworks, indicating a mix of declarative modern UI and traditional UIKit components."
+        },
+        {
+          "theme": "sdks",
+          "title": "SwiftProtobuf for serialization",
+          "detail": "Bundles SwiftProtobuf among three third-party SDKs, typically for Protocol Buffer data exchange with Google services."
+        }
+      ]
+    }
+  ]
+}

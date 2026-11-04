@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 408" width="680" height="408" role="img" aria-label="Audiomack: Music Downloader SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Audiomack: Music Downloader SDKs by category</title>
+<rect x="0.5" y="0.5" width="679" height="407" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<g transform="translate(20 20)">
+<text x="158.17999999999995" y="20" font-size="13" text-anchor="end" fill="#F1F6F3">Ads</text>
+<rect x="170.2" y="10" width="399.8" height="14" rx="3" fill="#3DDC84"/>
+<text x="578.0" y="20" font-size="13" fill="#A9B2BC">10</text>
+<text x="158.17999999999995" y="42" font-size="13" text-anchor="end" fill="#F1F6F3">UI and rendering</text>
+<rect x="170.2" y="32" width="279.9" height="14" rx="3" fill="#3DDC84"/>
+<text x="458.1" y="42" font-size="13" fill="#A9B2BC">7</text>
+<text x="158.17999999999995" y="64" font-size="13" text-anchor="end" fill="#F1F6F3">Analytics</text>
+<rect x="170.2" y="54" width="239.9" height="14" rx="3" fill="#3DDC84"/>
+<text x="418.1" y="64" font-size="13" fill="#A9B2BC">6</text>
+<text x="158.17999999999995" y="86" font-size="13" text-anchor="end" fill="#F1F6F3">Networking</text>
+<rect x="170.2" y="76" width="199.9" height="14" rx="3" fill="#3DDC84"/>
+<text x="378.1" y="86" font-size="13" fill="#A9B2BC">5</text>
+<text x="158.17999999999995" y="108" font-size="13" text-anchor="end" fill="#F1F6F3">Sign-in and auth</text>
+<rect x="170.2" y="98" width="119.9" height="14" rx="3" fill="#3DDC84"/>
+<text x="298.1" y="108" font-size="13" fill="#A9B2BC">3</text>
+<text x="158.17999999999995" y="130" font-size="13" text-anchor="end" fill="#F1F6F3">Firebase</text>
+<rect x="170.2" y="120" width="119.9" height="14" rx="3" fill="#3DDC84"/>
+<text x="298.1" y="130" font-size="13" fill="#A9B2BC">3</text>
+<text x="158.17999999999995" y="152" font-size="13" text-anchor="end" fill="#F1F6F3">Media</text>
+<rect x="170.2" y="142" width="119.9" height="14" rx="3" fill="#3DDC84"/>
+<text x="298.1" y="152" font-size="13" fill="#A9B2BC">3</text>
+<text x="158.17999999999995" y="174" font-size="13" text-anchor="end" fill="#F1F6F3">Storage</text>
+<rect x="170.2" y="164" width="119.9" height="14" rx="3" fill="#3DDC84"/>
+<text x="298.1" y="174" font-size="13" fill="#A9B2BC">3</text>
+<text x="158.17999999999995" y="196" font-size="13" text-anchor="end" fill="#F1F6F3">Crash and performance</text>
+<rect x="170.2" y="186" width="80.0" height="14" rx="3" fill="#3DDC84"/>
+<text x="258.1" y="196" font-size="13" fill="#A9B2BC">2</text>
+<text x="158.17999999999995" y="218" font-size="13" text-anchor="end" fill="#F1F6F3">Payments</text>
+<rect x="170.2" y="208" width="80.0" height="14" rx="3" fill="#3DDC84"/>
+<text x="258.1" y="218" font-size="13" fill="#A9B2BC">2</text>
+<text x="158.17999999999995" y="240" font-size="13" text-anchor="end" fill="#F1F6F3">Reactive and async</text>
+<rect x="170.2" y="230" width="80.0" height="14" rx="3" fill="#3DDC84"/>
+<text x="258.1" y="240" font-size="13" fill="#A9B2BC">2</text>
+<text x="158.17999999999995" y="262" font-size="13" text-anchor="end" fill="#F1F6F3">Anti-fraud and integrity</text>
+<rect x="170.2" y="252" width="40.0" height="14" rx="3" fill="#3DDC84"/>
+<text x="218.2" y="262" font-size="13" fill="#A9B2BC">1</text>
+<text x="158.17999999999995" y="284" font-size="13" text-anchor="end" fill="#F1F6F3">Feature flags</text>
+<rect x="170.2" y="274" width="40.0" height="14" rx="3" fill="#3DDC84"/>
+<text x="218.2" y="284" font-size="13" fill="#A9B2BC">1</text>
+<text x="158.17999999999995" y="306" font-size="13" text-anchor="end" fill="#F1F6F3">Maps and location</text>
+<rect x="170.2" y="296" width="40.0" height="14" rx="3" fill="#3DDC84"/>
+<text x="218.2" y="306" font-size="13" fill="#A9B2BC">1</text>
+<text x="158.17999999999995" y="328" font-size="13" text-anchor="end" fill="#F1F6F3">Messaging and push</text>
+<rect x="170.2" y="318" width="40.0" height="14" rx="3" fill="#3DDC84"/>
+<text x="218.2" y="328" font-size="13" fill="#A9B2BC">1</text>
+<text x="158.17999999999995" y="350" font-size="13" text-anchor="end" fill="#F1F6F3">Social</text>
+<rect x="170.2" y="340" width="40.0" height="14" rx="3" fill="#3DDC84"/>
+<text x="218.2" y="350" font-size="13" fill="#A9B2BC">1</text>
+</g>
+</svg>

@@ -1,0 +1,319 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "YouTube",
+    "slug": "youtube",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.google.android.youtube",
+    "bundle_id": "com.google.android.youtube",
+    "active": true,
+    "company": {
+      "name": "Google LLC",
+      "slug": "google-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "21.22.165",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:13Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 22,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide",
+      "Lottie",
+      "Material Components",
+      "Rive"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Firebase Analytics",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Chromium net)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Google)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Maps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Cast",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "ML Kit",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Rive",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "WebRTC",
+        "version": null,
+        "category": "voice",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 29",
+      "min_sdk": "29",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Approximate location",
+      "Biometric auth",
+      "Camera",
+      "Contacts (read)",
+      "Draw over other apps",
+      "Fingerprint auth",
+      "Foreground service",
+      "Foreground service: camera",
+      "Foreground service: media playback",
+      "Foreground service: microphone",
+      "Media: images",
+      "Media: video",
+      "Microphone",
+      "NFC",
+      "Notifications",
+      "Phone / carrier info",
+      "Precise location",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 6,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CAMERA",
+        "android.permission.DETECT_SCREEN_CAPTURE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_CAMERA",
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+        "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.HIGH_SAMPLING_RATE_SENSORS",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_DOCUMENTS",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.NEARBY_WIFI_DEVICES",
+        "android.permission.NFC",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_MEDIA_VIDEO",
+        "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.RUN_USER_INITIATED_JOBS",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.USE_BIOMETRIC",
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.android.vending.BILLING",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.google.android.gms.permission.AD_ID_NOTIFICATION",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "com.google.android.youtube.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.google.android.youtube.permission.C2D_MESSAGE",
+        "com.htc.launcher.permission.READ_SETTINGS",
+        "com.htc.launcher.permission.UPDATE_SHORTCUT",
+        "com.sec.android.provider.badge.permission.READ",
+        "com.sec.android.provider.badge.permission.WRITE",
+        "com.sonyericsson.home.permission.BROADCAST_BADGE",
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:25:23Z",
+      "headline": "YouTube Android app using Kotlin/Java with extensive C++ native libraries for media and VR, Cronet for networking, Firebase services, ML Kit, and Rive for UI.",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Extensive native C++ media/VR stack",
+          "detail": "Ships 30+ native libraries including Cardboard SDK, GVR audio, VPX, DAV1D, and WebRTC peer connection for high-performance video decoding and immersive features."
+        },
+        {
+          "theme": "sdks",
+          "title": "Cronet for optimized networking",
+          "detail": "Bundles a specific version of Cronet native library, indicating use of Chromium's HTTP/2 and QUIC transport stack."
+        },
+        {
+          "theme": "sdks",
+          "title": "Firebase and Google Play services",
+          "detail": "Integrates Firebase Analytics, Messaging, Google Play services, Sign-In, and Billing, showing deep embedding in Google's ecosystem."
+        },
+        {
+          "theme": "ui",
+          "title": "Rive for vector animations",
+          "detail": "Uses Rive runtime alongside Lottie and Material Components, enabling advanced vector-based and animated UI elements."
+        },
+        {
+          "theme": "ml_ai",
+          "title": "ML Kit on-device ML",
+          "detail": "Includes ML Kit SDK, providing on-device machine learning capabilities without requiring custom models in the binary."
+        }
+      ]
+    }
+  ]
+}

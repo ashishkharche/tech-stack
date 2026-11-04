@@ -1,0 +1,294 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "WeChat",
+    "slug": "wechat",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "414478124",
+    "bundle_id": "com.tencent.xin",
+    "active": false,
+    "company": {
+      "name": "WeChat",
+      "slug": "wechat",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "8.0.74",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:29:13Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 17,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "AdSupport (IDFA)",
+      "ARKit",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "CallKit (VoIP)",
+      "CloudKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "HealthKit",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "1.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "detector",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "JavaScriptCore2",
+        "version": "615",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "jitruntimeres",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "magicbrushres",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MAVideoComposition",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "mmcronet",
+        "version": "119.6045.214",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMRouter",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NewMessageRingUtil",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "poseest",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "QMapKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ufa",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "WCPlayer",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "WeAppCore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "WeVisionSDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.1",
+      "xcode": "26.1.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 29
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Location",
+      "Background Push",
+      "Background: network-authentication",
+      "CarPlay",
+      "Communication Notifications",
+      "HealthKit",
+      "Keychain Sharing",
+      "Network Extensions",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit",
+      "VoIP",
+      "Wallet passes"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CreditInfo",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "Fitness",
+        "Name",
+        "OtherFinancialInfo",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "PhysicalAddress",
+        "PreciseLocation",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:20:50Z",
+      "headline": "Hybrid SwiftUI/UIKit iOS app for WeChat with 6 extensions (WidgetKit, Siri, ScreenCapture), 10 Metal shaders, first-party modules (TPFFmpeg, cronet_wrapper), and 29 localizations",
+      "insights": [
+        {
+          "theme": "notable",
+          "title": "Six app extensions for system integration",
+          "detail": "Static analysis shows the app ships six extensions: WeChatWidgetExtension.appex, WeChatSiriExtension.appex, WeChatScreenCapture.appex, WeChatShareExtensionNew.appex, WeChatNotificationServiceExtension.appex, and WeChatSiriExtensionUI.appex, plus capabilities for VoIP, SiriKit, and background modes."
+        },
+        {
+          "theme": "sdks",
+          "title": "In-house modules for core features",
+          "detail": "The app references likely first-party modules including cronet_wrapper, TPFFmpeg, ProtobufLite, SoundTouch, matrixreport, and owl, indicating custom implementations for networking, media, serialization, and reporting."
+        },
+        {
+          "theme": "languages",
+          "title": "Swift, Objective-C, C/C++ and Metal",
+          "detail": "Languages and runtimes observed are C/C++, Metal (shaders), Objective-C, and Swift, with 10 metal shader functions, suggesting low-level code for graphics, media, or AR alongside higher-level layers."
+        }
+      ]
+    }
+  ]
+}

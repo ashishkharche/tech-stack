@@ -1,0 +1,1429 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "知乎",
+    "slug": "zhihu",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "432274380",
+    "bundle_id": "com.zhihu.ios",
+    "active": true,
+    "company": {
+      "name": "Beijing Zhizhetianxia Technology Co., Ltd.",
+      "slug": "beijing-zhizhetianxia-technology-co-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "11.12.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T20:29:37Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-23T13:43:21Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 214,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Amplitude",
+        "version": null,
+        "category": "analytics",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "inferred"
+      },
+      {
+        "name": "APMInsightCore",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "APMInsightCrash",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "RangersAPMPrivacyInfo",
+        "version": "5.2.9",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "inferred"
+      },
+      {
+        "name": "ZHModuleWalletImage",
+        "version": "1.0.4",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHPaymentKitImage",
+        "version": "0.0.1",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHVIPPaymentSDKImage",
+        "version": "0.0.1",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHLoginFeatureImage",
+        "version": "0.1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "AFNetworking",
+        "version": "3.2.1",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "NvStreamingSdkCore",
+        "version": "1.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReactiveObjC",
+        "version": "1.0.1",
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxCocoa",
+        "version": "5.0.1",
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxRelay",
+        "version": "5.0.1",
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxSwift",
+        "version": "5.0.1",
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMKV",
+        "version": null,
+        "category": "storage",
+        "confidence": "inferred"
+      },
+      {
+        "name": "MMKV-Privacy",
+        "version": "1.2.14",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SAMKeychain",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSZipArchive",
+        "version": "2.2.3",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHZipArchive",
+        "version": "1.4.0",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Protobuf",
+        "version": "3.11.4",
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "FlashList",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "IGListKit",
+        "version": "3.4.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Native",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "React Native Reanimated",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "react-native-svg",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "ReactionSharedUILotties",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "5.7.3",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SnapKit",
+        "version": "4.0.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHContentReactionLotties",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleVideoEntityLotties",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHTemplateEngineLotties",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "AlibabaAuthSDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "amadeus-rn",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BJLMetal",
+        "version": "3.8.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Broadcastor-iOS",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BUAdTestMeasurement",
+        "version": "7.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CCSDK",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChinaMobileCloudStorageImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CocoaLumberjackPrivacy",
+        "version": "3.7.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CommunityLegacy",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CSJAdSDK",
+        "version": "7.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "dayjs",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "EduLiveCoreSDKImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EduLiveRoomImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EUIBaseImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EUIZXTImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "fiore-rn",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FMDB",
+        "version": "2.6.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GDTMobSDK",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HyphenateChat",
+        "version": "4.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "KSMediaPlayer",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "KSVideoPlayer",
+        "version": "6.70.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LegoShareUIImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "libpag",
+        "version": "4.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LinkCardShareUIImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "mapapi",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MegLiveV5Detect",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MJRefresh",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMKVCore-Privacy",
+        "version": "1.2.14",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MobileLiveBroadcast",
+        "version": "0.0.28",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MQTTClient",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NebulaWK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "pag",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Popup",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Professional",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ProgressServiceResourcesImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "QuestMobile",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RangersAppLog",
+        "version": "6.16.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReactionSharedUIImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReaderService",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReaderShareUIImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RingFeatureImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RxDataSources",
+        "version": "5.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ShortContainerFeatureImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SmartLink",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "sylas",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Tquic",
+        "version": "95.4624.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TraceLogServiceImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ttboringssl",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ttcrypto",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTNetworkManager",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TXFFmpeg",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TXSoundTouch",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VIPPlayerImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VolcEngineRTC",
+        "version": "3.50.403",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "WeiboSDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "WindVaneBasic",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHADSDKImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHApp",
+        "version": "9.12.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHAppImage",
+        "version": "9.12.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHAsyncTextLabel",
+        "version": "1.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHAwardModuleImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHBarrageImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHBetterSegmentedControl",
+        "version": "2021.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHChoiceFeatureImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHContentReactionImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHCoreAlertImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHCoreHudImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHCoreHybrid",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHCoreModelImage",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHCoreNetworkImage",
+        "version": "2.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHCorePhotoViewerImage",
+        "version": "1.5.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHCoreRefresh",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHCoreUsefullViewsImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHCppKit",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHDebugUI",
+        "version": "0.6.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHEditImageSDKRepo",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHEffectSDKiOS",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHEmoticonSDKEmoticon",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHEmoticonSDKImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHIconsLib",
+        "version": "1.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHIHUSDKInsertionImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHImages",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHIMSDKImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHKnowledgeKMSceneImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHMiddlewareEditorImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHMiddlewareImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHMiddlewareListImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHMiddlewareMedia",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHMiddlewareMediaImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHMiddlewarePublishParcel",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHMiddlewareSearchImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHMiddlewareShareImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHMiddlewareVideoImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHMixShortContainerImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleAccountImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleAppGuideImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleBookImage",
+        "version": "8.35.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleBoutiqueImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleColumnImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleColumnParcel",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleCommentsImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleCommentsPAG",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleCommunityImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleConsultImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleConsultParcel",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleCourseDetailContainerImage",
+        "version": "9.5.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleCourseDetailResourcesImage",
+        "version": "8.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleCreation",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleCreationImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleDBImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleDistributionImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleEditorImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleEduDetailResourcesImage",
+        "version": "8.34.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleEduKitImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleEDULiveImage",
+        "version": "8.32.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleEduManuscriptImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleEduVideoCoreResourcesImage",
+        "version": "8.39.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleEduVideoResourcesImage",
+        "version": "8.38.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleEduZRichPluginImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleExperienceCenter",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleFeedImage",
+        "version": "0.0.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleFollowImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleGrowthImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleGrowthLocal",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleHybridImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleImagePickerImage",
+        "version": "0.6.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleInteractionResourceImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleKMKitImage",
+        "version": "4.44.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleKMResourcesImage",
+        "version": "4.27.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleKMSceneImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleKMTabImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleKVipKitImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleKVipManuscriptImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleKVipSKUDetailResourcesImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleLiveImage",
+        "version": "6.10.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleLiveParcel",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleManuscriptImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleNotificationImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleNotificationParcel",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModulePheidiImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModulePublish",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModulePushImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleQAImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleQAPAG",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleQRCodeImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleSearchImage",
+        "version": "0.6.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleSKUDetailResourcesImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleTopicImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleTopicPAG",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleUserImage",
+        "version": "0.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleUserPAG",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleUserParcel",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleVideoCourseImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleVideoEntityImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleVideoEntityParcel",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleVideoXImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleVideoXParcel",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHModuleVIPChannelImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHMorphSDKImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHPINCache",
+        "version": "8.18.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHReaderFeatureImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHReaderUIImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHSDShareUI",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHShareSDKImage",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHShortStory",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHShortStoryImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHSpotBugImages",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHStrategyService",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHSystemServices",
+        "version": "1.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHTemplateDebugFile",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHTemplateEngineFiles",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHTemplateFile",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHUIKitDebugImage",
+        "version": "1.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHUIKitImage",
+        "version": "1.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHUnifiedCard",
+        "version": "1.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHWidgetShareUI",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHWordPressEditorSDKImage",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHYYCache",
+        "version": "1.0.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZHZXTFeedFeatureImage",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZRNFoundation",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "13.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 1
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background Audio",
+      "Communication Notifications",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 4,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "BrowsingHistory",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "OtherDiagnosticData",
+        "PerformanceData",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

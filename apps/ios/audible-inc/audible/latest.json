@@ -1,0 +1,351 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Audible: Audiobooks & Podcasts",
+    "slug": "audible",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "379693831",
+    "bundle_id": "com.audible.iphone",
+    "active": false,
+    "company": {
+      "name": "Audible, Inc.",
+      "slug": "audible-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "4.71.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:34:31Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 29,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PDFKit",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "VisionKit (document/data scanning)",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AEPCore",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AEPServices",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeKit",
+        "version": "14.1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kochava",
+        "version": "8.1.1",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "PurchaseKit",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Apollo",
+        "version": null,
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "ApolloAPI",
+        "version": null,
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeUI",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "AudibleAPI",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "AudibleWhispersync",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "PlayerSDK",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWSClientRuntime",
+        "version": null,
+        "category": "aws",
+        "confidence": "observed"
+      },
+      {
+        "name": "AwsCommonRuntimeKit",
+        "version": null,
+        "category": "aws",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.5.2",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "AlexaKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BuyBox",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Capture",
+        "version": "0.22.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ClientRuntime",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ConductorKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ContentModeration",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FullPlayer",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MAPiOSLib",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Marketplace",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MetaWearablesSDK",
+        "version": "14.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MetricsFactory",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mosaic",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "NowPlayingInfoCenter",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PryonLite",
+        "version": "2.10.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "WazeAudio",
+        "version": "1.3",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.1",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 16
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "CarPlay",
+      "External Accessory",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "SiriKit"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "CoarseLocation",
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDiagnosticData",
+        "OtherUserContent",
+        "PerformanceData",
+        "PhoneNumber",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:12:34Z",
+      "headline": "SwiftUI/UIKit iOS audiobook app with App Intents, SiriKit, AlexaKit, Adobe/Braze analytics, and Audible backend",
+      "insights": [
+        {
+          "theme": "notable",
+          "title": "App Intents and SiriKit integration",
+          "detail": "Declares 10 App Intents with auto shortcuts for reading, sleep timers, and purchases; includes AudibleSiriExtension and SiriKit framework."
+        },
+        {
+          "theme": "analytics",
+          "title": "Adobe, Braze, and Kochava analytics",
+          "detail": "Includes AEPCore, BrazeKit, and Kochava for analytics and messaging; third-party SDK count is 29 with no Firebase."
+        },
+        {
+          "theme": "ui",
+          "title": "SwiftUI and UIKit hybrid UI",
+          "detail": "Combines SwiftUI and UIKit frameworks with Lottie for animations; supports iPad and watchOS idioms."
+        },
+        {
+          "theme": "platform",
+          "title": "CarPlay and background media support",
+          "detail": "Enables CarPlay, Background Audio, Watch Connectivity, and ActivityKit; minimum iOS version is 18.1."
+        }
+      ]
+    }
+  ]
+}

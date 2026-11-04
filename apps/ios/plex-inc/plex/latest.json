@@ -1,0 +1,400 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Plex: Find Movies and TV Shows",
+    "slug": "plex",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "383457673",
+    "bundle_id": "com.plexapp.plex",
+    "active": false,
+    "company": {
+      "name": "Plex Inc.",
+      "slug": "plex-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "2026.11.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:28:03Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 38,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "VisionKit (document/data scanning)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Amplitude",
+        "version": null,
+        "category": "analytics",
+        "confidence": "inferred"
+      },
+      {
+        "name": "FullStory",
+        "version": "1.68.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kochava",
+        "version": "7.6.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": "8.58.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": "2.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "9.1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": "5.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": "3.5.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "VizbeeHomeSSOKit",
+        "version": "1.0.3",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Axios",
+        "version": null,
+        "category": "networking",
+        "confidence": "inferred"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": "12.8.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleCast",
+        "version": "4.8.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleInteractiveMediaAds",
+        "version": "3.23.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSZipArchive",
+        "version": "2.5.5",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "12.8.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "12.8.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "12.8.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FlashList",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.6.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Native",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "React Native Reanimated",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "react-native-svg",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "RNSVGFilters",
+        "version": "15.15.3",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "5.21.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Navigation",
+        "version": null,
+        "category": "architecture",
+        "confidence": "inferred"
+      },
+      {
+        "name": "CocoaLumberjackPrivacy",
+        "version": "3.8.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "hermesvm",
+        "version": "0.12.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "KSPlayer",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PrivacyInfo",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNDeviceInfoPrivacyInfo",
+        "version": "15.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNImagePickerPrivacyInfo",
+        "version": "8.2.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "RNPermissionsPrivacyInfo",
+        "version": "5.4.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VizbeeHomeOSKit",
+        "version": "1.0.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VizbeeKit",
+        "version": "6.9.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.0",
+      "xcode": "26.0.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 0
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContent",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-11T13:48:03Z",
+      "headline": "Hybrid React Native-Swift iOS app with 8 Metal shaders, Plex/Firebase backends, Google Cast, and Sentry/Amplitude analytics",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Hybrid React Native and native layers",
+          "detail": "Ships React Native with hermesvm, Swift, Objective-C, and 8 Metal shader functions, indicating a hybrid architecture where JS core is extended by native GPU and performance code."
+        },
+        {
+          "theme": "analytics",
+          "title": "Multi-vendor analytics and crash reporting",
+          "detail": "Integrates Amplitude, FullStory, Kochava for analytics and Sentry for crashes alongside Firebase, indicating multi-vendor telemetry."
+        },
+        {
+          "theme": "ui",
+          "title": "Mixed SwiftUI, UIKit and React Native UI",
+          "detail": "Uses SwiftUI, UIKit, Lottie, FlashList, React Native Reanimated and react-native-svg, allowing a mix of native and cross-platform UI with animations and SVG."
+        },
+        {
+          "theme": "platform",
+          "title": "Media playback and casting SDKs",
+          "detail": "Includes KSPlayer, GoogleCast, AVFoundation, GoogleInteractiveMediaAds and MetalKit, indicating capabilities for advanced media streaming, casting and ad integration."
+        }
+      ]
+    }
+  ]
+}

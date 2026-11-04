@@ -1,0 +1,583 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "X",
+    "slug": "x",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "333903271",
+    "bundle_id": "com.atebits.Tweetie2",
+    "active": true,
+    "company": {
+      "name": "X Corp.",
+      "slug": "x-corp",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "11.97",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:33:28Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 65,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "CloudKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "PencilKit",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "BrazeKit",
+        "version": "14.1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseAnalytics",
+        "version": "11.14.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurement",
+        "version": "11.14.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurementIdentitySupport",
+        "version": "11.14.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMobileAds",
+        "version": "11.13.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": "11.14.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "LinkKit",
+        "version": "6.4.7",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Payments",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": "1.7.6",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "8.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": "4.1.1",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": "3.5.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "UserMessagingPlatform",
+        "version": "2.7.0",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "LHLSLib",
+        "version": "1.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppCheck",
+        "version": "11.2.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Highlight.js",
+        "version": "11.9.0",
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "MarkdownView",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "MathJax",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "LiveKit",
+        "version": null,
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "WebRTC",
+        "version": "1.0",
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "PhoneNumberKit",
+        "version": null,
+        "category": "telephony",
+        "confidence": "observed"
+      },
+      {
+        "name": "DeviceRisk",
+        "version": "4.8.1",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "FaceLivenessCore",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "Persona2",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "VeryAILiveness",
+        "version": "1.0.50",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "XFaceLiveness",
+        "version": "1.0",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "XPalmLiveness",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "C2PAC",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CastleSDK",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CodeScanner",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Grok",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MobileIntelligence",
+        "version": "1.1.21",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OCFTestKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PalmAPISaas",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PeriscopeSDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PinwheelSDK",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Prelude",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PreludeCore",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Profile",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SocureDocV",
+        "version": "5.4.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Stamps",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftUIIntrospect",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "T1Twitter",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TFNUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TFSFeatureSwitchesUI",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TFSLocalizedUtilities",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TFXParametersUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TGIFilters",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Threads",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TSATwitterAppleSystemAuthorizationServiceManagerKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XCoreLibraries",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XDSFoundation",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XKotlin",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 43
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "Communication Notifications",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit",
+      "Time-Sensitive Notifications",
+      "VoIP",
+      "Wallet passes"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "PhoneNumber",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:11:10Z",
+      "headline": "Native iOS app for X with Swift, SwiftUI/UIKit, 5 Metal shaders, Core ML face models, LiveKit, Grok, and X/Twitter backends",
+      "insights": [
+        {
+          "theme": "ml_ai",
+          "title": "Core ML face analysis models",
+          "detail": "Bundles five Core ML models (face_detection_short_range, BlurDetection, GlareIntensityCheck, CornerDetection, GlareClassify) with Vision and Core ML frameworks for on-device image analysis."
+        },
+        {
+          "theme": "notable",
+          "title": "Grok AI module",
+          "detail": "Lists Grok among likely first-party modules and in third-party SDKs, indicating built-in xAI Grok functionality."
+        },
+        {
+          "theme": "sdks",
+          "title": "LiveKit real-time voice",
+          "detail": "Includes LiveKit and WebRTC SDKs, supporting real-time audio/video communication features."
+        },
+        {
+          "theme": "ui",
+          "title": "Widget and share extensions",
+          "detail": "Ships WidgetExtension, ShareExtension, and notification extensions alongside WidgetKit and ActivityKit frameworks."
+        },
+        {
+          "theme": "analytics",
+          "title": "Firebase and Braze",
+          "detail": "Integrates FirebaseCore, FirebaseAnalytics, FirebaseCrashlytics, FirebaseRemoteConfig, and BrazeKit."
+        }
+      ]
+    }
+  ]
+}

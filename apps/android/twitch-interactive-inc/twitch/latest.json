@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Twitch: Live Streaming",
+    "slug": "twitch",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "tv.twitch.android.app",
+    "bundle_id": "tv.twitch.android.app",
+    "active": false,
+    "company": {
+      "name": "Twitch Interactive, Inc.",
+      "slug": "twitch-interactive-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "13.0.0.2",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:33:17Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 4,
+    "languages": [
+      "C/C++ (native)",
+      "Java"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Android Views (inferred)"
+    ],
+    "build_system": [
+      "Gradle (inferred)",
+      "R8 / ProGuard (name obfuscation detected)"
+    ],
+    "sdks": [
+      {
+        "name": "Sentry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry (native)",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 21",
+      "min_sdk": "21",
+      "target_sdk": "34",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "armeabi-v7a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Foreground service"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 1,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK",
+        "com.android.providers.tv.permission.READ_EPG_DATA",
+        "com.android.providers.tv.permission.WRITE_EPG_DATA",
+        "com.google.android.gms.permission.AD_ID",
+        "tv.twitch.android.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T18:26:14Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "languages",
+          "title": "Java plus native C/C++ with R8 obfuscation",
+          "detail": "Uses Java and C/C++ runtimes; partial code recovery due to R8/ProGuard obfuscation on the binary."
+        },
+        {
+          "theme": "notable",
+          "title": "WebView with JavaScript bridge",
+          "detail": "Detects WebView, WebView JavaScript bridge, reflection, and process exec capabilities in the binary."
+        },
+        {
+          "theme": "sdks",
+          "title": "OkHttp networking and Room persistence",
+          "detail": "Third-party SDKs include OkHttp for networking and Room for local storage among the four observed SDKs."
+        },
+        {
+          "theme": "platform",
+          "title": "Foreground service and legacy min SDK",
+          "detail": "Targets SDK 34 but minimum SDK 21; declares FOREGROUND_SERVICE plus 4 services and 10 receivers."
+        }
+      ]
+    }
+  ]
+}

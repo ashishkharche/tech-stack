@@ -1,0 +1,461 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Amazon Prime Video",
+    "slug": "amazon-prime-video",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "545519333",
+    "bundle_id": "com.amazon.aiv.AIVApp",
+    "active": false,
+    "company": {
+      "name": "AMZN Mobile LLC",
+      "slug": "amzn-mobile-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "10.134",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:31:46Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 48,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Core Bluetooth",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "CryptoKit",
+      "Group Activities (SharePlay)",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "Swift Charts",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "FoveaFramework",
+        "version": "0.1.5",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AFNetworkActivityLogger",
+        "version": "4.0.0",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "AFNetworking",
+        "version": "4.0.1",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Alamofire",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Starscream",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Apollo",
+        "version": "1",
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "ApolloAPI",
+        "version": "1",
+        "category": "graphql",
+        "confidence": "observed"
+      },
+      {
+        "name": "AIViOSPlayer",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleCast",
+        "version": "4.8.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "IOSPlayerSDKConfig",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "MatterTvCastingBridge",
+        "version": "1.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "NukeUI",
+        "version": "12.4.0",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SAMKeychain",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSZipArchive",
+        "version": "2.1.4",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWSAPIGateway",
+        "version": "2.34.0",
+        "category": "aws",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWSAuthCore",
+        "version": "2.34.0",
+        "category": "aws",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWSCognitoIdentityProvider",
+        "version": "2.34.0",
+        "category": "aws",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWSCognitoIdentityProviderASF",
+        "version": "2.34.0",
+        "category": "aws",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWSCore",
+        "version": "2.34.0",
+        "category": "aws",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWSMobileClient",
+        "version": "2.34.0",
+        "category": "aws",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "7.13.3",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Nuke",
+        "version": "12.4.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "4.1.4",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "ApplePlayerLiveEventExplore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BigNumber",
+        "version": "999.99.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CocoaMQTT",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DViOSSKAdNetworkSupport",
+        "version": "1.0.14",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Fido2Lib",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IOSPlayerUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MAPiOSLib",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MBProgressHUD",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleAppUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleAppUIObjC",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleAssistantPresentation",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleFantasyPresentation",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleFoundationUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleOnboardingComponent",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleProfileComponent",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleRegularCarouselComponent",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleRothkoFramework",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleTitleDetailsPreview",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleXrayLiveFramework",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleXrayVODClient",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PVAppleXrayVODFramework",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Quincy",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 34
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "Keychain Sharing",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PreciseLocation",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:07:52Z",
+      "headline": "iOS Amazon Prime Video app with custom PVApple UI modules, AWS/Firebase backends, Live Activities extension, Google Cast, and Metal shaders",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Custom first-party UI modules",
+          "detail": "Bundles numerous likely first-party modules such as PVAppleUI, PVAppleRothkoFramework, and IOSPlayerUI, indicating proprietary UI and player components layered on SwiftUI and UIKit."
+        },
+        {
+          "theme": "ui",
+          "title": "Live Activities and widgets",
+          "detail": "Ships LiveActivitiesExtension.appex and NotificationService.appex; declares ActivityKit and WidgetKit for dynamic content."
+        },
+        {
+          "theme": "sdks",
+          "title": "Google Cast media support",
+          "detail": "Bundles GoogleCast SDK with AVFoundation and AVKit for video playback and casting."
+        },
+        {
+          "theme": "languages",
+          "title": "Swift, Obj-C, C++ and Metal",
+          "detail": "Built with Swift, Objective-C, C/C++ runtimes and ships one Metal shader function."
+        }
+      ]
+    }
+  ]
+}

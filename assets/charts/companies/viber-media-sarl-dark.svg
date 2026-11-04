@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 320" width="680" height="320" role="img" aria-label="Viber Media SARL. SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Viber Media SARL. SDKs by category</title>
+<rect x="0.5" y="0.5" width="679" height="319" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<g transform="translate(20 20)">
+<text x="150.63999999999996" y="20" font-size="13" text-anchor="end" fill="#F1F6F3">Other</text>
+<rect x="162.6" y="10" width="407.4" height="14" rx="3" fill="#F1F6F3"/>
+<text x="578.0" y="20" font-size="13" fill="#A9B2BC">9</text>
+<text x="150.63999999999996" y="42" font-size="13" text-anchor="end" fill="#F1F6F3">Analytics</text>
+<rect x="162.6" y="32" width="181.0" height="14" rx="3" fill="#F1F6F3"/>
+<text x="351.7" y="42" font-size="13" fill="#A9B2BC">4</text>
+<text x="150.63999999999996" y="64" font-size="13" text-anchor="end" fill="#F1F6F3">UI and rendering</text>
+<rect x="162.6" y="54" width="135.8" height="14" rx="3" fill="#F1F6F3"/>
+<text x="306.4" y="64" font-size="13" fill="#A9B2BC">3</text>
+<text x="150.63999999999996" y="86" font-size="13" text-anchor="end" fill="#F1F6F3">Storage</text>
+<rect x="162.6" y="76" width="90.5" height="14" rx="3" fill="#F1F6F3"/>
+<text x="261.2" y="86" font-size="13" fill="#A9B2BC">2</text>
+<text x="150.63999999999996" y="108" font-size="13" text-anchor="end" fill="#F1F6F3">Ads</text>
+<rect x="162.6" y="98" width="45.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="215.9" y="108" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="130" font-size="13" text-anchor="end" fill="#F1F6F3">Architecture</text>
+<rect x="162.6" y="120" width="45.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="215.9" y="130" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="152" font-size="13" text-anchor="end" fill="#F1F6F3">Sign-in and auth</text>
+<rect x="162.6" y="142" width="45.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="215.9" y="152" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="174" font-size="13" text-anchor="end" fill="#F1F6F3">Crash and performance</text>
+<rect x="162.6" y="164" width="45.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="215.9" y="174" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="196" font-size="13" text-anchor="end" fill="#F1F6F3">Messaging and push</text>
+<rect x="162.6" y="186" width="45.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="215.9" y="196" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="218" font-size="13" text-anchor="end" fill="#F1F6F3">Networking</text>
+<rect x="162.6" y="208" width="45.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="215.9" y="218" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="240" font-size="13" text-anchor="end" fill="#F1F6F3">Reactive and async</text>
+<rect x="162.6" y="230" width="45.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="215.9" y="240" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="262" font-size="13" text-anchor="end" fill="#F1F6F3">Voice</text>
+<rect x="162.6" y="252" width="45.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="215.9" y="262" font-size="13" fill="#A9B2BC">1</text>
+</g>
+</svg>

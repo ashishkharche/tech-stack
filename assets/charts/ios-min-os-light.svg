@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 260" width="860" height="260" role="img" aria-label="Minimum iOS version" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Minimum iOS version</title>
+<rect x="0.5" y="0.5" width="859" height="259" rx="12" fill="#FAF8F3" stroke="#D9E1DD"/>
+<g transform="translate(20 20)">
+<line x1="10" y1="190.5" x2="810" y2="190.5" stroke="#D9E1DD"/>
+<rect x="44.1" y="177.6" width="46.0" height="12.4" rx="2" fill="#0088FF"/>
+<text x="67.1" y="171.6" font-size="12" text-anchor="middle" fill="#4D5755">3</text>
+<text x="67.1" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 13</text>
+<rect x="158.4" y="177.6" width="46.0" height="12.4" rx="2" fill="#0088FF"/>
+<text x="181.4" y="171.6" font-size="12" text-anchor="middle" fill="#4D5755">3</text>
+<text x="181.4" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 14</text>
+<rect x="272.7" y="57.2" width="46.0" height="132.8" rx="2" fill="#0088FF"/>
+<text x="295.7" y="51.2" font-size="12" text-anchor="middle" fill="#4D5755">32</text>
+<text x="295.7" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 15</text>
+<rect x="387.0" y="24.0" width="46.0" height="166.0" rx="2" fill="#0088FF"/>
+<text x="410.0" y="18.0" font-size="12" text-anchor="middle" fill="#4D5755">40</text>
+<text x="410.0" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 16</text>
+<rect x="501.3" y="44.8" width="46.0" height="145.2" rx="2" fill="#0088FF"/>
+<text x="524.3" y="38.8" font-size="12" text-anchor="middle" fill="#4D5755">35</text>
+<text x="524.3" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 17</text>
+<rect x="615.6" y="73.8" width="46.0" height="116.2" rx="2" fill="#0088FF"/>
+<text x="638.6" y="67.8" font-size="12" text-anchor="middle" fill="#4D5755">28</text>
+<text x="638.6" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 18</text>
+<rect x="729.9" y="185.8" width="46.0" height="4.2" rx="2" fill="#0088FF"/>
+<text x="752.9" y="179.8" font-size="12" text-anchor="middle" fill="#4D5755">1</text>
+<text x="752.9" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 26</text>
+</g>
+</svg>

@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Shazam: Find Music & Concerts",
+    "slug": "shazam",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "284993459",
+    "bundle_id": "com.shazam.Shazam",
+    "active": false,
+    "company": {
+      "name": "Apple",
+      "slug": "apple",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "26.11.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:28:24Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 1,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "App Intents",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CloudKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MusicKit",
+      "Network.framework",
+      "Photos",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "AppleMediaServicesKit",
+        "version": "2026.10.34",
+        "category": "media",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 22
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "CloudKit",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CoarseLocation",
+        "DeviceID",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "PerformanceData",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T16:59:46Z",
+      "headline": "Native Swift iOS app using SwiftUI and UIKit, Core ML models crepe and crema, App Intents for music services, and multiple extensions; encrypted binary limits static visibility",
+      "insights": [
+        {
+          "theme": "ml_ai",
+          "title": "Core ML models crepe and crema",
+          "detail": "Bundles two Core ML models named crepe and crema with the Core ML framework, indicating inclusion of machine learning assets for inference."
+        },
+        {
+          "theme": "platform",
+          "title": "App Intents for music actions",
+          "detail": "Declares 5 App Intents with actions including Open in Apple Music and Open in Spotify, enabling Siri and Shortcuts integration."
+        },
+        {
+          "theme": "notable",
+          "title": "Multiple system extensions",
+          "detail": "Includes widget, iMessage, notification content, and notification service extensions for integration with iOS surfaces."
+        },
+        {
+          "theme": "sdks",
+          "title": "Apple frameworks and attestation",
+          "detail": "Links MusicKit, CloudKit, ActivityKit, Watch Connectivity, and DeviceCheck/App Attest from the listed Apple frameworks."
+        },
+        {
+          "theme": "privacy",
+          "title": "No tracking declared",
+          "detail": "Privacy manifest declares no tracking while listing collection of CoarseLocation, DeviceID, ProductInteraction and similar data types."
+        }
+      ]
+    }
+  ]
+}

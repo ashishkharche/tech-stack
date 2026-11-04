@@ -1,0 +1,190 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Drive",
+    "slug": "google-drive",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "507874739",
+    "bundle_id": "com.google.Drive",
+    "active": true,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "4.2622.41005",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:25:03Z",
+    "store_first_seen_at": "2026-06-04T20:09:22Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 7,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "App Intents",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Image",
+      "Core Location",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "VisionKit (document/data scanning)",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "SSOAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialPullToRefresh",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "ABCCalloutView",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosPrivacyScreen",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosSiriShortcutManager",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosWidgets",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 72
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "CloudKit",
+      "iCloud",
+      "Keychain Sharing",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:42:54Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Five app extensions",
+          "detail": "The app ships IntentsExtension.appex, NotificationServiceExtension.appex, ShareExtension.appex, FileProvider.appex and WidgetKitExtension.appex, indicating integration points for widgets, file system access, sharing, notifications and Siri intents."
+        },
+        {
+          "theme": "languages",
+          "title": "Hybrid language stack",
+          "detail": "Static analysis detects Swift, Objective-C, React Native / JavaScript and C/C++ runtimes, revealing a mix of native code, cross-platform JavaScript and legacy components."
+        },
+        {
+          "theme": "privacy",
+          "title": "No tracking declared",
+          "detail": "Declares no tracking; permission purposes describe calendar, contacts, photos/videos, microphone and reminders being sent to Google servers for backup to the account."
+        },
+        {
+          "theme": "ui",
+          "title": "SwiftUI and UIKit",
+          "detail": "Uses both SwiftUI and UIKit; asset catalog built with Xcode 26.2 supports dark mode, 114 vector assets and iPad target idioms."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1032 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "TikTok - Videos, Shop & LIVE",
+    "slug": "tiktok",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "835599320",
+    "bundle_id": "com.zhiliaoapp.musically",
+    "active": true,
+    "company": {
+      "name": "TikTok Ltd.",
+      "slug": "tiktok-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "45.4.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:29:48Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 139,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "ARKit",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "CloudKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Group Activities (SharePlay)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "MusicKit",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyerLib",
+        "version": "6.17.9",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "SCSDKCoreKit",
+        "version": "1.6",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "AddCardToWalletImpl",
+        "version": "0.1.0",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Braintree",
+        "version": "0.0.10",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "PIPOWalletBizBasic",
+        "version": "35.6.0",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "PIPOWalletImpl",
+        "version": "0.1.0",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Stripe",
+        "version": "23.32.0",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": "1.7.6",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "7.1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": "4.1.1",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": "3.3.2",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "SpotifyLogin",
+        "version": "1.1.1",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GMSCore",
+        "version": "6.11.0",
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMaps",
+        "version": "6.2.1",
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "dashdec",
+        "version": "1.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleCast",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "SAMKeychain",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppGenLottie",
+        "version": "0.1.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.4.1",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "TUXGenLottie",
+        "version": "1.3.1",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "TUXLottie",
+        "version": "1.3.1",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "LineSDK",
+        "version": "5.10.0",
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "SCSDKCreativeKit",
+        "version": "1.6",
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "TwitterKit",
+        "version": null,
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "AAAASingularity",
+        "version": "0.1.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AAWEBootChecker",
+        "version": "0.3.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AAWELaunchTracker",
+        "version": "0.5.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWECommerce",
+        "version": "26.5.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWECompliance",
+        "version": "26.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEDetailCollection",
+        "version": "26.6.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEDiscover",
+        "version": "26.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEFeed",
+        "version": "26.5.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEIM",
+        "version": "26.5.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEIMFoundation",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEIMSticker",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWELynxKit",
+        "version": "26.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEMediaDownloader",
+        "version": "26.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWENotice",
+        "version": "26.5.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWESearch",
+        "version": "26.6.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEShare",
+        "version": "26.6.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWESplashKit",
+        "version": "26.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEStudio",
+        "version": "26.6.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWETextInputController",
+        "version": "26.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEUIColor",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEUser",
+        "version": "26.5.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEUserCenter",
+        "version": "26.5.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEVersionManager",
+        "version": "26.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AWEVideoWidget",
+        "version": "26.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDALog",
+        "version": "0.9.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDAlogProtocol",
+        "version": "1.3.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDFishhookPrivacyInfo",
+        "version": "0.2.13",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDLRepairer",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDMemoryMatrix",
+        "version": "0.0.26",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDTuringLocalized-en",
+        "version": "2.4.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDTuringLocalized-zh-Hant",
+        "version": "2.4.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDWebKit",
+        "version": "1.4.36",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BDXServiceCenter",
+        "version": "3.0.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "boringssl",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Bytedance1",
+        "version": "1.4.13",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "bytevc1enc",
+        "version": "1.10.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapCutKitImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CKEffectCreator",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "crypto",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ECommerce",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EmoticonsOverseas",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Filter",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FilterEffect",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FrameRecoverPrivacyInfo",
+        "version": "1.37.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GraphConfig",
+        "version": "26.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HeimdallrPrivacyInfo",
+        "version": "0.8.99",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Hermas",
+        "version": "2.1.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "HMDGWPAsanPrivacyInfo",
+        "version": "0.3.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "i18n",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IESBroadcastExtensionKit",
+        "version": "1.4.13",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IESLiveMTKit",
+        "version": "3.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IESLiveMTVideoGift",
+        "version": "1.0.7",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IESLiveVideoGift",
+        "version": "1.3.40",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IESPhoto",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IESWebViewMonitor",
+        "version": "1.7.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Illustration",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IllustrationV2",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "InternationalPay",
+        "version": "1.2.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lemon8KitImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lemon8OpenSDK",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "libvcn",
+        "version": "4.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "MaLiangKit",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MemoryGraphCapture",
+        "version": "1.4.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MJRefresh",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OECTuringLocalized-en",
+        "version": "3.2.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OECTuringLocalized-zh",
+        "version": "3.2.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OECTuringLocalized-zh-Hant",
+        "version": "3.2.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Online",
+        "version": "26.6.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OrbuculumCore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PIPOBase",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PIPOElement",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PIPONetworkSecurityImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PIPOUIComponent",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PNSAgeGate",
+        "version": "1.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PNSFamilyPairingImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PNSGateKeeperImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PNSGeoblockingAdapter",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PNSGeoblockingAdapterImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PNSScreenImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PNSUnifiedPrivacyControlImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PNSWebContainerImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PrivacyInfo",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SessionCheck",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ShareExtensionAWEUIColor",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SharePlay",
+        "version": "26.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "splashResourceCore",
+        "version": "1.23.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "StingerPrivacyInfo",
+        "version": "1.0.19",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTAdvanceEditor",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTFFmpeg",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTKBadgeImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTKBootPreloader",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTKChannelAuthBizImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTKIMContactImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTKL8BusinessImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTKTouchPoint",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTLHCore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTLiveHubDebugger",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTPOrbuService",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TTVideoLive",
+        "version": "1.10.285",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TUCImpl",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TUXMetalShader",
+        "version": "1.3.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TwitterShareExtensionUI",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "umvfi",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "vhdr",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "videovrsr",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VideoWidgetAWEUIColor",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "WCDBSQLCipherFrameworkA",
+        "version": "0.0.8",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "14.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.0",
+      "xcode": "26.0",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 58
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "Communication Notifications",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit",
+      "Time-Sensitive Notifications",
+      "Wallet passes"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 24,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "BrowsingHistory",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherFinancialInfo",
+        "OtherUsageData",
+        "OtherUserContactInfo",
+        "OtherUserContent",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "PhysicalAddress",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T18:07:32Z",
+      "headline": "TikTok iOS app with SwiftUI/UIKit hybrid, 452 Metal shaders, 139 third-party SDKs, App Intents, ActivityKit, Firebase, and Apple Pay/Wallet",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Hybrid UI with custom layers",
+          "detail": "Uses SwiftUI and UIKit alongside first-party modules DanceUICompose, Lynx, and EffectSDK; 452 Metal shader functions indicate custom GPU rendering paths."
+        },
+        {
+          "theme": "platform",
+          "title": "Extensive Apple integrations",
+          "detail": "Declares WidgetKit, ActivityKit, App Intents (9 actions, auto shortcuts), PassKit, ARKit, SceneKit, SiriKit plus 9 app extensions for widgets, sharing, and notifications."
+        },
+        {
+          "theme": "languages",
+          "title": "Multi-runtime with Metal",
+          "detail": "Built from Swift, Objective-C, C/C++, and Metal shaders; min iOS 14.0 with 68 bundled font families and 58 locales."
+        }
+      ]
+    }
+  ]
+}

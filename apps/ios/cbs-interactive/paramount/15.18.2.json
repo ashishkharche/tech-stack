@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Paramount+",
+    "slug": "paramount",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "530168168",
+    "bundle_id": "com.cbsvideo.app",
+    "active": false,
+    "company": {
+      "name": "CBS Interactive",
+      "slug": "cbs-interactive",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "15.18.2",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:36:07Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 30,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CloudKit",
+      "Combine (reactive)",
+      "Core Bluetooth",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Group Activities (SharePlay)",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "SafariServices",
+      "SceneKit",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AEPCore",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AEPServices",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeKit",
+        "version": "11.2.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "ComScore",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "ConvivaSDK",
+        "version": "4.0.47",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kochava",
+        "version": "9.1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "MUXSDKStats",
+        "version": "4.4.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "NielsenAppApi",
+        "version": "9.3.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "NewRelic",
+        "version": "7.7.1",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "OTPublishersHeadlessSDK",
+        "version": "202407.2.0",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "Alamofire",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeUI",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleCast",
+        "version": "4.8.1",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleInteractiveMediaAds",
+        "version": "3.28.10",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "MuxCore",
+        "version": "5.3.1",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "RiveRuntime",
+        "version": "6.18.1",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "AccessEnabler",
+        "version": "3.8.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Avia",
+        "version": "16.5.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AviaTrackingCore",
+        "version": "4.7.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AviaTrackingKantarBarb",
+        "version": "4.1.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AviaTrackingMUXIMA",
+        "version": "4.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CBSiBFFE",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CBSiLocalization",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CBSiProfiles-iOS",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ConvivaAVFoundation",
+        "version": "4.0.51",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaestroCore",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaestroKitParamount",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SAMDPDownloadEngine",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VDS",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Voyager",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.3",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 1
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "CloudKit",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "Keychain Sharing",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 2,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContent",
+        "PerformanceData",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:15:41Z",
+      "headline": "Native iOS 18+ Paramount+ app with SwiftUI, AVFoundation, Adobe AEPCore, Conviva analytics, GoogleCast, and RiveRuntime",
+      "insights": [
+        {
+          "theme": "sdks",
+          "title": "Multiple analytics and measurement SDKs",
+          "detail": "Integrates AEPCore, BrazeKit, ConvivaSDK, Kochava, NielsenAppApi, ComScore, NewRelic, and MUXSDKStats for analytics, video measurement, and performance monitoring."
+        },
+        {
+          "theme": "architecture",
+          "title": "SwiftUI and UIKit with extensions",
+          "detail": "Uses both SwiftUI and UIKit frameworks plus WidgetKit and ActivityKit; ships PPlusWidget and PPlusNotification extensions."
+        },
+        {
+          "theme": "ui",
+          "title": "RiveRuntime for UI components",
+          "detail": "Bundles RiveRuntime, indicating use of Rive for vector-based or animated interface elements."
+        }
+      ]
+    }
+  ]
+}

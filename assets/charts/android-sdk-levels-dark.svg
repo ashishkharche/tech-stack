@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 290" width="860" height="290" role="img" aria-label="Android API levels" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Android API levels</title>
+<rect x="0.5" y="0.5" width="859" height="289" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<g transform="translate(20 20)">
+<rect x="10" y="8" width="12" height="12" rx="3" fill="#F1F6F3"/>
+<text x="28" y="18" font-size="13" fill="#A9B2BC">Minimum API level</text>
+<rect x="167.0" y="8" width="12" height="12" rx="3" fill="#5F6A6C"/>
+<text x="185.0" y="18" font-size="13" fill="#A9B2BC">Target API level</text>
+<line x1="10" y1="220.5" x2="810" y2="220.5" stroke="#262A2D"/>
+<rect x="19.9" y="218.1" width="12.6" height="1.9" rx="2" fill="#F1F6F3"/>
+<text x="26.2" y="213.1" font-size="11" text-anchor="middle" fill="#A9B2BC">1</text>
+<text x="33.5" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">19</text>
+<rect x="67.0" y="204.7" width="12.6" height="15.3" rx="2" fill="#F1F6F3"/>
+<text x="73.3" y="199.7" font-size="11" text-anchor="middle" fill="#A9B2BC">8</text>
+<text x="80.6" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">21</text>
+<rect x="114.1" y="218.1" width="12.6" height="1.9" rx="2" fill="#F1F6F3"/>
+<text x="120.4" y="213.1" font-size="11" text-anchor="middle" fill="#A9B2BC">1</text>
+<text x="127.6" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">22</text>
+<rect x="161.1" y="183.7" width="12.6" height="36.3" rx="2" fill="#F1F6F3"/>
+<text x="167.4" y="178.7" font-size="11" text-anchor="middle" fill="#A9B2BC">19</text>
+<text x="174.7" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">23</text>
+<rect x="208.2" y="158.9" width="12.6" height="61.1" rx="2" fill="#F1F6F3"/>
+<text x="214.5" y="153.9" font-size="11" text-anchor="middle" fill="#A9B2BC">32</text>
+<text x="221.8" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">24</text>
+<rect x="255.2" y="216.2" width="12.6" height="3.8" rx="2" fill="#F1F6F3"/>
+<text x="261.5" y="211.2" font-size="11" text-anchor="middle" fill="#A9B2BC">2</text>
+<text x="268.8" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">25</text>
+<rect x="302.3" y="172.3" width="12.6" height="47.7" rx="2" fill="#F1F6F3"/>
+<text x="308.6" y="167.3" font-size="11" text-anchor="middle" fill="#A9B2BC">25</text>
+<text x="315.9" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">26</text>
+<rect x="349.4" y="166.6" width="12.6" height="53.4" rx="2" fill="#F1F6F3"/>
+<text x="355.6" y="161.6" font-size="11" text-anchor="middle" fill="#A9B2BC">28</text>
+<text x="362.9" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">28</text>
+<rect x="396.4" y="136.0" width="12.6" height="84.0" rx="2" fill="#F1F6F3"/>
+<text x="402.7" y="131.0" font-size="11" text-anchor="middle" fill="#A9B2BC">44</text>
+<text x="410.0" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">29</text>
+<rect x="443.5" y="212.4" width="12.6" height="7.6" rx="2" fill="#F1F6F3"/>
+<text x="449.8" y="207.4" font-size="11" text-anchor="middle" fill="#A9B2BC">4</text>
+<text x="457.1" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">30</text>
+<rect x="490.5" y="216.2" width="12.6" height="3.8" rx="2" fill="#F1F6F3"/>
+<text x="496.8" y="211.2" font-size="11" text-anchor="middle" fill="#A9B2BC">2</text>
+<text x="504.1" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">31</text>
+<rect x="537.6" y="208.6" width="12.6" height="11.4" rx="2" fill="#F1F6F3"/>
+<text x="543.9" y="203.6" font-size="11" text-anchor="middle" fill="#A9B2BC">6</text>
+<text x="551.2" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">32</text>
+<rect x="584.6" y="214.3" width="12.6" height="5.7" rx="2" fill="#F1F6F3"/>
+<text x="590.9" y="209.3" font-size="11" text-anchor="middle" fill="#A9B2BC">3</text>
+<rect x="599.2" y="214.3" width="12.6" height="5.7" rx="2" fill="#5F6A6C"/>
+<text x="605.5" y="209.3" font-size="11" text-anchor="middle" fill="#A9B2BC">3</text>
+<text x="598.2" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">33</text>
+<rect x="646.3" y="206.6" width="12.6" height="13.4" rx="2" fill="#5F6A6C"/>
+<text x="652.6" y="201.6" font-size="11" text-anchor="middle" fill="#A9B2BC">7</text>
+<text x="645.3" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">34</text>
+<rect x="693.4" y="101.7" width="12.6" height="118.3" rx="2" fill="#5F6A6C"/>
+<text x="699.6" y="96.7" font-size="11" text-anchor="middle" fill="#A9B2BC">62</text>
+<text x="692.4" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">35</text>
+<rect x="740.4" y="54.0" width="12.6" height="166.0" rx="2" fill="#5F6A6C"/>
+<text x="746.7" y="49.0" font-size="11" text-anchor="middle" fill="#A9B2BC">87</text>
+<text x="739.4" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">36</text>
+<rect x="787.5" y="189.5" width="12.6" height="30.5" rx="2" fill="#5F6A6C"/>
+<text x="793.8" y="184.5" font-size="11" text-anchor="middle" fill="#A9B2BC">16</text>
+<text x="786.5" y="238.0" font-size="12" text-anchor="middle" fill="#F1F6F3">37</text>
+</g>
+</svg>

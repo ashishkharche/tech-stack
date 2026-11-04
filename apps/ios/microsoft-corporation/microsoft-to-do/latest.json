@@ -1,0 +1,201 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Microsoft To Do",
+    "slug": "microsoft-to-do",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1212616790",
+    "bundle_id": "com.microsoft.to-do",
+    "active": false,
+    "company": {
+      "name": "Microsoft Corporation",
+      "slug": "microsoft-corporation",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "2.177",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-02T04:53:18Z",
+    "store_first_seen_at": "2026-07-06T12:09:11Z",
+    "store_updated_at": "2026-07-06T05:06:19Z",
+    "exported_at": "2026-11-02T08:06:35Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 12,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "AdSupport (IDFA)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Core Data",
+      "Core Image",
+      "CryptoKit",
+      "Group Activities (SharePlay)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MessageUI (mail / SMS compose)",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "VisionKit (document/data scanning)",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "AppCenter",
+        "version": "5.0.5",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "KeychainAccess",
+        "version": "3.2.1",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SQLite.swift",
+        "version": "0.15.3",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "hermes",
+        "version": "0.11.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.4.3",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Native",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "FluentUIResources-ios",
+        "version": "0.34.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GNETextSearch",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Moment.js",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "ODSPSharedAccounts",
+        "version": "2.3.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OfficeFloodgateSDK",
+        "version": "8.2.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.6",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 36
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Processing",
+      "Background Push",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

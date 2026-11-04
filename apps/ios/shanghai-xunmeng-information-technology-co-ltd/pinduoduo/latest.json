@@ -1,0 +1,559 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Pinduoduo",
+    "slug": "pinduoduo",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1044283059",
+    "bundle_id": "com.xunmeng.pinduoduo",
+    "active": true,
+    "company": {
+      "name": "Shanghai Xunmeng Information Technology Co., Ltd.",
+      "slug": "shanghai-xunmeng-information-technology-co-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "8.29.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-01T19:54:15Z",
+    "store_first_seen_at": "2026-10-26T12:20:57Z",
+    "store_updated_at": "2026-10-26T02:18:06Z",
+    "exported_at": "2026-11-01T20:33:33Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 71,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CloudKit",
+      "Contacts",
+      "Core Bluetooth",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "Photos",
+      "PhotosUI",
+      "SiriKit (Intents)",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "DuoduoWallet",
+        "version": "2.18.151",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDPaymentKit",
+        "version": "8.29.5",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDWalletPay",
+        "version": "8.27.4",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDWalletScene",
+        "version": "8.6.2",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AlipaySDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AlmightyContainer",
+        "version": "8.7.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AMFaceDetectBase",
+        "version": "6.87.13",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AMMobileKeychain",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AMNavigation",
+        "version": "4.19.198",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AMSecurityPolicy",
+        "version": "2.1.124",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "APPAvAlbum",
+        "version": "2.0.267",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "effect",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDAddressScene",
+        "version": "8.6.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDAvAlbum",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDAVBaseKit",
+        "version": "8.29.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDAVFloatWindow",
+        "version": "8.29.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDAVGallery",
+        "version": "8.29.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDAVUtil",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDBasePhotoBrowser",
+        "version": "8.29.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDBizUIKit",
+        "version": "8.29.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDBootScene",
+        "version": "8.29.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDChatScene",
+        "version": "8.29.7",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDComment",
+        "version": "8.28.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDCommentListScene",
+        "version": "8.29.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDCommentScene",
+        "version": "8.29.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDContentBrowserScene",
+        "version": "8.25.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDDynamicView",
+        "version": "8.15.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDEffectUIKit",
+        "version": "6.14.74",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDExpressScene",
+        "version": "8.29.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDFavorite",
+        "version": "8.7.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDFavoriteScene",
+        "version": "8.27.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDGoodsDetail",
+        "version": "8.29.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDGoodsDetailScene",
+        "version": "8.29.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDGoodsListing",
+        "version": "8.29.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDGoodsSku",
+        "version": "9.1.1596",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDHomeScene",
+        "version": "8.29.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDHybrid",
+        "version": "5.78.83",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDLego",
+        "version": "8.29.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDLive",
+        "version": "8.29.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDLivePublishScene",
+        "version": "8.21.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDLiveScene",
+        "version": "8.29.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDLiveTabScene",
+        "version": "8.29.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDLiveTabService",
+        "version": "8.26.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDMall",
+        "version": "8.29.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDMallScene",
+        "version": "8.29.10",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDMCEffect",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDMediaPage",
+        "version": "8.27.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDMomentsScene",
+        "version": "8.29.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDMPEffectRender",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "pddOpus",
+        "version": "7.69.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDOrder",
+        "version": "8.29.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDOrderListScene",
+        "version": "8.29.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDPayBizUIKit",
+        "version": "8.29.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDPersonalScene",
+        "version": "8.29.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDSafeModeScene",
+        "version": "7.39.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDSearch",
+        "version": "8.29.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDSearchKit",
+        "version": "8.29.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDSearchScene",
+        "version": "8.29.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDShareImageTemplates",
+        "version": "1.61.66",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDShareSharePages",
+        "version": "1.61.66",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDShoppingCartScene",
+        "version": "8.19.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDShoppingCartService",
+        "version": "8.19.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDSocial",
+        "version": "8.29.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDUser",
+        "version": "7.91.44",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDVideoPageScene",
+        "version": "8.29.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDVideoPageService",
+        "version": "8.27.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDDWeb",
+        "version": "5.78.518",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PTZImagePicker",
+        "version": "8.28.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "renderEngine",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SGQRCode",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TronPlayerMetal",
+        "version": "8.29.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "13.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.1",
+      "xcode": "26.1.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 0
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "CloudKit",
+      "Communication Notifications",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

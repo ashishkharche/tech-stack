@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Dropbox: Cloud Storage Backup",
+    "slug": "dropbox",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "327630330",
+    "bundle_id": "com.getdropbox.Dropbox",
+    "active": true,
+    "company": {
+      "name": "Dropbox, Inc.",
+      "slug": "dropbox-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "476.2",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:41:15Z",
+    "store_first_seen_at": "2026-06-04T08:07:51Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 19,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CloudKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftData (persistence)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "VisionKit (document/data scanning)",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Adjust",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "MUXSDKStats",
+        "version": "4.8.2",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "UserLeapKit",
+        "version": "4.8.5",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": "9.8.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "6.0.2",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "MuxCore",
+        "version": "5.6.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "PSPDFKit",
+        "version": "26.4.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "PSPDFKitUI",
+        "version": "0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterMarkdownInlineQueries",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterMarkdownQueries",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterBashQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterCQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterCSSQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterHTMLQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterJavaQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterJavaScriptQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterJSONQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterPythonQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TreeSitterTOMLQueries",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.7.10",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.5",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 22
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "CloudKit",
+      "iCloud",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "AudioData",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContent",
+        "PerformanceData",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:25:36Z",
+      "headline": "Hybrid SwiftUI/UIKit Dropbox iOS client with FileProvider/Widgets extensions, PSPDFKit, TreeSitter parsers, 2 Metal shaders, Amplitude and Firebase",
+      "insights": [
+        {
+          "theme": "sdks",
+          "title": "TreeSitter Parsers for 11 Languages",
+          "detail": "Bundles TreeSitter query modules for C, Java, Python, Markdown, Bash and others, indicating on-device syntax parsing for code and markup files."
+        },
+        {
+          "theme": "sdks",
+          "title": "PSPDFKit Document Rendering",
+          "detail": "Ships PSPDFKit and PSPDFKitUI, providing a commercial library for PDF viewing, annotation and document handling."
+        },
+        {
+          "theme": "architecture",
+          "title": "Seven App Extensions",
+          "detail": "Deploys FileProviderExtension, WidgetsExtension, NotificationServiceExtension, IntentsExtension and ActionExtension for deep OS integration."
+        },
+        {
+          "theme": "languages",
+          "title": "Metal Shaders and Native Code",
+          "detail": "Contains 2 Metal shader functions plus C/C++ code alongside Swift and Objective-C runtimes."
+        },
+        {
+          "theme": "analytics",
+          "title": "Analytics and Crash Stack",
+          "detail": "Integrates Adjust and UserLeapKit for analytics plus Sentry for crash reporting."
+        }
+      ]
+    }
+  ]
+}

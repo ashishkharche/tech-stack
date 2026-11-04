@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Drive",
+    "slug": "google-drive",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.google.android.apps.docs",
+    "bundle_id": "com.google.android.apps.docs",
+    "active": true,
+    "company": {
+      "name": "Google LLC",
+      "slug": "google-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "2.26.437.0.all.alldpi",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-02T02:28:31Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-02T02:53:24Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 21,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Coil",
+      "Glide",
+      "Jetpack Compose",
+      "Lottie",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Google)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Maps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "ML Kit",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Coil",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "libphonenumber",
+        "version": null,
+        "category": "telephony",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 26",
+      "min_sdk": "26",
+      "target_sdk": "37",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Camera",
+      "Contacts (read)",
+      "Foreground service",
+      "Foreground service: media playback",
+      "Media: audio",
+      "NFC",
+      "Notifications",
+      "Storage (read)",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CAMERA",
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_ACCOUNTS",
+        "android.permission.NFC",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_AUDIO",
+        "android.permission.READ_SYNC_SETTINGS",
+        "android.permission.READ_SYNC_STATS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RUN_USER_INITIATED_JOBS",
+        "android.permission.SUBSCRIBED_FEEDS_READ",
+        "android.permission.SUBSCRIBED_FEEDS_WRITE",
+        "android.permission.USE_CREDENTIALS",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WRITE_SYNC_SETTINGS",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+        "com.google.android.apps.docs.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.google.android.apps.docs.permission.C2D_MESSAGE",
+        "com.google.android.apps.docs.permission.READ_MY_DATA",
+        "com.google.android.apps.docs.permission.SYNC_STATUS",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.gm.permission.READ_GMAIL",
+        "com.google.android.googleapps.permission.GOOGLE_AUTH",
+        "com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES",
+        "com.google.android.googleapps.permission.GOOGLE_AUTH.OTHER_SERVICES",
+        "com.google.android.googleapps.permission.GOOGLE_AUTH.wise",
+        "com.google.android.googleapps.permission.GOOGLE_AUTH.writely",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES"
+      ]
+    }
+  },
+  "inferred": []
+}

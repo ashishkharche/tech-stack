@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 254" width="680" height="254" role="img" aria-label="Google Meet SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Google Meet SDKs by category</title>
+<rect x="0.5" y="0.5" width="679" height="253" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<g transform="translate(20 20)">
+<text x="125.16" y="20" font-size="13" text-anchor="end" fill="#F1F6F3">UI and rendering</text>
+<rect x="137.2" y="10" width="432.8" height="14" rx="3" fill="#3DDC84"/>
+<text x="578.0" y="20" font-size="13" fill="#A9B2BC">5</text>
+<text x="125.16" y="42" font-size="13" text-anchor="end" fill="#F1F6F3">Networking</text>
+<rect x="137.2" y="32" width="259.7" height="14" rx="3" fill="#3DDC84"/>
+<text x="404.9" y="42" font-size="13" fill="#A9B2BC">3</text>
+<text x="125.16" y="64" font-size="13" text-anchor="end" fill="#F1F6F3">Sign-in and auth</text>
+<rect x="137.2" y="54" width="173.1" height="14" rx="3" fill="#3DDC84"/>
+<text x="318.3" y="64" font-size="13" fill="#A9B2BC">2</text>
+<text x="125.16" y="86" font-size="13" text-anchor="end" fill="#F1F6F3">Firebase</text>
+<rect x="137.2" y="76" width="173.1" height="14" rx="3" fill="#3DDC84"/>
+<text x="318.3" y="86" font-size="13" fill="#A9B2BC">2</text>
+<text x="125.16" y="108" font-size="13" text-anchor="end" fill="#F1F6F3">Messaging and push</text>
+<rect x="137.2" y="98" width="86.6" height="14" rx="3" fill="#3DDC84"/>
+<text x="231.7" y="108" font-size="13" fill="#A9B2BC">1</text>
+<text x="125.16" y="130" font-size="13" text-anchor="end" fill="#F1F6F3">ML and AI</text>
+<rect x="137.2" y="120" width="86.6" height="14" rx="3" fill="#3DDC84"/>
+<text x="231.7" y="130" font-size="13" fill="#A9B2BC">1</text>
+<text x="125.16" y="152" font-size="13" text-anchor="end" fill="#F1F6F3">Reactive and async</text>
+<rect x="137.2" y="142" width="86.6" height="14" rx="3" fill="#3DDC84"/>
+<text x="231.7" y="152" font-size="13" fill="#A9B2BC">1</text>
+<text x="125.16" y="174" font-size="13" text-anchor="end" fill="#F1F6F3">Storage</text>
+<rect x="137.2" y="164" width="86.6" height="14" rx="3" fill="#3DDC84"/>
+<text x="231.7" y="174" font-size="13" fill="#A9B2BC">1</text>
+<text x="125.16" y="196" font-size="13" text-anchor="end" fill="#F1F6F3">Voice</text>
+<rect x="137.2" y="186" width="86.6" height="14" rx="3" fill="#3DDC84"/>
+<text x="231.7" y="196" font-size="13" fill="#A9B2BC">1</text>
+</g>
+</svg>

@@ -1,0 +1,436 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Microsoft SwiftKey AI Keyboard",
+    "slug": "microsoft-swiftkey-ai-keyboard",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "911813648",
+    "bundle_id": "com.swiftkey.SwiftKeyApp",
+    "active": false,
+    "company": {
+      "name": "SwiftKey",
+      "slug": "swiftkey",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "4.3.2",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:29:10Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 46,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "AdSupport (IDFA)",
+      "ARKit",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": "11.13.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "OneCameraNetworking",
+        "version": "1.20.5",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "CameraTransform",
+        "version": "1.20.5",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": "11.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "11.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "11.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "11.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": "11.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.5.2",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "CameraCommon",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CameraDevice",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CameraIO",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CameraTelemetry",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Clarity",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DefaultBoards",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DefaultFilter",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EffectBackdrop",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EffectBackground",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EffectBitmapOverlay",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EffectBoard",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EffectCommon",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EffectFilter",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EffectLens",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EffectPen",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EffectPhoto",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EffectSticker",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EffectText",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "InterfaceCommon",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "InterfaceEdit",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "InterfaceRecord",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Keys",
+        "version": "1.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "layouts",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MicrosoftCognitiveServicesSpeech",
+        "version": "1.30.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OCDefaultImplementation",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OneCamera",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OneCameraGradientFilter",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OneCameraMediaImporter",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OneCameraNGE",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "OneCameraTeleprompter",
+        "version": "1.20.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SCSDKCameraKit",
+        "version": "1.25.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "14.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.0",
+      "xcode": "26.0.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 9
+    },
+    "capabilities": [
+      "App Groups",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AudioData",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContent",
+        "PerformanceData",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-09T22:30:33Z",
+      "headline": "SwiftUI iOS keyboard extension bundling Firebase, Microsoft Cognitive Services Speech, Lottie, Metal shaders and MS app integrations",
+      "insights": [
+        {
+          "theme": "sdks",
+          "title": "Firebase and Microsoft speech SDKs",
+          "detail": "Bundles Firebase including Crashlytics and RemoteConfig alongside MicrosoftCognitiveServicesSpeech for voice and config features."
+        },
+        {
+          "theme": "architecture",
+          "title": "Keyboard extension architecture",
+          "detail": "Delivered as SwiftKey.appex using SwiftUI and UIKit for the custom keyboard interface on iPhone and iPad."
+        },
+        {
+          "theme": "ui",
+          "title": "Lottie animations with Metal",
+          "detail": "Includes Lottie for animations and ships 3 Metal shader functions with MetalKit for custom rendering."
+        },
+        {
+          "theme": "privacy",
+          "title": "Data collection without tracking",
+          "detail": "Privacy manifest lists AudioData, CrashData, DeviceID, EmailAddress, UserID and others while declares_tracking is false."
+        }
+      ]
+    }
+  ]
+}

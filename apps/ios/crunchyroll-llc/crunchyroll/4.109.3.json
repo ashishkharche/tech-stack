@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Crunchyroll",
+    "slug": "crunchyroll",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "329913454",
+    "bundle_id": "com.crunchyroll.iphone",
+    "active": false,
+    "company": {
+      "name": "Crunchyroll, LLC",
+      "slug": "crunchyroll-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "4.109.3",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:37:07Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 33,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Core Data",
+      "Core Image",
+      "CryptoKit",
+      "Group Activities (SharePlay)",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "BrazeKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "MUXSDKStats",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Segment",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "DatadogCore",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "DatadogRUM",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "OTPublishersHeadlessSDK",
+        "version": "202507.1.1",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazePushStory",
+        "version": "1.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeUI",
+        "version": "1.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleCast",
+        "version": "4.8.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleInteractiveMediaAds",
+        "version": "3.23.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "MuxCore",
+        "version": "5.4.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Realm",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "RealmSwift",
+        "version": "1.0",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kingfisher",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SnapKit",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Babylon",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DeviceKit",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MBProgressHUD",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftAssRenderer",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftLibass",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TruexAdRenderer",
+        "version": "3.4.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 18
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "CloudKit",
+      "iCloud",
+      "Keychain Sharing",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "App Name",
+        "App Version",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContent",
+        "PerformanceData",
+        "ProductInteraction",
+        "SearchHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:17:40Z",
+      "headline": "SwiftUI/UIKit iOS app with App Intents, widgets, modular first-party DRM video player, Braze analytics, Datadog monitoring and Realm storage",
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "App Intents with auto shortcuts",
+          "detail": "Declares 4 App Intents actions with automatic shortcuts plus WidgetKit and ActivityKit extensions for Siri integration and home screen widgets."
+        },
+        {
+          "theme": "sdks",
+          "title": "Multi-provider analytics stack",
+          "detail": "33 third-party SDKs include BrazeKit and Segment for analytics, DatadogCore and DatadogRUM for monitoring, plus FirebaseCrashlytics and MUXSDKStats."
+        },
+        {
+          "theme": "notable",
+          "title": "Custom video player with casting",
+          "detail": "Dedicated CrunchyrollVideoPlayer and CrunchyrollDRM modules integrated with GoogleCast, AVFoundation and GoogleInteractiveMediaAds for streaming and casting."
+        },
+        {
+          "theme": "notable",
+          "title": "Realm for local persistence",
+          "detail": "Bundles Realm and RealmSwift alongside the Core Data framework, indicating Realm as a primary store for content or user data."
+        },
+        {
+          "theme": "privacy",
+          "title": "Broad declared data collection",
+          "detail": "Privacy manifest lists collection of AdvertisingData, UserID, SearchHistory, ProductInteraction and other types with App Tracking Transparency."
+        }
+      ]
+    }
+  ]
+}

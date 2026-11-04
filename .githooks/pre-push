@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+# Block a push to main unless every new commit is authored and committed by
+# ashishkharche <thekharche@gmail.com>. Other branches are not checked. Enable once per clone:
+#   git config core.hooksPath .githooks
+set -euo pipefail
+
+remote="${1:-origin}"
+root=$(git rev-parse --show-toplevel)
+status=0
+
+is_zero() { case "$1" in *[!0]*) return 1 ;; *) return 0 ;; esac; }
+
+while read -r local_ref local_sha remote_ref remote_sha; do
+  [ -n "${local_sha:-}" ] || continue
+  is_zero "$local_sha" && continue                      # branch deletion
+  [ "$remote_ref" = "refs/heads/main" ] || continue      # only main is checked
+  if ! is_zero "$remote_sha" && git cat-file -e "${remote_sha}^{commit}" 2>/dev/null; then
+    set -- "${remote_sha}..${local_sha}"                # update of an existing branch
+  else
+    set -- "$local_sha" --not --remotes="$remote"       # new branch: commits not on the remote yet
+  fi
+  echo "pre-push: checking ${remote_ref} ($*)" >&2
+  bash "$root/scripts/check_commit_identity.sh" "$@" || status=1
+done
+
+if [ "$status" -ne 0 ]; then
+  echo "pre-push: push blocked." >&2
+fi
+exit "$status"

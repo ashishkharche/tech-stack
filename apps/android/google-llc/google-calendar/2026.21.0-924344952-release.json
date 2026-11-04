@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Calendar",
+    "slug": "google-calendar",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.google.android.calendar",
+    "bundle_id": "com.google.android.calendar",
+    "active": true,
+    "company": {
+      "name": "Google LLC",
+      "slug": "google-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "2026.21.0-924344952-release",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:12Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 16,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Glide",
+      "Jetpack Compose",
+      "Lottie",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cronet (Google)",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Volley",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Jetpack Compose",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 26",
+      "min_sdk": "26",
+      "target_sdk": "37",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Approximate location",
+      "Calendar (read)",
+      "Calendar (write)",
+      "Contacts (read)",
+      "Foreground service",
+      "Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.INTERACT_ACROSS_PROFILES",
+        "android.permission.INTERNET",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.READ_CALENDAR",
+        "android.permission.READ_CONTACTS",
+        "android.permission.READ_SYNC_SETTINGS",
+        "android.permission.READ_SYNC_STATS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        "android.permission.SUBSCRIBED_FEEDS_READ",
+        "android.permission.SUBSCRIBED_FEEDS_WRITE",
+        "android.permission.USE_CREDENTIALS",
+        "android.permission.USE_EXACT_ALARM",
+        "android.permission.VIBRATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_CALENDAR",
+        "android.permission.WRITE_SYNC_SETTINGS",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.calendar.permission.C2D_MESSAGE",
+        "com.google.android.gm.exchange.BIND",
+        "com.google.android.gm.permission.READ_GMAIL",
+        "com.google.android.googleapps.permission.GOOGLE_AUTH",
+        "com.google.android.hangouts.START_HANGOUT",
+        "com.google.android.providers.gsf.permission.READ_GSERVICES"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:20:31Z",
+      "headline": "Android Google Calendar app in Kotlin/Java using Jetpack Compose, native crash handler, Play Core, and Google-only backends.",
+      "insights": [
+        {
+          "theme": "ui",
+          "title": "Jetpack Compose UI stack",
+          "detail": "Uses Jetpack Compose with Material Components, Glide image loading, and Lottie animations for the interface."
+        },
+        {
+          "theme": "sdks",
+          "title": "Google Play services and SDKs",
+          "detail": "Ships Google Play services, Sign-In, Cronet networking, Firebase, and Play Core for updates and dynamic features."
+        },
+        {
+          "theme": "notable",
+          "title": "Extensive Google app queries",
+          "detail": "Queries 20+ other Google apps including Gmail, Drive, Keep, and Meet for ecosystem integration."
+        },
+        {
+          "theme": "languages",
+          "title": "Kotlin, Java, and native C/C++",
+          "detail": "Built with Kotlin and Java, plus C/C++ native libraries for graphics path and crash handling."
+        }
+      ]
+    }
+  ]
+}

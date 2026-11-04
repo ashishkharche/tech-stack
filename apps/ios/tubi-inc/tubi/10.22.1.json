@@ -1,0 +1,403 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Tubi: Movies & Live TV",
+    "slug": "tubi",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "886445756",
+    "bundle_id": "com.adrise.tubitv",
+    "active": false,
+    "company": {
+      "name": "Tubi, Inc",
+      "slug": "tubi-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "10.22.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-23T04:31:03Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 40,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Core Bluetooth",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "Group Activities (SharePlay)",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "SafariServices",
+      "Speech (recognition)",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Adjust",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AdjustSdk",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AEPCore",
+        "version": "5.2.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AEPServices",
+        "version": "5.8.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Branch",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeKit",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "ComScore",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseAnalytics",
+        "version": "11.13.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurement",
+        "version": "11.13.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurementIdentitySupport",
+        "version": "11.13.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "MUXSDKStats",
+        "version": "4.11.1",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "NielsenAppApi",
+        "version": "10.2.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "OTPublishersHeadlessSDK",
+        "version": "202602.1.0",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeUI",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleCast",
+        "version": "4.8.3",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleInteractiveMediaAds",
+        "version": "3.22.1",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "MatterTvCastingBridge",
+        "version": "1.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "MuxCore",
+        "version": "5.11.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kingfisher",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "confett",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Fox",
+        "version": "1.4.12",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FOXPlayer",
+        "version": "4.36.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "YOAdManagement",
+        "version": "3.11.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "YouboraLib",
+        "version": "6.7.23",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 6
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "Keychain Sharing",
+      "Multipath networking",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 10,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContent",
+        "PerformanceData",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-23T04:06:34Z",
+      "headline": "SwiftUI/UIKit iOS streaming app with Firebase, Braze, Google Cast, 40+ third-party SDKs, encrypted binary, and broad tracking permissions",
+      "insights": [
+        {
+          "theme": "privacy",
+          "title": "Declares tracking with broad permissions",
+          "detail": "Privacy manifest declares tracking and collects AdvertisingData, DeviceID, CrashData; requests Bluetooth for Cast, speech recognition, camera for issue capture, and local network."
+        },
+        {
+          "theme": "sdks",
+          "title": "Google Cast and media playback",
+          "detail": "Integrates GoogleCast and MatterTvCastingBridge SDKs alongside AVFoundation, AVKit, and MUX for streaming; Bluetooth permissions support device discovery."
+        },
+        {
+          "theme": "ui",
+          "title": "Hybrid SwiftUI and UIKit",
+          "detail": "Uses both SwiftUI and UIKit frameworks plus Lottie animations; asset catalog built with Xcode 26.2 and marked with Braze."
+        },
+        {
+          "theme": "architecture",
+          "title": "Notification and service extensions",
+          "detail": "Bundles NotificationContentTubiExtension and ServiceTubiExtension for custom notifications and background services."
+        }
+      ]
+    }
+  ]
+}

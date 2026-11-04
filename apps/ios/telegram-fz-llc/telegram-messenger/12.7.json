@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Telegram Messenger",
+    "slug": "telegram-messenger",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "686449807",
+    "bundle_id": "ph.telegra.Telegraph",
+    "active": true,
+    "company": {
+      "name": "Telegram FZ-LLC",
+      "slug": "telegram-fz-llc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "12.7",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:30:48Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 0,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "CloudKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "VisionKit (document/data scanning)",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [],
+    "platform": {
+      "min_os": "13.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 19
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Location",
+      "Background Processing",
+      "Background Push",
+      "CarPlay",
+      "CloudKit",
+      "Communication Notifications",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T18:05:31Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Custom first-party MTProto frameworks",
+          "detail": "Bundles MtProtoKitFramework, PostboxFramework, SwiftSignalKitFramework, TelegramCoreFramework and TelegramUIFramework, indicating a self-contained architecture built around the MTProto protocol."
+        },
+        {
+          "theme": "sdks",
+          "title": "Zero third-party SDKs",
+          "detail": "Reports a third-party SDK count of 0 with no categories, revealing a self-contained implementation that avoids external dependencies."
+        },
+        {
+          "theme": "languages",
+          "title": "81 Metal shader functions",
+          "detail": "Ships 81 Metal shader functions with MetalKit, alongside Swift, Objective-C and C/C++ runtimes, pointing to custom low-level graphics or rendering."
+        },
+        {
+          "theme": "platform",
+          "title": "Six specialized app extensions",
+          "detail": "Includes WidgetExtension.appex, BroadcastUploadExtension.appex, IntentsExtension.appex, NotificationContentExtension.appex, NotificationServiceExtensionv1.appex and ShareExtension.appex for widgets, uploads, intents and notifications."
+        },
+        {
+          "theme": "privacy",
+          "title": "No declared tracking",
+          "detail": "Declares no tracking and empty collected data types list, while providing detailed permission purposes for camera, microphone, location, contacts and speech recognition."
+        }
+      ]
+    }
+  ]
+}

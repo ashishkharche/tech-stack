@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Chase Mobile Checkout",
+    "slug": "chase-mobile-checkout",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.cp.mpos",
+    "bundle_id": "com.cp.mpos",
+    "active": false,
+    "company": {
+      "name": "JPMorgan Chase",
+      "slug": "jpmorgan-chase",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "4.3.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:02Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 4,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)",
+      "R8 / ProGuard (name obfuscation detected)"
+    ],
+    "sdks": [
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 23",
+      "min_sdk": "23",
+      "target_sdk": "33",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a",
+        "armeabi",
+        "armeabi-v7a",
+        "mips",
+        "mips64",
+        "x86",
+        "x86_64"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Approximate location",
+      "Bluetooth",
+      "Bluetooth (connect)",
+      "Bluetooth (scan)",
+      "Draw over other apps",
+      "Foreground service",
+      "Microphone",
+      "Phone / carrier info",
+      "Precise location",
+      "Query all installed apps"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.BLUETOOTH",
+        "android.permission.BLUETOOTH_ADMIN",
+        "android.permission.BLUETOOTH_CONNECT",
+        "android.permission.BLUETOOTH_SCAN",
+        "android.permission.CALL_PHONE",
+        "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.QUERY_ALL_PACKAGES",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.SYSTEM_ALERT_WINDOW"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T18:48:27Z",
+      "headline": "R8-obfuscated Android Chase checkout app with native C/C++ libs, Material Components, Keystore+FLAG_SECURE security, and broad permissions",
+      "insights": [
+        {
+          "theme": "languages",
+          "title": "Kotlin Java and native with R8",
+          "detail": "Built in Kotlin and Java plus C/C++ natives; R8/ProGuard obfuscation produces partial static recovery and mangled class names."
+        },
+        {
+          "theme": "sdks",
+          "title": "Minimal third-party SDK set",
+          "detail": "Ships exactly four third-party SDKs: Google Play services, OkHttp, Kotlin Coroutines, and Material Components."
+        },
+        {
+          "theme": "ui",
+          "title": "Material Components UI",
+          "detail": "Renders with Material Components and includes 10 bundled font families."
+        },
+        {
+          "theme": "platform",
+          "title": "Broad permissions and ABIs",
+          "detail": "Requests overlay, query-all-packages, microphone, precise location, and Bluetooth permissions; supports 7 ABIs including legacy MIPS with min SDK 23."
+        }
+      ]
+    }
+  ]
+}

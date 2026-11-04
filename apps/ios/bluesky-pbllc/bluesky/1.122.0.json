@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Bluesky Social",
+    "slug": "bluesky",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6444370199",
+    "bundle_id": "xyz.blueskyweb.app",
+    "active": true,
+    "company": {
+      "name": "Bluesky PBLLC",
+      "slug": "bluesky-pbllc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.122.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:31:06Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 16,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "VisionKit (document/data scanning)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Amplitude",
+        "version": null,
+        "category": "analytics",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Sentry",
+        "version": "8.53.2",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReachabilitySwift",
+        "version": "5.2.4",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "MMKV",
+        "version": null,
+        "category": "storage",
+        "confidence": "inferred"
+      },
+      {
+        "name": "hermes",
+        "version": "0.12.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mantis",
+        "version": "2.31.1",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Native",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "React Native Reanimated",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "react-native-svg",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "RNSVGFilters",
+        "version": "15.12.1",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "5.21.7",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Navigation",
+        "version": null,
+        "category": "architecture",
+        "confidence": "inferred"
+      },
+      {
+        "name": "EXConstants",
+        "version": "18.0.13",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "EXUpdates",
+        "version": "29.0.17",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "MCEmojiPicker",
+        "version": "1.2.5",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.1",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4.1",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 40
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background Push",
+      "Communication Notifications",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CrashData",
+        "OtherDiagnosticData",
+        "PerformanceData"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:53:25Z",
+      "headline": null,
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Hybrid React Native and Swift",
+          "detail": "The app bundles React Native with Hermes JS engine and Expo modules alongside SwiftUI, UIKit, and native Apple frameworks, indicating a cross-platform core extended with native iOS code."
+        },
+        {
+          "theme": "languages",
+          "title": "Metal shaders and multi-runtime",
+          "detail": "Ships 2 Metal shader functions and includes C/C++, Objective-C, Swift, and React Native/JavaScript runtimes, revealing custom GPU code alongside multiple language runtimes."
+        },
+        {
+          "theme": "platform",
+          "title": "Notification and share extensions",
+          "detail": "Bundles BlueskyNSE.appex and Share-with-Bluesky.appex extensions along with App Groups and background push capabilities."
+        },
+        {
+          "theme": "sdks",
+          "title": "Sentry and Amplitude",
+          "detail": "Observed third-party SDKs include Sentry for crash and performance monitoring and Amplitude for analytics."
+        }
+      ]
+    }
+  ]
+}

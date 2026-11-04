@@ -1,0 +1,213 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Microsoft Authenticator",
+    "slug": "microsoft-authenticator",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "983156458",
+    "bundle_id": "com.microsoft.azureauthenticator",
+    "active": false,
+    "company": {
+      "name": "Microsoft Corporation",
+      "slug": "microsoft-corporation",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "6.8.48",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:27:08Z",
+    "store_first_seen_at": "2026-06-06T08:08:18Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 11,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "AVFoundation (audio/video)",
+      "Background Tasks",
+      "CloudKit",
+      "Core Data",
+      "Core Location",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "AppAuth",
+        "version": "1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": "1.26.0",
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "FluentIcons",
+        "version": "1.1.207",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "FluentUI",
+        "version": "0.5.3",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.4.2",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Swinject",
+        "version": "2.8.6",
+        "category": "architecture",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwinjectAutoregistration",
+        "version": "2.8.4",
+        "category": "architecture",
+        "confidence": "observed"
+      },
+      {
+        "name": "CorrelationVector",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PowerLiftKit",
+        "version": "5.6.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PresenterSplitView",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "PromiseKit",
+        "version": "6.22.1",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.3",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 44
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "AutoFill Credentials",
+      "Background App Refresh",
+      "Background Processing",
+      "Background Push",
+      "CloudKit",
+      "iCloud",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CoarseLocation",
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContactInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "PhysicalAddress",
+        "PreciseLocation",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T22:07:18Z",
+      "headline": "iOS Microsoft Authenticator with SwiftUI/UIKit, MSAL/IntuneMAM/VerifiableCredentialWallet modules, SSO and autofill extensions, App Attest, Secure Enclave, and FluentUI",
+      "insights": [
+        {
+          "theme": "platform",
+          "title": "Credential extensions and iOS 17+",
+          "detail": "Includes AuthenticatorSSOExtension and AutofillExtension with capabilities for App Groups, Keychain Sharing, CloudKit, and iCloud on minimum iOS 17.0."
+        },
+        {
+          "theme": "ui",
+          "title": "Fluent design with SwiftUI and animations",
+          "detail": "Combines SwiftUI and UIKit with FluentUI, FluentIcons, and Lottie for UI and animations."
+        },
+        {
+          "theme": "sdks",
+          "title": "Third-party DI and serialization",
+          "detail": "Integrates Swinject for dependency injection, SwiftProtobuf for serialization, and AppAuth for authentication."
+        }
+      ]
+    }
+  ]
+}

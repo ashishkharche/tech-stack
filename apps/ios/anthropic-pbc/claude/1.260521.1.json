@@ -1,0 +1,500 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Claude by Anthropic",
+    "slug": "claude",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6473753684",
+    "bundle_id": "com.anthropic.claude",
+    "active": true,
+    "company": {
+      "name": "Anthropic PBC",
+      "slug": "anthropic-pbc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.260521.1",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-01T11:08:16Z",
+    "store_first_seen_at": "2026-05-27T20:48:55Z",
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 63,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "App Intents",
+      "AVFoundation (audio/video)",
+      "CloudKit",
+      "Core Data",
+      "Core Location",
+      "HealthKit",
+      "MapKit",
+      "MetalKit",
+      "StoreKit (in-app purchase)",
+      "SwiftData (persistence)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "GoogleAppMeasurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "unknown"
+      },
+      {
+        "name": "JSONSafeEncoding",
+        "version": null,
+        "category": "analytics",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Segment",
+        "version": null,
+        "category": "analytics",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Sovran",
+        "version": null,
+        "category": "analytics",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Datadog",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "unknown"
+      },
+      {
+        "name": "DatadogCore",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "unknown"
+      },
+      {
+        "name": "DatadogCrashReporting",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "unknown"
+      },
+      {
+        "name": "DatadogRUM",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "unknown"
+      },
+      {
+        "name": "KSCrash",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "unknown"
+      },
+      {
+        "name": "opentelemetry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Sentry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": null,
+        "category": "auth",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": null,
+        "category": "auth",
+        "confidence": "unknown"
+      },
+      {
+        "name": "InteropForGoogle",
+        "version": null,
+        "category": "auth",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GMSCore",
+        "version": "26.03.0",
+        "category": "maps",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GoogleMaps",
+        "version": null,
+        "category": "maps",
+        "confidence": "unknown"
+      },
+      {
+        "name": "YouTubeiOSPlayerHelper",
+        "version": null,
+        "category": "media",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GRDB",
+        "version": null,
+        "category": "storage",
+        "confidence": "unknown"
+      },
+      {
+        "name": "abseil",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "AppCheck",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "leveldb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "unknown"
+      },
+      {
+        "name": "cmark-gfm",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Highlightr",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Kingfisher",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "NetworkImage",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-markdown-ui",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SwiftMath",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SwiftSoup",
+        "version": null,
+        "category": "rendering",
+        "confidence": "unknown"
+      },
+      {
+        "name": "PhoneNumberKit",
+        "version": null,
+        "category": "telephony",
+        "confidence": "unknown"
+      },
+      {
+        "name": "sift-ios",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-collections",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "unknown"
+      },
+      {
+        "name": "combine-schedulers",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Markdown",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "mathFonts",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ResilientDecoding",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "Sharing",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "sqlite-data",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-async-algorithms",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-atomics",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-clocks",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-concurrency-extras",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-custom-dump",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-dependencies",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-identified-collections",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-perception",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-sharing",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-structured-queries",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "swift-syntax",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      }
+    ],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.4",
+      "xcode": "26.4.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 11
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Push",
+      "HealthKit",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "App Name",
+        "App Version",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PerformanceData",
+        "PhoneNumber",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

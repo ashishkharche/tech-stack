@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 342" width="680" height="342" role="img" aria-label="FIFA SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>FIFA SDKs by category</title>
+<rect x="0.5" y="0.5" width="679" height="341" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<g transform="translate(20 20)">
+<text x="150.63999999999996" y="20" font-size="13" text-anchor="end" fill="#F1F6F3">Other</text>
+<rect x="162.6" y="10" width="407.4" height="14" rx="3" fill="#F1F6F3"/>
+<text x="578.0" y="20" font-size="13" fill="#A9B2BC">36</text>
+<text x="150.63999999999996" y="42" font-size="13" text-anchor="end" fill="#F1F6F3">Firebase</text>
+<rect x="162.6" y="32" width="113.2" height="14" rx="3" fill="#F1F6F3"/>
+<text x="283.8" y="42" font-size="13" fill="#A9B2BC">10</text>
+<text x="150.63999999999996" y="64" font-size="13" text-anchor="end" fill="#F1F6F3">Analytics</text>
+<rect x="162.6" y="54" width="79.2" height="14" rx="3" fill="#F1F6F3"/>
+<text x="249.8" y="64" font-size="13" fill="#A9B2BC">7</text>
+<text x="150.63999999999996" y="86" font-size="13" text-anchor="end" fill="#F1F6F3">AWS</text>
+<rect x="162.6" y="76" width="33.9" height="14" rx="3" fill="#F1F6F3"/>
+<text x="204.6" y="86" font-size="13" fill="#A9B2BC">3</text>
+<text x="150.63999999999996" y="108" font-size="13" text-anchor="end" fill="#F1F6F3">UI and rendering</text>
+<rect x="162.6" y="98" width="33.9" height="14" rx="3" fill="#F1F6F3"/>
+<text x="204.6" y="108" font-size="13" fill="#A9B2BC">3</text>
+<text x="150.63999999999996" y="130" font-size="13" text-anchor="end" fill="#F1F6F3">Messaging and push</text>
+<rect x="162.6" y="120" width="22.6" height="14" rx="3" fill="#F1F6F3"/>
+<text x="193.3" y="130" font-size="13" fill="#A9B2BC">2</text>
+<text x="150.63999999999996" y="152" font-size="13" text-anchor="end" fill="#F1F6F3">Storage</text>
+<rect x="162.6" y="142" width="22.6" height="14" rx="3" fill="#F1F6F3"/>
+<text x="193.3" y="152" font-size="13" fill="#A9B2BC">2</text>
+<text x="150.63999999999996" y="174" font-size="13" text-anchor="end" fill="#F1F6F3">Ads</text>
+<rect x="162.6" y="164" width="11.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="182.0" y="174" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="196" font-size="13" text-anchor="end" fill="#F1F6F3">Crash and performance</text>
+<rect x="162.6" y="186" width="11.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="182.0" y="196" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="218" font-size="13" text-anchor="end" fill="#F1F6F3">Networking</text>
+<rect x="162.6" y="208" width="11.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="182.0" y="218" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="240" font-size="13" text-anchor="end" fill="#F1F6F3">Privacy and consent</text>
+<rect x="162.6" y="230" width="11.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="182.0" y="240" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="262" font-size="13" text-anchor="end" fill="#F1F6F3">Telephony</text>
+<rect x="162.6" y="252" width="11.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="182.0" y="262" font-size="13" fill="#A9B2BC">1</text>
+<text x="150.63999999999996" y="284" font-size="13" text-anchor="end" fill="#F1F6F3">Voice</text>
+<rect x="162.6" y="274" width="11.3" height="14" rx="3" fill="#F1F6F3"/>
+<text x="182.0" y="284" font-size="13" fill="#A9B2BC">1</text>
+</g>
+</svg>

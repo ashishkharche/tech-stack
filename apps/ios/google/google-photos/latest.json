@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Photos: Backup & Edit",
+    "slug": "google-photos",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "962194608",
+    "bundle_id": "com.google.photos",
+    "active": false,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "7.79.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:26:36Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 13,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "App Intents",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SceneKit",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "SSOAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "inferred"
+      },
+      {
+        "name": "DequeModule",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "inferred"
+      },
+      {
+        "name": "InternalCollectionsUtilities",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "inferred"
+      },
+      {
+        "name": "OrderedCollections",
+        "version": null,
+        "category": "apple_std",
+        "confidence": "inferred"
+      },
+      {
+        "name": "CardboardSDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosPrivacyScreen",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ChronosSiriShortcutManager",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GWACore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GWALocalization",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialFABMenu",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Photos",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "XenoCatalogFiles",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "18.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 44
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Location",
+      "Background Processing",
+      "Background Push",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "OtherDataTypes",
+        "PerformanceData",
+        "PreciseLocation",
+        "ProductInteraction",
+        "SearchHistory"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T18:17:15Z",
+      "headline": "Google Photos iOS app with SwiftUI/UIKit, App Intents for photo search, 145 Metal shaders, bundled Core ML models, and Firebase backend",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "App Intents for photos and albums",
+          "detail": "Declares three App Intents (appintent_photos_search, appintent_view_albums, appintent_create) with auto shortcuts and multiple shortcut phrases for search and albums, plus WidgetKitExtension."
+        },
+        {
+          "theme": "ml_ai",
+          "title": "Bundled on-device ML models",
+          "detail": "Ships three Core ML models (model_flash_1.2, trigger_model_me.v2.27.0, hssd_medium_8bit_4orient_v5) with Vision and Core ML frameworks plus Metal GPU compute for on-device image analysis."
+        },
+        {
+          "theme": "languages",
+          "title": "Extensive Metal shader usage",
+          "detail": "145 Metal shader functions with MetalKit and SceneKit indicate custom GPU-accelerated compute and graphics, alongside Swift, Objective-C, and C/C++."
+        },
+        {
+          "theme": "ui",
+          "title": "SwiftUI with rich asset catalog",
+          "detail": "Combines SwiftUI and UIKit with 32 bundled font families, 89 vector assets, dark mode, and iPad idioms."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 210" width="680" height="210" role="img" aria-label="Partiful: Party Invite Maker SDKs by category" font-family="Geist, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title>Partiful: Party Invite Maker SDKs by category</title>
+<rect x="0.5" y="0.5" width="679" height="209" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
+<g transform="translate(20 20)">
+<text x="115.01999999999998" y="20" font-size="13" text-anchor="end" fill="#F1F6F3">Other</text>
+<rect x="127.0" y="10" width="443.0" height="14" rx="3" fill="#0091FF"/>
+<text x="578.0" y="20" font-size="13" fill="#A9B2BC">9</text>
+<text x="115.01999999999998" y="42" font-size="13" text-anchor="end" fill="#F1F6F3">Analytics</text>
+<rect x="127.0" y="32" width="196.9" height="14" rx="3" fill="#0091FF"/>
+<text x="331.9" y="42" font-size="13" fill="#A9B2BC">4</text>
+<text x="115.01999999999998" y="64" font-size="13" text-anchor="end" fill="#F1F6F3">UI and rendering</text>
+<rect x="127.0" y="54" width="196.9" height="14" rx="3" fill="#0091FF"/>
+<text x="331.9" y="64" font-size="13" fill="#A9B2BC">4</text>
+<text x="115.01999999999998" y="86" font-size="13" text-anchor="end" fill="#F1F6F3">Networking</text>
+<rect x="127.0" y="76" width="98.4" height="14" rx="3" fill="#0091FF"/>
+<text x="233.5" y="86" font-size="13" fill="#A9B2BC">2</text>
+<text x="115.01999999999998" y="108" font-size="13" text-anchor="end" fill="#F1F6F3">Payments</text>
+<rect x="127.0" y="98" width="98.4" height="14" rx="3" fill="#0091FF"/>
+<text x="233.5" y="108" font-size="13" fill="#A9B2BC">2</text>
+<text x="115.01999999999998" y="130" font-size="13" text-anchor="end" fill="#F1F6F3">Maps and location</text>
+<rect x="127.0" y="120" width="49.2" height="14" rx="3" fill="#0091FF"/>
+<text x="184.2" y="130" font-size="13" fill="#A9B2BC">1</text>
+<text x="115.01999999999998" y="152" font-size="13" text-anchor="end" fill="#F1F6F3">Storage</text>
+<rect x="127.0" y="142" width="49.2" height="14" rx="3" fill="#0091FF"/>
+<text x="184.2" y="152" font-size="13" fill="#A9B2BC">1</text>
+</g>
+</svg>

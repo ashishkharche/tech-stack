@@ -1,0 +1,315 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "SLING: Live TV, Shows & Movies",
+    "slug": "sling",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.sling.airtvmini",
+    "bundle_id": "com.sling.airtvmini",
+    "active": false,
+    "company": {
+      "name": "Sling TV",
+      "slug": "sling-tv",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "9.4.29",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:32:32Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 27,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin",
+      "React Native / JavaScript"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Fresco",
+      "Glide",
+      "Lottie",
+      "Material Components"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Branch",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "comScore",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kochava",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Bugsnag",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "New Relic",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "OpenTelemetry",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play Billing",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "OkHttp",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Volley",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase Messaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "ExoPlayer",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Cast",
+        "version": null,
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "Realm",
+        "version": null,
+        "category": "storage",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google DataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Fresco",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Glide",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Material Components",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "LaunchDarkly",
+        "version": null,
+        "category": "feature_flags",
+        "confidence": "observed"
+      },
+      {
+        "name": "CodePush",
+        "version": null,
+        "category": "architecture",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Redux",
+        "version": null,
+        "category": "architecture",
+        "confidence": "inferred"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 21",
+      "min_sdk": "21",
+      "target_sdk": "35",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "armeabi-v7a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Approximate location",
+      "Draw over other apps",
+      "Foreground service",
+      "Microphone",
+      "Notifications",
+      "Phone / carrier info",
+      "Precise location",
+      "Query all installed apps",
+      "Storage (read)",
+      "Storage (write)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 16,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INSTALL_SELF_UPDATES",
+        "android.permission.INTERNET",
+        "android.permission.MOUNT_FORMAT_FILESYSTEMS",
+        "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+        "android.permission.MOVE_PACKAGE",
+        "android.permission.NEARBY_WIFI_DEVICES",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.QUERY_ALL_PACKAGES",
+        "android.permission.READ_DREAM_STATE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.STOP_APP_SWITCHES",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_DREAM_STATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WRITE_MEDIA_STORAGE",
+        "android.permission.WRITE_SECURE_SETTINGS",
+        "com.amazon.device.messaging.permission.RECEIVE",
+        "com.amazon.device.permission.COMRADE_CAPABILITIES",
+        "com.amazon.tv.permission.TIF_EXTENSION_ACCESS",
+        "com.android.providers.tv.permission.READ_EPG_DATA",
+        "com.android.providers.tv.permission.WRITE_EPG_DATA",
+        "com.android.vending.BILLING",
+        "com.google.android.c2dm.permission.RECEIVE",
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.netflix.ninja.permission.TILES",
+        "com.sling.airtvmini.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.sling.airtvmini.permission.RECEIVE_ADM_MESSAGE",
+        "com.tivo.atom.CHANGE_CHANNELS"
+      ]
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:58:43Z",
+      "headline": "React Native Android streaming app with Hermes, CodePush OTA, LaunchDarkly flags, ExoPlayer+Cast, and Sling/Firebase backends",
+      "insights": [
+        {
+          "theme": "notable",
+          "title": "CodePush for OTA updates",
+          "detail": "Listed in JS libraries and architecture SDKs; supports server-side JavaScript bundle updates without requiring full app store submissions."
+        },
+        {
+          "theme": "notable",
+          "title": "ExoPlayer and Google Cast",
+          "detail": "Media SDKs list ExoPlayer and Google Cast; provides core video playback and device casting capabilities for live TV and on-demand content."
+        }
+      ]
+    }
+  ]
+}

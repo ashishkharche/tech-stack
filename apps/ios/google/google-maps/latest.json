@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Google Maps",
+    "slug": "google-maps",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "585027354",
+    "bundle_id": "com.google.Maps",
+    "active": false,
+    "company": {
+      "name": "Google",
+      "slug": "google",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "26.22.2",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:25:35Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 15,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "App Intents",
+      "ARKit",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "Core Data",
+      "Core Location",
+      "Core ML",
+      "MapKit",
+      "SceneKit",
+      "SpriteKit",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "OneGoogle",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "SSOAuth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMaps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "SpotifyiOS",
+        "version": "3.0.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "gRPC",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialDialogs",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "MaterialSearch",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "AR",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ChronosWidgets",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "DesignSystemAccessibility",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GMCSBusyness",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "GMCSOpenHours",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SULLibrary",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "SwiftBridging",
+        "version": "26.22.2",
+        "category": "other",
+        "confidence": "unknown"
+      },
+      {
+        "name": "ULR",
+        "version": null,
+        "category": "other",
+        "confidence": "unknown"
+      }
+    ],
+    "platform": {
+      "min_os": "16.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 49
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Location",
+      "Background Push",
+      "CarPlay",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "SiriKit",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T22:05:26Z",
+      "headline": "Google Maps iOS app using SwiftUI/UIKit with 12 app extensions, App Intents, 50 Metal shaders, and first-party Google modules like ARCore and GMSCore",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "12 app extensions plus App Intents",
+          "detail": "Ships 12 app extensions including WidgetKitExtension, IntentsExtension, TodayExtension variants, Notification extensions, and Share extensions, plus App Intents with auto shortcuts enabled."
+        },
+        {
+          "theme": "languages",
+          "title": "50 Metal shader functions",
+          "detail": "Includes 50 Metal shader functions with C/C++, Objective-C, and Swift, indicating custom GPU compute or rendering in addition to standard frameworks."
+        },
+        {
+          "theme": "sdks",
+          "title": "First-party Google modules dominate",
+          "detail": "Bundles numerous likely first-party modules such as ARCore, GMSCore, GoogleKitCore, GoogleKitUINavigation, and CameraKit alongside 15 third-party SDKs including SpotifyiOS and OneGoogle."
+        },
+        {
+          "theme": "ml_ai",
+          "title": "On-device Vision and AR",
+          "detail": "Uses Core ML, Vision for on-device OCR and image analysis, plus ARKit, SceneKit, and SpriteKit for 3D and augmented reality features."
+        },
+        {
+          "theme": "privacy",
+          "title": "No tracking declared",
+          "detail": "Privacy manifest declares no tracking and lists no collected data types, despite declared capabilities for background location, camera, and contacts."
+        }
+      ]
+    }
+  ]
+}

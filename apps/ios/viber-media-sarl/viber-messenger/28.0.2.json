@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Rakuten Viber Messenger",
+    "slug": "viber-messenger",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "382617920",
+    "bundle_id": "com.viber",
+    "active": false,
+    "company": {
+      "name": "Viber Media SARL.",
+      "slug": "viber-media-sarl",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "28.0.2",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-06-19T04:29:21Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 26,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "ARKit",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Background Tasks",
+      "CallKit (VoIP)",
+      "CloudKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Adjust",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeKit",
+        "version": "13.3.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Mixpanel",
+        "version": null,
+        "category": "analytics",
+        "confidence": "inferred"
+      },
+      {
+        "name": "SCSDKCoreKit",
+        "version": "2.5.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "GAPMobile",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "SCSDKLoginKit",
+        "version": "2.5.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Axios",
+        "version": null,
+        "category": "networking",
+        "confidence": "inferred"
+      },
+      {
+        "name": "BrazeUI",
+        "version": "13.3.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "ReactiveCocoa",
+        "version": "1.0",
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "GRDB",
+        "version": "4.8.1",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZIPFoundation",
+        "version": "1.0",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "MarkdownKit",
+        "version": "1.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Native",
+        "version": null,
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "SwiftyGif",
+        "version": "1.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "WebRTC",
+        "version": "1.0",
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "React Navigation",
+        "version": null,
+        "category": "architecture",
+        "confidence": "inferred"
+      },
+      {
+        "name": "AhoCorasick",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppHarbrSDK",
+        "version": "1.24.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DebugSettings",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      },
+      {
+        "name": "Mantle",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PayneticsCard",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Rswift",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SCSDKCameraKit",
+        "version": "1.29.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VLN",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.2",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.3",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 33
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Audio",
+      "Background Processing",
+      "Background Push",
+      "CarPlay",
+      "CloudKit",
+      "Communication Notifications",
+      "iCloud",
+      "iCloud Key-Value Storage",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "SiriKit",
+      "Time-Sensitive Notifications",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "BrowsingHistory",
+        "CoarseLocation",
+        "Contacts",
+        "CrashData",
+        "CustomerSupport",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "OtherUserContent",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "PurchaseHistory",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "ActiveKeyboards",
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": [
+    {
+      "kind": "analysis",
+      "method": "model_written_summary_of_detected_signals",
+      "note": "Written by a language model from the analysis; treat as unverified.",
+      "generated_at": "2026-06-10T17:16:10Z",
+      "headline": "Hybrid Swift/React Native iOS messenger with CallKit VoIP, 6 app extensions for widgets/Siri/caller ID, 17 Metal shaders, App Attest, and Viber/Firebase backends",
+      "insights": [
+        {
+          "theme": "architecture",
+          "title": "Hybrid Swift and React Native core",
+          "detail": "Bundles React Native alongside Swift, Objective-C, and C/C++ with first-party modules like ReactNative and ViberCore, indicating layered cross-platform messaging logic on native iOS foundations."
+        },
+        {
+          "theme": "notable",
+          "title": "Six iOS system extensions",
+          "detail": "Ships app-share-extension, callDirectory, Widget, SiriExtension, NotificationServiceExtension, and livecallerid extensions, enabling widgets, Siri commands, custom caller ID, and rich notifications."
+        },
+        {
+          "theme": "platform",
+          "title": "Native VoIP calling stack",
+          "detail": "Declares CallKit, PushKit, AVFoundation, and VoIP capabilities while bundling WebRTC, supporting background audio, push-based calls, and telephony integration."
+        },
+        {
+          "theme": "analytics",
+          "title": "Multiple analytics and ad SDKs",
+          "detail": "Integrates BrazeKit, Mixpanel, Adjust, Google Mobile Ads, and SCSDKCoreKit, aligned with declared collection of advertising data, device ID, and usage metrics."
+        },
+        {
+          "theme": "ui",
+          "title": "Custom Metal rendering and AR",
+          "detail": "Includes 17 Metal shader functions with MetalKit and ARKit, plus Vision framework, for on-device graphics effects and AR experiences noted in camera permissions."
+        }
+      ]
+    }
+  ]
+}

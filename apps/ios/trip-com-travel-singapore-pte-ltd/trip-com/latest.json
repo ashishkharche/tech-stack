@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Trip.com: Book Flights, Hotels",
+    "slug": "trip-com",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "681752345",
+    "bundle_id": "com.ctrip.EBooking",
+    "active": true,
+    "company": {
+      "name": "Trip.com Travel Singapore Pte. Ltd.",
+      "slug": "trip-com-travel-singapore-pte-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "8.59.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T20:36:05Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-23T01:50:26Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 71,
+    "languages": [
+      "C/C++",
+      "Flutter / Dart",
+      "Metal (shaders)",
+      "Objective-C",
+      "React Native / JavaScript",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Intents",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core ML",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "EventKit (Calendar / Reminders)",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Natural Language",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "Watch Connectivity",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Adjust",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AdjustSdk",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook SDK",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAEMKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKCoreKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": "1.7.6",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Facebook Login",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKLoginKit",
+        "version": "1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleSignIn",
+        "version": "8.0.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMAppAuth",
+        "version": "4.1.1",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": "3.5.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBULoginService",
+        "version": "0.1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "NaverThirdPartyLogin",
+        "version": "4.2.3",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "NvStreamingSdkCore",
+        "version": "1.0",
+        "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "11.14.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "AntMarkdown",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "hermes",
+        "version": "0.12.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Highlight.js",
+        "version": "11.10.0",
+        "category": "rendering",
+        "confidence": "inferred"
+      },
+      {
+        "name": "FBSDKShareKit",
+        "version": "1.0",
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "CTNewCaptcha",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "Forter",
+        "version": "3.0.2",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "AlipaySDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DYFHostBridgeFW",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Flutter",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FlutterCommunication",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FTRAuth",
+        "version": "1.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "FTRCommon",
+        "version": "1.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "highlightjs",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUAccount",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUAccountLib",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUBusiness",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUCargoSDK",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUCTPay",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUEAAKit",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUEvaluation",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUFinance",
+        "version": "8.40.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUFlight",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUFlightHome",
+        "version": "8.40.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUFoundation",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUHome",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUHotel",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUHotelChat",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUKaKaoSDK2",
+        "version": "8.40.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUMarket",
+        "version": "15.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUMarketKit",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUMidas",
+        "version": "8.40.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUNativeDynamic",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUSchedule",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUSDUI",
+        "version": "8.40.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUSharkSDK",
+        "version": "5.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUTDComponent",
+        "version": "8.40.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUTour",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUTrain",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUTravelGuide",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUTripComponentKit",
+        "version": "8.40.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUTripGenie",
+        "version": "8.40.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUTripKit",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUTripKitPlugin",
+        "version": "8.40.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUTripLink",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUTripSearch",
+        "version": "0.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IBUUICommonKit",
+        "version": "8.40.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MJRefresh",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MWPhotoBrowser",
+        "version": "2.1.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PayPalMessages",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Razorpay",
+        "version": "1.4.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ServiceContract",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.2",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 51
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background Audio",
+      "Background Push",
+      "Keychain Sharing",
+      "Multipath networking",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "SiriKit",
+      "Time-Sensitive Notifications",
+      "VoIP",
+      "Wallet passes"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 9,
+      "collected_data_types": [
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "Email address",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData",
+        "PaymentInfo",
+        "PhoneNumber",
+        "PhysicalAddress",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

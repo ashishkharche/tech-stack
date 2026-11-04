@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tech Stack index</title>
+<style>
+  /* Site palette and type: monochrome, Geist for text, Geist Serif for the heading. */
+  :root { color-scheme: light dark; --bg: #faf8f3; --text: #090a0b; --muted: #4d5755; --line: #d9e1dd; --soft: #eef2f0; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #0c0d0e; --text: #f1f6f3; --muted: #a9b2bc; --line: #262a2d; --soft: #16191b; } }
+  body { font: 14px/1.5 Geist, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 24px; color: var(--text); background: var(--bg); }
+  h1 { font: 400 32px/1.2 "Geist Serif", Georgia, serif; margin: 0 0 16px; }
+  header { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 16px; }
+  input, select { font: inherit; padding: 4px 8px; color: inherit; background: var(--bg); border: 1px solid var(--line); border-radius: 6px; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { border-bottom: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
+  th { position: sticky; top: 0; background: var(--soft); font-weight: 500; cursor: pointer; user-select: none; }
+  tr.inactive td { color: var(--muted); }
+  #status { color: var(--muted); }
+  .tag { font-size: 11px; padding: 0 6px; border-radius: 6px; background: var(--soft); border: 1px solid var(--line); }
+</style>
+</head>
+<body>
+<h1>Tech Stack index</h1>
+<header>
+  <input id="q" placeholder="Search app, company, store id" size="32">
+  <select id="platform"><option value="">All platforms</option><option>ios</option><option>android</option></select>
+  <select id="active"><option value="">Active and inactive</option><option value="true">Active only</option><option value="false">Inactive only</option></select>
+  <label><input type="checkbox" id="latest" checked> Latest version only</label>
+  <label>Load index.csv <input type="file" id="file" accept=".csv"></label>
+  <span id="status">Loading ../index.csv ...</span>
+</header>
+<table>
+  <thead><tr id="head"></tr></thead>
+  <tbody id="rows"></tbody>
+</table>
+<script>
+const COLS = ["platform", "company", "app", "store_id", "version", "captured_at", "sdk_count", "active", "sdk_list_is_floor", "binary_encrypted", "path"];
+let data = [], sortKey = "captured_at", sortDir = -1;
+
+function parseCSV(text) {
+  const rows = []; let row = [], cell = "", q = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (q) {
+      if (c === '"' && text[i + 1] === '"') { cell += '"'; i++; }
+      else if (c === '"') q = false;
+      else cell += c;
+    } else if (c === '"') q = true;
+    else if (c === ",") { row.push(cell); cell = ""; }
+    else if (c === "\n") { row.push(cell); rows.push(row); row = []; cell = ""; }
+    else if (c !== "\r") cell += c;
+  }
+  if (cell || row.length) { row.push(cell); rows.push(row); }
+  const head = rows.shift() || [];
+  return rows.filter(r => r.length === head.length).map(r => Object.fromEntries(head.map((h, i) => [h, r[i]])));
+}
+
+function render() {
+  const q = document.getElementById("q").value.toLowerCase();
+  const plat = document.getElementById("platform").value;
+  const act = document.getElementById("active").value;
+  const latest = document.getElementById("latest").checked;
+  let rows = data.filter(r =>
+    (!plat || r.platform === plat) && (!act || r.active === act) && (!latest || r.is_latest === "true") &&
+    (!q || [r["app"], r["company"], r["company_slug"], r["store_id"], r["bundle_id"]].join(" ").toLowerCase().includes(q)));
+  const num = k => k === "sdk_count";
+  rows.sort((a, b) => {
+    const x = a[sortKey], y = b[sortKey];
+    return (num(sortKey) ? (Number(x) - Number(y)) : String(x).localeCompare(String(y))) * sortDir;
+  });
+  const body = document.getElementById("rows");
+  body.textContent = "";
+  for (const r of rows.slice(0, 2000)) {
+    const tr = document.createElement("tr");
+    if (r.active !== "true") tr.className = "inactive";
+    for (const k of COLS) {
+      const td = document.createElement("td");
+      if (k === "path") {
+        const a = document.createElement("a"); a.href = "../" + r.path; a.textContent = "json"; td.appendChild(a);
+      } else if (k === "company") {
+        td.textContent = r.company || "";
+      } else td.textContent = r[k];
+      tr.appendChild(td);
+    }
+    body.appendChild(tr);
+  }
+  document.getElementById("status").textContent = `${rows.length} of ${data.length} rows`;
+}
+
+function load(text) { data = parseCSV(text); render(); }
+
+const head = document.getElementById("head");
+for (const k of COLS) {
+  const th = document.createElement("th"); th.textContent = k;
+  th.onclick = () => { sortDir = sortKey === k ? -sortDir : 1; sortKey = k; render(); };
+  head.appendChild(th);
+}
+for (const id of ["q", "platform", "active", "latest"]) document.getElementById(id).addEventListener("input", render);
+document.getElementById("file").addEventListener("change", e => {
+  const f = e.target.files[0]; if (f) f.text().then(load);
+});
+fetch("../index.csv").then(r => { if (!r.ok) throw new Error(r.status); return r.text(); }).then(load)
+  .catch(() => { document.getElementById("status").textContent = "Could not read ../index.csv from disk. Serve the repo (python3 -m http.server) or pick index.csv above."; });
+</script>
+</body>
+</html>

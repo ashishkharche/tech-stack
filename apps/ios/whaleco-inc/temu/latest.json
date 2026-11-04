@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Temu: Shop Like a Billionaire",
+    "slug": "temu",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1641486558",
+    "bundle_id": "com.einnovation.temu",
+    "active": true,
+    "company": {
+      "name": "Whaleco Inc.",
+      "slug": "whaleco-inc",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "4.92.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-10-24T19:22:13Z",
+    "store_first_seen_at": "2026-10-25T00:39:31Z",
+    "store_updated_at": "2026-10-22T22:03:08Z",
+    "exported_at": "2026-11-01T19:16:22Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 30,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "App Intents",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "CallKit (VoIP)",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "MetalKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "Braintree",
+        "version": "5.26.0",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGLogin",
+        "version": "4.92.7",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Forter",
+        "version": "2.3.1",
+        "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGAddressScene",
+        "version": "4.91.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGBizUIKit",
+        "version": "4.92.10",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGCategoryScene",
+        "version": "4.91.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGGoodsDetailScene",
+        "version": "4.92.14",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGGoodsSku",
+        "version": "4.92.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGHomeScene",
+        "version": "4.92.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGMediaDisplay",
+        "version": "4.92.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGOrderConfirmScene",
+        "version": "4.92.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGOrderService",
+        "version": "4.92.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGPay",
+        "version": "4.92.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGPayScene",
+        "version": "4.91.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGPersonalScene",
+        "version": "4.92.4",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGPlayEngine",
+        "version": "4.92.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGRecommendServiceKit",
+        "version": "4.92.12",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGRegionService",
+        "version": "4.92.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGSearch",
+        "version": "4.91.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGShare",
+        "version": "1.0.144",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGShopScene",
+        "version": "4.91.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BGTransactionLink",
+        "version": "4.92.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MEXPlayerMetal",
+        "version": "4.91.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MEXVideoUIKit",
+        "version": "4.90.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PayPalDataCollector",
+        "version": "5.26.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TMExtensionCommon",
+        "version": "0.1.66",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TMMessages",
+        "version": "4.92.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TMNavigation",
+        "version": "0.0.174",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TMWebContainer",
+        "version": "0.0.753",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "WHWebFoundation",
+        "version": "0.0.151",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos27.1",
+      "xcode": "27.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 52
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background Push",
+      "Keychain Sharing",
+      "Push Notifications (APNs)",
+      "Sign in with Apple",
+      "Time-Sensitive Notifications"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "DeviceID",
+        "Name",
+        "PaymentInfo",
+        "PhysicalAddress"
+      ],
+      "required_reason_apis": [
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}
