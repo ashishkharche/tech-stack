@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">317 apps · 381 versions · 197 companies · 4,223 SDKs</p>
+<p align="center">296 apps · 360 versions · 182 companies · 3,823 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="#about-the-data">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in all 142 iOS apps, and Jetpack Compose is in 140 of 175 Android apps. 82 apps also use a cross-platform runtime.
+SwiftUI is in all 138 iOS apps, and Jetpack Compose is in 127 of 158 Android apps. 76 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in all 142 iOS apps, and Jetpack Compose is in 140 of 175 Android app
 
 ## What most apps ship
 
-Firebase is in 209 of 317 apps. 78% of apps ship at least one analytics SDK.
+Firebase is in 191 of 296 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -43,7 +43,7 @@ Firebase is in 209 of 317 apps. 78% of apps ship at least one analytics SDK.
 
 ## How big an SDK list gets
 
-The median app ships 37 SDKs on iOS and 29 on Android. Alipay (iOS) has the most, at 381.
+The median app ships 35.5 SDKs on iOS and 29.5 on Android. Depop (iOS) has the most, at 344.
 
 **Apps by number of SDKs**
 
@@ -51,15 +51,15 @@ The median app ships 37 SDKs on iOS and 29 on Android. Alipay (iOS) has the most
 
 <br>
 
-**The same app on both stores (16 largest of 67)**
+**The same app on both stores (16 largest of 64)**
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/both-platforms-dark.svg"><img alt="The same app on both stores (16 largest of 67)" src="assets/charts/both-platforms-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/both-platforms-dark.svg"><img alt="The same app on both stores (16 largest of 64)" src="assets/charts/both-platforms-light.svg"></picture>
 
 <br>
 
 ## Privacy and permissions
 
-50% of iOS apps declare tracking. The median Android app asks for 31 permissions.
+49% of iOS apps declare tracking. The median Android app asks for 31.5 permissions.
 
 **Most declared iOS collected data types**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google has the most apps, with 32. 147 of 197 companies have one app each.
+Google has the most apps, with 32. 138 of 182 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -122,8 +122,8 @@ Google has the most apps, with 32. 147 of 197 companies have one app each.
 ### Largest SDK lists
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/alipay-hangzhou-technology-co-ltd/alipay/README.md"><img src="assets/icons/ios/333206289.png" width="56" height="56" alt="Alipay icon"></a><br><a href="apps/ios/alipay-hangzhou-technology-co-ltd/alipay/README.md"><sub><b>Alipay</b></sub></a><br><sub>iOS · 381 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/depop-ltd/depop/README.md"><img src="assets/icons/ios/518684914.png" width="56" height="56" alt="Depop icon"></a><br><a href="apps/ios/depop-ltd/depop/README.md"><sub><b>Depop</b></sub></a><br><sub>iOS · 344 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/whatnot-inc/whatnot/README.md"><img src="assets/icons/ios/1488269261.png" width="56" height="56" alt="Whatnot icon"></a><br><a href="apps/ios/whatnot-inc/whatnot/README.md"><sub><b>Whatnot</b></sub></a><br><sub>iOS · 340 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/beijing-zhizhetianxia-technology-co-ltd/zhihu/README.md"><img src="assets/icons/ios/432274380.png" width="56" height="56" alt="知乎 icon"></a><br><a href="apps/ios/beijing-zhizhetianxia-technology-co-ltd/zhihu/README.md"><sub><b>知乎</b></sub></a><br><sub>iOS · 214 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/beijing-baidu-netcom-science-technology-co-ltd/baidu/README.md"><img src="assets/icons/ios/382201985.png" width="56" height="56" alt="百度-AI智能搜索 icon"></a><br><a href="apps/ios/beijing-baidu-netcom-science-technology-co-ltd/baidu/README.md"><sub><b>百度-AI智能搜索</b></sub></a><br><sub>iOS · 188 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/bytedance-pte-ltd/capcut/README.md"><img src="assets/icons/ios/1500855883.png" width="56" height="56" alt="CapCut icon"></a><br><a href="apps/ios/bytedance-pte-ltd/capcut/README.md"><sub><b>CapCut</b></sub></a><br><sub>iOS · 163 SDKs</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/xingin-information-technology-shanghai-co-ltd/rednote/README.md"><img src="assets/icons/ios/741292507.png" width="56" height="56" alt="rednote icon"></a><br><a href="apps/ios/xingin-information-technology-shanghai-co-ltd/rednote/README.md"><sub><b>rednote</b></sub></a><br><sub>iOS · 139 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/tiktok-ltd/tiktok/README.md"><img src="assets/icons/ios/835599320.png" width="56" height="56" alt="TikTok icon"></a><br><a href="apps/ios/tiktok-ltd/tiktok/README.md"><sub><b>TikTok</b></sub></a><br><sub>iOS · 139 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/life360/life360/README.md"><img src="assets/icons/ios/384830320.png" width="56" height="56" alt="Life360 icon"></a><br><a href="apps/ios/life360/life360/README.md"><sub><b>Life360</b></sub></a><br><sub>iOS · 137 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/bereal/bereal/README.md"><img src="assets/icons/ios/1459645446.png" width="56" height="56" alt="BeReal icon"></a><br><a href="apps/ios/bereal/bereal/README.md"><sub><b>BeReal</b></sub></a><br><sub>iOS · 124 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-bing-search/README.md"><img src="assets/icons/ios/345323231.png" width="56" height="56" alt="Microsoft Bing Search icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-bing-search/README.md"><sub><b>Microsoft Bing Search</b></sub></a><br><sub>iOS · 117 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/warnermedia-global-digital-services-llc/hbo-max/README.md"><img src="assets/icons/ios/1666653815.png" width="56" height="56" alt="HBO Max icon"></a><br><a href="apps/ios/warnermedia-global-digital-services-llc/hbo-max/README.md"><sub><b>HBO Max</b></sub></a><br><sub>iOS · 107 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/ios/depop-ltd/depop/README.md"><img src="assets/icons/ios/518684914.png" width="56" height="56" alt="Depop icon"></a><br><a href="apps/ios/depop-ltd/depop/README.md"><sub><b>Depop</b></sub></a><br><sub>iOS · 344 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/whatnot-inc/whatnot/README.md"><img src="assets/icons/ios/1488269261.png" width="56" height="56" alt="Whatnot icon"></a><br><a href="apps/ios/whatnot-inc/whatnot/README.md"><sub><b>Whatnot</b></sub></a><br><sub>iOS · 340 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/beijing-zhizhetianxia-technology-co-ltd/zhihu/README.md"><img src="assets/icons/ios/432274380.png" width="56" height="56" alt="知乎 icon"></a><br><a href="apps/ios/beijing-zhizhetianxia-technology-co-ltd/zhihu/README.md"><sub><b>知乎</b></sub></a><br><sub>iOS · 214 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/beijing-baidu-netcom-science-technology-co-ltd/baidu/README.md"><img src="assets/icons/ios/382201985.png" width="56" height="56" alt="百度-AI智能搜索 icon"></a><br><a href="apps/ios/beijing-baidu-netcom-science-technology-co-ltd/baidu/README.md"><sub><b>百度-AI智能搜索</b></sub></a><br><sub>iOS · 188 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/bytedance-pte-ltd/capcut/README.md"><img src="assets/icons/ios/1500855883.png" width="56" height="56" alt="CapCut icon"></a><br><a href="apps/ios/bytedance-pte-ltd/capcut/README.md"><sub><b>CapCut</b></sub></a><br><sub>iOS · 163 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/xingin-information-technology-shanghai-co-ltd/rednote/README.md"><img src="assets/icons/ios/741292507.png" width="56" height="56" alt="rednote icon"></a><br><a href="apps/ios/xingin-information-technology-shanghai-co-ltd/rednote/README.md"><sub><b>rednote</b></sub></a><br><sub>iOS · 139 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/ios/tiktok-ltd/tiktok/README.md"><img src="assets/icons/ios/835599320.png" width="56" height="56" alt="TikTok icon"></a><br><a href="apps/ios/tiktok-ltd/tiktok/README.md"><sub><b>TikTok</b></sub></a><br><sub>iOS · 139 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/life360/life360/README.md"><img src="assets/icons/ios/384830320.png" width="56" height="56" alt="Life360 icon"></a><br><a href="apps/ios/life360/life360/README.md"><sub><b>Life360</b></sub></a><br><sub>iOS · 137 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/bereal/bereal/README.md"><img src="assets/icons/ios/1459645446.png" width="56" height="56" alt="BeReal icon"></a><br><a href="apps/ios/bereal/bereal/README.md"><sub><b>BeReal</b></sub></a><br><sub>iOS · 124 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-bing-search/README.md"><img src="assets/icons/ios/345323231.png" width="56" height="56" alt="Microsoft Bing Search icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-bing-search/README.md"><sub><b>Microsoft Bing Search</b></sub></a><br><sub>iOS · 117 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/warnermedia-global-digital-services-llc/hbo-max/README.md"><img src="assets/icons/ios/1666653815.png" width="56" height="56" alt="HBO Max icon"></a><br><a href="apps/ios/warnermedia-global-digital-services-llc/hbo-max/README.md"><sub><b>HBO Max</b></sub></a><br><sub>iOS · 107 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/speechify-inc/speechify/README.md"><img src="assets/icons/ios/1209815023.png" width="56" height="56" alt="Speechify icon"></a><br><a href="apps/ios/speechify-inc/speechify/README.md"><sub><b>Speechify</b></sub></a><br><sub>iOS · 103 SDKs</sub></td></tr>
 </table>
 
 ### Recently analysed
@@ -136,13 +136,12 @@ Google has the most apps, with 32. 147 of 197 companies have one app each.
 ### All apps
 
 <details>
-<summary>iOS (142 apps)</summary>
+<summary>iOS (138 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
 | <img src="assets/icons/ios/401626263.png" width="20" height="20" alt="Airbnb icon"> | [Airbnb](apps/ios/airbnb-inc/airbnb/README.md) | [Airbnb, Inc.](companies/airbnb-inc.md) | 26.43.1 | 23 |
 | <img src="assets/icons/ios/436672029.png" width="20" height="20" alt="AliExpress icon"> | [AliExpress - Shopping App](apps/ios/alibaba-com-singapore-e-commerce-private-limited/aliexpress/README.md) | [Alibaba.com Singapore E-Commerce Private Limited](companies/alibaba-com-singapore-e-commerce-private-limited.md) | 8.180.0 | 61 |
-| <img src="assets/icons/ios/333206289.png" width="20" height="20" alt="Alipay icon"> | [Alipay - Simplify Your Life](apps/ios/alipay-hangzhou-technology-co-ltd/alipay/README.md) | [Alipay (Hangzhou) Technology Co., Ltd.](companies/alipay-hangzhou-technology-co-ltd.md) | 12.12.38 | 381 |
 | <img src="assets/icons/ios/510855668.png" width="20" height="20" alt="Amazon Music icon"> | [Amazon Music: Songs & Podcasts](apps/ios/amzn-mobile-llc/amazon-music/README.md) | [AMZN Mobile LLC](companies/amzn-mobile-llc.md) | 26.17.0 | 72 |
 | <img src="assets/icons/ios/545519333.png" width="20" height="20" alt="Amazon Prime Video icon"> | [Amazon Prime Video](apps/ios/amzn-mobile-llc/amazon-prime-video/README.md) | [AMZN Mobile LLC](companies/amzn-mobile-llc.md) | 10.134 | 48 |
 | <img src="assets/icons/ios/379693831.png" width="20" height="20" alt="Audible icon"> | [Audible: Audiobooks & Podcasts](apps/ios/audible-inc/audible/README.md) | [Audible, Inc.](companies/audible-inc.md) | 4.71.1 | 29 |
@@ -228,11 +227,9 @@ Google has the most apps, with 32. 147 of 197 companies have one app each.
 | <img src="assets/icons/ios/284035177.png" width="20" height="20" alt="Pandora icon"> | [Pandora: Music & Podcasts](apps/ios/pandora-media-llc/pandora/README.md) | [Pandora Media, LLC](companies/pandora-media-llc.md) | 2606.1 | 41 |
 | <img src="assets/icons/ios/530168168.png" width="20" height="20" alt="Paramount+ icon"> | [Paramount+](apps/ios/cbs-interactive/paramount/README.md) | [CBS Interactive](companies/cbs-interactive.md) | 15.18.2 | 30 |
 | <img src="assets/icons/ios/1662982304.png" width="20" height="20" alt="Partiful icon"> | [Partiful: Party Invite Maker](apps/ios/partiful/partiful/README.md) | [Partiful](companies/partiful.md) | 3.10.23 | 23 |
-| <img src="assets/icons/ios/283646709.png" width="20" height="20" alt="PayPal icon"> | [PayPal - Pay, Send, Save](apps/ios/paypal-inc/paypal/README.md) | [PayPal, Inc.](companies/paypal-inc.md) | 10.8.1 | 72 |
 | <img src="assets/icons/ios/1508186374.png" width="20" height="20" alt="Peacock TV icon"> | [Peacock TV: Stream TV & Movies](apps/ios/peacock-tv-llc/peacock-tv/README.md) | [Peacock TV LLC](companies/peacock-tv-llc.md) | 7.5.21 | 40 |
 | <img src="assets/icons/ios/1668000334.png" width="20" height="20" alt="Perplexity icon"> | [Perplexity - AI Search & Chat](apps/ios/perplexity-ai-inc/perplexity/README.md) | [Perplexity AI, Inc.](companies/perplexity-ai-inc.md) | 26.42.0 | 26 |
 | <img src="assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom: AI Photo Editor](apps/ios/photoroom/photoroom/README.md) | [Photoroom](companies/photoroom.md) | 2026.43.01 | 92 |
-| <img src="assets/icons/ios/6445815935.png" width="20" height="20" alt="Pi, your personal AI icon"> | [Pi, your personal AI](apps/ios/inflection-ai-inc/pi-your-personal-ai/README.md) | [Inflection AI, Inc.](companies/inflection-ai-inc.md) | 26.1019.1 | 41 |
 | <img src="assets/icons/ios/587366035.png" width="20" height="20" alt="Picsart AI Photo Editor, Video icon"> | [Picsart AI Photo Editor, Video](apps/ios/picsart-inc/picsart-ai-photo-editor-video/README.md) | [PicsArt, Inc.](companies/picsart-inc.md) | 30.9.2 | 47 |
 | <img src="assets/icons/ios/1044283059.png" width="20" height="20" alt="Pinduoduo icon"> | [Pinduoduo](apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo/README.md) | [Shanghai Xunmeng Information Technology Co., Ltd.](companies/shanghai-xunmeng-information-technology-co-ltd.md) | 8.29.0 | 71 |
 | <img src="assets/icons/ios/429047995.png" width="20" height="20" alt="Pinterest icon"> | [Pinterest](apps/ios/pinterest-inc/pinterest/README.md) | [Pinterest, Inc.](companies/pinterest-inc.md) | 14.21 | 28 |
@@ -248,7 +245,6 @@ Google has the most apps, with 32. 147 of 197 companies have one app each.
 | <img src="assets/icons/ios/1636235979.png" width="20" height="20" alt="ReelShort icon"> | [ReelShort - Stream Drama & TV](apps/ios/new-leaf-publishing-inc/reelshort/README.md) | [New Leaf Publishing, Inc.](companies/new-leaf-publishing-inc.md) | 4.2.00 | 84 |
 | <img src="assets/icons/ios/1470373330.png" width="20" height="20" alt="Remini icon"> | [Remini - AI Photo Enhancer](apps/ios/bending-spoons-apps-aps/remini/README.md) | [Bending Spoons Apps ApS](companies/bending-spoons-apps-aps.md) | 2.10.221 | 87 |
 | <img src="assets/icons/ios/1158555867.png" width="20" height="20" alt="Replika icon"> | [Replika - AI Companion Chat](apps/ios/luka-inc/replika/README.md) | [Luka, Inc.](companies/luka-inc.md) | 12.5.0 | 80 |
-| <img src="assets/icons/ios/932493382.png" width="20" height="20" alt="Revolut icon"> | [Revolut: send, spend, and save](apps/ios/revolut-ltd/revolut/README.md) | [Revolut Ltd](companies/revolut-ltd.md) | 10.153 | 36 |
 | <img src="assets/icons/ios/482066631.png" width="20" height="20" alt="Roku Remote (Official) icon"> | [Roku Remote (Official)](apps/ios/roku-inc/roku-remote-official/README.md) | [ROKU INC](companies/roku-inc.md) | 14.1.2 | 39 |
 | <img src="assets/icons/ios/284993459.png" width="20" height="20" alt="Shazam icon"> | [Shazam: Find Music & Concerts](apps/ios/apple/shazam/README.md) | [Apple](companies/apple.md) | 26.11.0 | 1 |
 | <img src="assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> | [SHEIN - Shopping Online](apps/ios/roadget-business-pte-ltd/shein/README.md) | [ROADGET BUSINESS PTE. LTD.](companies/roadget-business-pte-ltd.md) | 15.5.6 | 41 |
@@ -286,38 +282,27 @@ Google has the most apps, with 32. 147 of 197 companies have one app each.
 </details>
 
 <details>
-<summary>Android (175 apps)</summary>
+<summary>Android (158 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
 | <img src="assets/icons/android/io.affirmquest.app.png" width="20" height="20" alt="Affirm Quest icon"> | [Affirm Quest](apps/android/affirm-quest/affirm-quest/README.md) | [Affirm Quest](companies/affirm-quest.md) | 1.2.7 | 13 |
-| <img src="assets/icons/android/com.affirm.central.png" width="20" height="20" alt="Affirm icon"> | [Affirm: Buy now, pay over time](apps/android/affirm-inc/affirm/README.md) | [Affirm, Inc](companies/affirm-inc.md) | 4.70.2 | 29 |
 | <img src="assets/icons/android/com.alibaba.intl.android.apps.poseidon.png" width="20" height="20" alt="Alibaba.com icon"> | [Alibaba.com - B2B marketplace](apps/android/alibaba-mobile/alibaba-com/README.md) | [Alibaba Mobile](companies/alibaba-mobile.md) | 26.19.0 | 29 |
 | <img src="assets/icons/android/com.alibaba.aliexpresshd.png" width="20" height="20" alt="AliExpress icon"> | [AliExpress - Shopping App](apps/android/alibaba-mobile/aliexpress/README.md) | [Alibaba Mobile](companies/alibaba-mobile.md) | 8.180.1 | 24 |
-| <img src="assets/icons/android/com.eg.android.AlipayGphone.png" width="20" height="20" alt="Alipay icon"> | [Alipay](apps/android/alipay-hangzhou-technology-co-ltd/alipay/README.md) | [Alipay (Hangzhou) Technology Co. Ltd](companies/alipay-hangzhou-technology-co-ltd.md) | 12.12.16.7200 | 8 |
 | <img src="assets/icons/android/com.amazon.mShop.android.shopping.png" width="20" height="20" alt="Amazon Shopping icon"> | [Amazon Shopping](apps/android/amazon-mobile-llc/amazon-shopping/README.md) | [Amazon Mobile LLC](companies/amazon-mobile-llc.md) | 32.11.0.100 | 39 |
 | <img src="assets/icons/android/com.aa.android.png" width="20" height="20" alt="American Airlines icon"> | [American Airlines](apps/android/american-airlines-inc/american-airlines/README.md) | [American Airlines, Inc.](companies/american-airlines-inc.md) | 2026.18 | 32 |
 | <img src="assets/icons/android/com.audible.application.png" width="20" height="20" alt="Audible icon"> | [Audible: Audiobooks & Podcasts](apps/android/audible-inc/audible/README.md) | [Audible, Inc.](companies/audible-inc.md) | 26.23.01 | 41 |
 | <img src="assets/icons/android/com.audiomack.png" width="20" height="20" alt="Audiomack icon"> | [Audiomack: Music Downloader](apps/android/audiomack-music-apps/audiomack/README.md) | [Audiomack Music Apps](companies/audiomack-music-apps.md) | 8.4.0 | 51 |
-| <img src="assets/icons/android/com.infonow.bofa.png" width="20" height="20" alt="Bank of America Mobile Banking icon"> | [Bank of America Mobile Banking](apps/android/bank-of-america/bank-of-america-mobile-banking/README.md) | [Bank of America](companies/bank-of-america.md) | 25.10.04 | 26 |
-| <img src="assets/icons/android/com.ustrust.mobileapps.accountaccessandroid.png" width="20" height="20" alt="Bank of America Private Bank icon"> | [Bank of America Private Bank](apps/android/bank-of-america/bank-of-america-private-bank/README.md) | [Bank of America](companies/bank-of-america.md) | 25.10.02 | 26 |
-| <img src="assets/icons/android/org.toshi.png" width="20" height="20" alt="Base icon"> | [Base: Built to Trade & Earn](apps/android/coinbase-wallet/base/README.md) | [Coinbase Wallet](companies/coinbase-wallet.md) | 29.97.0 | 42 |
 | <img src="assets/icons/android/xyz.blueskyweb.app.png" width="20" height="20" alt="Bluesky icon"> | [Bluesky](apps/android/bluesky-pbllc/bluesky/README.md) | [Bluesky PBLLC](companies/bluesky-pbllc.md) | 1.136.0 | 24 |
 | <img src="assets/icons/android/com.jmireports.bluesky.png" width="20" height="20" alt="BlueSkyVUE icon"> | [BlueSkyVUE](apps/android/morelandconnect/blueskyvue/README.md) | [MorelandConnect](companies/morelandconnect.md) | 2.13.0 | 28 |
 | <img src="assets/icons/android/com.booking.png" width="20" height="20" alt="Booking.com icon"> | [Booking.com: Hotels & Travel](apps/android/booking-com-hotels-vacation-rentals/booking-com/README.md) | [Booking.com Hotels & Vacation Rentals](companies/booking-com-hotels-vacation-rentals.md) | 66.6 | 45 |
 | <img src="assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="20" height="20" alt="BURGER KING® App icon"> | [BURGER KING® App](apps/android/burger-king-inc/burger-king-app/README.md) | [Burger King, Inc.](companies/burger-king-inc.md) | 7.85.0 | 29 |
 | <img src="assets/icons/android/com.canva.editor.png" width="20" height="20" alt="Canva icon"> | [Canva: AI Photo & Video Editor](apps/android/canva/canva/README.md) | [Canva](companies/canva.md) | 2.383.0 | 39 |
 | <img src="assets/icons/android/com.lemon.lvoverseas.png" width="20" height="20" alt="CapCut icon"> | [CapCut - Video Editor](apps/android/bytedance-pte-ltd/capcut/README.md) | [Bytedance Pte. Ltd.](companies/bytedance-pte-ltd.md) | 19.8.0 | 37 |
-| <img src="assets/icons/android/com.capitalone.intellix.mobile.prod.png" width="20" height="20" alt="Capital One Intellix® Mobile icon"> | [Capital One Intellix® Mobile](apps/android/capital-one-services-llc/capital-one-intellix-mobile/README.md) | [Capital One Services, LLC](companies/capital-one-services-llc.md) | 1.22.8 | 17 |
-| <img src="assets/icons/android/com.konylabs.capitalone.png" width="20" height="20" alt="Capital One Mobile icon"> | [Capital One Mobile](apps/android/capital-one-services-llc/capital-one-mobile/README.md) | [Capital One Services, LLC](companies/capital-one-services-llc.md) | 6.31.10 | 26 |
-| <img src="assets/icons/android/com.squareup.cash.png" width="20" height="20" alt="Cash App icon"> | [Cash App](apps/android/block-inc/cash-app/README.md) | [Block, Inc.](companies/block-inc.md) | 5.53.0 | 41 |
 | <img src="assets/icons/android/com.handmark.sportcaster.png" width="20" height="20" alt="CBS Sports icon"> | [CBS Sports: Live Scores & News](apps/android/cbs-interactive-inc/cbs-sports/README.md) | [CBS Interactive, Inc.](companies/cbs-interactive-inc.md) | 10.72.1 | 50 |
-| <img src="assets/icons/android/com.chase.sig.android.png" width="20" height="20" alt="Chase Mobile icon"> | [Chase Mobile](apps/android/jpmorgan-chase/chase-mobile/README.md) | [JPMorgan Chase](companies/jpmorgan-chase.md) | 4.662 | 26 |
-| <img src="assets/icons/android/com.cp.mpos.png" width="20" height="20" alt="Chase Mobile Checkout icon"> | [Chase Mobile Checkout](apps/android/jpmorgan-chase/chase-mobile-checkout/README.md) | [JPMorgan Chase](companies/jpmorgan-chase.md) | 4.3.1 | 4 |
 | <img src="assets/icons/android/com.openai.chatgpt.png" width="20" height="20" alt="ChatGPT icon"> | [ChatGPT](apps/android/openai-opco-llc/chatgpt/README.md) | [OpenAI OpCo, LLC](companies/openai-opco-llc.md) | 1.2026.286 | 36 |
 | <img src="assets/icons/android/com.chickfila.cfaflagship.png" width="20" height="20" alt="Chick-fil-A® icon"> | [Chick-fil-A®](apps/android/chick-fil-a-inc/chick-fil-a/README.md) | [Chick-fil-A, Inc.](companies/chick-fil-a-inc.md) | 2026.11.1 | 30 |
 | <img src="assets/icons/android/com.advitaortho.chime.png" width="20" height="20" alt="Chime icon"> | [Chime](apps/android/advita-ortho-llc/chime/README.md) | [Advita Ortho, LLC](companies/advita-ortho-llc.md) | 1.0.810 | 24 |
-| <img src="assets/icons/android/com.onedebit.chime.png" width="20" height="20" alt="Chime® icon"> | [Chime® – Fee-Free Banking](apps/android/chime/chime/README.md) | [Chime](companies/chime.md) | 5.329.0 | 55 |
 | <img src="assets/icons/android/com.classdojo.android.png" width="20" height="20" alt="ClassDojo icon"> | [ClassDojo](apps/android/classdojo/classdojo/README.md) | [ClassDojo](companies/classdojo.md) | 8.59.0 | 47 |
 | <img src="assets/icons/android/com.clubhouse.app.png" width="20" height="20" alt="Clubhouse icon"> | [Clubhouse](apps/android/alpha-exploration-co/clubhouse/README.md) | [Alpha Exploration Co.](companies/alpha-exploration-co.md) | 26.06.04 | 35 |
 | <img src="assets/icons/android/com.crunchyroll.manga.png" width="20" height="20" alt="Crunchyroll Manga icon"> | [Crunchyroll Manga](apps/android/crunchyroll-llc/crunchyroll-manga/README.md) | [Crunchyroll, LLC](companies/crunchyroll-llc.md) | 1.1.3 | 26 |
@@ -375,7 +360,6 @@ Google has the most apps, with 32. 147 of 197 companies have one app each.
 | <img src="assets/icons/android/com.moonshot.kimichat.png" width="20" height="20" alt="Kimi icon"> | [Kimi](apps/android/moonshot-ai/kimi/README.md) | [Moonshot AI](companies/moonshot-ai.md) | 3.1.5 | 26 |
 | <img src="assets/icons/android/com.usepepper.kohlwholesaleapp.png" width="20" height="20" alt="Kohl Wholesale icon"> | [Kohl Wholesale](apps/android/pomegranate-technologies/kohl-wholesale/README.md) | [Pomegranate Technologies](companies/pomegranate-technologies.md) | 1.21.33 | 40 |
 | <img src="assets/icons/android/com.kohls.mcommerce.opal.png" width="20" height="20" alt="Kohl's icon"> | [Kohl's - Shopping & More](apps/android/kohls/kohl-s/README.md) | [Kohls](companies/kohls.md) | 8.3.56 | 37 |
-| <img src="assets/icons/android/com.kraken.invest.app.png" width="20" height="20" alt="Kraken icon"> | [Kraken: Buy Crypto & Stocks](apps/android/payward-inc/kraken/README.md) | [Payward, Inc.](companies/payward-inc.md) | 3.67.7 | 56 |
 | <img src="assets/icons/android/ai.mistral.chat.png" width="20" height="20" alt="Le Chat by Mistral AI icon"> | [Le Chat by Mistral AI](apps/android/mistral-ai/le-chat/README.md) | [Mistral AI](companies/mistral-ai.md) | 2.16.0 | 34 |
 | <img src="assets/icons/android/com.lowes.android.png" width="20" height="20" alt="Lowe's icon"> | [Lowe's](apps/android/lowe-s-companies-inc/lowe-s/README.md) | [Lowe's Companies, Inc.](companies/lowe-s-companies-inc.md) | 25.4.4 | 38 |
 | <img src="assets/icons/android/com.lowes.serviceproviders.png" width="20" height="20" alt="Lowe's Provider icon"> | [Lowe's Provider](apps/android/lowe-s-companies-inc/lowe-s-provider/README.md) | [Lowe's Companies, Inc.](companies/lowe-s-companies-inc.md) | 1.41.3 | 15 |
@@ -406,7 +390,6 @@ Google has the most apps, with 32. 147 of 197 companies have one app each.
 | <img src="assets/icons/android/com.panera.bread.png" width="20" height="20" alt="Panera Bread icon"> | [Panera Bread](apps/android/panera-bread/panera-bread/README.md) | [Panera Bread](companies/panera-bread.md) | 6.6.1 | 33 |
 | <img src="assets/icons/android/com.cbs.app.png" width="20" height="20" alt="Paramount+ icon"> | [Paramount+](apps/android/cbs-interactive-inc/paramount/README.md) | [CBS Interactive, Inc.](companies/cbs-interactive-inc.md) | 16.13.0 | 25 |
 | <img src="assets/icons/android/com.cbs.ott.png" width="20" height="20" alt="Paramount+ icon"> | [Paramount+](apps/android/cbs-interactive-inc/paramount-com-cbs-ott/README.md) | [CBS Interactive, Inc.](companies/cbs-interactive-inc.md) | 16.12.0 | 24 |
-| <img src="assets/icons/android/com.paypal.android.p2pmobile.png" width="20" height="20" alt="PayPal icon"> | [PayPal - Pay, Send, Save](apps/android/paypal-mobile/paypal/README.md) | [PayPal Mobile](companies/paypal-mobile.md) | 9.1.0 | 41 |
 | <img src="assets/icons/android/ai.perplexity.app.android.png" width="20" height="20" alt="Perplexity icon"> | [Perplexity - AI Search & Chat](apps/android/perplexity-ai-inc/perplexity/README.md) | [Perplexity AI, Inc.](companies/perplexity-ai-inc.md) | 2.101.0 | 37 |
 | <img src="assets/icons/android/com.google.android.dialer.png" width="20" height="20" alt="Phone by Google icon"> | [Phone by Google](apps/android/google/phone-by-google/README.md) | [Google](companies/google.md) | 224.0.924927661-go | 15 |
 | <img src="assets/icons/android/com.photoroom.app.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom: AI Photo Editor](apps/android/photoroom-ai-photo-editor/photoroom/README.md) | [Photoroom AI Photo Editor](companies/photoroom-ai-photo-editor.md) | 2026.43.04 | 37 |
@@ -419,7 +402,6 @@ Google has the most apps, with 32. 147 of 197 companies have one app each.
 | <img src="assets/icons/android/com.rakuten.travel.consumer.png" width="20" height="20" alt="Rakuten Travel icon"> | [Rakuten Travel: Hotel Booking](apps/android/rakuten-group-inc/rakuten-travel/README.md) | [Rakuten Group, Inc.](companies/rakuten-group-inc.md) | 5.12.10 | 34 |
 | <img src="assets/icons/android/com.reddit.frontpage.png" width="20" height="20" alt="Reddit icon"> | [Reddit](apps/android/reddit-inc/reddit/README.md) | [reddit Inc.](companies/reddit-inc.md) | 2026.22.0 | 34 |
 | <img src="assets/icons/android/com.xingin.xhs.png" width="20" height="20" alt="rednote icon"> | [rednote](apps/android/xingin-information-technology-shanghai-co-ltd/rednote/README.md) | [行吟信息科技(上海)有限公司](companies/xingin-information-technology-shanghai-co-ltd.md) | 9.51.0 | 35 |
-| <img src="assets/icons/android/com.revolut.revolut.png" width="20" height="20" alt="Revolut icon"> | [Revolut: Spend, Save, Trade](apps/android/revolut-ltd/revolut/README.md) | [Revolut Ltd](companies/revolut-ltd.md) | 10.152 | 39 |
 | <img src="assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club: Shopping & Savings](apps/android/sam-s-club/sam-s-club/README.md) | [Sam's Club](companies/sam-s-club.md) | 26.6.20 | 37 |
 | <img src="assets/icons/android/com.eet.settings.launcher.png" width="20" height="20" alt="Settings Home icon"> | [Settings Home](apps/android/utility-apps-home/settings-home/README.md) | [Utility Apps Home](companies/utility-apps-home.md) | 1.6.4 | 43 |
 | <img src="assets/icons/android/com.zzkko.png" width="20" height="20" alt="SHEIN-Shopping Online icon"> | [SHEIN-Shopping Online](apps/android/roadget-business-pte-ltd/shein-shopping-online/README.md) | [Roadget Business PTE. LTD.](companies/roadget-business-pte-ltd.md) | 15.5.0 | 28 |
@@ -427,7 +409,6 @@ Google has the most apps, with 32. 147 of 197 companies have one app each.
 | <img src="assets/icons/android/net.skyscanner.android.main.png" width="20" height="20" alt="Skyscanner Flights Hotels Cars icon"> | [Skyscanner Flights Hotels Cars](apps/android/skyscanner-ltd/skyscanner-flights-hotels-cars/README.md) | [Skyscanner Ltd](companies/skyscanner-ltd.md) | 7.197 | 34 |
 | <img src="assets/icons/android/com.sling.airtvmini.png" width="20" height="20" alt="SLING icon"> | [SLING: Live TV, Shows & Movies](apps/android/sling-tv/sling/README.md) | [Sling TV](companies/sling-tv.md) | 9.4.29 | 27 |
 | <img src="assets/icons/android/com.snapchat.android.png" width="20" height="20" alt="Snapchat icon"> | [Snapchat](apps/android/snap-inc/snapchat/README.md) | [Snap Inc](companies/snap-inc.md) | 14.29.0.50 | 29 |
-| <img src="assets/icons/android/com.sofi.mobile.png" width="20" height="20" alt="SoFi icon"> | [SoFi: Bank, Investing & Crypto](apps/android/social-finance-llc/sofi/README.md) | [Social Finance, LLC](companies/social-finance-llc.md) | 3.99.0 | 36 |
 | <img src="assets/icons/android/com.soundcloud.android.png" width="20" height="20" alt="SoundCloud icon"> | [SoundCloud: The Music You Love](apps/android/soundcloud/soundcloud/README.md) | [SoundCloud](companies/soundcloud.md) | 2026.05.29-release | 43 |
 | <img src="assets/icons/android/com.southwestairlines.mobile.png" width="20" height="20" alt="Southwest Airlines icon"> | [Southwest Airlines: Travel App](apps/android/southwest-airlines/southwest-airlines/README.md) | [Southwest Airlines](companies/southwest-airlines.md) | 13.12.0 | 35 |
 | <img src="assets/icons/android/com.spotify.music.png" width="20" height="20" alt="Spotify icon"> | [Spotify: Music and Podcasts](apps/android/spotify/spotify/README.md) | [Spotify](companies/spotify.md) | 9.1.52.1394 | 35 |
@@ -456,8 +437,6 @@ Google has the most apps, with 32. 147 of 197 companies have one app each.
 | <img src="assets/icons/android/com.wayfair.wayfair.png" width="20" height="20" alt="Wayfair icon"> | [Wayfair - Shop All Things Home](apps/android/wayfair-llc/wayfair/README.md) | [Wayfair, LLC](companies/wayfair-llc.md) | 7.21.0 | 45 |
 | <img src="assets/icons/android/com.wayfair.wayhome.png" width="20" height="20" alt="Wayfair Service Pro icon"> | [Wayfair Service Pro](apps/android/wayfair-llc/wayfair-service-pro/README.md) | [Wayfair, LLC](companies/wayfair-llc.md) | 1.100.0 | 26 |
 | <img src="assets/icons/android/com.waze.png" width="20" height="20" alt="Waze Navigation &amp; Live Traffic icon"> | [Waze Navigation & Live Traffic](apps/android/waze/waze-navigation-live-traffic/README.md) | [waze](companies/waze.md) | 5.19.90.900 | 20 |
-| <img src="assets/icons/android/com.wf.wellsfargomobile.png" width="20" height="20" alt="Wells Fargo Mobile® icon"> | [Wells Fargo Mobile®](apps/android/wells-fargo-mobile/wells-fargo-mobile/README.md) | [Wells Fargo Mobile](companies/wells-fargo-mobile.md) | 26.04.02.13 | 30 |
-| <img src="assets/icons/android/com.wellsFargo.ceomobile.png" width="20" height="20" alt="Wells Fargo Vantage® icon"> | [Wells Fargo Vantage®](apps/android/wells-fargo-mobile/wells-fargo-vantage/README.md) | [Wells Fargo Mobile](companies/wells-fargo-mobile.md) | 26.4.2.7 | 16 |
 | <img src="assets/icons/android/com.wendys.nutritiontool.png" width="20" height="20" alt="Wendy’s icon"> | [Wendy’s](apps/android/wendy-s-int-l-llc/wendy-s/README.md) | [Wendy's Int'l., LLC](companies/wendy-s-int-l-llc.md) | 11.53.1 | 31 |
 | <img src="assets/icons/android/com.whatsapp.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Messenger](apps/android/whatsapp-llc/whatsapp-messenger/README.md) | [WhatsApp LLC](companies/whatsapp-llc.md) | 2.26.41.77 | 24 |
 | <img src="assets/icons/android/com.twitter.android.png" width="20" height="20" alt="X icon"> | [X](apps/android/x-corp/x/README.md) | [X Corp.](companies/x-corp.md) | 12.36.1-prod.01 | 50 |
@@ -472,7 +451,7 @@ Google has the most apps, with 32. 147 of 197 companies have one app each.
 ## About the data
 
 <!-- ts:begin data-facts -->
-The data covers analyses published between 2026-06-01 and 2026-11-02. 182 apps are no longer tracked and are kept for history. 235 versions carry model-written notes. Every company name is the developer name on the store listing, and every icon comes from the store listing.
+The data covers analyses published between 2026-06-01 and 2026-11-02. 165 apps are no longer tracked and are kept for history. 220 versions carry model-written notes. Every company name is the developer name on the store listing, and every icon comes from the store listing.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/captured-by-month-dark.svg"><img alt="Versions captured per month" src="assets/charts/captured-by-month-light.svg"></picture>
 <!-- ts:end data-facts -->

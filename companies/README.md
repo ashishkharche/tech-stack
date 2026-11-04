@@ -2,7 +2,7 @@
 
 # Companies
 
-197 companies. Each name is the developer name on the store listing.
+182 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -18,22 +18,18 @@
 | <img src="../assets/icons/android/com.netflix.mediaclient.png" width="20" height="20" alt="Netflix icon"> <img src="../assets/icons/ios/363590051.png" width="20" height="20" alt="Netflix icon"> <img src="../assets/icons/ios/6447582581.png" width="20" height="20" alt="Netflix Game Controller icon"> | [Netflix, Inc.](netflix-inc.md) | 3 | 2 | 1 | 3 | 126 |
 | <img src="../assets/icons/ios/1498607143.png" width="20" height="20" alt="Lemon8 icon"> <img src="../assets/icons/android/com.zhiliaoapp.musically.png" width="20" height="20" alt="TikTok icon"> <img src="../assets/icons/android/com.ss.android.ugc.tiktok.pro.png" width="20" height="20" alt="TikTok Pro icon"> | [TikTok Pte. Ltd.](tiktok-pte-ltd.md) | 3 | 1 | 2 | 3 | 86 |
 | <img src="../assets/icons/android/com.alibaba.intl.android.apps.poseidon.png" width="20" height="20" alt="Alibaba.com icon"> <img src="../assets/icons/android/com.alibaba.aliexpresshd.png" width="20" height="20" alt="AliExpress icon"> | [Alibaba Mobile](alibaba-mobile.md) | 2 | 0 | 2 | 3 | 31 |
-| <img src="../assets/icons/android/com.eg.android.AlipayGphone.png" width="20" height="20" alt="Alipay icon"> <img src="../assets/icons/ios/333206289.png" width="20" height="20" alt="Alipay icon"> | [Alipay (Hangzhou) Technology Co. Ltd](alipay-hangzhou-technology-co-ltd.md) | 2 | 1 | 1 | 2 | 381 |
 | <img src="../assets/icons/android/com.clubhouse.app.png" width="20" height="20" alt="Clubhouse icon"> <img src="../assets/icons/ios/1503133294.png" width="20" height="20" alt="Clubhouse icon"> | [Alpha Exploration Co.](alpha-exploration-co.md) | 2 | 1 | 1 | 2 | 49 |
 | <img src="../assets/icons/android/com.amazon.mShop.android.shopping.png" width="20" height="20" alt="Amazon Shopping icon"> <img src="../assets/icons/android/com.amazon.avod.thirdpartyclient.png" width="20" height="20" alt="Prime Video icon"> | [Amazon Mobile LLC](amazon-mobile-llc.md) | 2 | 0 | 2 | 2 | 43 |
 | <img src="../assets/icons/ios/510855668.png" width="20" height="20" alt="Amazon Music icon"> <img src="../assets/icons/ios/545519333.png" width="20" height="20" alt="Amazon Prime Video icon"> | [AMZN Mobile LLC](amzn-mobile-llc.md) | 2 | 2 | 0 | 2 | 108 |
 | <img src="../assets/icons/android/com.audible.application.png" width="20" height="20" alt="Audible icon"> <img src="../assets/icons/ios/379693831.png" width="20" height="20" alt="Audible icon"> | [Audible, Inc.](audible-inc.md) | 2 | 1 | 1 | 2 | 68 |
-| <img src="../assets/icons/android/com.infonow.bofa.png" width="20" height="20" alt="Bank of America Mobile Banking icon"> <img src="../assets/icons/android/com.ustrust.mobileapps.accountaccessandroid.png" width="20" height="20" alt="Bank of America Private Bank icon"> | [Bank of America](bank-of-america.md) | 2 | 0 | 2 | 2 | 26 |
 | <img src="../assets/icons/android/xyz.blueskyweb.app.png" width="20" height="20" alt="Bluesky icon"> <img src="../assets/icons/ios/6444370199.png" width="20" height="20" alt="Bluesky Social icon"> | [Bluesky PBLLC](bluesky-pbllc.md) | 2 | 1 | 1 | 4 | 36 |
 | <img src="../assets/icons/ios/6740909540.png" width="20" height="20" alt="Manus icon"> <img src="../assets/icons/android/tech.butterfly.app.png" width="20" height="20" alt="Manus AI icon"> | [BUTTERFLY EFFECT PTE. LTD.](butterfly-effect-pte-ltd.md) | 2 | 1 | 1 | 2 | 90 |
 | <img src="../assets/icons/android/com.lemon.lvoverseas.png" width="20" height="20" alt="CapCut icon"> <img src="../assets/icons/ios/1500855883.png" width="20" height="20" alt="CapCut icon"> | [Bytedance Pte. Ltd.](bytedance-pte-ltd.md) | 2 | 1 | 1 | 2 | 196 |
-| <img src="../assets/icons/android/com.capitalone.intellix.mobile.prod.png" width="20" height="20" alt="Capital One Intellix® Mobile icon"> <img src="../assets/icons/android/com.konylabs.capitalone.png" width="20" height="20" alt="Capital One Mobile icon"> | [Capital One Services, LLC](capital-one-services-llc.md) | 2 | 0 | 2 | 2 | 28 |
 | <img src="../assets/icons/ios/329913454.png" width="20" height="20" alt="Crunchyroll icon"> <img src="../assets/icons/android/com.crunchyroll.manga.png" width="20" height="20" alt="Crunchyroll Manga icon"> | [Crunchyroll, LLC](crunchyroll-llc.md) | 2 | 1 | 1 | 2 | 56 |
 | <img src="../assets/icons/android/com.dealseekorg.dealseek.png" width="20" height="20" alt="DealSeek icon"> <img src="../assets/icons/ios/6745274862.png" width="20" height="20" alt="DealSeek icon"> | [DealSeek LLC](dealseek-llc.md) | 2 | 1 | 1 | 2 | 53 |
 | <img src="../assets/icons/android/com.deezer.analytics.png" width="20" height="20" alt="Deezer for Creators icon"> <img src="../assets/icons/android/deezer.android.app.png" width="20" height="20" alt="Deezer icon"> | [Deezer Music](deezer-music.md) | 2 | 0 | 2 | 2 | 25 |
 | <img src="../assets/icons/android/com.discord.png" width="20" height="20" alt="Discord icon"> <img src="../assets/icons/ios/985746746.png" width="20" height="20" alt="Discord icon"> | [Discord Inc.](discord-inc.md) | 2 | 1 | 1 | 3 | 42 |
 | <img src="../assets/icons/android/com.clearchannel.iheartradio.controller.png" width="20" height="20" alt="iHeart icon"> <img src="../assets/icons/android/com.clearchannel.iheartradio.tv.png" width="20" height="20" alt="iHeartRadio for Google TV icon"> | [iHeartMedia, Inc.](iheartmedia-inc.md) | 2 | 0 | 2 | 2 | 43 |
-| <img src="../assets/icons/android/com.chase.sig.android.png" width="20" height="20" alt="Chase Mobile icon"> <img src="../assets/icons/android/com.cp.mpos.png" width="20" height="20" alt="Chase Mobile Checkout icon"> | [JPMorgan Chase](jpmorgan-chase.md) | 2 | 0 | 2 | 2 | 26 |
 | <img src="../assets/icons/android/com.lowes.android.png" width="20" height="20" alt="Lowe's icon"> <img src="../assets/icons/android/com.lowes.serviceproviders.png" width="20" height="20" alt="Lowe's Provider icon"> | [Lowe's Companies, Inc.](lowe-s-companies-inc.md) | 2 | 0 | 2 | 2 | 40 |
 | <img src="../assets/icons/android/me.lyft.android.png" width="20" height="20" alt="Lyft icon"> <img src="../assets/icons/ios/529379082.png" width="20" height="20" alt="Lyft icon"> | [Lyft, Inc.](lyft-inc.md) | 2 | 1 | 1 | 2 | 44 |
 | <img src="../assets/icons/android/com.mercari.global.png" width="20" height="20" alt="Mercari Japan icon"> <img src="../assets/icons/android/com.mercariapp.mercari.png" width="20" height="20" alt="Mercari icon"> | [Mercari, Inc](mercari-inc.md) | 2 | 0 | 2 | 2 | 56 |
@@ -42,7 +38,6 @@
 | <img src="../assets/icons/android/com.pandora.android.png" width="20" height="20" alt="Pandora icon"> <img src="../assets/icons/android/com.pandora.android.atv.png" width="20" height="20" alt="Pandora Music for TV icon"> | [Pandora](pandora.md) | 2 | 0 | 2 | 2 | 35 |
 | <img src="../assets/icons/android/ai.perplexity.app.android.png" width="20" height="20" alt="Perplexity icon"> <img src="../assets/icons/ios/1668000334.png" width="20" height="20" alt="Perplexity icon"> | [Perplexity AI, Inc.](perplexity-ai-inc.md) | 2 | 1 | 1 | 2 | 62 |
 | <img src="../assets/icons/android/com.reddit.frontpage.png" width="20" height="20" alt="Reddit icon"> <img src="../assets/icons/ios/1064216828.png" width="20" height="20" alt="Reddit icon"> | [reddit Inc.](reddit-inc.md) | 2 | 1 | 1 | 2 | 64 |
-| <img src="../assets/icons/ios/932493382.png" width="20" height="20" alt="Revolut icon"> <img src="../assets/icons/android/com.revolut.revolut.png" width="20" height="20" alt="Revolut icon"> | [Revolut Ltd](revolut-ltd.md) | 2 | 1 | 1 | 2 | 72 |
 | <img src="../assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> <img src="../assets/icons/android/com.zzkko.png" width="20" height="20" alt="SHEIN-Shopping Online icon"> | [Roadget Business PTE. LTD.](roadget-business-pte-ltd.md) | 2 | 1 | 1 | 2 | 66 |
 | <img src="../assets/icons/ios/6670430706.png" width="20" height="20" alt="DramaWave icon"> <img src="../assets/icons/android/com.freereels.app.png" width="20" height="20" alt="FreeReels icon"> | [SKYWORK AI PTE.LTD.](skywork-ai-pte-ltd.md) | 2 | 1 | 1 | 2 | 124 |
 | <img src="../assets/icons/android/com.snapchat.android.png" width="20" height="20" alt="Snapchat icon"> <img src="../assets/icons/ios/447188370.png" width="20" height="20" alt="Snapchat icon"> | [Snap Inc](snap-inc.md) | 2 | 1 | 1 | 2 | 35 |
@@ -53,12 +48,10 @@
 | <img src="../assets/icons/android/tv.twitch.android.app.png" width="20" height="20" alt="Twitch icon"> <img src="../assets/icons/ios/460177396.png" width="20" height="20" alt="Twitch icon"> | [Twitch Interactive, Inc.](twitch-interactive-inc.md) | 2 | 1 | 1 | 2 | 42 |
 | <img src="../assets/icons/android/com.wayfair.wayfair.png" width="20" height="20" alt="Wayfair icon"> <img src="../assets/icons/android/com.wayfair.wayhome.png" width="20" height="20" alt="Wayfair Service Pro icon"> | [Wayfair, LLC](wayfair-llc.md) | 2 | 0 | 2 | 2 | 45 |
 | <img src="../assets/icons/android/com.waze.png" width="20" height="20" alt="Waze Navigation &amp; Live Traffic icon"> <img src="../assets/icons/ios/323229106.png" width="20" height="20" alt="Waze Navigation &amp; Live Traffic icon"> | [waze](waze.md) | 2 | 1 | 1 | 2 | 23 |
-| <img src="../assets/icons/android/com.wf.wellsfargomobile.png" width="20" height="20" alt="Wells Fargo Mobile® icon"> <img src="../assets/icons/android/com.wellsFargo.ceomobile.png" width="20" height="20" alt="Wells Fargo Vantage® icon"> | [Wells Fargo Mobile](wells-fargo-mobile.md) | 2 | 0 | 2 | 2 | 32 |
 | <img src="../assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Inc.](whatsapp-inc.md) | 2 | 2 | 0 | 4 | 6 |
 | <img src="../assets/icons/android/com.xingin.xhs.png" width="20" height="20" alt="rednote icon"> <img src="../assets/icons/ios/741292507.png" width="20" height="20" alt="rednote icon"> | [行吟信息科技(上海)有限公司](xingin-information-technology-shanghai-co-ltd.md) | 2 | 1 | 1 | 2 | 174 |
 | <img src="../assets/icons/android/com.advitaortho.chime.png" width="20" height="20" alt="Chime icon"> | [Advita Ortho, LLC](advita-ortho-llc.md) | 1 | 0 | 1 | 1 | 24 |
 | <img src="../assets/icons/android/io.affirmquest.app.png" width="20" height="20" alt="Affirm Quest icon"> | [Affirm Quest](affirm-quest.md) | 1 | 0 | 1 | 1 | 13 |
-| <img src="../assets/icons/android/com.affirm.central.png" width="20" height="20" alt="Affirm icon"> | [Affirm, Inc](affirm-inc.md) | 1 | 0 | 1 | 1 | 29 |
 | <img src="../assets/icons/ios/401626263.png" width="20" height="20" alt="Airbnb icon"> | [Airbnb, Inc.](airbnb-inc.md) | 1 | 1 | 0 | 1 | 23 |
 | <img src="../assets/icons/ios/436672029.png" width="20" height="20" alt="AliExpress icon"> | [Alibaba.com Singapore E-Commerce Private Limited](alibaba-com-singapore-e-commerce-private-limited.md) | 1 | 1 | 0 | 1 | 61 |
 | <img src="../assets/icons/android/com.aa.android.png" width="20" height="20" alt="American Airlines icon"> | [American Airlines, Inc.](american-airlines-inc.md) | 1 | 0 | 1 | 1 | 32 |
@@ -70,7 +63,6 @@
 | <img src="../assets/icons/ios/432274380.png" width="20" height="20" alt="知乎 icon"> | [Beijing Zhizhetianxia Technology Co., Ltd.](beijing-zhizhetianxia-technology-co-ltd.md) | 1 | 1 | 0 | 1 | 214 |
 | <img src="../assets/icons/ios/1470373330.png" width="20" height="20" alt="Remini icon"> | [Bending Spoons Apps ApS](bending-spoons-apps-aps.md) | 1 | 1 | 0 | 1 | 87 |
 | <img src="../assets/icons/ios/1459645446.png" width="20" height="20" alt="BeReal icon"> | [BeReal](bereal.md) | 1 | 1 | 0 | 3 | 124 |
-| <img src="../assets/icons/android/com.squareup.cash.png" width="20" height="20" alt="Cash App icon"> | [Block, Inc.](block-inc.md) | 1 | 0 | 1 | 1 | 41 |
 | <img src="../assets/icons/android/com.booking.png" width="20" height="20" alt="Booking.com icon"> | [Booking.com Hotels & Vacation Rentals](booking-com-hotels-vacation-rentals.md) | 1 | 0 | 1 | 1 | 45 |
 | <img src="../assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="20" height="20" alt="BURGER KING® App icon"> | [Burger King, Inc.](burger-king-inc.md) | 1 | 0 | 1 | 2 | 29 |
 | <img src="../assets/icons/android/com.canva.editor.png" width="20" height="20" alt="Canva icon"> | [Canva](canva.md) | 1 | 0 | 1 | 1 | 39 |
@@ -78,9 +70,7 @@
 | <img src="../assets/icons/ios/530168168.png" width="20" height="20" alt="Paramount+ icon"> | [CBS Interactive](cbs-interactive.md) | 1 | 1 | 0 | 1 | 30 |
 | <img src="../assets/icons/ios/1671705818.png" width="20" height="20" alt="Character AI icon"> | [Character.AI](character-ai.md) | 1 | 1 | 0 | 1 | 74 |
 | <img src="../assets/icons/android/com.chickfila.cfaflagship.png" width="20" height="20" alt="Chick-fil-A® icon"> | [Chick-fil-A, Inc.](chick-fil-a-inc.md) | 1 | 0 | 1 | 1 | 30 |
-| <img src="../assets/icons/android/com.onedebit.chime.png" width="20" height="20" alt="Chime® icon"> | [Chime](chime.md) | 1 | 0 | 1 | 1 | 55 |
 | <img src="../assets/icons/android/com.classdojo.android.png" width="20" height="20" alt="ClassDojo icon"> | [ClassDojo](classdojo.md) | 1 | 0 | 1 | 1 | 47 |
-| <img src="../assets/icons/android/org.toshi.png" width="20" height="20" alt="Base icon"> | [Coinbase Wallet](coinbase-wallet.md) | 1 | 0 | 1 | 1 | 42 |
 | <img src="../assets/icons/android/io.poshwatch.mobile.png" width="20" height="20" alt="Poshmark Bot icon"> | [Cosmic Kettle Software OÜ](cosmic-kettle-software-ou.md) | 1 | 0 | 1 | 1 | 19 |
 | <img src="../assets/icons/android/com.ms.costco.png" width="20" height="20" alt="MyCostco Employee Portal icon"> | [Costco Wholesale](costco-wholesale.md) | 1 | 0 | 1 | 1 | 32 |
 | <img src="../assets/icons/android/com.curebase.walgreens.png" width="20" height="20" alt="Walgreens Clinical Trials icon"> | [Curebase](curebase.md) | 1 | 0 | 1 | 1 | 18 |
@@ -109,7 +99,6 @@
 | <img src="../assets/icons/ios/376510438.png" width="20" height="20" alt="Hulu icon"> | [Hulu, LLC](hulu-llc.md) | 1 | 1 | 0 | 1 | 28 |
 | <img src="../assets/icons/ios/6476790495.png" width="20" height="20" alt="Ideogram AI icon"> | [Ideogram AI Inc](ideogram-ai-inc.md) | 1 | 1 | 0 | 1 | 19 |
 | <img src="../assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeartMedia Management Services, Inc.](iheartmedia-management-services-inc.md) | 1 | 1 | 0 | 1 | 88 |
-| <img src="../assets/icons/ios/6445815935.png" width="20" height="20" alt="Pi, your personal AI icon"> | [Inflection AI, Inc.](inflection-ai-inc.md) | 1 | 1 | 0 | 1 | 41 |
 | <img src="../assets/icons/android/com.instacart.client.png" width="20" height="20" alt="Instacart icon"> | [Instacart](instacart.md) | 1 | 0 | 1 | 1 | 48 |
 | <img src="../assets/icons/android/com.ikea.inter.homesmart.system2.png" width="20" height="20" alt="IKEA Home smart icon"> | [Inter IKEA Systems B.V](inter-ikea-systems-b-v.md) | 1 | 0 | 1 | 1 | 18 |
 | <img src="../assets/icons/android/me.karmalab.talk.png" width="20" height="20" alt="KARMA Secure Messenger icon"> | [Karmalab Inc.](karmalab-inc.md) | 1 | 0 | 1 | 1 | 26 |
@@ -132,9 +121,6 @@
 | <img src="../assets/icons/ios/284035177.png" width="20" height="20" alt="Pandora icon"> | [Pandora Media, LLC](pandora-media-llc.md) | 1 | 1 | 0 | 1 | 41 |
 | <img src="../assets/icons/android/com.panera.bread.png" width="20" height="20" alt="Panera Bread icon"> | [Panera Bread](panera-bread.md) | 1 | 0 | 1 | 1 | 33 |
 | <img src="../assets/icons/ios/1662982304.png" width="20" height="20" alt="Partiful icon"> | [Partiful](partiful.md) | 1 | 1 | 0 | 1 | 23 |
-| <img src="../assets/icons/android/com.paypal.android.p2pmobile.png" width="20" height="20" alt="PayPal icon"> | [PayPal Mobile](paypal-mobile.md) | 1 | 0 | 1 | 1 | 41 |
-| <img src="../assets/icons/ios/283646709.png" width="20" height="20" alt="PayPal icon"> | [PayPal, Inc.](paypal-inc.md) | 1 | 1 | 0 | 1 | 72 |
-| <img src="../assets/icons/android/com.kraken.invest.app.png" width="20" height="20" alt="Kraken icon"> | [Payward, Inc.](payward-inc.md) | 1 | 0 | 1 | 1 | 56 |
 | <img src="../assets/icons/ios/1508186374.png" width="20" height="20" alt="Peacock TV icon"> | [Peacock TV LLC](peacock-tv-llc.md) | 1 | 1 | 0 | 1 | 40 |
 | <img src="../assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom](photoroom.md) | 1 | 1 | 0 | 1 | 92 |
 | <img src="../assets/icons/android/com.photoroom.app.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom AI Photo Editor](photoroom-ai-photo-editor.md) | 1 | 0 | 1 | 1 | 37 |
@@ -162,7 +148,6 @@
 | <img src="../assets/icons/ios/392796698.png" width="20" height="20" alt="GroupMe icon"> | [Skype Communications S.a.r.l](skype-communications-s-a-r-l.md) | 1 | 1 | 0 | 1 | 76 |
 | <img src="../assets/icons/android/net.skyscanner.android.main.png" width="20" height="20" alt="Skyscanner Flights Hotels Cars icon"> | [Skyscanner Ltd](skyscanner-ltd.md) | 1 | 0 | 1 | 1 | 34 |
 | <img src="../assets/icons/android/com.sling.airtvmini.png" width="20" height="20" alt="SLING icon"> | [Sling TV](sling-tv.md) | 1 | 0 | 1 | 1 | 27 |
-| <img src="../assets/icons/android/com.sofi.mobile.png" width="20" height="20" alt="SoFi icon"> | [Social Finance, LLC](social-finance-llc.md) | 1 | 0 | 1 | 1 | 36 |
 | <img src="../assets/icons/android/com.soundcloud.android.png" width="20" height="20" alt="SoundCloud icon"> | [SoundCloud](soundcloud.md) | 1 | 0 | 1 | 1 | 43 |
 | <img src="../assets/icons/ios/336353151.png" width="20" height="20" alt="SoundCloud icon"> | [SoundCloud Global Limited & Co KG](soundcloud-global-limited-co-kg.md) | 1 | 1 | 0 | 1 | 51 |
 | <img src="../assets/icons/android/com.southwestairlines.mobile.png" width="20" height="20" alt="Southwest Airlines icon"> | [Southwest Airlines](southwest-airlines.md) | 1 | 0 | 1 | 1 | 35 |

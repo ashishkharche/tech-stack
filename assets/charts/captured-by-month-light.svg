@@ -7,26 +7,26 @@
 <rect x="70.53999999999999" y="8" width="12" height="12" rx="3" fill="#1EA45A"/>
 <text x="88.53999999999999" y="18" font-size="13" fill="#4D5755">Android</text>
 <line x1="10" y1="200.5" x2="810" y2="200.5" stroke="#D9E1DD"/>
-<rect x="53.7" y="144.1" width="46.0" height="55.9" rx="2" fill="#0088FF"/>
-<rect x="53.7" y="54.0" width="46.0" height="88.1" rx="2" fill="#1EA45A"/>
-<text x="76.7" y="48.0" font-size="12" text-anchor="middle" fill="#4D5755">235</text>
+<rect x="53.7" y="140.3" width="46.0" height="59.7" rx="2" fill="#0088FF"/>
+<rect x="53.7" y="54.0" width="46.0" height="84.3" rx="2" fill="#1EA45A"/>
+<text x="76.7" y="48.0" font-size="12" text-anchor="middle" fill="#4D5755">220</text>
 <text x="76.7" y="218.0" font-size="12" text-anchor="middle" fill="#090A0B">2026-06</text>
-<rect x="187.0" y="198.1" width="46.0" height="1.9" rx="2" fill="#0088FF"/>
-<text x="210.0" y="192.1" font-size="12" text-anchor="middle" fill="#4D5755">3</text>
+<rect x="187.0" y="198.0" width="46.0" height="2.0" rx="2" fill="#0088FF"/>
+<text x="210.0" y="192.0" font-size="12" text-anchor="middle" fill="#4D5755">3</text>
 <text x="210.0" y="218.0" font-size="12" text-anchor="middle" fill="#090A0B">2026-07</text>
-<rect x="320.3" y="195.7" width="46.0" height="4.3" rx="2" fill="#0088FF"/>
-<text x="343.3" y="189.7" font-size="12" text-anchor="middle" fill="#4D5755">7</text>
+<rect x="320.3" y="195.4" width="46.0" height="4.6" rx="2" fill="#0088FF"/>
+<text x="343.3" y="189.4" font-size="12" text-anchor="middle" fill="#4D5755">7</text>
 <text x="343.3" y="218.0" font-size="12" text-anchor="middle" fill="#090A0B">2026-08</text>
-<rect x="453.7" y="199.4" width="46.0" height="1.5" rx="2" fill="#1EA45A"/>
-<text x="476.7" y="193.4" font-size="12" text-anchor="middle" fill="#4D5755">1</text>
+<rect x="453.7" y="199.3" width="46.0" height="1.5" rx="2" fill="#1EA45A"/>
+<text x="476.7" y="193.3" font-size="12" text-anchor="middle" fill="#4D5755">1</text>
 <text x="476.7" y="218.0" font-size="12" text-anchor="middle" fill="#090A0B">2026-09</text>
-<rect x="587.0" y="159.0" width="46.0" height="41.0" rx="2" fill="#0088FF"/>
-<rect x="587.0" y="141.0" width="46.0" height="16.0" rx="2" fill="#1EA45A"/>
-<text x="610.0" y="135.0" font-size="12" text-anchor="middle" fill="#4D5755">95</text>
+<rect x="587.0" y="158.9" width="46.0" height="41.1" rx="2" fill="#0088FF"/>
+<rect x="587.0" y="140.9" width="46.0" height="15.9" rx="2" fill="#1EA45A"/>
+<text x="610.0" y="134.9" font-size="12" text-anchor="middle" fill="#4D5755">89</text>
 <text x="610.0" y="218.0" font-size="12" text-anchor="middle" fill="#090A0B">2026-10</text>
-<rect x="720.3" y="185.1" width="46.0" height="14.9" rx="2" fill="#0088FF"/>
-<rect x="720.3" y="175.1" width="46.0" height="7.9" rx="2" fill="#1EA45A"/>
-<text x="743.3" y="169.1" font-size="12" text-anchor="middle" fill="#4D5755">40</text>
+<rect x="720.3" y="184.1" width="46.0" height="15.9" rx="2" fill="#0088FF"/>
+<rect x="720.3" y="173.5" width="46.0" height="8.6" rx="2" fill="#1EA45A"/>
+<text x="743.3" y="167.5" font-size="12" text-anchor="middle" fill="#4D5755">40</text>
 <text x="743.3" y="218.0" font-size="12" text-anchor="middle" fill="#090A0B">2026-11</text>
 </g>
 </svg>
