@@ -2,7 +2,7 @@
 
 # Companies
 
-197 companies. Each name is the developer name on the store listing.
+200 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | <img src="../assets/icons/ios/1459645446.png" width="20" height="20" alt="BeReal icon"> | [BeReal](bereal.md) | 1 | 1 | 0 | 3 | 124 |
 | <img src="../assets/icons/android/com.booking.png" width="20" height="20" alt="Booking.com icon"> | [Booking.com Hotels & Vacation Rentals](booking-com-hotels-vacation-rentals.md) | 1 | 0 | 1 | 1 | 45 |
 | <img src="../assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="20" height="20" alt="BURGER KING® App icon"> | [Burger King, Inc.](burger-king-inc.md) | 1 | 0 | 1 | 2 | 29 |
+| <img src="../assets/icons/android/com.cbouvat.android.saracroche.png" width="20" height="20" alt="Saracroche icon"> | [Camille Bouvat](camille-bouvat.md) | 1 | 0 | 1 | 1 | 3 |
 | <img src="../assets/icons/ios/530168168.png" width="20" height="20" alt="Paramount+ icon"> | [CBS Interactive](cbs-interactive.md) | 1 | 1 | 0 | 1 | 30 |
 | <img src="../assets/icons/ios/1671705818.png" width="20" height="20" alt="Character AI icon"> | [Character.AI](character-ai.md) | 1 | 1 | 0 | 1 | 74 |
 | <img src="../assets/icons/android/com.chickfila.cfaflagship.png" width="20" height="20" alt="Chick-fil-A® icon"> | [Chick-fil-A, Inc.](chick-fil-a-inc.md) | 1 | 0 | 1 | 1 | 30 |
@@ -105,6 +106,7 @@
 | <img src="../assets/icons/android/me.karmalab.talk.png" width="20" height="20" alt="KARMA Secure Messenger icon"> | [Karmalab Inc.](karmalab-inc.md) | 1 | 0 | 1 | 1 | 26 |
 | <img src="../assets/icons/android/com.kohls.mcommerce.opal.png" width="20" height="20" alt="Kohl's icon"> | [Kohls](kohls.md) | 1 | 0 | 1 | 2 | 40 |
 | <img src="../assets/icons/ios/6472232952.png" width="20" height="20" alt="Koupon icon"> | [Koupon Inc.](koupon-inc.md) | 1 | 1 | 0 | 1 | 38 |
+| <img src="../assets/icons/ios/6742321547.png" width="20" height="20" alt="i-Kfz icon"> | [Kraftfahrt-Bundesamt](kraftfahrt-bundesamt.md) | 1 | 1 | 0 | 1 | 4 |
 | <img src="../assets/icons/ios/6768240254.png" width="20" height="20" alt="FreeDrama icon"> | [Kuku Technologies Limited](kuku-technologies-limited.md) | 1 | 1 | 0 | 1 | 81 |
 | <img src="../assets/icons/ios/384830320.png" width="20" height="20" alt="Life360 icon"> | [Life360](life360.md) | 1 | 1 | 0 | 1 | 137 |
 | <img src="../assets/icons/ios/288429040.png" width="20" height="20" alt="LinkedIn icon"> | [LinkedIn Corporation](linkedin-corporation.md) | 1 | 1 | 0 | 1 | 18 |
@@ -114,6 +116,7 @@
 | <img src="../assets/icons/android/com.mcdonalds.app.png" width="20" height="20" alt="McDonald's icon"> | [McDonalds USA, LLC](mcdonalds-usa-llc.md) | 1 | 0 | 1 | 2 | 42 |
 | <img src="../assets/icons/android/com.jmireports.bluesky.png" width="20" height="20" alt="BlueSkyVUE icon"> | [MorelandConnect](morelandconnect.md) | 1 | 0 | 1 | 1 | 28 |
 | <img src="../assets/icons/ios/484672289.png" width="20" height="20" alt="NBA icon"> | [NBA MEDIA VENTURES, LLC](nba-media-ventures-llc.md) | 1 | 1 | 0 | 1 | 43 |
+| <img src="../assets/icons/ios/6587576438.png" width="20" height="20" alt="setlog icon"> | [new chat](new-chat.md) | 1 | 1 | 0 | 1 | 1 |
 | <img src="../assets/icons/ios/6742177802.png" width="20" height="20" alt="New York Road Runners icon"> | [New York Road Runners, Inc.](new-york-road-runners-inc.md) | 1 | 1 | 0 | 1 | 32 |
 | <img src="../assets/icons/ios/1636235979.png" width="20" height="20" alt="ReelShort icon"> | [NewLeaf Publishing](newleaf-publishing.md) | 1 | 1 | 0 | 1 | 84 |
 | <img src="../assets/icons/ios/640360962.png" width="20" height="20" alt="Nextdoor icon"> | [Nextdoor](nextdoor.md) | 1 | 1 | 0 | 1 | 98 |

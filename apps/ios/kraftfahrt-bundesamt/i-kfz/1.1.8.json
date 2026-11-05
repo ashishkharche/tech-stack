@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "i-Kfz",
+    "slug": "i-kfz",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6742321547",
+    "bundle_id": "de.kba.ikfz",
+    "active": true,
+    "company": {
+      "name": "Kraftfahrt-Bundesamt",
+      "slug": "kraftfahrt-bundesamt",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.1.8",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-05T08:29:37Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-05T08:55:57Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 4,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "AVFoundation (audio/video)",
+      "Combine (reactive)",
+      "Core Bluetooth",
+      "Core Image",
+      "Core NFC",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MessageUI (mail / SMS compose)",
+      "Network.framework",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AusweisApp2",
+        "version": "2.3.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AusweisApp2SDKWrapper",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DocumentSecurity",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "LifetimeTracker",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "17.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos27.0",
+      "xcode": "27.0",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 2
+    },
+    "capabilities": [
+      "Associated Domains (Universal Links)",
+      "NFC"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

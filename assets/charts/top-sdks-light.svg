@@ -21,11 +21,11 @@
 <rect x="185.0" y="118" width="427.9" height="18" rx="3" fill="#1EA45A"/>
 <text x="620.9" y="132" font-size="13" fill="#4D5755">156</text>
 <text x="172.99999999999994" y="160" font-size="13" text-anchor="end" fill="#090A0B">Material Components</text>
-<rect x="185.0" y="146" width="405.9" height="18" rx="3" fill="#1EA45A"/>
-<text x="598.9" y="160" font-size="13" fill="#4D5755">148</text>
+<rect x="185.0" y="146" width="408.7" height="18" rx="3" fill="#1EA45A"/>
+<text x="601.7" y="160" font-size="13" fill="#4D5755">149</text>
 <text x="172.99999999999994" y="188" font-size="13" text-anchor="end" fill="#090A0B">Room</text>
-<rect x="185.0" y="174" width="395.0" height="18" rx="3" fill="#1EA45A"/>
-<text x="588.0" y="188" font-size="13" fill="#4D5755">144</text>
+<rect x="185.0" y="174" width="397.7" height="18" rx="3" fill="#1EA45A"/>
+<text x="590.7" y="188" font-size="13" fill="#4D5755">145</text>
 <text x="172.99999999999994" y="216" font-size="13" text-anchor="end" fill="#090A0B">Firebase Messaging</text>
 <rect x="185.0" y="202" width="392.2" height="18" rx="3" fill="#1EA45A"/>
 <text x="585.2" y="216" font-size="13" fill="#4D5755">143</text>
@@ -43,8 +43,8 @@
 <rect x="277.5" y="314" width="266.8" height="18" rx="3" fill="#1EA45A"/>
 <text x="552.3" y="328" font-size="13" fill="#4D5755">131</text>
 <text x="172.99999999999994" y="356" font-size="13" text-anchor="end" fill="#090A0B">Jetpack Compose</text>
-<rect x="185.0" y="342" width="351.1" height="18" rx="3" fill="#1EA45A"/>
-<text x="544.1" y="356" font-size="13" fill="#4D5755">128</text>
+<rect x="185.0" y="342" width="353.8" height="18" rx="3" fill="#1EA45A"/>
+<text x="546.8" y="356" font-size="13" fill="#4D5755">129</text>
 <text x="172.99999999999994" y="384" font-size="13" text-anchor="end" fill="#090A0B">Firebase Analytics</text>
 <rect x="185.0" y="370" width="323.6" height="18" rx="3" fill="#1EA45A"/>
 <text x="516.6" y="384" font-size="13" fill="#4D5755">118</text>

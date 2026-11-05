@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">314 apps · 406 versions · 197 companies · 3,907 SDKs</p>
+<p align="center">317 apps · 409 versions · 200 companies · 3,911 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in all 152 iOS apps, and Jetpack Compose is in 128 of 162 Android apps. 79 apps also use a cross-platform runtime.
+SwiftUI is in all 154 iOS apps, and Jetpack Compose is in 129 of 163 Android apps. 79 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in all 152 iOS apps, and Jetpack Compose is in 128 of 162 Android app
 
 ## What most apps ship
 
-Firebase is in 206 of 314 apps. 79% of apps ship at least one analytics SDK.
+Firebase is in 206 of 317 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -43,7 +43,7 @@ Firebase is in 206 of 314 apps. 79% of apps ship at least one analytics SDK.
 
 ## How big an SDK list gets
 
-The median app ships 35.5 SDKs on iOS and 29 on Android. Whatnot (iOS) has the most, at 349.
+The median app ships 34 SDKs on iOS and 29 on Android. Whatnot (iOS) has the most, at 349.
 
 **Apps by number of SDKs**
 
@@ -59,7 +59,7 @@ The median app ships 35.5 SDKs on iOS and 29 on Android. Whatnot (iOS) has the m
 
 ## Privacy and permissions
 
-51% of iOS apps declare tracking. The median Android app asks for 31 permissions.
+50% of iOS apps declare tracking. The median Android app asks for 31 permissions.
 
 **Most declared iOS collected data types**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 151 of 197 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 154 of 200 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,14 +129,14 @@ Google and Google LLC share the most apps, with 21 each. 151 of 197 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/android/beloud-com/breaking-news/README.md"><img src="assets/icons/android/ma.safe.bn.jpg" width="56" height="56" alt="Breaking News icon"></a><br><a href="apps/android/beloud-com/breaking-news/README.md"><sub><b>Breaking News</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/spacex-super-intelligence/grok-bot/README.md"><img src="assets/icons/android/ai.x.grok.bot.png" width="56" height="56" alt="Grok Bot icon"></a><br><a href="apps/android/spacex-super-intelligence/grok-bot/README.md"><sub><b>Grok Bot</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/posten/bring-tracking/README.md"><img src="assets/icons/ios/6468981790.png" width="56" height="56" alt="Bring Tracking icon"></a><br><a href="apps/ios/posten/bring-tracking/README.md"><sub><b>Bring Tracking</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/sony-pictures-networks-india-pvt-ltd/sony-liv/README.md"><img src="assets/icons/ios/587794258.png" width="56" height="56" alt="Sony LIV icon"></a><br><a href="apps/ios/sony-pictures-networks-india-pvt-ltd/sony-liv/README.md"><sub><b>Sony LIV</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/astra-ai/astra-ai/README.md"><img src="assets/icons/android/co.astra_ai.app.twa.png" width="56" height="56" alt="Astra AI icon"></a><br><a href="apps/android/astra-ai/astra-ai/README.md"><sub><b>Astra AI</b></sub></a><br><sub>Android · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/spacex-super-intelligence/grok/README.md"><img src="assets/icons/android/ai.x.grok.png" width="56" height="56" alt="Grok icon"></a><br><a href="apps/android/spacex-super-intelligence/grok/README.md"><sub><b>Grok</b></sub></a><br><sub>Android · 2026-11-04</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/yeni-magazacilik-anonim-sirketi/a101/README.md"><img src="assets/icons/ios/1644664646.png" width="56" height="56" alt="A101 icon"></a><br><a href="apps/ios/yeni-magazacilik-anonim-sirketi/a101/README.md"><sub><b>A101</b></sub></a><br><sub>iOS · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/youtube-music/README.md"><img src="assets/icons/ios/1017492454.png" width="56" height="56" alt="YouTube Music icon"></a><br><a href="apps/ios/google/youtube-music/README.md"><sub><b>YouTube Music</b></sub></a><br><sub>iOS · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/moonshot-ai/kimi/README.md"><img src="assets/icons/android/com.moonshot.kimichat.png" width="56" height="56" alt="Kimi icon"></a><br><a href="apps/android/moonshot-ai/kimi/README.md"><sub><b>Kimi</b></sub></a><br><sub>Android · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/microsoft-corporation/microsoft-teams/README.md"><img src="assets/icons/android/com.microsoft.teams.png" width="56" height="56" alt="Microsoft Teams icon"></a><br><a href="apps/android/microsoft-corporation/microsoft-teams/README.md"><sub><b>Microsoft Teams</b></sub></a><br><sub>Android · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/microsoft-corporation/microsoft-planner/README.md"><img src="assets/icons/android/com.microsoft.planner.png" width="56" height="56" alt="Microsoft Planner icon"></a><br><a href="apps/android/microsoft-corporation/microsoft-planner/README.md"><sub><b>Microsoft Planner</b></sub></a><br><sub>Android · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/temu/temu/README.md"><img src="assets/icons/ios/1641486558.png" width="56" height="56" alt="Temu icon"></a><br><a href="apps/ios/temu/temu/README.md"><sub><b>Temu</b></sub></a><br><sub>iOS · 2026-11-04</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/camille-bouvat/saracroche/README.md"><img src="assets/icons/android/com.cbouvat.android.saracroche.png" width="56" height="56" alt="Saracroche icon"></a><br><a href="apps/android/camille-bouvat/saracroche/README.md"><sub><b>Saracroche</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/kraftfahrt-bundesamt/i-kfz/README.md"><img src="assets/icons/ios/6742321547.png" width="56" height="56" alt="i-Kfz icon"></a><br><a href="apps/ios/kraftfahrt-bundesamt/i-kfz/README.md"><sub><b>i-Kfz</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/new-chat/setlog/README.md"><img src="assets/icons/ios/6587576438.png" width="56" height="56" alt="setlog icon"></a><br><a href="apps/ios/new-chat/setlog/README.md"><sub><b>setlog</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/beloud-com/breaking-news/README.md"><img src="assets/icons/android/ma.safe.bn.jpg" width="56" height="56" alt="Breaking News icon"></a><br><a href="apps/android/beloud-com/breaking-news/README.md"><sub><b>Breaking News</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/spacex-super-intelligence/grok-bot/README.md"><img src="assets/icons/android/ai.x.grok.bot.png" width="56" height="56" alt="Grok Bot icon"></a><br><a href="apps/android/spacex-super-intelligence/grok-bot/README.md"><sub><b>Grok Bot</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/posten/bring-tracking/README.md"><img src="assets/icons/ios/6468981790.png" width="56" height="56" alt="Bring Tracking icon"></a><br><a href="apps/ios/posten/bring-tracking/README.md"><sub><b>Bring Tracking</b></sub></a><br><sub>iOS · 2026-11-05</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/ios/sony-pictures-networks-india-pvt-ltd/sony-liv/README.md"><img src="assets/icons/ios/587794258.png" width="56" height="56" alt="Sony LIV icon"></a><br><a href="apps/ios/sony-pictures-networks-india-pvt-ltd/sony-liv/README.md"><sub><b>Sony LIV</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/astra-ai/astra-ai/README.md"><img src="assets/icons/android/co.astra_ai.app.twa.png" width="56" height="56" alt="Astra AI icon"></a><br><a href="apps/android/astra-ai/astra-ai/README.md"><sub><b>Astra AI</b></sub></a><br><sub>Android · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/spacex-super-intelligence/grok/README.md"><img src="assets/icons/android/ai.x.grok.png" width="56" height="56" alt="Grok icon"></a><br><a href="apps/android/spacex-super-intelligence/grok/README.md"><sub><b>Grok</b></sub></a><br><sub>Android · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/yeni-magazacilik-anonim-sirketi/a101/README.md"><img src="assets/icons/ios/1644664646.png" width="56" height="56" alt="A101 icon"></a><br><a href="apps/ios/yeni-magazacilik-anonim-sirketi/a101/README.md"><sub><b>A101</b></sub></a><br><sub>iOS · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/youtube-music/README.md"><img src="assets/icons/ios/1017492454.png" width="56" height="56" alt="YouTube Music icon"></a><br><a href="apps/ios/google/youtube-music/README.md"><sub><b>YouTube Music</b></sub></a><br><sub>iOS · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/moonshot-ai/kimi/README.md"><img src="assets/icons/android/com.moonshot.kimichat.png" width="56" height="56" alt="Kimi icon"></a><br><a href="apps/android/moonshot-ai/kimi/README.md"><sub><b>Kimi</b></sub></a><br><sub>Android · 2026-11-04</sub></td></tr>
 </table>
 
 ### All apps
 
 <details>
-<summary>iOS (152 apps)</summary>
+<summary>iOS (154 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -200,6 +200,7 @@ Google and Google LLC share the most apps, with 21 each. 151 of 197 companies ha
 | <img src="assets/icons/ios/392796698.png" width="20" height="20" alt="GroupMe icon"> | [GroupMe](apps/ios/skype-communications-s-a-r-l/groupme/README.md) | [Skype Communications S.a.r.l](companies/skype-communications-s-a-r-l.md) | 15.76.3 | 76 |
 | <img src="assets/icons/ios/1666653815.png" width="20" height="20" alt="HBO Max icon"> | [HBO Max: Stream Movies & TV](apps/ios/warnermedia-global-digital-services-llc/hbo-max/README.md) | [WarnerMedia Global Digital Services, LLC](companies/warnermedia-global-digital-services-llc.md) | 7.4.0 | 107 |
 | <img src="assets/icons/ios/376510438.png" width="20" height="20" alt="Hulu icon"> | [Hulu: Stream TV shows & movies](apps/ios/hulu-llc/hulu/README.md) | [Hulu, LLC](companies/hulu-llc.md) | 9.34.0 | 28 |
+| <img src="assets/icons/ios/6742321547.png" width="20" height="20" alt="i-Kfz icon"> | [i-Kfz](apps/ios/kraftfahrt-bundesamt/i-kfz/README.md) | [Kraftfahrt-Bundesamt](companies/kraftfahrt-bundesamt.md) | 1.1.8 | 4 |
 | <img src="assets/icons/ios/6476790495.png" width="20" height="20" alt="Ideogram AI icon"> | [Ideogram AI - Image Generator](apps/ios/ideogram/ideogram-ai/README.md) | [Ideogram](companies/ideogram.md) | 2026.41 | 19 |
 | <img src="assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeart: Radio, Music, Podcasts](apps/ios/iheartmedia-management-services-inc/iheart/README.md) | [iHeartMedia Management Services, Inc.](companies/iheartmedia-management-services-inc.md) | 10.64.0 | 88 |
 | <img src="assets/icons/ios/389801252.png" width="20" height="20" alt="Instagram icon"> | [Instagram](apps/ios/instagram-inc/instagram/README.md) | [Instagram, Inc.](companies/instagram-inc.md) | 432.0.0 | 13 |
@@ -257,6 +258,7 @@ Google and Google LLC share the most apps, with 21 each. 151 of 197 companies ha
 | <img src="assets/icons/ios/1470373330.png" width="20" height="20" alt="Remini icon"> | [Remini - AI Photo Enhancer](apps/ios/bending-spoons-operations-spa/remini/README.md) | [BENDING SPOONS OPERATIONS SPA](companies/bending-spoons-operations-spa.md) | 2.10.222 | 87 |
 | <img src="assets/icons/ios/1158555867.png" width="20" height="20" alt="Replika icon"> | [Replika - AI Companion Chat](apps/ios/luka-inc/replika/README.md) | [Luka, Inc.](companies/luka-inc.md) | 12.5.1 | 80 |
 | <img src="assets/icons/ios/482066631.png" width="20" height="20" alt="Roku Remote (Official) icon"> | [Roku Remote (Official)](apps/ios/roku-inc/roku-remote-official/README.md) | [ROKU INC](companies/roku-inc.md) | 14.1.2 | 39 |
+| <img src="assets/icons/ios/6587576438.png" width="20" height="20" alt="setlog icon"> | [setlog - friends camera](apps/ios/new-chat/setlog/README.md) | [new chat](companies/new-chat.md) | 2.7.7 | 1 |
 | <img src="assets/icons/ios/284993459.png" width="20" height="20" alt="Shazam icon"> | [Shazam: Find Music & Concerts](apps/ios/apple/shazam/README.md) | [Apple](companies/apple.md) | 26.11.0 | 1 |
 | <img src="assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> | [SHEIN - Shopping Online](apps/ios/roadget-business-pte-ltd/shein/README.md) | [ROADGET BUSINESS PTE. LTD.](companies/roadget-business-pte-ltd.md) | 15.5.6 | 41 |
 | <img src="assets/icons/ios/874139669.png" width="20" height="20" alt="Signal icon"> | [Signal - Private Messenger](apps/ios/signal-messenger-llc/signal-private-messenger/README.md) | [Signal Messenger, LLC](companies/signal-messenger-llc.md) | 8.34 | 9 |
@@ -296,7 +298,7 @@ Google and Google LLC share the most apps, with 21 each. 151 of 197 companies ha
 </details>
 
 <details>
-<summary>Android (162 apps)</summary>
+<summary>Android (163 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -420,6 +422,7 @@ Google and Google LLC share the most apps, with 21 each. 151 of 197 companies ha
 | <img src="assets/icons/android/com.reddit.frontpage.png" width="20" height="20" alt="Reddit icon"> | [Reddit](apps/android/reddit-inc/reddit/README.md) | [reddit Inc.](companies/reddit-inc.md) | 2026.22.0 | 34 |
 | <img src="assets/icons/android/com.xingin.xhs.png" width="20" height="20" alt="rednote icon"> | [rednote](apps/android/xingin-information-technology-shanghai-co-ltd/rednote/README.md) | [行吟信息科技(上海)有限公司](companies/xingin-information-technology-shanghai-co-ltd.md) | 9.51.0 | 35 |
 | <img src="assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club: Shopping & Savings](apps/android/sam-s-club/sam-s-club/README.md) | [Sam's Club](companies/sam-s-club.md) | 26.6.20 | 37 |
+| <img src="assets/icons/android/com.cbouvat.android.saracroche.png" width="20" height="20" alt="Saracroche icon"> | [Saracroche : bloqueur d'appels](apps/android/camille-bouvat/saracroche/README.md) | [Camille Bouvat](companies/camille-bouvat.md) | 5.5.4 | 3 |
 | <img src="assets/icons/android/com.eet.settings.launcher.png" width="20" height="20" alt="Settings Home icon"> | [Settings Home](apps/android/utility-apps-home/settings-home/README.md) | [Utility Apps Home](companies/utility-apps-home.md) | 1.6.4 | 43 |
 | <img src="assets/icons/android/com.zzkko.png" width="20" height="20" alt="SHEIN-Shopping Online icon"> | [SHEIN-Shopping Online](apps/android/roadget-business-pte-ltd/shein-shopping-online/README.md) | [Roadget Business PTE. LTD.](companies/roadget-business-pte-ltd.md) | 15.5.0 | 28 |
 | <img src="assets/icons/android/org.thoughtcrime.securesms.png" width="20" height="20" alt="Signal Private Messenger icon"> | [Signal Private Messenger](apps/android/signal-foundation/signal-private-messenger/README.md) | [Signal Foundation](companies/signal-foundation.md) | 8.32.3 | 22 |

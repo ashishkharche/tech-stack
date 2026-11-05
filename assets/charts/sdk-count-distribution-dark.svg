@@ -7,9 +7,9 @@
 <rect x="70.53999999999999" y="8" width="12" height="12" rx="3" fill="#3DDC84"/>
 <text x="88.53999999999999" y="18" font-size="13" fill="#A9B2BC">Android</text>
 <line x1="10" y1="210.5" x2="810" y2="210.5" stroke="#262A2D"/>
-<rect x="44.1" y="152.2" width="46.0" height="57.8" rx="2" fill="#0091FF"/>
-<rect x="44.1" y="116.4" width="46.0" height="33.8" rx="2" fill="#3DDC84"/>
-<text x="67.1" y="110.4" font-size="12" text-anchor="middle" fill="#A9B2BC">81</text>
+<rect x="44.1" y="149.9" width="46.0" height="60.1" rx="2" fill="#0091FF"/>
+<rect x="44.1" y="112.9" width="46.0" height="35.0" rx="2" fill="#3DDC84"/>
+<text x="67.1" y="106.9" font-size="12" text-anchor="middle" fill="#A9B2BC">84</text>
 <text x="67.1" y="228.0" font-size="12" text-anchor="middle" fill="#F1F6F3">0–19</text>
 <rect x="158.4" y="171.9" width="46.0" height="38.1" rx="2" fill="#0091FF"/>
 <rect x="158.4" y="54.0" width="46.0" height="115.9" rx="2" fill="#3DDC84"/>
