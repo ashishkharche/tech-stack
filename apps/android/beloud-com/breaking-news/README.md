@@ -57,7 +57,7 @@ Advertising ID, Approximate location, Camera, Foreground service, Media: images,
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 11.1.22 | 2026-11-05 |  | 28 |  | No | No | [11.1.22.json](11.1.22.json) |
+| 11.1.22 | 2026-11-05 | 2025-07-11 | 28 |  | No | No | [11.1.22.json](11.1.22.json) |
 
 ---
 

@@ -63,7 +63,7 @@ App Attest, App Groups, Associated Domains (Universal Links), Background App Ref
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 9.2.6 | 2026-11-05 |  | 53 |  | Yes | Yes | [9.2.6.json](9.2.6.json) |
+| 9.2.6 | 2026-11-05 | 2026-11-03 | 53 |  | Yes | Yes | [9.2.6.json](9.2.6.json) |
 
 ---
 

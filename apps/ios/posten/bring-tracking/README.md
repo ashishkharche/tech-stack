@@ -57,7 +57,7 @@ Associated Domains (Universal Links), Background Location, Background Push, Blue
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 8.4.9 | 2026-11-05 |  | 24 |  | Yes | Yes | [8.4.9.json](8.4.9.json) |
+| 8.4.9 | 2026-11-05 | 2026-11-04 | 24 |  | Yes | Yes | [8.4.9.json](8.4.9.json) |
 
 ---
 

@@ -4,48 +4,48 @@
 <g transform="translate(20 20)">
 <text x="135.03999999999996" y="24" font-size="13" text-anchor="end" fill="#090A0B">DeviceID</text>
 <rect x="147.0" y="10" width="603.0" height="18" rx="3" fill="#0088FF"/>
-<text x="758.0" y="24" font-size="13" fill="#4D5755">126</text>
+<text x="758.0" y="24" font-size="13" fill="#4D5755">128</text>
 <text x="135.03999999999996" y="52" font-size="13" text-anchor="end" fill="#090A0B">CrashData</text>
-<rect x="147.0" y="38" width="574.2" height="18" rx="3" fill="#0088FF"/>
-<text x="729.3" y="52" font-size="13" fill="#4D5755">120</text>
+<rect x="147.0" y="38" width="574.7" height="18" rx="3" fill="#0088FF"/>
+<text x="729.7" y="52" font-size="13" fill="#4D5755">122</text>
 <text x="135.03999999999996" y="80" font-size="13" text-anchor="end" fill="#090A0B">ProductInteraction</text>
-<rect x="147.0" y="66" width="574.2" height="18" rx="3" fill="#0088FF"/>
-<text x="729.3" y="80" font-size="13" fill="#4D5755">120</text>
+<rect x="147.0" y="66" width="574.7" height="18" rx="3" fill="#0088FF"/>
+<text x="729.7" y="80" font-size="13" fill="#4D5755">122</text>
 <text x="135.03999999999996" y="108" font-size="13" text-anchor="end" fill="#090A0B">OtherDiagnosticData</text>
-<rect x="147.0" y="94" width="564.7" height="18" rx="3" fill="#0088FF"/>
-<text x="719.7" y="108" font-size="13" fill="#4D5755">118</text>
+<rect x="147.0" y="94" width="565.3" height="18" rx="3" fill="#0088FF"/>
+<text x="720.3" y="108" font-size="13" fill="#4D5755">120</text>
 <text x="135.03999999999996" y="136" font-size="13" text-anchor="end" fill="#090A0B">UserID</text>
-<rect x="147.0" y="122" width="559.9" height="18" rx="3" fill="#0088FF"/>
-<text x="714.9" y="136" font-size="13" fill="#4D5755">117</text>
+<rect x="147.0" y="122" width="560.6" height="18" rx="3" fill="#0088FF"/>
+<text x="715.6" y="136" font-size="13" fill="#4D5755">119</text>
 <text x="135.03999999999996" y="164" font-size="13" text-anchor="end" fill="#090A0B">PerformanceData</text>
-<rect x="147.0" y="150" width="531.2" height="18" rx="3" fill="#0088FF"/>
-<text x="686.2" y="164" font-size="13" fill="#4D5755">111</text>
+<rect x="147.0" y="150" width="532.3" height="18" rx="3" fill="#0088FF"/>
+<text x="687.3" y="164" font-size="13" fill="#4D5755">113</text>
 <text x="135.03999999999996" y="192" font-size="13" text-anchor="end" fill="#090A0B">CoarseLocation</text>
-<rect x="147.0" y="178" width="516.8" height="18" rx="3" fill="#0088FF"/>
-<text x="671.9" y="192" font-size="13" fill="#4D5755">108</text>
+<rect x="147.0" y="178" width="513.5" height="18" rx="3" fill="#0088FF"/>
+<text x="668.5" y="192" font-size="13" fill="#4D5755">109</text>
 <text x="135.03999999999996" y="220" font-size="13" text-anchor="end" fill="#090A0B">EmailAddress</text>
-<rect x="147.0" y="206" width="440.3" height="18" rx="3" fill="#0088FF"/>
-<text x="595.3" y="220" font-size="13" fill="#4D5755">92</text>
+<rect x="147.0" y="206" width="438.1" height="18" rx="3" fill="#0088FF"/>
+<text x="593.1" y="220" font-size="13" fill="#4D5755">93</text>
 <text x="135.03999999999996" y="248" font-size="13" text-anchor="end" fill="#090A0B">OtherDataTypes</text>
-<rect x="147.0" y="234" width="440.3" height="18" rx="3" fill="#0088FF"/>
-<text x="595.3" y="248" font-size="13" fill="#4D5755">92</text>
+<rect x="147.0" y="234" width="438.1" height="18" rx="3" fill="#0088FF"/>
+<text x="593.1" y="248" font-size="13" fill="#4D5755">93</text>
 <text x="135.03999999999996" y="276" font-size="13" text-anchor="end" fill="#090A0B">Name</text>
-<rect x="147.0" y="262" width="402.0" height="18" rx="3" fill="#0088FF"/>
-<text x="557.0" y="276" font-size="13" fill="#4D5755">84</text>
+<rect x="147.0" y="262" width="400.4" height="18" rx="3" fill="#0088FF"/>
+<text x="555.4" y="276" font-size="13" fill="#4D5755">85</text>
 <text x="135.03999999999996" y="304" font-size="13" text-anchor="end" fill="#090A0B">OtherUsageData</text>
-<rect x="147.0" y="290" width="397.2" height="18" rx="3" fill="#0088FF"/>
-<text x="552.2" y="304" font-size="13" fill="#4D5755">83</text>
+<rect x="147.0" y="290" width="395.7" height="18" rx="3" fill="#0088FF"/>
+<text x="550.7" y="304" font-size="13" fill="#4D5755">84</text>
 <text x="135.03999999999996" y="332" font-size="13" text-anchor="end" fill="#090A0B">PhoneNumber</text>
-<rect x="147.0" y="318" width="387.6" height="18" rx="3" fill="#0088FF"/>
-<text x="542.7" y="332" font-size="13" fill="#4D5755">81</text>
+<rect x="147.0" y="318" width="386.3" height="18" rx="3" fill="#0088FF"/>
+<text x="541.3" y="332" font-size="13" fill="#4D5755">82</text>
 <text x="135.03999999999996" y="360" font-size="13" text-anchor="end" fill="#090A0B">AdvertisingData</text>
-<rect x="147.0" y="346" width="339.8" height="18" rx="3" fill="#0088FF"/>
-<text x="494.8" y="360" font-size="13" fill="#4D5755">71</text>
+<rect x="147.0" y="346" width="343.9" height="18" rx="3" fill="#0088FF"/>
+<text x="498.9" y="360" font-size="13" fill="#4D5755">73</text>
 <text x="135.03999999999996" y="388" font-size="13" text-anchor="end" fill="#090A0B">PhotosorVideos</text>
-<rect x="147.0" y="374" width="253.6" height="18" rx="3" fill="#0088FF"/>
-<text x="408.7" y="388" font-size="13" fill="#4D5755">53</text>
+<rect x="147.0" y="374" width="254.4" height="18" rx="3" fill="#0088FF"/>
+<text x="409.4" y="388" font-size="13" fill="#4D5755">54</text>
 <text x="135.03999999999996" y="416" font-size="13" text-anchor="end" fill="#090A0B">PreciseLocation</text>
-<rect x="147.0" y="402" width="244.1" height="18" rx="3" fill="#0088FF"/>
-<text x="399.1" y="416" font-size="13" fill="#4D5755">51</text>
+<rect x="147.0" y="402" width="245.0" height="18" rx="3" fill="#0088FF"/>
+<text x="400.0" y="416" font-size="13" fill="#4D5755">52</text>
 </g>
 </svg>

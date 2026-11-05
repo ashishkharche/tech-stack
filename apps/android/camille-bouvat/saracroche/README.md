@@ -43,7 +43,7 @@ Foreground service, Notifications
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 5.5.4 | 2026-11-05 |  | 3 |  | Yes | No | [5.5.4.json](5.5.4.json) |
+| 5.5.4 | 2026-11-05 | 2026-10-22 | 3 |  | Yes | No | [5.5.4.json](5.5.4.json) |
 
 ---
 

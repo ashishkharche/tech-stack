@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">317 apps · 409 versions · 200 companies · 3,911 SDKs</p>
+<p align="center">320 apps · 413 versions · 201 companies · 3,939 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in all 154 iOS apps, and Jetpack Compose is in 129 of 163 Android apps. 79 apps also use a cross-platform runtime.
+SwiftUI is in all 156 iOS apps, and Jetpack Compose is in 130 of 164 Android apps. 79 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in all 154 iOS apps, and Jetpack Compose is in 129 of 163 Android app
 
 ## What most apps ship
 
-Firebase is in 206 of 317 apps. 78% of apps ship at least one analytics SDK.
+Firebase is in 207 of 320 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -51,9 +51,9 @@ The median app ships 34 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 <br>
 
-**The same app on both stores (16 largest of 65)**
+**The same app on both stores (16 largest of 66)**
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/both-platforms-dark.svg"><img alt="The same app on both stores (16 largest of 65)" src="assets/charts/both-platforms-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/both-platforms-dark.svg"><img alt="The same app on both stores (16 largest of 66)" src="assets/charts/both-platforms-light.svg"></picture>
 
 <br>
 
@@ -75,7 +75,7 @@ The median app ships 34 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## How apps change between versions
 
-56 of 92 updates changed the SDK list. Together they added 182 SDKs and removed 200.
+57 of 93 updates changed the SDK list. Together they added 184 SDKs and removed 200.
 
 **SDKs added and removed between versions**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 154 of 200 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 154 of 201 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,14 +129,14 @@ Google and Google LLC share the most apps, with 21 each. 154 of 200 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/android/camille-bouvat/saracroche/README.md"><img src="assets/icons/android/com.cbouvat.android.saracroche.png" width="56" height="56" alt="Saracroche icon"></a><br><a href="apps/android/camille-bouvat/saracroche/README.md"><sub><b>Saracroche</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/kraftfahrt-bundesamt/i-kfz/README.md"><img src="assets/icons/ios/6742321547.png" width="56" height="56" alt="i-Kfz icon"></a><br><a href="apps/ios/kraftfahrt-bundesamt/i-kfz/README.md"><sub><b>i-Kfz</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/new-chat/setlog/README.md"><img src="assets/icons/ios/6587576438.png" width="56" height="56" alt="setlog icon"></a><br><a href="apps/ios/new-chat/setlog/README.md"><sub><b>setlog</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/beloud-com/breaking-news/README.md"><img src="assets/icons/android/ma.safe.bn.jpg" width="56" height="56" alt="Breaking News icon"></a><br><a href="apps/android/beloud-com/breaking-news/README.md"><sub><b>Breaking News</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/spacex-super-intelligence/grok-bot/README.md"><img src="assets/icons/android/ai.x.grok.bot.png" width="56" height="56" alt="Grok Bot icon"></a><br><a href="apps/android/spacex-super-intelligence/grok-bot/README.md"><sub><b>Grok Bot</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/posten/bring-tracking/README.md"><img src="assets/icons/ios/6468981790.png" width="56" height="56" alt="Bring Tracking icon"></a><br><a href="apps/ios/posten/bring-tracking/README.md"><sub><b>Bring Tracking</b></sub></a><br><sub>iOS · 2026-11-05</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/sony-pictures-networks-india-pvt-ltd/sony-liv/README.md"><img src="assets/icons/ios/587794258.png" width="56" height="56" alt="Sony LIV icon"></a><br><a href="apps/ios/sony-pictures-networks-india-pvt-ltd/sony-liv/README.md"><sub><b>Sony LIV</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/astra-ai/astra-ai/README.md"><img src="assets/icons/android/co.astra_ai.app.twa.png" width="56" height="56" alt="Astra AI icon"></a><br><a href="apps/android/astra-ai/astra-ai/README.md"><sub><b>Astra AI</b></sub></a><br><sub>Android · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/spacex-super-intelligence/grok/README.md"><img src="assets/icons/android/ai.x.grok.png" width="56" height="56" alt="Grok icon"></a><br><a href="apps/android/spacex-super-intelligence/grok/README.md"><sub><b>Grok</b></sub></a><br><sub>Android · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/yeni-magazacilik-anonim-sirketi/a101/README.md"><img src="assets/icons/ios/1644664646.png" width="56" height="56" alt="A101 icon"></a><br><a href="apps/ios/yeni-magazacilik-anonim-sirketi/a101/README.md"><sub><b>A101</b></sub></a><br><sub>iOS · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/youtube-music/README.md"><img src="assets/icons/ios/1017492454.png" width="56" height="56" alt="YouTube Music icon"></a><br><a href="apps/ios/google/youtube-music/README.md"><sub><b>YouTube Music</b></sub></a><br><sub>iOS · 2026-11-04</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/moonshot-ai/kimi/README.md"><img src="assets/icons/android/com.moonshot.kimichat.png" width="56" height="56" alt="Kimi icon"></a><br><a href="apps/android/moonshot-ai/kimi/README.md"><sub><b>Kimi</b></sub></a><br><sub>Android · 2026-11-04</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/naver-corp/app/README.md"><img src="assets/icons/android/com.navercorp.navershopping.jpg" width="56" height="56" alt="네이버플러스 스토어 icon"></a><br><a href="apps/android/naver-corp/app/README.md"><sub><b>네이버플러스 스토어</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/american-airlines-inc/american-airlines/README.md"><img src="assets/icons/android/com.aa.android.png" width="56" height="56" alt="American Airlines icon"></a><br><a href="apps/android/american-airlines-inc/american-airlines/README.md"><sub><b>American Airlines</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/naver-corp/app/README.md"><img src="assets/icons/ios/6738063154.png" width="56" height="56" alt="네이버플러스 스토어 icon"></a><br><a href="apps/ios/naver-corp/app/README.md"><sub><b>네이버플러스 스토어</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/instagram-inc/instants-an-instagram-app/README.md"><img src="assets/icons/ios/6756442328.png" width="56" height="56" alt="Instants icon"></a><br><a href="apps/ios/instagram-inc/instants-an-instagram-app/README.md"><sub><b>Instants</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/camille-bouvat/saracroche/README.md"><img src="assets/icons/android/com.cbouvat.android.saracroche.png" width="56" height="56" alt="Saracroche icon"></a><br><a href="apps/android/camille-bouvat/saracroche/README.md"><sub><b>Saracroche</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/kraftfahrt-bundesamt/i-kfz/README.md"><img src="assets/icons/ios/6742321547.png" width="56" height="56" alt="i-Kfz icon"></a><br><a href="apps/ios/kraftfahrt-bundesamt/i-kfz/README.md"><sub><b>i-Kfz</b></sub></a><br><sub>iOS · 2026-11-05</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/ios/new-chat/setlog/README.md"><img src="assets/icons/ios/6587576438.png" width="56" height="56" alt="setlog icon"></a><br><a href="apps/ios/new-chat/setlog/README.md"><sub><b>setlog</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/beloud-com/breaking-news/README.md"><img src="assets/icons/android/ma.safe.bn.jpg" width="56" height="56" alt="Breaking News icon"></a><br><a href="apps/android/beloud-com/breaking-news/README.md"><sub><b>Breaking News</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/spacex-super-intelligence/grok-bot/README.md"><img src="assets/icons/android/ai.x.grok.bot.png" width="56" height="56" alt="Grok Bot icon"></a><br><a href="apps/android/spacex-super-intelligence/grok-bot/README.md"><sub><b>Grok Bot</b></sub></a><br><sub>Android · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/posten/bring-tracking/README.md"><img src="assets/icons/ios/6468981790.png" width="56" height="56" alt="Bring Tracking icon"></a><br><a href="apps/ios/posten/bring-tracking/README.md"><sub><b>Bring Tracking</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/sony-pictures-networks-india-pvt-ltd/sony-liv/README.md"><img src="assets/icons/ios/587794258.png" width="56" height="56" alt="Sony LIV icon"></a><br><a href="apps/ios/sony-pictures-networks-india-pvt-ltd/sony-liv/README.md"><sub><b>Sony LIV</b></sub></a><br><sub>iOS · 2026-11-05</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/astra-ai/astra-ai/README.md"><img src="assets/icons/android/co.astra_ai.app.twa.png" width="56" height="56" alt="Astra AI icon"></a><br><a href="apps/android/astra-ai/astra-ai/README.md"><sub><b>Astra AI</b></sub></a><br><sub>Android · 2026-11-04</sub></td></tr>
 </table>
 
 ### All apps
 
 <details>
-<summary>iOS (154 apps)</summary>
+<summary>iOS (156 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -204,6 +204,7 @@ Google and Google LLC share the most apps, with 21 each. 154 of 200 companies ha
 | <img src="assets/icons/ios/6476790495.png" width="20" height="20" alt="Ideogram AI icon"> | [Ideogram AI - Image Generator](apps/ios/ideogram/ideogram-ai/README.md) | [Ideogram](companies/ideogram.md) | 2026.41 | 19 |
 | <img src="assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeart: Radio, Music, Podcasts](apps/ios/iheartmedia-management-services-inc/iheart/README.md) | [iHeartMedia Management Services, Inc.](companies/iheartmedia-management-services-inc.md) | 10.64.0 | 88 |
 | <img src="assets/icons/ios/389801252.png" width="20" height="20" alt="Instagram icon"> | [Instagram](apps/ios/instagram-inc/instagram/README.md) | [Instagram, Inc.](companies/instagram-inc.md) | 432.0.0 | 13 |
+| <img src="assets/icons/ios/6756442328.png" width="20" height="20" alt="Instants icon"> | [Instants – an Instagram app](apps/ios/instagram-inc/instants-an-instagram-app/README.md) | [Instagram, Inc.](companies/instagram-inc.md) | 454.0.0 | 7 |
 | <img src="assets/icons/ios/6752915724.png" width="20" height="20" alt="Kalo icon"> | [Kalo: AI Calorie Counter](apps/ios/shelgaon-ltd/kalo/README.md) | [Shelgaon Ltd](companies/shelgaon-ltd.md) | 1.6.9 | 24 |
 | <img src="assets/icons/ios/6474233312.png" width="20" height="20" alt="Kimi icon"> | [Kimi - Your Personal AI Agent](apps/ios/moonshot-ai/kimi/README.md) | [Moonshot AI](companies/moonshot-ai.md) | 3.1.6 | 82 |
 | <img src="assets/icons/ios/6472232952.png" width="20" height="20" alt="Koupon icon"> | [Koupon: Vouchers & Discounts](apps/ios/koupon-inc/koupon/README.md) | [Koupon Inc.](companies/koupon-inc.md) | 3.1.4 | 38 |
@@ -294,11 +295,12 @@ Google and Google LLC share the most apps, with 21 each. 154 of 200 companies ha
 | <img src="assets/icons/ios/350962117.png" width="20" height="20" alt="微博 icon"> | [微博](apps/ios/sina-corporation/weibo/README.md) | [SINA Corporation](companies/sina-corporation.md) | 16.10.2 | 51 |
 | <img src="assets/icons/ios/382201985.png" width="20" height="20" alt="百度-AI智能搜索 icon"> | [百度-AI智能搜索](apps/ios/beijing-baidu-netcom-science-technology-co-ltd/baidu/README.md) | [Beijing Baidu Netcom Science & Technology Co.,Ltd](companies/beijing-baidu-netcom-science-technology-co-ltd.md) | 15.81.0 | 188 |
 | <img src="assets/icons/ios/432274380.png" width="20" height="20" alt="知乎 icon"> | [知乎](apps/ios/beijing-zhizhetianxia-technology-co-ltd/zhihu/README.md) | [Beijing Zhizhetianxia Technology Co., Ltd.](companies/beijing-zhizhetianxia-technology-co-ltd.md) | 11.12.0 | 214 |
+| <img src="assets/icons/ios/6738063154.png" width="20" height="20" alt="네이버플러스 스토어 icon"> | [네이버플러스 스토어](apps/ios/naver-corp/app/README.md) | [NAVER Corp.](companies/naver-corp.md) | 2.9.11 | 49 |
 
 </details>
 
 <details>
-<summary>Android (163 apps)</summary>
+<summary>Android (164 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -306,7 +308,7 @@ Google and Google LLC share the most apps, with 21 each. 154 of 200 companies ha
 | <img src="assets/icons/android/com.alibaba.intl.android.apps.poseidon.png" width="20" height="20" alt="Alibaba.com icon"> | [Alibaba.com - B2B marketplace](apps/android/alibaba-mobile/alibaba-com/README.md) | [Alibaba Mobile](companies/alibaba-mobile.md) | 26.19.0 | 29 |
 | <img src="assets/icons/android/com.alibaba.aliexpresshd.png" width="20" height="20" alt="AliExpress icon"> | [AliExpress - Shopping App](apps/android/alibaba-mobile/aliexpress/README.md) | [Alibaba Mobile](companies/alibaba-mobile.md) | 8.180.1 | 24 |
 | <img src="assets/icons/android/com.amazon.mShop.android.shopping.png" width="20" height="20" alt="Amazon Shopping icon"> | [Amazon Shopping](apps/android/amazon-mobile-llc/amazon-shopping/README.md) | [Amazon Mobile LLC](companies/amazon-mobile-llc.md) | 32.11.0.100 | 39 |
-| <img src="assets/icons/android/com.aa.android.png" width="20" height="20" alt="American Airlines icon"> | [American Airlines](apps/android/american-airlines-inc/american-airlines/README.md) | [American Airlines, Inc.](companies/american-airlines-inc.md) | 2026.18 | 32 |
+| <img src="assets/icons/android/com.aa.android.png" width="20" height="20" alt="American Airlines icon"> | [American Airlines](apps/android/american-airlines-inc/american-airlines/README.md) | [American Airlines, Inc.](companies/american-airlines-inc.md) | 2026.33 | 34 |
 | <img src="assets/icons/android/co.astra_ai.app.twa.png" width="20" height="20" alt="Astra AI icon"> | [Astra AI: Study & Exam Prep](apps/android/astra-ai/astra-ai/README.md) | [Astra AI](companies/astra-ai.md) | 3.7.436 | 12 |
 | <img src="assets/icons/android/com.audible.application.png" width="20" height="20" alt="Audible icon"> | [Audible: Audiobooks & Podcasts](apps/android/audible-inc/audible/README.md) | [Audible, Inc.](companies/audible-inc.md) | 26.23.01 | 41 |
 | <img src="assets/icons/android/com.audiomack.png" width="20" height="20" alt="Audiomack icon"> | [Audiomack: Music Downloader](apps/android/audiomack-music-apps/audiomack/README.md) | [Audiomack Music Apps](companies/audiomack-music-apps.md) | 8.4.0 | 51 |
@@ -465,6 +467,7 @@ Google and Google LLC share the most apps, with 21 each. 154 of 200 companies ha
 | <img src="assets/icons/android/com.google.android.youtube.png" width="20" height="20" alt="YouTube icon"> | [YouTube](apps/android/google-llc/youtube/README.md) | [Google LLC](companies/google-llc.md) | 21.22.165 | 22 |
 | <img src="assets/icons/android/com.google.android.apps.youtube.music.png" width="20" height="20" alt="YouTube Music icon"> | [YouTube Music](apps/android/google-llc/youtube-music/README.md) | [Google LLC](companies/google-llc.md) | 9.22.53 | 19 |
 | <img src="assets/icons/android/com.zelle.fmattendance.png" width="20" height="20" alt="Zelle Track icon"> | [Zelle Track](apps/android/zelle-solutions/zelle-track/README.md) | [Zelle Solutions](companies/zelle-solutions.md) | 1.0.1 | 14 |
+| <img src="assets/icons/android/com.navercorp.navershopping.jpg" width="20" height="20" alt="네이버플러스 스토어 icon"> | [네이버플러스 스토어](apps/android/naver-corp/app/README.md) | [NAVER Corp.](companies/naver-corp.md) | 2.9.10 | 27 |
 
 </details>
 <!-- ts:end explore -->

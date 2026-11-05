@@ -13,13 +13,13 @@
 | Company | [American Airlines, Inc.](../../../../companies/american-airlines-inc.md) |
 | Store id | `com.aa.android` |
 | Bundle / package id | `com.aa.android` |
-| Latest version | 2026.18 (analysed 2026-06-25) |
-| Versions tracked | 1 |
-| SDKs in latest version | 32 |
+| Latest version | 2026.33 (analysed 2026-11-05) |
+| Versions tracked | 2 |
+| SDKs in latest version | 34 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Material Components, Picasso |
 | Build | Gradle (inferred), Packer/hardening: Google Play (pairip) anti-tamper |
-| Minimum OS | API 26, targets API 36 |
+| Minimum OS | API 29, targets API 37 |
 | Devices / ABIs | Android |
 | Capabilities | 10 |
 | Declares tracking | Yes |
@@ -31,10 +31,10 @@
 
 - **UI and rendering** (6): AndroidSVG, Coil, Glide, Jetpack Compose, Material Components, Picasso
 - **Analytics** (4): Adobe Experience Platform, Firebase Analytics, Google App Measurement, Qualtrics
+- **Crash and performance** (4): Firebase Crashlytics, Firebase Performance, Sentry, Sentry (native)
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
 - **Reactive and async** (3): Kotlin Coroutines, RxJava, RxJava 3
 - **Storage** (3): DataStore, Okio, Room
-- **Crash and performance** (2): Firebase Crashlytics, Firebase Performance
 - **Maps and location** (2): Google Location, Google Maps
 - **Messaging and push** (2): Airship, Firebase Messaging
 - **Networking** (2): OkHttp, Retrofit
@@ -55,13 +55,12 @@ Advertising ID, Approximate location, Bluetooth, Camera, Foreground service, NFC
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2026.33 | 2026-11-05 | 2026-10-30 | 34 | +2 / −0 | Yes | No | [2026.33.json](2026.33.json) |
 | 2026.18 | 2026-06-25 |  | 32 |  | Yes | No | [2026.18.json](2026.18.json) |
 
-## Model-written summary
+### SDK changes between versions
 
-> Android app with Jetpack Compose UI, MapLibre native maps, Firebase/Airship stack, Retrofit networking, and pairip anti-tamper
-
-<sub>Written by a language model from the detected signals (`inferred[]`). It is commentary, not measurement.</sub>
+- 2026.18 → 2026.33: added Sentry, Sentry (native)
 
 ---
 

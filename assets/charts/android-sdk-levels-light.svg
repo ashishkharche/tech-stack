@@ -25,14 +25,14 @@
 <rect x="255.2" y="216.3" width="12.6" height="3.7" rx="2" fill="#090A0B"/>
 <text x="261.5" y="211.3" font-size="11" text-anchor="middle" fill="#4D5755">2</text>
 <text x="268.8" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">25</text>
-<rect x="302.3" y="177.1" width="12.6" height="42.9" rx="2" fill="#090A0B"/>
-<text x="308.6" y="172.1" font-size="11" text-anchor="middle" fill="#4D5755">23</text>
+<rect x="302.3" y="179.0" width="12.6" height="41.0" rx="2" fill="#090A0B"/>
+<text x="308.6" y="174.0" font-size="11" text-anchor="middle" fill="#4D5755">22</text>
 <text x="315.9" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">26</text>
-<rect x="349.4" y="171.5" width="12.6" height="48.5" rx="2" fill="#090A0B"/>
-<text x="355.6" y="166.5" font-size="11" text-anchor="middle" fill="#4D5755">26</text>
+<rect x="349.4" y="169.6" width="12.6" height="50.4" rx="2" fill="#090A0B"/>
+<text x="355.6" y="164.6" font-size="11" text-anchor="middle" fill="#4D5755">27</text>
 <text x="362.9" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">28</text>
-<rect x="396.4" y="149.1" width="12.6" height="70.9" rx="2" fill="#090A0B"/>
-<text x="402.7" y="144.1" font-size="11" text-anchor="middle" fill="#4D5755">38</text>
+<rect x="396.4" y="147.3" width="12.6" height="72.7" rx="2" fill="#090A0B"/>
+<text x="402.7" y="142.3" font-size="11" text-anchor="middle" fill="#4D5755">39</text>
 <text x="410.0" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">29</text>
 <rect x="443.5" y="214.4" width="12.6" height="5.6" rx="2" fill="#090A0B"/>
 <text x="449.8" y="209.4" font-size="11" text-anchor="middle" fill="#4D5755">3</text>
@@ -57,8 +57,8 @@
 <rect x="740.4" y="54.0" width="12.6" height="166.0" rx="2" fill="#5F6A6C"/>
 <text x="746.7" y="49.0" font-size="11" text-anchor="middle" fill="#4D5755">89</text>
 <text x="739.4" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">36</text>
-<rect x="787.5" y="186.4" width="12.6" height="33.6" rx="2" fill="#5F6A6C"/>
-<text x="793.8" y="181.4" font-size="11" text-anchor="middle" fill="#4D5755">18</text>
+<rect x="787.5" y="184.6" width="12.6" height="35.4" rx="2" fill="#5F6A6C"/>
+<text x="793.8" y="179.6" font-size="11" text-anchor="middle" fill="#4D5755">19</text>
 <text x="786.5" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">37</text>
 </g>
 </svg>

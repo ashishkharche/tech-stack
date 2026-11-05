@@ -4,10 +4,10 @@
 
 The company name is the developer name on the store listing.
 
-**3** apps (3 iOS, 0 Android) · **4** versions · **17** distinct SDKs across their latest versions
+**4** apps (4 iOS, 0 Android) · **5** versions · **17** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/instagram-inc/edits/README.md"><img src="../assets/icons/ios/6738967378.png" width="56" height="56" alt="Edits icon"></a><br><a href="../apps/ios/instagram-inc/edits/README.md"><sub><b>Edits</b></sub></a><br><sub>iOS · 6 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/instagram-inc/instagram/README.md"><img src="../assets/icons/ios/389801252.png" width="56" height="56" alt="Instagram icon"></a><br><a href="../apps/ios/instagram-inc/instagram/README.md"><sub><b>Instagram</b></sub></a><br><sub>iOS · 13 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/instagram-inc/threads/README.md"><img src="../assets/icons/ios/6446901002.png" width="56" height="56" alt="Threads icon"></a><br><a href="../apps/ios/instagram-inc/threads/README.md"><sub><b>Threads</b></sub></a><br><sub>iOS · 10 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/instagram-inc/edits/README.md"><img src="../assets/icons/ios/6738967378.png" width="56" height="56" alt="Edits icon"></a><br><a href="../apps/ios/instagram-inc/edits/README.md"><sub><b>Edits</b></sub></a><br><sub>iOS · 6 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/instagram-inc/instagram/README.md"><img src="../assets/icons/ios/389801252.png" width="56" height="56" alt="Instagram icon"></a><br><a href="../apps/ios/instagram-inc/instagram/README.md"><sub><b>Instagram</b></sub></a><br><sub>iOS · 13 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/instagram-inc/instants-an-instagram-app/README.md"><img src="../assets/icons/ios/6756442328.png" width="56" height="56" alt="Instants icon"></a><br><a href="../apps/ios/instagram-inc/instants-an-instagram-app/README.md"><sub><b>Instants</b></sub></a><br><sub>iOS · 7 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/instagram-inc/threads/README.md"><img src="../assets/icons/ios/6446901002.png" width="56" height="56" alt="Threads icon"></a><br><a href="../apps/ios/instagram-inc/threads/README.md"><sub><b>Threads</b></sub></a><br><sub>iOS · 10 SDKs</sub></td></tr>
 </table>
 
 ## Apps
@@ -16,6 +16,7 @@ The company name is the developer name on the store listing.
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/ios/6738967378.png" width="20" height="20" alt="Edits icon"> | [Edits: Video Editor](../apps/ios/instagram-inc/edits/README.md) | iOS | 1 | 452.1.0 | 2026-10-24 | 6 | Yes |
 | <img src="../assets/icons/ios/389801252.png" width="20" height="20" alt="Instagram icon"> | [Instagram](../apps/ios/instagram-inc/instagram/README.md) | iOS | 1 | 432.0.0 | 2026-06-23 | 13 | Yes |
+| <img src="../assets/icons/ios/6756442328.png" width="20" height="20" alt="Instants icon"> | [Instants – an Instagram app](../apps/ios/instagram-inc/instants-an-instagram-app/README.md) | iOS | 1 | 454.0.0 | 2026-11-05 | 7 | Yes |
 | <img src="../assets/icons/ios/6446901002.png" width="20" height="20" alt="Threads icon"> | [Threads](../apps/ios/instagram-inc/threads/README.md) | iOS | 2 | 452.1.0 | 2026-10-23 | 10 | Yes |
 
 ## SDKs by category
@@ -28,14 +29,15 @@ Counted across the latest version of each app.
 
 | SDK | Apps |
 |---|---|
-| Facebook SDK | 3 of 3 |
-| FBBrowserIntegrityLoggingKit | 3 of 3 |
-| IGDrawKit | 3 of 3 |
-| libPhoneNumber | 3 of 3 |
-| BCNRefreshSounds | 2 of 3 |
-| Intercom | 2 of 3 |
-| libavcodec | 2 of 3 |
-| libavutil | 2 of 3 |
+| Facebook SDK | 4 of 4 |
+| FBBrowserIntegrityLoggingKit | 4 of 4 |
+| IGDrawKit | 4 of 4 |
+| libPhoneNumber | 4 of 4 |
+| BCNRefreshSounds | 3 of 4 |
+| Intercom | 3 of 4 |
+| libavcodec | 2 of 4 |
+| libavutil | 2 of 4 |
+| Mapbox | 2 of 4 |
 
 ---
 

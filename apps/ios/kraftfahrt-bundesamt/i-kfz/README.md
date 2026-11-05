@@ -50,7 +50,7 @@ Associated Domains (Universal Links), NFC
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 1.1.8 | 2026-11-05 |  | 4 |  | Yes | Yes | [1.1.8.json](1.1.8.json) |
+| 1.1.8 | 2026-11-05 | 2026-09-29 | 4 |  | Yes | Yes | [1.1.8.json](1.1.8.json) |
 
 ---
 
