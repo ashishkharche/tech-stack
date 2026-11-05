@@ -58,7 +58,7 @@ Associated Domains (Universal Links), Background Push, Push Notifications (APNs)
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 3.1.4 | 2026-11-04 |  | 38 |  | Yes | Yes | [3.1.4.json](3.1.4.json) |
+| 3.1.4 | 2026-11-04 | 2026-10-30 | 38 |  | Yes | Yes | [3.1.4.json](3.1.4.json) |
 
 ---
 

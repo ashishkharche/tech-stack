@@ -4,10 +4,10 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (0 iOS, 2 Android) · **3** versions · **44** distinct SDKs across their latest versions
+**2** apps (0 iOS, 2 Android) · **4** versions · **44** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/spacex-super-intelligence/grok/README.md"><img src="../assets/icons/android/ai.x.grok.png" width="56" height="56" alt="Grok icon"></a><br><a href="../apps/android/spacex-super-intelligence/grok/README.md"><sub><b>Grok</b></sub></a><br><sub>Android · 36 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/spacex-super-intelligence/grok-bot/README.md"><img src="../assets/icons/android/ai.x.grok.bot.png" width="56" height="56" alt="Grok Bot icon"></a><br><a href="../apps/android/spacex-super-intelligence/grok-bot/README.md"><sub><b>Grok Bot</b></sub></a><br><sub>Android · 20 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/spacex-super-intelligence/grok/README.md"><img src="../assets/icons/android/ai.x.grok.png" width="56" height="56" alt="Grok icon"></a><br><a href="../apps/android/spacex-super-intelligence/grok/README.md"><sub><b>Grok</b></sub></a><br><sub>Android · 36 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/spacex-super-intelligence/grok-bot/README.md"><img src="../assets/icons/android/ai.x.grok.bot.png" width="56" height="56" alt="Grok Bot icon"></a><br><a href="../apps/android/spacex-super-intelligence/grok-bot/README.md"><sub><b>Grok Bot</b></sub></a><br><sub>Android · 27 SDKs</sub></td></tr>
 </table>
 
 ## Apps
@@ -15,7 +15,7 @@ The company name is the developer name on the store listing.
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/android/ai.x.grok.png" width="20" height="20" alt="Grok icon"> | [Grok - AI Chat & Video](../apps/android/spacex-super-intelligence/grok/README.md) | Android | 2 | 1.2.53-release.00 | 2026-11-04 | 36 | Yes |
-| <img src="../assets/icons/android/ai.x.grok.bot.png" width="20" height="20" alt="Grok Bot icon"> | [Grok Bot](../apps/android/spacex-super-intelligence/grok-bot/README.md) | Android | 1 | 1.5.0 | 2026-09-02 | 20 | Yes |
+| <img src="../assets/icons/android/ai.x.grok.bot.png" width="20" height="20" alt="Grok Bot icon"> | [Grok Bot](../apps/android/spacex-super-intelligence/grok-bot/README.md) | Android | 2 | 1.19.1 | 2026-11-05 | 27 | Yes |
 
 ## SDKs by category
 
@@ -27,17 +27,24 @@ Counted across the latest version of each app.
 
 | SDK | Apps |
 |---|---|
+| AppsFlyer | 2 of 2 |
+| Braze | 2 of 2 |
+| Credential Manager | 2 of 2 |
 | DataStore | 2 of 2 |
 | Firebase | 2 of 2 |
 | Firebase Messaging | 2 of 2 |
 | Google DataTransport | 2 of 2 |
+| Google Location | 2 of 2 |
+| Google Maps | 2 of 2 |
 | Google Play Billing | 2 of 2 |
 | Google Play services | 2 of 2 |
 | Google Sign-In / Auth | 2 of 2 |
 | Jetpack Compose | 2 of 2 |
 | Material Components | 2 of 2 |
 | Media3 (ExoPlayer) | 2 of 2 |
+| ML Kit | 2 of 2 |
 | OkHttp | 2 of 2 |
+| Play Integrity | 2 of 2 |
 | Room | 2 of 2 |
 
 ---

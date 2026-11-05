@@ -61,7 +61,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 3.0.6 | 2026-11-04 |  | 51 |  | Yes | Yes | [3.0.6.json](3.0.6.json) |
+| 3.0.6 | 2026-11-04 | 2026-10-22 | 51 |  | Yes | Yes | [3.0.6.json](3.0.6.json) |
 
 ---
 

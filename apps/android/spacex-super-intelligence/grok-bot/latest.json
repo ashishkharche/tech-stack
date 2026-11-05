@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "1.5.0",
+  "version": "1.19.1",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-09-02T11:08:29Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "captured_at": "2026-11-05T04:34:58Z",
+    "store_first_seen_at": "2026-11-04T12:06:34Z",
+    "store_updated_at": "2026-11-04T06:47:46Z",
+    "exported_at": "2026-11-05T04:50:32Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -38,7 +38,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 20,
+    "sdk_count": 27,
     "languages": [
       "C/C++ (native)",
       "Java",
@@ -59,10 +59,10 @@
     ],
     "sdks": [
       {
-        "name": "Amplitude",
+        "name": "AppsFlyer",
         "version": null,
         "category": "analytics",
-        "confidence": "inferred"
+        "confidence": "observed"
       },
       {
         "name": "Branch",
@@ -89,6 +89,12 @@
         "confidence": "observed"
       },
       {
+        "name": "Credential Manager",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
         "name": "Google Sign-In / Auth",
         "version": null,
         "category": "auth",
@@ -101,15 +107,45 @@
         "confidence": "observed"
       },
       {
+        "name": "Braze",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
         "name": "Firebase Messaging",
         "version": null,
         "category": "messaging",
         "confidence": "observed"
       },
       {
+        "name": "Google Location",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Maps",
+        "version": null,
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
         "name": "Media3 (ExoPlayer)",
         "version": null,
         "category": "media",
+        "confidence": "observed"
+      },
+      {
+        "name": "ML Kit",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "ML Kit (barcode/vision)",
+        "version": null,
+        "category": "ml_ai",
         "confidence": "observed"
       },
       {
@@ -167,10 +203,16 @@
         "confidence": "observed"
       },
       {
-        "name": "react-native-svg",
+        "name": "React Native Reanimated",
         "version": null,
         "category": "rendering",
         "confidence": "inferred"
+      },
+      {
+        "name": "Play Integrity",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
       },
       {
         "name": "Statsig",
@@ -194,27 +236,42 @@
       "localization_count": null
     },
     "capabilities": [
+      "Advertising ID",
+      "Approximate location",
       "Biometric auth",
+      "Calendar (read)",
+      "Calendar (write)",
       "Camera",
+      "Contacts (read)",
+      "Contacts (write)",
       "Draw over other apps",
       "Fingerprint auth",
+      "Foreground service",
+      "Foreground service: microphone",
       "Microphone",
       "Notifications",
+      "Precise location",
       "Storage (write)"
     ],
     "privacy": {
       "declares_tracking": true,
-      "tracking_domain_count": 3,
+      "tracking_domain_count": 5,
       "collected_data_types": [],
       "required_reason_apis": [],
       "android_permissions": [
         "ai.x.grok.bot.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.CAMERA",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_MICROPHONE",
         "android.permission.INTERNET",
         "android.permission.MODIFY_AUDIO_SETTINGS",
         "android.permission.POST_NOTIFICATIONS",
         "android.permission.READ_APP_BADGE",
+        "android.permission.READ_CALENDAR",
+        "android.permission.READ_CONTACTS",
         "android.permission.RECEIVE_BOOT_COMPLETED",
         "android.permission.RECORD_AUDIO",
         "android.permission.SYSTEM_ALERT_WINDOW",
@@ -222,12 +279,16 @@
         "android.permission.USE_FINGERPRINT",
         "android.permission.VIBRATE",
         "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_CALENDAR",
+        "android.permission.WRITE_CONTACTS",
         "android.permission.WRITE_EXTERNAL_STORAGE",
         "com.anddoes.launcher.permission.UPDATE_COUNT",
+        "com.android.alarm.permission.SET_ALARM",
         "com.android.vending.BILLING",
         "com.android.vending.CHECK_LICENSE",
         "com.google.android.c2dm.permission.RECEIVE",
         "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID",
         "com.htc.launcher.permission.READ_SETTINGS",
         "com.htc.launcher.permission.UPDATE_SHORTCUT",
         "com.huawei.android.launcher.permission.CHANGE_BADGE",
@@ -236,6 +297,7 @@
         "com.majeur.launcher.permission.UPDATE_BADGE",
         "com.oppo.launcher.permission.READ_SETTINGS",
         "com.oppo.launcher.permission.WRITE_SETTINGS",
+        "com.samsung.android.mapsagent.permission.READ_APP_INFO",
         "com.sec.android.provider.badge.permission.READ",
         "com.sec.android.provider.badge.permission.WRITE",
         "com.sonyericsson.home.permission.BROADCAST_BADGE",
@@ -245,30 +307,5 @@
       ]
     }
   },
-  "inferred": [
-    {
-      "kind": "analysis",
-      "method": "model_written_summary_of_detected_signals",
-      "note": "Written by a language model from the analysis; treat as unverified.",
-      "generated_at": "2026-09-02T11:08:29Z",
-      "headline": null,
-      "insights": [
-        {
-          "theme": "ui",
-          "title": "Jetpack Compose with RN media stack",
-          "detail": "UI combines Jetpack Compose and Material Components with Fresco, Glide and react-native-svg for rendering and image handling."
-        },
-        {
-          "theme": "monetization",
-          "title": "Google Play services and billing",
-          "detail": "Depends on Google Play Billing, Play Core for updates and Firebase Messaging."
-        },
-        {
-          "theme": "notable",
-          "title": "Broad system permissions",
-          "detail": "Requests CAMERA, RECORD_AUDIO, SYSTEM_ALERT_WINDOW, USE_BIOMETRIC and WRITE_EXTERNAL_STORAGE among many others."
-        }
-      ]
-    }
-  ]
+  "inferred": []
 }

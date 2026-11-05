@@ -2,7 +2,7 @@
 
 # Companies
 
-194 companies. Each name is the developer name on the store listing.
+197 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | <img src="../assets/icons/ios/6752915724.png" width="20" height="20" alt="Kalo icon"> <img src="../assets/icons/ios/6813645709.png" width="20" height="20" alt="Workout Director icon"> | [Shelgaon Ltd](shelgaon-ltd.md) | 2 | 2 | 0 | 2 | 29 |
 | <img src="../assets/icons/ios/6670430706.png" width="20" height="20" alt="DramaWave icon"> <img src="../assets/icons/android/com.freereels.app.png" width="20" height="20" alt="FreeReels icon"> | [SKYWORK AI PTE.LTD.](skywork-ai-pte-ltd.md) | 2 | 1 | 1 | 2 | 124 |
 | <img src="../assets/icons/android/com.snapchat.android.png" width="20" height="20" alt="Snapchat icon"> <img src="../assets/icons/ios/447188370.png" width="20" height="20" alt="Snapchat icon"> | [Snap Inc](snap-inc.md) | 2 | 1 | 1 | 2 | 35 |
-| <img src="../assets/icons/android/ai.x.grok.png" width="20" height="20" alt="Grok icon"> <img src="../assets/icons/android/ai.x.grok.bot.png" width="20" height="20" alt="Grok Bot icon"> | [SpaceX Super Intelligence](spacex-super-intelligence.md) | 2 | 0 | 2 | 3 | 44 |
+| <img src="../assets/icons/android/ai.x.grok.png" width="20" height="20" alt="Grok icon"> <img src="../assets/icons/android/ai.x.grok.bot.png" width="20" height="20" alt="Grok Bot icon"> | [SpaceX Super Intelligence](spacex-super-intelligence.md) | 2 | 0 | 2 | 4 | 44 |
 | <img src="../assets/icons/android/com.suno.android.png" width="20" height="20" alt="Suno icon"> <img src="../assets/icons/ios/6480136315.png" width="20" height="20" alt="Suno icon"> | [Suno, Inc](suno-inc.md) | 2 | 1 | 1 | 2 | 67 |
 | <img src="../assets/icons/android/org.telegram.messenger.png" width="20" height="20" alt="Telegram icon"> <img src="../assets/icons/ios/686449807.png" width="20" height="20" alt="Telegram Messenger icon"> | [Telegram FZ-LLC](telegram-fz-llc.md) | 2 | 1 | 1 | 3 | 24 |
 | <img src="../assets/icons/android/com.einnovation.temu.png" width="20" height="20" alt="Temu icon"> <img src="../assets/icons/ios/1641486558.png" width="20" height="20" alt="Temu icon"> | [Temu](temu.md) | 2 | 1 | 1 | 3 | 50 |
@@ -63,6 +63,7 @@
 | <img src="../assets/icons/android/com.audiomack.png" width="20" height="20" alt="Audiomack icon"> | [Audiomack Music Apps](audiomack-music-apps.md) | 1 | 0 | 1 | 1 | 51 |
 | <img src="../assets/icons/ios/382201985.png" width="20" height="20" alt="百度-AI智能搜索 icon"> | [Beijing Baidu Netcom Science & Technology Co.,Ltd](beijing-baidu-netcom-science-technology-co-ltd.md) | 1 | 1 | 0 | 1 | 188 |
 | <img src="../assets/icons/ios/432274380.png" width="20" height="20" alt="知乎 icon"> | [Beijing Zhizhetianxia Technology Co., Ltd.](beijing-zhizhetianxia-technology-co-ltd.md) | 1 | 1 | 0 | 1 | 214 |
+| <img src="../assets/icons/android/ma.safe.bn.jpg" width="20" height="20" alt="Breaking News icon"> | [Beloud.com](beloud-com.md) | 1 | 0 | 1 | 1 | 28 |
 | <img src="../assets/icons/ios/1470373330.png" width="20" height="20" alt="Remini icon"> | [BENDING SPOONS OPERATIONS SPA](bending-spoons-operations-spa.md) | 1 | 1 | 0 | 2 | 87 |
 | <img src="../assets/icons/ios/1459645446.png" width="20" height="20" alt="BeReal icon"> | [BeReal](bereal.md) | 1 | 1 | 0 | 3 | 124 |
 | <img src="../assets/icons/android/com.booking.png" width="20" height="20" alt="Booking.com icon"> | [Booking.com Hotels & Vacation Rentals](booking-com-hotels-vacation-rentals.md) | 1 | 0 | 1 | 1 | 45 |
@@ -140,6 +141,7 @@
 | <img src="../assets/icons/ios/751712884.png" width="20" height="20" alt="PlutoTV icon"> | [Pluto.tv](pluto-tv.md) | 1 | 1 | 0 | 1 | 39 |
 | <img src="../assets/icons/android/com.usepepper.kohlwholesaleapp.png" width="20" height="20" alt="Kohl Wholesale icon"> | [Pomegranate Technologies](pomegranate-technologies.md) | 1 | 0 | 1 | 1 | 40 |
 | <img src="../assets/icons/ios/1556928106.png" width="20" height="20" alt="Posh icon"> | [Posh Group Inc.](posh-group-inc.md) | 1 | 1 | 0 | 2 | 32 |
+| <img src="../assets/icons/ios/6468981790.png" width="20" height="20" alt="Bring Tracking icon"> | [Posten](posten.md) | 1 | 1 | 0 | 1 | 24 |
 | <img src="../assets/icons/ios/1436732536.png" width="20" height="20" alt="Lensa AI icon"> | [Prisma labs, inc.](prisma-labs-inc.md) | 1 | 1 | 0 | 1 | 68 |
 | <img src="../assets/icons/android/com.qobuz.music.png" width="20" height="20" alt="Qobuz icon"> | [Qobuz](qobuz.md) | 1 | 0 | 1 | 1 | 24 |
 | <img src="../assets/icons/ios/1640745955.png" width="20" height="20" alt="Poe icon"> | [Quora, Inc.](quora-inc.md) | 1 | 1 | 0 | 1 | 22 |
@@ -154,6 +156,7 @@
 | <img src="../assets/icons/ios/392796698.png" width="20" height="20" alt="GroupMe icon"> | [Skype Communications S.a.r.l](skype-communications-s-a-r-l.md) | 1 | 1 | 0 | 1 | 76 |
 | <img src="../assets/icons/android/net.skyscanner.android.main.png" width="20" height="20" alt="Skyscanner Flights Hotels Cars icon"> | [Skyscanner Ltd](skyscanner-ltd.md) | 1 | 0 | 1 | 1 | 34 |
 | <img src="../assets/icons/android/com.sling.airtvmini.png" width="20" height="20" alt="SLING icon"> | [Sling TV](sling-tv.md) | 1 | 0 | 1 | 1 | 27 |
+| <img src="../assets/icons/ios/587794258.png" width="20" height="20" alt="Sony LIV icon"> | [SONY PICTURES NETWORKS INDIA PVT LTD](sony-pictures-networks-india-pvt-ltd.md) | 1 | 1 | 0 | 1 | 53 |
 | <img src="../assets/icons/android/com.soundcloud.android.png" width="20" height="20" alt="SoundCloud icon"> | [SoundCloud](soundcloud.md) | 1 | 0 | 1 | 1 | 43 |
 | <img src="../assets/icons/ios/336353151.png" width="20" height="20" alt="SoundCloud icon"> | [SoundCloud Global Limited & Co KG](soundcloud-global-limited-co-kg.md) | 1 | 1 | 0 | 1 | 51 |
 | <img src="../assets/icons/android/com.southwestairlines.mobile.png" width="20" height="20" alt="Southwest Airlines icon"> | [Southwest Airlines](southwest-airlines.md) | 1 | 0 | 1 | 1 | 35 |

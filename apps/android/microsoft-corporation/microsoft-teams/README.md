@@ -56,7 +56,7 @@ Approximate location, Bluetooth, Bluetooth (connect), Bluetooth (scan), Camera, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 1416/1.0.0.2026202302 | 2026-11-04 |  | 35 | +0 / −1 | No | No | [1416_1.0.0.2026202302.json](1416_1.0.0.2026202302.json) |
+| 1416/1.0.0.2026202302 | 2026-11-04 | 2026-10-29 | 35 | +0 / −1 | No | No | [1416_1.0.0.2026202302.json](1416_1.0.0.2026202302.json) |
 | 1416/1.0.0.2026082702 | 2026-06-19 |  | 36 |  | No | No | [1416_1.0.0.2026082702.json](1416_1.0.0.2026082702.json) |
 
 ### SDK changes between versions

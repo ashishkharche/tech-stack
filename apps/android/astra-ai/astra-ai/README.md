@@ -49,7 +49,7 @@ Advertising ID, Notifications
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 3.7.436 | 2026-11-04 |  | 12 |  | Yes | No | [3.7.436.json](3.7.436.json) |
+| 3.7.436 | 2026-11-04 | 2026-11-02 | 12 |  | Yes | No | [3.7.436.json](3.7.436.json) |
 
 ---
 
