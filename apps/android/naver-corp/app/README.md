@@ -52,7 +52,7 @@ Advertising ID, Approximate location, Biometric auth, Camera, Contacts (read), D
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 2.9.10 | 2026-11-05 |  | 27 |  | No | No | [2.9.10.json](2.9.10.json) |
+| 2.9.10 | 2026-11-05 | 2026-10-29 | 27 |  | No | No | [2.9.10.json](2.9.10.json) |
 
 ---
 

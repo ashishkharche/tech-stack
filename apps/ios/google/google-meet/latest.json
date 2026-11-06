@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "382.1",
+  "version": "383.1",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-02T00:31:05Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-04T16:56:41Z"
+    "captured_at": "2026-11-05T20:23:49Z",
+    "store_first_seen_at": "2026-11-04T00:00:13Z",
+    "store_updated_at": "2026-11-03T18:25:10Z",
+    "exported_at": "2026-11-06T14:13:26Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -162,7 +162,7 @@
       },
       {
         "name": "SystemIcons",
-        "version": "26.42",
+        "version": "26.43",
         "category": "other",
         "confidence": "observed"
       }

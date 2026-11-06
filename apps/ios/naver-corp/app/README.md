@@ -59,7 +59,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
-| 2.9.11 | 2026-11-05 |  | 49 |  | Yes | Yes | [2.9.11.json](2.9.11.json) |
+| 2.9.11 | 2026-11-05 | 2026-11-05 | 49 |  | Yes | Yes | [2.9.11.json](2.9.11.json) |
 
 ---
 

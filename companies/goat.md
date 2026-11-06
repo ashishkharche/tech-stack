@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **34** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **34** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/goat/goat/README.md"><img src="../assets/icons/android/com.airgoat.goat.png" width="56" height="56" alt="GOAT icon"></a><br><a href="../apps/android/goat/goat/README.md"><sub><b>GOAT</b></sub></a><br><sub>Android · 34 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.airgoat.goat.png" width="20" height="20" alt="GOAT icon"> | [GOAT – Sneakers & Apparel](../apps/android/goat/goat/README.md) | Android | 1 | 2.11.0 | 2026-06-19 | 34 | Yes |
+| <img src="../assets/icons/android/com.airgoat.goat.png" width="20" height="20" alt="GOAT icon"> | [GOAT – Sneakers & Apparel](../apps/android/goat/goat/README.md) | Android | 2 | 2.14.2 | 2026-11-05 | 34 | Yes |
 
 ## SDKs by category
 

@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (0 iOS, 2 Android) · **3** versions · **31** distinct SDKs across their latest versions
+**2** apps (0 iOS, 2 Android) · **4** versions · **32** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/alibaba-mobile/alibaba-com/README.md"><img src="../assets/icons/android/com.alibaba.intl.android.apps.poseidon.png" width="56" height="56" alt="Alibaba.com icon"></a><br><a href="../apps/android/alibaba-mobile/alibaba-com/README.md"><sub><b>Alibaba.com</b></sub></a><br><sub>Android · 29 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/alibaba-mobile/aliexpress/README.md"><img src="../assets/icons/android/com.alibaba.aliexpresshd.png" width="56" height="56" alt="AliExpress icon"></a><br><a href="../apps/android/alibaba-mobile/aliexpress/README.md"><sub><b>AliExpress</b></sub></a><br><sub>Android · 24 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/alibaba-mobile/alibaba-com/README.md"><img src="../assets/icons/android/com.alibaba.intl.android.apps.poseidon.png" width="56" height="56" alt="Alibaba.com icon"></a><br><a href="../apps/android/alibaba-mobile/alibaba-com/README.md"><sub><b>Alibaba.com</b></sub></a><br><sub>Android · 30 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/alibaba-mobile/aliexpress/README.md"><img src="../assets/icons/android/com.alibaba.aliexpresshd.png" width="56" height="56" alt="AliExpress icon"></a><br><a href="../apps/android/alibaba-mobile/aliexpress/README.md"><sub><b>AliExpress</b></sub></a><br><sub>Android · 24 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.alibaba.intl.android.apps.poseidon.png" width="20" height="20" alt="Alibaba.com icon"> | [Alibaba.com - B2B marketplace](../apps/android/alibaba-mobile/alibaba-com/README.md) | Android | 1 | 26.19.0 | 2026-06-19 | 29 | Yes |
+| <img src="../assets/icons/android/com.alibaba.intl.android.apps.poseidon.png" width="20" height="20" alt="Alibaba.com icon"> | [Alibaba.com - B2B marketplace](../apps/android/alibaba-mobile/alibaba-com/README.md) | Android | 2 | 26.38.0 | 2026-11-06 | 30 | Yes |
 | <img src="../assets/icons/android/com.alibaba.aliexpresshd.png" width="20" height="20" alt="AliExpress icon"> | [AliExpress - Shopping App](../apps/android/alibaba-mobile/aliexpress/README.md) | Android | 2 | 8.180.1 | 2026-11-01 | 24 | Yes |
 
 ## SDKs by category

@@ -13,15 +13,15 @@
 | Company | [Alibaba Mobile](../../../../companies/alibaba-mobile.md) |
 | Store id | `com.alibaba.intl.android.apps.poseidon` |
 | Bundle / package id | `com.alibaba.intl.android.apps.poseidon` |
-| Latest version | 26.19.0 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 29 |
+| Latest version | 26.38.0 (analysed 2026-11-06) |
+| Versions tracked | 2 |
+| SDKs in latest version | 30 |
 | Languages | C/C++ (native), Flutter / Dart, Java, Kotlin |
 | UI | Glide, Jetpack Compose, Lottie, Material Components |
 | Build | Gradle (inferred) |
-| Minimum OS | API 21, targets API 35 |
+| Minimum OS | API 24, targets API 36 |
 | Devices / ABIs | Android |
-| Capabilities | 16 |
+| Capabilities | 14 |
 | Declares tracking | Yes |
 | Tracked | Yes |
 
@@ -29,26 +29,24 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/alibaba-mobile/alibaba-com-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/alibaba-mobile/alibaba-com-light.svg"></picture>
 
-- **UI and rendering** (4): Glide, Jetpack Compose, Lottie, Material Components
+- **UI and rendering** (7): AndroidSVG, Glide, Jetpack Compose, jLaTeXMath, Lottie, Markwon, Material Components
 - **Analytics** (3): Facebook SDK, Firebase Analytics, Google App Measurement
 - **Sign-in and auth** (3): Credential Manager, Facebook Login, Google Sign-In / Auth
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
 - **Storage** (3): greenDAO, Okio, Room
 - **Maps and location** (2): Google Location, Google Maps
-- **ML and AI** (2): ML Kit, TensorFlow
 - **Networking** (2): OkHttp, Retrofit
+- **Payments** (2): Braintree, Google Play Billing
 - **Ads** (1): Google Mobile Ads (AdMob)
 - **Media** (1): ijkplayer
 - **Messaging and push** (1): Firebase Messaging
-- **Payments** (1): Braintree
 - **Reactive and async** (1): Kotlin Coroutines
 - **Social** (1): Facebook Share
-- **Voice** (1): WebRTC
 
 <details>
-<summary>Capabilities (16)</summary>
+<summary>Capabilities (14)</summary>
 
-Advertising ID, Approximate location, Bluetooth, Bluetooth (connect), Camera, Draw over other apps, Foreground service, Media: audio, Media: images, Media: video, Microphone, Notifications, Phone / carrier info, Precise location, Storage (read), Storage (write)
+Advertising ID, Approximate location, Bluetooth, Bluetooth (connect), Camera, Draw over other apps, Foreground service, Media: images, Media: video, Microphone, Notifications, Precise location, Storage (read), Storage (write)
 
 </details>
 
@@ -56,13 +54,12 @@ Advertising ID, Approximate location, Bluetooth, Bluetooth (connect), Camera, Dr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 26.38.0 | 2026-11-06 | 2026-11-03 | 30 | +4 / −3 | No | No | [26.38.0.json](26.38.0.json) |
 | 26.19.0 | 2026-06-19 |  | 29 |  | No | No | [26.19.0.json](26.19.0.json) |
 
-## Model-written summary
+### SDK changes between versions
 
-> Hybrid Flutter Android B2B app with MNN/TFLite ML, root detection, Jetpack Compose, and Alibaba AI backends
-
-<sub>Written by a language model from the detected signals (`inferred[]`). It is commentary, not measurement.</sub>
+- 26.19.0 → 26.38.0: added AndroidSVG, Google Play Billing, jLaTeXMath, Markwon; removed ML Kit, TensorFlow, WebRTC
 
 ---
 

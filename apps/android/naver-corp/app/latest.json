@@ -19,9 +19,9 @@
   "public_store_build": true,
   "dates": {
     "captured_at": "2026-11-05T17:09:07Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-05T17:18:48Z"
+    "store_first_seen_at": "2026-11-06T00:00:06Z",
+    "store_updated_at": "2026-10-29T07:25:14Z",
+    "exported_at": "2026-11-06T14:13:26Z"
   },
   "source": {
     "kind": "static_binary_analysis",

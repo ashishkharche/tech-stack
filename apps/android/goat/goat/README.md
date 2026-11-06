@@ -13,15 +13,15 @@
 | Company | [GOAT](../../../../companies/goat.md) |
 | Store id | `com.airgoat.goat` |
 | Bundle / package id | `com.airgoat.goat` |
-| Latest version | 2.11.0 (analysed 2026-06-19) |
-| Versions tracked | 1 |
+| Latest version | 2.14.2 (analysed 2026-11-05) |
+| Versions tracked | 2 |
 | SDKs in latest version | 34 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Material Components |
 | Build | Gradle (inferred) |
 | Minimum OS | API 29, targets API 36 |
 | Devices / ABIs | Android |
-| Capabilities | 5 |
+| Capabilities | 6 |
 | Declares tracking | Yes |
 | Tracked | Yes |
 
@@ -47,9 +47,9 @@
 - **Telephony** (1): libphonenumber
 
 <details>
-<summary>Capabilities (5)</summary>
+<summary>Capabilities (6)</summary>
 
-Advertising ID, Approximate location, Camera, Foreground service, Notifications
+Advertising ID, Approximate location, Camera, Foreground service, NFC, Notifications
 
 </details>
 
@@ -57,6 +57,7 @@ Advertising ID, Approximate location, Camera, Foreground service, Notifications
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2.14.2 | 2026-11-05 | 2026-10-05 | 34 | +0 / −0 | No | No | [2.14.2.json](2.14.2.json) |
 | 2.11.0 | 2026-06-19 |  | 34 |  | No | No | [2.11.0.json](2.11.0.json) |
 
 ---

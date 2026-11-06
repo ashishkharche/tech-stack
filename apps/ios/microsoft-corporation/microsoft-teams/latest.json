@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "8.19.2",
+  "version": "8.19.3",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-02T00:50:39Z",
-    "store_first_seen_at": "2026-10-31T00:18:03Z",
-    "store_updated_at": "2026-10-30T16:02:33Z",
-    "exported_at": "2026-11-02T02:53:24Z"
+    "captured_at": "2026-11-06T13:44:12Z",
+    "store_first_seen_at": "2026-11-06T00:00:06Z",
+    "store_updated_at": "2026-11-05T01:39:22Z",
+    "exported_at": "2026-11-06T14:13:26Z"
   },
   "source": {
     "kind": "static_binary_analysis",

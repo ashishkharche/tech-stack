@@ -42,26 +42,26 @@
 <text x="375.6" y="247" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
 <rect x="478.7" y="234" width="97.1" height="16" rx="3" fill="#F1F6F3"/>
 <text x="581.8" y="247" font-size="12" fill="#A9B2BC">2</text>
-<text x="145.44" y="272" font-size="13" text-anchor="end" fill="#F1F6F3">Auth0</text>
-<rect x="381.6" y="259" width="97.1" height="16" rx="3" fill="#5F6A6C"/>
-<text x="375.6" y="272" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
-<rect x="478.7" y="259" width="48.5" height="16" rx="3" fill="#F1F6F3"/>
-<text x="533.3" y="272" font-size="12" fill="#A9B2BC">1</text>
-<text x="145.44" y="297" font-size="13" text-anchor="end" fill="#F1F6F3">Cronet (Google)</text>
-<rect x="478.7" y="284" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
-<text x="630.4" y="297" font-size="12" fill="#A9B2BC">3</text>
-<text x="145.44" y="322" font-size="13" text-anchor="end" fill="#F1F6F3">DatadogCore</text>
-<rect x="381.6" y="309" width="97.1" height="16" rx="3" fill="#5F6A6C"/>
-<text x="375.6" y="322" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
-<rect x="478.7" y="309" width="48.5" height="16" rx="3" fill="#F1F6F3"/>
-<text x="533.3" y="322" font-size="12" fill="#A9B2BC">1</text>
-<text x="145.44" y="347" font-size="13" text-anchor="end" fill="#F1F6F3">FirebaseCore</text>
-<rect x="430.2" y="334" width="48.5" height="16" rx="3" fill="#5F6A6C"/>
-<text x="424.2" y="347" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
-<rect x="478.7" y="334" width="97.1" height="16" rx="3" fill="#F1F6F3"/>
-<text x="581.8" y="347" font-size="12" fill="#A9B2BC">2</text>
-<text x="145.44" y="372" font-size="13" text-anchor="end" fill="#F1F6F3">libphonenumber</text>
-<rect x="478.7" y="359" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
-<text x="630.4" y="372" font-size="12" fill="#A9B2BC">3</text>
+<text x="145.44" y="272" font-size="13" text-anchor="end" fill="#F1F6F3">TensorFlow</text>
+<rect x="284.5" y="259" width="194.2" height="16" rx="3" fill="#5F6A6C"/>
+<text x="278.5" y="272" font-size="12" text-anchor="end" fill="#A9B2BC">4</text>
+<text x="145.44" y="297" font-size="13" text-anchor="end" fill="#F1F6F3">Auth0</text>
+<rect x="381.6" y="284" width="97.1" height="16" rx="3" fill="#5F6A6C"/>
+<text x="375.6" y="297" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
+<rect x="478.7" y="284" width="48.5" height="16" rx="3" fill="#F1F6F3"/>
+<text x="533.3" y="297" font-size="12" fill="#A9B2BC">1</text>
+<text x="145.44" y="322" font-size="13" text-anchor="end" fill="#F1F6F3">Cronet (Google)</text>
+<rect x="478.7" y="309" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
+<text x="630.4" y="322" font-size="12" fill="#A9B2BC">3</text>
+<text x="145.44" y="347" font-size="13" text-anchor="end" fill="#F1F6F3">DatadogCore</text>
+<rect x="381.6" y="334" width="97.1" height="16" rx="3" fill="#5F6A6C"/>
+<text x="375.6" y="347" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
+<rect x="478.7" y="334" width="48.5" height="16" rx="3" fill="#F1F6F3"/>
+<text x="533.3" y="347" font-size="12" fill="#A9B2BC">1</text>
+<text x="145.44" y="372" font-size="13" text-anchor="end" fill="#F1F6F3">FirebaseCore</text>
+<rect x="430.2" y="359" width="48.5" height="16" rx="3" fill="#5F6A6C"/>
+<text x="424.2" y="372" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
+<rect x="478.7" y="359" width="97.1" height="16" rx="3" fill="#F1F6F3"/>
+<text x="581.8" y="372" font-size="12" fill="#A9B2BC">2</text>
 </g>
 </svg>

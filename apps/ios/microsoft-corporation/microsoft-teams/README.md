@@ -13,8 +13,8 @@
 | Company | [Microsoft Corporation](../../../../companies/microsoft-corporation.md) |
 | Store id | `1113153706` |
 | Bundle / package id | `com.microsoft.skype.teams` |
-| Latest version | 8.19.2 (analysed 2026-11-02) |
-| Versions tracked | 2 |
+| Latest version | 8.19.3 (analysed 2026-11-06) |
+| Versions tracked | 3 |
 | SDKs in latest version | 51 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -56,6 +56,7 @@ App Attest, App Groups, Associated Domains (Universal Links), Background App Ref
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 8.19.3 | 2026-11-06 | 2026-11-05 | 51 | +0 / −0 | Yes | Yes | [8.19.3.json](8.19.3.json) |
 | 8.19.2 | 2026-11-02 | 2026-10-30 | 51 | +0 / −0 | Yes | Yes | [8.19.2.json](8.19.2.json) |
 | 8.19.1 | 2026-10-24 | 2026-10-23 | 51 |  | Yes | Yes | [8.19.1.json](8.19.1.json) |
 
