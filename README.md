@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">351 apps · 466 versions · 232 companies · 4,329 SDKs</p>
+<p align="center">352 apps · 467 versions · 232 companies · 4,329 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 177 of 179 iOS apps, and Jetpack Compose is in 132 of 172 Android apps. 87 apps also use a cross-platform runtime.
+SwiftUI is in 177 of 179 iOS apps, and Jetpack Compose is in 133 of 173 Android apps. 87 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 177 of 179 iOS apps, and Jetpack Compose is in 132 of 172 Android 
 
 ## What most apps ship
 
-Firebase is in 229 of 351 apps. 77% of apps ship at least one analytics SDK.
+Firebase is in 230 of 352 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -51,9 +51,9 @@ The median app ships 35 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 <br>
 
-**The same app on both stores (16 largest of 69)**
+**The same app on both stores (16 largest of 70)**
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/both-platforms-dark.svg"><img alt="The same app on both stores (16 largest of 69)" src="assets/charts/both-platforms-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/both-platforms-dark.svg"><img alt="The same app on both stores (16 largest of 70)" src="assets/charts/both-platforms-light.svg"></picture>
 
 <br>
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 185 of 232 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 184 of 232 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,8 +129,8 @@ Google and Google LLC share the most apps, with 21 each. 185 of 232 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><img src="assets/icons/ios/1410703839.png" width="56" height="56" alt="Trade Republic icon"></a><br><a href="apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><sub><b>Trade Republic</b></sub></a><br><sub>iOS · 2026-11-12</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hanlong-group-hk-limited/pdf-reader-annotate-on-pdf/README.md"><img src="assets/icons/android/com.ebookpdf.pdfreaderpro.allpdfviewer.png" width="56" height="56" alt="PDF Reader, Annotate on PDF icon"></a><br><a href="apps/android/hanlong-group-hk-limited/pdf-reader-annotate-on-pdf/README.md"><sub><b>PDF Reader, Annotate on PDF</b></sub></a><br><sub>Android · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gouvernement-francais/france-identit/README.md"><img src="assets/icons/ios/1590142959.png" width="56" height="56" alt="France Identité icon"></a><br><a href="apps/ios/gouvernement-francais/france-identit/README.md"><sub><b>France Identité</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gie-sesam-vitale/carte-vitale/README.md"><img src="assets/icons/ios/1458351041.png" width="56" height="56" alt="Carte Vitale icon"></a><br><a href="apps/ios/gie-sesam-vitale/carte-vitale/README.md"><sub><b>Carte Vitale</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><img src="assets/icons/ios/1343581380.png" width="56" height="56" alt="VN icon"></a><br><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><sub><b>VN</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/duolingo/duolingo/README.md"><img src="assets/icons/android/com.duolingo.png" width="56" height="56" alt="Duolingo icon"></a><br><a href="apps/android/duolingo/duolingo/README.md"><sub><b>Duolingo</b></sub></a><br><sub>Android · 2026-11-11</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/amo/bump/README.md"><img src="assets/icons/ios/6471519217.png" width="56" height="56" alt="Bump icon"></a><br><a href="apps/ios/amo/bump/README.md"><sub><b>Bump</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/chengdu-dance-elephant-technology-co-ltd/faceally/README.md"><img src="assets/icons/ios/6618119931.png" width="56" height="56" alt="FaceAlly icon"></a><br><a href="apps/ios/chengdu-dance-elephant-technology-co-ltd/faceally/README.md"><sub><b>FaceAlly</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><img src="assets/icons/ios/1288723196.png" width="56" height="56" alt="Microsoft Edge icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><sub><b>Microsoft Edge</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/apcoa-gmbh/apcoa-flow/README.md"><img src="assets/icons/android/com.europark.mobilparkering.png" width="56" height="56" alt="APCOA FLOW icon"></a><br><a href="apps/android/apcoa-gmbh/apcoa-flow/README.md"><sub><b>APCOA FLOW</b></sub></a><br><sub>Android · 2026-11-10</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/parkin-pjsc/parkin/README.md"><img src="assets/icons/ios/6657993734.png" width="56" height="56" alt="Parkin icon"></a><br><a href="apps/ios/parkin-pjsc/parkin/README.md"><sub><b>Parkin</b></sub></a><br><sub>iOS · 2026-11-10</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/mohammed-bin-halabi/q/README.md"><img src="assets/icons/ios/6754709202.png" width="56" height="56" alt="Q | كيو icon"></a><br><a href="apps/ios/mohammed-bin-halabi/q/README.md"><sub><b>Q | كيو</b></sub></a><br><sub>iOS · 2026-11-10</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/trade-republic-bank-gmbh/trade-republic/README.md"><img src="assets/icons/android/de.traderepublic.app.png" width="56" height="56" alt="Trade Republic icon"></a><br><a href="apps/android/trade-republic-bank-gmbh/trade-republic/README.md"><sub><b>Trade Republic</b></sub></a><br><sub>Android · 2026-11-12</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><img src="assets/icons/ios/1410703839.png" width="56" height="56" alt="Trade Republic icon"></a><br><a href="apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><sub><b>Trade Republic</b></sub></a><br><sub>iOS · 2026-11-12</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hanlong-group-hk-limited/pdf-reader-annotate-on-pdf/README.md"><img src="assets/icons/android/com.ebookpdf.pdfreaderpro.allpdfviewer.png" width="56" height="56" alt="PDF Reader, Annotate on PDF icon"></a><br><a href="apps/android/hanlong-group-hk-limited/pdf-reader-annotate-on-pdf/README.md"><sub><b>PDF Reader, Annotate on PDF</b></sub></a><br><sub>Android · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gouvernement-francais/france-identit/README.md"><img src="assets/icons/ios/1590142959.png" width="56" height="56" alt="France Identité icon"></a><br><a href="apps/ios/gouvernement-francais/france-identit/README.md"><sub><b>France Identité</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gie-sesam-vitale/carte-vitale/README.md"><img src="assets/icons/ios/1458351041.png" width="56" height="56" alt="Carte Vitale icon"></a><br><a href="apps/ios/gie-sesam-vitale/carte-vitale/README.md"><sub><b>Carte Vitale</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><img src="assets/icons/ios/1343581380.png" width="56" height="56" alt="VN icon"></a><br><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><sub><b>VN</b></sub></a><br><sub>iOS · 2026-11-11</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/duolingo/duolingo/README.md"><img src="assets/icons/android/com.duolingo.png" width="56" height="56" alt="Duolingo icon"></a><br><a href="apps/android/duolingo/duolingo/README.md"><sub><b>Duolingo</b></sub></a><br><sub>Android · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/amo/bump/README.md"><img src="assets/icons/ios/6471519217.png" width="56" height="56" alt="Bump icon"></a><br><a href="apps/ios/amo/bump/README.md"><sub><b>Bump</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/chengdu-dance-elephant-technology-co-ltd/faceally/README.md"><img src="assets/icons/ios/6618119931.png" width="56" height="56" alt="FaceAlly icon"></a><br><a href="apps/ios/chengdu-dance-elephant-technology-co-ltd/faceally/README.md"><sub><b>FaceAlly</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><img src="assets/icons/ios/1288723196.png" width="56" height="56" alt="Microsoft Edge icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><sub><b>Microsoft Edge</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/apcoa-gmbh/apcoa-flow/README.md"><img src="assets/icons/android/com.europark.mobilparkering.png" width="56" height="56" alt="APCOA FLOW icon"></a><br><a href="apps/android/apcoa-gmbh/apcoa-flow/README.md"><sub><b>APCOA FLOW</b></sub></a><br><sub>Android · 2026-11-10</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/parkin-pjsc/parkin/README.md"><img src="assets/icons/ios/6657993734.png" width="56" height="56" alt="Parkin icon"></a><br><a href="apps/ios/parkin-pjsc/parkin/README.md"><sub><b>Parkin</b></sub></a><br><sub>iOS · 2026-11-10</sub></td></tr>
 </table>
 
 ### All apps
@@ -323,7 +323,7 @@ Google and Google LLC share the most apps, with 21 each. 185 of 232 companies ha
 </details>
 
 <details>
-<summary>Android (172 apps)</summary>
+<summary>Android (173 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -476,6 +476,7 @@ Google and Google LLC share the most apps, with 21 each. 185 of 232 companies ha
 | <img src="assets/icons/android/com.zhiliaoapp.musically.png" width="20" height="20" alt="TikTok icon"> | [TikTok - Videos, Shop & LIVE](apps/android/tiktok-pte-ltd/tiktok/README.md) | [TikTok Pte. Ltd.](companies/tiktok-pte-ltd.md) | 45.5.1 | 31 |
 | <img src="assets/icons/android/com.tiktok.lite.go.png" width="20" height="20" alt="TikTok Lite icon"> | [TikTok Lite - Faster TikTok](apps/android/tiktok-pte-ltd/tiktok-lite/README.md) | [TikTok Pte. Ltd.](companies/tiktok-pte-ltd.md) | 47.5.52 | 17 |
 | <img src="assets/icons/android/com.ss.android.ugc.tiktok.pro.png" width="20" height="20" alt="TikTok Pro icon"> | [TikTok Pro - Events](apps/android/tiktok-pte-ltd/tiktok-pro/README.md) | [TikTok Pte. Ltd.](companies/tiktok-pte-ltd.md) | 47.4.3 | 21 |
+| <img src="assets/icons/android/de.traderepublic.app.png" width="20" height="20" alt="Trade Republic icon"> | [Trade Republic: Broker & Bank](apps/android/trade-republic-bank-gmbh/trade-republic/README.md) | [Trade Republic Bank GmbH](companies/trade-republic-bank-gmbh.md) | 4.2645.1 | 50 |
 | <img src="assets/icons/android/ctrip.english.png" width="20" height="20" alt="Trip.com icon"> | [Trip.com: Book Flights, Hotels](apps/android/trip-com/trip-com/README.md) | [Trip.com](companies/trip-com.md) | 8.59.0 | 37 |
 | <img src="assets/icons/android/com.tripadvisor.tripadvisor.png" width="20" height="20" alt="Tripadvisor icon"> | [Tripadvisor: Plan & Book Trips](apps/android/tripadvisor/tripadvisor/README.md) | [Tripadvisor](companies/tripadvisor.md) | 68.5 | 35 |
 | <img src="assets/icons/android/com.tubitv.png" width="20" height="20" alt="Tubi icon"> | [Tubi: Free Movies & Live TV](apps/android/tubi-tv/tubi/README.md) | [Tubi TV](companies/tubi-tv.md) | 10.22.1 | 42 |

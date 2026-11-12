@@ -2,89 +2,89 @@
 <title>Same app on both stores</title>
 <rect x="0.5" y="0.5" width="859" height="601" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
 <g transform="translate(20 20)">
-<rect x="85.68" y="8" width="12" height="12" rx="3" fill="#0091FF"/>
-<text x="103.68" y="18" font-size="13" fill="#A9B2BC">iOS</text>
-<rect x="146.22" y="8" width="12" height="12" rx="3" fill="#3DDC84"/>
-<text x="164.22" y="18" font-size="13" fill="#A9B2BC">Android</text>
-<text x="73.68" y="50" font-size="13" text-anchor="end" fill="#F1F6F3">CapCut</text>
-<rect x="85.68" y="34" width="684.3" height="9" rx="2" fill="#0091FF"/>
+<rect x="107.52" y="8" width="12" height="12" rx="3" fill="#0091FF"/>
+<text x="125.52" y="18" font-size="13" fill="#A9B2BC">iOS</text>
+<rect x="168.06" y="8" width="12" height="12" rx="3" fill="#3DDC84"/>
+<text x="186.06" y="18" font-size="13" fill="#A9B2BC">Android</text>
+<text x="95.52" y="50" font-size="13" text-anchor="end" fill="#F1F6F3">CapCut</text>
+<rect x="107.52" y="34" width="662.5" height="9" rx="2" fill="#0091FF"/>
 <text x="776.0" y="42.5" font-size="11" fill="#A9B2BC">163</text>
-<rect x="85.68" y="46" width="155.3" height="9" rx="2" fill="#3DDC84"/>
-<text x="247.0" y="54.5" font-size="11" fill="#A9B2BC">37</text>
-<text x="73.68" y="83" font-size="13" text-anchor="end" fill="#F1F6F3">rednote</text>
-<rect x="85.68" y="67" width="583.6" height="9" rx="2" fill="#0091FF"/>
-<text x="675.2" y="75.5" font-size="11" fill="#A9B2BC">139</text>
-<rect x="85.68" y="79" width="146.9" height="9" rx="2" fill="#3DDC84"/>
-<text x="238.6" y="87.5" font-size="11" fill="#A9B2BC">35</text>
-<text x="73.68" y="116" font-size="13" text-anchor="end" fill="#F1F6F3">TikTok</text>
-<rect x="85.68" y="100" width="583.6" height="9" rx="2" fill="#0091FF"/>
-<text x="675.2" y="108.5" font-size="11" fill="#A9B2BC">139</text>
-<rect x="85.68" y="112" width="130.1" height="9" rx="2" fill="#3DDC84"/>
-<text x="221.8" y="120.5" font-size="11" fill="#A9B2BC">31</text>
-<text x="73.68" y="149" font-size="13" text-anchor="end" fill="#F1F6F3">Deliveroo</text>
-<rect x="85.68" y="133" width="411.4" height="9" rx="2" fill="#0091FF"/>
-<text x="503.1" y="141.5" font-size="11" fill="#A9B2BC">98</text>
-<rect x="85.68" y="145" width="226.7" height="9" rx="2" fill="#3DDC84"/>
-<text x="318.4" y="153.5" font-size="11" fill="#A9B2BC">54</text>
-<text x="73.68" y="182" font-size="13" text-anchor="end" fill="#F1F6F3">Uber</text>
-<rect x="85.68" y="166" width="403.0" height="9" rx="2" fill="#0091FF"/>
-<text x="494.7" y="174.5" font-size="11" fill="#A9B2BC">96</text>
-<rect x="85.68" y="178" width="159.5" height="9" rx="2" fill="#3DDC84"/>
-<text x="251.2" y="186.5" font-size="11" fill="#A9B2BC">38</text>
-<text x="73.68" y="215" font-size="13" text-anchor="end" fill="#F1F6F3">Duolingo</text>
-<rect x="85.68" y="199" width="365.3" height="9" rx="2" fill="#0091FF"/>
-<text x="456.9" y="207.5" font-size="11" fill="#A9B2BC">87</text>
-<rect x="85.68" y="211" width="193.1" height="9" rx="2" fill="#3DDC84"/>
-<text x="284.8" y="219.5" font-size="11" fill="#A9B2BC">46</text>
-<text x="73.68" y="248" font-size="13" text-anchor="end" fill="#F1F6F3">Vinted</text>
-<rect x="85.68" y="232" width="344.3" height="9" rx="2" fill="#0091FF"/>
-<text x="435.9" y="240.5" font-size="11" fill="#A9B2BC">82</text>
-<rect x="85.68" y="244" width="205.7" height="9" rx="2" fill="#3DDC84"/>
-<text x="297.4" y="252.5" font-size="11" fill="#A9B2BC">49</text>
-<text x="73.68" y="281" font-size="13" text-anchor="end" fill="#F1F6F3">iHeart</text>
-<rect x="85.68" y="265" width="369.4" height="9" rx="2" fill="#0091FF"/>
-<text x="461.1" y="273.5" font-size="11" fill="#A9B2BC">88</text>
-<rect x="85.68" y="277" width="172.1" height="9" rx="2" fill="#3DDC84"/>
-<text x="263.8" y="285.5" font-size="11" fill="#A9B2BC">41</text>
-<text x="73.68" y="314" font-size="13" text-anchor="end" fill="#F1F6F3">Grab</text>
-<rect x="85.68" y="298" width="331.7" height="9" rx="2" fill="#0091FF"/>
-<text x="423.3" y="306.5" font-size="11" fill="#A9B2BC">79</text>
-<rect x="85.68" y="310" width="197.3" height="9" rx="2" fill="#3DDC84"/>
-<text x="289.0" y="318.5" font-size="11" fill="#A9B2BC">47</text>
-<text x="73.68" y="347" font-size="13" text-anchor="end" fill="#F1F6F3">Photoroom</text>
-<rect x="85.68" y="331" width="365.3" height="9" rx="2" fill="#0091FF"/>
-<text x="456.9" y="339.5" font-size="11" fill="#A9B2BC">87</text>
-<rect x="85.68" y="343" width="155.3" height="9" rx="2" fill="#3DDC84"/>
-<text x="247.0" y="351.5" font-size="11" fill="#A9B2BC">37</text>
-<text x="73.68" y="380" font-size="13" text-anchor="end" fill="#F1F6F3">X</text>
-<rect x="85.68" y="364" width="272.9" height="9" rx="2" fill="#0091FF"/>
-<text x="364.6" y="372.5" font-size="11" fill="#A9B2BC">65</text>
-<rect x="85.68" y="376" width="209.9" height="9" rx="2" fill="#3DDC84"/>
-<text x="301.6" y="384.5" font-size="11" fill="#A9B2BC">50</text>
-<text x="73.68" y="413" font-size="13" text-anchor="end" fill="#F1F6F3">Kimi</text>
-<rect x="85.68" y="397" width="344.3" height="9" rx="2" fill="#0091FF"/>
-<text x="435.9" y="405.5" font-size="11" fill="#A9B2BC">82</text>
-<rect x="85.68" y="409" width="109.2" height="9" rx="2" fill="#3DDC84"/>
-<text x="200.8" y="417.5" font-size="11" fill="#A9B2BC">26</text>
-<text x="73.68" y="446" font-size="13" text-anchor="end" fill="#F1F6F3">Trip.com</text>
-<rect x="85.68" y="430" width="298.1" height="9" rx="2" fill="#0091FF"/>
-<text x="389.8" y="438.5" font-size="11" fill="#A9B2BC">71</text>
-<rect x="85.68" y="442" width="155.3" height="9" rx="2" fill="#3DDC84"/>
-<text x="247.0" y="450.5" font-size="11" fill="#A9B2BC">37</text>
-<text x="73.68" y="479" font-size="13" text-anchor="end" fill="#F1F6F3">Netflix</text>
-<rect x="85.68" y="463" width="310.7" height="9" rx="2" fill="#0091FF"/>
-<text x="402.4" y="471.5" font-size="11" fill="#A9B2BC">74</text>
-<rect x="85.68" y="475" width="121.8" height="9" rx="2" fill="#3DDC84"/>
-<text x="213.4" y="483.5" font-size="11" fill="#A9B2BC">29</text>
-<text x="73.68" y="512" font-size="13" text-anchor="end" fill="#F1F6F3">Uber Eats</text>
-<rect x="85.68" y="496" width="264.5" height="9" rx="2" fill="#0091FF"/>
-<text x="356.2" y="504.5" font-size="11" fill="#A9B2BC">63</text>
-<rect x="85.68" y="508" width="151.1" height="9" rx="2" fill="#3DDC84"/>
-<text x="242.8" y="516.5" font-size="11" fill="#A9B2BC">36</text>
-<text x="73.68" y="545" font-size="13" text-anchor="end" fill="#F1F6F3">SoundCloud</text>
-<rect x="85.68" y="529" width="214.1" height="9" rx="2" fill="#0091FF"/>
-<text x="305.8" y="537.5" font-size="11" fill="#A9B2BC">51</text>
-<rect x="85.68" y="541" width="180.5" height="9" rx="2" fill="#3DDC84"/>
-<text x="272.2" y="549.5" font-size="11" fill="#A9B2BC">43</text>
+<rect x="107.52" y="46" width="150.4" height="9" rx="2" fill="#3DDC84"/>
+<text x="263.9" y="54.5" font-size="11" fill="#A9B2BC">37</text>
+<text x="95.52" y="83" font-size="13" text-anchor="end" fill="#F1F6F3">rednote</text>
+<rect x="107.52" y="67" width="564.9" height="9" rx="2" fill="#0091FF"/>
+<text x="678.5" y="75.5" font-size="11" fill="#A9B2BC">139</text>
+<rect x="107.52" y="79" width="142.3" height="9" rx="2" fill="#3DDC84"/>
+<text x="255.8" y="87.5" font-size="11" fill="#A9B2BC">35</text>
+<text x="95.52" y="116" font-size="13" text-anchor="end" fill="#F1F6F3">TikTok</text>
+<rect x="107.52" y="100" width="564.9" height="9" rx="2" fill="#0091FF"/>
+<text x="678.5" y="108.5" font-size="11" fill="#A9B2BC">139</text>
+<rect x="107.52" y="112" width="126.0" height="9" rx="2" fill="#3DDC84"/>
+<text x="239.5" y="120.5" font-size="11" fill="#A9B2BC">31</text>
+<text x="95.52" y="149" font-size="13" text-anchor="end" fill="#F1F6F3">Deliveroo</text>
+<rect x="107.52" y="133" width="398.3" height="9" rx="2" fill="#0091FF"/>
+<text x="511.8" y="141.5" font-size="11" fill="#A9B2BC">98</text>
+<rect x="107.52" y="145" width="219.5" height="9" rx="2" fill="#3DDC84"/>
+<text x="333.0" y="153.5" font-size="11" fill="#A9B2BC">54</text>
+<text x="95.52" y="182" font-size="13" text-anchor="end" fill="#F1F6F3">Uber</text>
+<rect x="107.52" y="166" width="390.2" height="9" rx="2" fill="#0091FF"/>
+<text x="503.7" y="174.5" font-size="11" fill="#A9B2BC">96</text>
+<rect x="107.52" y="178" width="154.4" height="9" rx="2" fill="#3DDC84"/>
+<text x="268.0" y="186.5" font-size="11" fill="#A9B2BC">38</text>
+<text x="95.52" y="215" font-size="13" text-anchor="end" fill="#F1F6F3">Duolingo</text>
+<rect x="107.52" y="199" width="353.6" height="9" rx="2" fill="#0091FF"/>
+<text x="467.1" y="207.5" font-size="11" fill="#A9B2BC">87</text>
+<rect x="107.52" y="211" width="187.0" height="9" rx="2" fill="#3DDC84"/>
+<text x="300.5" y="219.5" font-size="11" fill="#A9B2BC">46</text>
+<text x="95.52" y="248" font-size="13" text-anchor="end" fill="#F1F6F3">Vinted</text>
+<rect x="107.52" y="232" width="333.3" height="9" rx="2" fill="#0091FF"/>
+<text x="446.8" y="240.5" font-size="11" fill="#A9B2BC">82</text>
+<rect x="107.52" y="244" width="199.2" height="9" rx="2" fill="#3DDC84"/>
+<text x="312.7" y="252.5" font-size="11" fill="#A9B2BC">49</text>
+<text x="95.52" y="281" font-size="13" text-anchor="end" fill="#F1F6F3">iHeart</text>
+<rect x="107.52" y="265" width="357.7" height="9" rx="2" fill="#0091FF"/>
+<text x="471.2" y="273.5" font-size="11" fill="#A9B2BC">88</text>
+<rect x="107.52" y="277" width="166.6" height="9" rx="2" fill="#3DDC84"/>
+<text x="280.2" y="285.5" font-size="11" fill="#A9B2BC">41</text>
+<text x="95.52" y="314" font-size="13" text-anchor="end" fill="#F1F6F3">Grab</text>
+<rect x="107.52" y="298" width="321.1" height="9" rx="2" fill="#0091FF"/>
+<text x="434.6" y="306.5" font-size="11" fill="#A9B2BC">79</text>
+<rect x="107.52" y="310" width="191.0" height="9" rx="2" fill="#3DDC84"/>
+<text x="304.5" y="318.5" font-size="11" fill="#A9B2BC">47</text>
+<text x="95.52" y="347" font-size="13" text-anchor="end" fill="#F1F6F3">Photoroom</text>
+<rect x="107.52" y="331" width="353.6" height="9" rx="2" fill="#0091FF"/>
+<text x="467.1" y="339.5" font-size="11" fill="#A9B2BC">87</text>
+<rect x="107.52" y="343" width="150.4" height="9" rx="2" fill="#3DDC84"/>
+<text x="263.9" y="351.5" font-size="11" fill="#A9B2BC">37</text>
+<text x="95.52" y="380" font-size="13" text-anchor="end" fill="#F1F6F3">X</text>
+<rect x="107.52" y="364" width="264.2" height="9" rx="2" fill="#0091FF"/>
+<text x="377.7" y="372.5" font-size="11" fill="#A9B2BC">65</text>
+<rect x="107.52" y="376" width="203.2" height="9" rx="2" fill="#3DDC84"/>
+<text x="316.7" y="384.5" font-size="11" fill="#A9B2BC">50</text>
+<text x="95.52" y="413" font-size="13" text-anchor="end" fill="#F1F6F3">Trade Republic</text>
+<rect x="107.52" y="397" width="243.9" height="9" rx="2" fill="#0091FF"/>
+<text x="357.4" y="405.5" font-size="11" fill="#A9B2BC">60</text>
+<rect x="107.52" y="409" width="203.2" height="9" rx="2" fill="#3DDC84"/>
+<text x="316.7" y="417.5" font-size="11" fill="#A9B2BC">50</text>
+<text x="95.52" y="446" font-size="13" text-anchor="end" fill="#F1F6F3">Kimi</text>
+<rect x="107.52" y="430" width="333.3" height="9" rx="2" fill="#0091FF"/>
+<text x="446.8" y="438.5" font-size="11" fill="#A9B2BC">82</text>
+<rect x="107.52" y="442" width="105.7" height="9" rx="2" fill="#3DDC84"/>
+<text x="219.2" y="450.5" font-size="11" fill="#A9B2BC">26</text>
+<text x="95.52" y="479" font-size="13" text-anchor="end" fill="#F1F6F3">Trip.com</text>
+<rect x="107.52" y="463" width="288.6" height="9" rx="2" fill="#0091FF"/>
+<text x="402.1" y="471.5" font-size="11" fill="#A9B2BC">71</text>
+<rect x="107.52" y="475" width="150.4" height="9" rx="2" fill="#3DDC84"/>
+<text x="263.9" y="483.5" font-size="11" fill="#A9B2BC">37</text>
+<text x="95.52" y="512" font-size="13" text-anchor="end" fill="#F1F6F3">Netflix</text>
+<rect x="107.52" y="496" width="300.8" height="9" rx="2" fill="#0091FF"/>
+<text x="414.3" y="504.5" font-size="11" fill="#A9B2BC">74</text>
+<rect x="107.52" y="508" width="117.9" height="9" rx="2" fill="#3DDC84"/>
+<text x="231.4" y="516.5" font-size="11" fill="#A9B2BC">29</text>
+<text x="95.52" y="545" font-size="13" text-anchor="end" fill="#F1F6F3">Uber Eats</text>
+<rect x="107.52" y="529" width="256.1" height="9" rx="2" fill="#0091FF"/>
+<text x="369.6" y="537.5" font-size="11" fill="#A9B2BC">63</text>
+<rect x="107.52" y="541" width="146.3" height="9" rx="2" fill="#3DDC84"/>
+<text x="259.8" y="549.5" font-size="11" fill="#A9B2BC">36</text>
 </g>
 </svg>

@@ -50,6 +50,7 @@
 | <img src="../assets/icons/android/org.telegram.messenger.png" width="20" height="20" alt="Telegram icon"> <img src="../assets/icons/ios/686449807.png" width="20" height="20" alt="Telegram Messenger icon"> | [Telegram FZ-LLC](telegram-fz-llc.md) | 2 | 1 | 1 | 3 | 24 |
 | <img src="../assets/icons/android/com.einnovation.temu.png" width="20" height="20" alt="Temu icon"> <img src="../assets/icons/ios/1641486558.png" width="20" height="20" alt="Temu icon"> | [Temu](temu.md) | 2 | 1 | 1 | 3 | 50 |
 | <img src="../assets/icons/ios/1498607143.png" width="20" height="20" alt="Lemon8 icon"> <img src="../assets/icons/ios/835599320.png" width="20" height="20" alt="TikTok icon"> | [TikTok Ltd.](tiktok-ltd.md) | 2 | 2 | 0 | 3 | 153 |
+| <img src="../assets/icons/android/de.traderepublic.app.png" width="20" height="20" alt="Trade Republic icon"> <img src="../assets/icons/ios/1410703839.png" width="20" height="20" alt="Trade Republic icon"> | [Trade Republic Bank GmbH](trade-republic-bank-gmbh.md) | 2 | 1 | 1 | 2 | 104 |
 | <img src="../assets/icons/android/tv.twitch.android.app.png" width="20" height="20" alt="Twitch icon"> <img src="../assets/icons/ios/460177396.png" width="20" height="20" alt="Twitch icon"> | [Twitch Interactive, Inc.](twitch-interactive-inc.md) | 2 | 1 | 1 | 2 | 42 |
 | <img src="../assets/icons/android/com.wayfair.wayfair.png" width="20" height="20" alt="Wayfair icon"> <img src="../assets/icons/android/com.wayfair.wayhome.png" width="20" height="20" alt="Wayfair Service Pro icon"> | [Wayfair, LLC](wayfair-llc.md) | 2 | 0 | 2 | 2 | 45 |
 | <img src="../assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Inc.](whatsapp-inc.md) | 2 | 2 | 0 | 5 | 6 |
@@ -204,7 +205,6 @@
 | <img src="../assets/icons/ios/6462904878.png" width="20" height="20" alt="BigFuture School icon"> | [The College Board](the-college-board.md) | 1 | 1 | 0 | 1 | 6 |
 | <img src="../assets/icons/android/com.thehomedepot.png" width="20" height="20" alt="The Home Depot icon"> | [The Home Depot, Inc](the-home-depot-inc.md) | 1 | 0 | 1 | 1 | 39 |
 | <img src="../assets/icons/ios/284862083.png" width="20" height="20" alt="NYTimes icon"> | [The New York Times Company](the-new-york-times-company.md) | 1 | 1 | 0 | 1 | 30 |
-| <img src="../assets/icons/ios/1410703839.png" width="20" height="20" alt="Trade Republic icon"> | [Trade Republic Bank GmbH](trade-republic-bank-gmbh.md) | 1 | 1 | 0 | 1 | 60 |
 | <img src="../assets/icons/android/ctrip.english.png" width="20" height="20" alt="Trip.com icon"> | [Trip.com](trip-com.md) | 1 | 0 | 1 | 1 | 37 |
 | <img src="../assets/icons/ios/681752345.png" width="20" height="20" alt="Trip.com icon"> | [Trip.com Travel Singapore Pte. Ltd.](trip-com-travel-singapore-pte-ltd.md) | 1 | 1 | 0 | 1 | 71 |
 | <img src="../assets/icons/android/com.tripadvisor.tripadvisor.png" width="20" height="20" alt="Tripadvisor icon"> | [Tripadvisor](tripadvisor.md) | 1 | 0 | 1 | 1 | 35 |

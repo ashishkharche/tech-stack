@@ -4,16 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **1** versions · **60** distinct SDKs across their latest versions
+**2** apps (1 iOS, 1 Android) · **2** versions · **104** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><img src="../assets/icons/ios/1410703839.png" width="56" height="56" alt="Trade Republic icon"></a><br><a href="../apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><sub><b>Trade Republic</b></sub></a><br><sub>iOS · 60 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/trade-republic-bank-gmbh/trade-republic/README.md"><img src="../assets/icons/android/de.traderepublic.app.png" width="56" height="56" alt="Trade Republic icon"></a><br><a href="../apps/android/trade-republic-bank-gmbh/trade-republic/README.md"><sub><b>Trade Republic</b></sub></a><br><sub>Android · 50 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><img src="../assets/icons/ios/1410703839.png" width="56" height="56" alt="Trade Republic icon"></a><br><a href="../apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><sub><b>Trade Republic</b></sub></a><br><sub>iOS · 60 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
+| <img src="../assets/icons/android/de.traderepublic.app.png" width="20" height="20" alt="Trade Republic icon"> | [Trade Republic: Broker & Bank](../apps/android/trade-republic-bank-gmbh/trade-republic/README.md) | Android | 1 | 4.2645.1 | 2026-11-12 | 50 | No |
 | <img src="../assets/icons/ios/1410703839.png" width="20" height="20" alt="Trade Republic icon"> | [Trade Republic: Broker & Bank](../apps/ios/trade-republic-bank-gmbh/trade-republic/README.md) | iOS | 1 | 4.2646.1 | 2026-11-12 | 60 | No |
 
 ## SDKs by category
@@ -21,6 +22,17 @@ The company name is the developer name on the store listing.
 Counted across the latest version of each app.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../assets/charts/companies/trade-republic-bank-gmbh-dark.svg"><img alt="SDKs by category" src="../assets/charts/companies/trade-republic-bank-gmbh-light.svg"></picture>
+
+## SDKs shared across their apps
+
+| SDK | Apps |
+|---|---|
+| Adjust | 2 of 2 |
+| Adyen | 2 of 2 |
+| Firebase | 2 of 2 |
+| LiveKit | 2 of 2 |
+| Lottie | 2 of 2 |
+| Sentry | 2 of 2 |
 
 ---
 
