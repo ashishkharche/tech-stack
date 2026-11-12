@@ -2,86 +2,76 @@
 <title>SDK count across versions</title>
 <rect x="0.5" y="0.5" width="859" height="417" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
 <g transform="translate(20 20)">
-<text x="249.17999999999995" y="34" font-size="13" text-anchor="end" fill="#F1F6F3">Grok (iOS)</text>
+<text x="249.17999999999995" y="34" font-size="13" text-anchor="end" fill="#F1F6F3">Meta AI (iOS)</text>
 <line x1="261.17999999999995" y1="50.5" x2="670.0" y2="50.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,32.8 295.2,20.8 329.3,19.8 363.4,19.8 397.5,19.8 431.5,18.0 465.6,18.0 499.7,18.0 533.7,18.0 567.8,18.0 601.9,18.0 635.9,18.0 670.0,42.0"/>
-<circle cx="261.2" cy="32.8" r="2.6" fill="#F1F6F3"/>
-<circle cx="295.2" cy="20.8" r="2.6" fill="#F1F6F3"/>
-<circle cx="329.3" cy="19.8" r="2.6" fill="#F1F6F3"/>
-<circle cx="363.4" cy="19.8" r="2.6" fill="#F1F6F3"/>
-<circle cx="397.5" cy="19.8" r="2.6" fill="#F1F6F3"/>
-<circle cx="431.5" cy="18.0" r="2.6" fill="#F1F6F3"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,42.0 363.4,42.0 465.6,18.0 567.8,18.0 670.0,18.0"/>
+<circle cx="261.2" cy="42.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="363.4" cy="42.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="465.6" cy="18.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="499.7" cy="18.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="533.7" cy="18.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="567.8" cy="18.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="601.9" cy="18.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="635.9" cy="18.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="670.0" cy="42.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="34" font-size="13" fill="#A9B2BC">57 → 47 SDKs</text>
-<text x="684.0" y="50" font-size="11" fill="#A9B2BC">13 versions</text>
-<text x="249.17999999999995" y="80" font-size="13" text-anchor="end" fill="#F1F6F3">Meta AI (iOS)</text>
+<circle cx="670.0" cy="18.0" r="2.6" fill="#F1F6F3"/>
+<text x="684.0" y="34" font-size="13" fill="#A9B2BC">5 → 6 SDKs</text>
+<text x="684.0" y="50" font-size="11" fill="#A9B2BC">5 versions</text>
+<text x="249.17999999999995" y="80" font-size="13" text-anchor="end" fill="#F1F6F3">Claude by Anthropic (iOS)</text>
 <line x1="261.17999999999995" y1="96.5" x2="670.0" y2="96.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,88.0 363.4,88.0 465.6,64.0 567.8,64.0 670.0,64.0"/>
-<circle cx="261.2" cy="88.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="363.4" cy="88.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="465.6" cy="64.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="567.8" cy="64.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="670.0" cy="64.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="80" font-size="13" fill="#A9B2BC">5 → 6 SDKs</text>
-<text x="684.0" y="96" font-size="11" fill="#A9B2BC">5 versions</text>
-<text x="249.17999999999995" y="126" font-size="13" text-anchor="end" fill="#F1F6F3">Claude by Anthropic (iOS)</text>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,64.0 397.5,86.8 533.7,82.0 670.0,88.0"/>
+<circle cx="261.2" cy="64.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="397.5" cy="86.8" r="2.6" fill="#F1F6F3"/>
+<circle cx="533.7" cy="82.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="670.0" cy="88.0" r="2.6" fill="#F1F6F3"/>
+<text x="684.0" y="80" font-size="13" fill="#A9B2BC">63 → 43 SDKs</text>
+<text x="684.0" y="96" font-size="11" fill="#A9B2BC">4 versions</text>
+<text x="249.17999999999995" y="126" font-size="13" text-anchor="end" fill="#F1F6F3">DuckDuckGo, optional Duck.ai (Android)</text>
 <line x1="261.17999999999995" y1="142.5" x2="670.0" y2="142.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,110.0 397.5,132.8 533.7,128.0 670.0,134.0"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,110.0 397.5,110.0 533.7,134.0 670.0,134.0"/>
 <circle cx="261.2" cy="110.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="397.5" cy="132.8" r="2.6" fill="#F1F6F3"/>
-<circle cx="533.7" cy="128.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="397.5" cy="110.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="533.7" cy="134.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="670.0" cy="134.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="126" font-size="13" fill="#A9B2BC">63 → 43 SDKs</text>
+<text x="684.0" y="126" font-size="13" fill="#A9B2BC">19 → 18 SDKs</text>
 <text x="684.0" y="142" font-size="11" fill="#A9B2BC">4 versions</text>
-<text x="249.17999999999995" y="172" font-size="13" text-anchor="end" fill="#F1F6F3">DuckDuckGo, optional Duck.ai (Android)</text>
+<text x="249.17999999999995" y="172" font-size="13" text-anchor="end" fill="#F1F6F3">Google Meet (iOS)</text>
 <line x1="261.17999999999995" y1="188.5" x2="670.0" y2="188.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,156.0 397.5,156.0 533.7,180.0 670.0,180.0"/>
-<circle cx="261.2" cy="156.0" r="2.6" fill="#F1F6F3"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,180.0 397.5,156.0 533.7,156.0 670.0,156.0"/>
+<circle cx="261.2" cy="180.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="397.5" cy="156.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="533.7" cy="180.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="670.0" cy="180.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="172" font-size="13" fill="#A9B2BC">19 → 18 SDKs</text>
+<circle cx="533.7" cy="156.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="670.0" cy="156.0" r="2.6" fill="#F1F6F3"/>
+<text x="684.0" y="172" font-size="13" fill="#A9B2BC">11 → 14 SDKs</text>
 <text x="684.0" y="188" font-size="11" fill="#A9B2BC">4 versions</text>
-<text x="249.17999999999995" y="218" font-size="13" text-anchor="end" fill="#F1F6F3">Google Meet (iOS)</text>
+<text x="249.17999999999995" y="218" font-size="13" text-anchor="end" fill="#F1F6F3">Pinduoduo (iOS)</text>
 <line x1="261.17999999999995" y1="234.5" x2="670.0" y2="234.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,226.0 397.5,202.0 533.7,202.0 670.0,202.0"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,226.0 397.5,226.0 533.7,226.0 670.0,226.0"/>
 <circle cx="261.2" cy="226.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="397.5" cy="202.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="533.7" cy="202.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="670.0" cy="202.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="218" font-size="13" fill="#A9B2BC">11 → 14 SDKs</text>
+<circle cx="397.5" cy="226.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="533.7" cy="226.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="670.0" cy="226.0" r="2.6" fill="#F1F6F3"/>
+<text x="684.0" y="218" font-size="13" fill="#A9B2BC">71 → 71 SDKs</text>
 <text x="684.0" y="234" font-size="11" fill="#A9B2BC">4 versions</text>
-<text x="249.17999999999995" y="264" font-size="13" text-anchor="end" fill="#F1F6F3">Pinduoduo (iOS)</text>
+<text x="249.17999999999995" y="264" font-size="13" text-anchor="end" fill="#F1F6F3">Replika (iOS)</text>
 <line x1="261.17999999999995" y1="280.5" x2="670.0" y2="280.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,272.0 397.5,272.0 533.7,272.0 670.0,272.0"/>
-<circle cx="261.2" cy="272.0" r="2.6" fill="#F1F6F3"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,248.0 397.5,272.0 533.7,272.0 670.0,272.0"/>
+<circle cx="261.2" cy="248.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="397.5" cy="272.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="533.7" cy="272.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="670.0" cy="272.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="264" font-size="13" fill="#A9B2BC">71 → 71 SDKs</text>
+<text x="684.0" y="264" font-size="13" fill="#A9B2BC">83 → 80 SDKs</text>
 <text x="684.0" y="280" font-size="11" fill="#A9B2BC">4 versions</text>
-<text x="249.17999999999995" y="310" font-size="13" text-anchor="end" fill="#F1F6F3">Replika (iOS)</text>
+<text x="249.17999999999995" y="310" font-size="13" text-anchor="end" fill="#F1F6F3">BeReal (iOS)</text>
 <line x1="261.17999999999995" y1="326.5" x2="670.0" y2="326.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,294.0 397.5,318.0 533.7,318.0 670.0,318.0"/>
-<circle cx="261.2" cy="294.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="397.5" cy="318.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="533.7" cy="318.0" r="2.6" fill="#F1F6F3"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,298.8 465.6,294.0 670.0,318.0"/>
+<circle cx="261.2" cy="298.8" r="2.6" fill="#F1F6F3"/>
+<circle cx="465.6" cy="294.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="670.0" cy="318.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="310" font-size="13" fill="#A9B2BC">83 → 80 SDKs</text>
-<text x="684.0" y="326" font-size="11" fill="#A9B2BC">4 versions</text>
-<text x="249.17999999999995" y="356" font-size="13" text-anchor="end" fill="#F1F6F3">BeReal (iOS)</text>
+<text x="684.0" y="310" font-size="13" fill="#A9B2BC">132 → 124 SDKs</text>
+<text x="684.0" y="326" font-size="11" fill="#A9B2BC">3 versions</text>
+<text x="249.17999999999995" y="356" font-size="13" text-anchor="end" fill="#F1F6F3">ChatGPT (iOS)</text>
 <line x1="261.17999999999995" y1="372.5" x2="670.0" y2="372.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,344.8 465.6,340.0 670.0,364.0"/>
-<circle cx="261.2" cy="344.8" r="2.6" fill="#F1F6F3"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,340.0 465.6,340.0 670.0,364.0"/>
+<circle cx="261.2" cy="340.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="465.6" cy="340.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="670.0" cy="364.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="356" font-size="13" fill="#A9B2BC">132 → 124 SDKs</text>
+<text x="684.0" y="356" font-size="13" fill="#A9B2BC">42 → 28 SDKs</text>
 <text x="684.0" y="372" font-size="11" fill="#A9B2BC">3 versions</text>
 </g>
 </svg>

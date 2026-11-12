@@ -25,6 +25,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
+import shutil
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from generate import regenerate, load_docs  # noqa: E402
@@ -35,9 +36,33 @@ from transform import build_doc  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 PRE_RELEASE_WORD_RE = re.compile(r"testflight|nightly|internal|alpha|beta|debug|adhoc|dogfood|canary|staging|preview|dev|qa", re.I)
 
+# Public-site denylist (mirrors TDN src/lib/hidden-tech-stack.ts). These apps stay in the
+# source database, but they must not appear in this catalogue. Keys are store:id in lower case,
+# including iOS bundle ids.
+HIDDEN_TECH_STACK_KEYS = {
+    "apple:6670324846",  # Grok iOS
+    "apple:ai.x.grokapp",
+    "google:ai.x.grok",
+    "apple:6794501026",  # Grok Bot iOS
+    "apple:co.anysphere.sand",
+    "google:ai.x.grok.bot",
+    "apple:333903271",  # X iOS
+    "apple:com.atebits.tweetie2",
+    "google:com.twitter.android",
+}
+
+
+def is_hidden_tech_stack(store: str, app_id: str, bundle_id: str | None = None) -> bool:
+    keys = [f"{store}:{app_id}".lower()]
+    if bundle_id:
+        keys.append(f"{store}:{bundle_id}".lower())
+    return any(key in HIDDEN_TECH_STACK_KEYS for key in keys)
+
 
 def excluded_app(store: str, app_id: str, bundle_id: str | None, name: str | None) -> str | None:
     """Apps that are not a public store listing (or are a pre-release channel) are left out."""
+    if is_hidden_tech_stack(store, app_id, bundle_id):
+        return "hidden_from_public_site"
     if not is_plausible_store_id(store, app_id):
         return "not_a_store_id"
     # A pre-release channel is its own store listing (e.g. "<App> Beta", "com.example.app.beta").
@@ -286,6 +311,37 @@ def refresh_app_meta(meta_by_app: dict) -> int:
     return changed
 
 
+def prune_hidden_apps() -> dict:
+    """Remove denylisted apps from the latest tree (files, icons, empty company folders).
+
+    Chart SVGs and company pages are dropped on the following regenerate. Git history is kept.
+    """
+    removed_dirs: list[str] = []
+    removed_icons: list[str] = []
+    seen: set[Path] = set()
+    for doc, path in list(load_docs(ROOT)):
+        a = doc["app"]
+        store = "apple" if a["platform"] == "ios" else "google"
+        if not is_hidden_tech_stack(store, a["store_id"], a.get("bundle_id")):
+            continue
+        app_dir = path.parent
+        if app_dir in seen:
+            continue
+        seen.add(app_dir)
+        if app_dir.exists():
+            shutil.rmtree(app_dir)
+            removed_dirs.append(str(app_dir.relative_to(ROOT)))
+        plat = "ios" if store == "apple" else "android"
+        icon = ROOT / "assets" / "icons" / plat / f"{a['store_id']}.png"
+        if icon.exists():
+            icon.unlink()
+            removed_icons.append(str(icon.relative_to(ROOT)))
+    for company_dir in (ROOT / "apps").glob("*/*"):
+        if company_dir.is_dir() and not any(company_dir.iterdir()):
+            company_dir.rmdir()
+    return {"app_dirs": removed_dirs, "icons": removed_icons}
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--source", choices=["api", "raw"], default="api")
@@ -296,6 +352,7 @@ def main() -> int:
     args = ap.parse_args()
 
     summary: dict = {}
+    summary["pruned_hidden"] = prune_hidden_apps()
     if not args.regenerate_only:
         if args.source == "raw":
             if not args.raw_dir:

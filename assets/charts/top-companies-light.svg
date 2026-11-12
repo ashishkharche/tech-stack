@@ -31,22 +31,22 @@
 <rect x="162.6" y="202" width="55.9" height="18" rx="3" fill="#0088FF"/>
 <rect x="220.6" y="202" width="53.9" height="18" rx="3" fill="#1EA45A"/>
 <text x="282.5" y="216" font-size="13" fill="#4D5755">4</text>
-<text x="150.64000000000001" y="244" font-size="13" text-anchor="end" fill="#090A0B">X Corp.</text>
-<rect x="162.6" y="230" width="83.9" height="18" rx="3" fill="#0088FF"/>
-<rect x="248.5" y="230" width="26.0" height="18" rx="3" fill="#1EA45A"/>
-<text x="282.5" y="244" font-size="13" fill="#4D5755">4</text>
-<text x="150.64000000000001" y="272" font-size="13" text-anchor="end" fill="#090A0B">CBS Interactive, Inc.</text>
-<rect x="162.6" y="258" width="83.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="150.64000000000001" y="244" font-size="13" text-anchor="end" fill="#090A0B">CBS Interactive, Inc.</text>
+<rect x="162.6" y="230" width="83.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="254.5" y="244" font-size="13" fill="#4D5755">3</text>
+<text x="150.64000000000001" y="272" font-size="13" text-anchor="end" fill="#090A0B">Netflix, Inc.</text>
+<rect x="162.6" y="258" width="55.9" height="18" rx="3" fill="#0088FF"/>
+<rect x="220.6" y="258" width="26.0" height="18" rx="3" fill="#1EA45A"/>
 <text x="254.5" y="272" font-size="13" fill="#4D5755">3</text>
-<text x="150.64000000000001" y="300" font-size="13" text-anchor="end" fill="#090A0B">Netflix, Inc.</text>
-<rect x="162.6" y="286" width="55.9" height="18" rx="3" fill="#0088FF"/>
-<rect x="220.6" y="286" width="26.0" height="18" rx="3" fill="#1EA45A"/>
+<text x="150.64000000000001" y="300" font-size="13" text-anchor="end" fill="#090A0B">TikTok Pte. Ltd.</text>
+<rect x="162.6" y="286" width="83.9" height="18" rx="3" fill="#1EA45A"/>
 <text x="254.5" y="300" font-size="13" fill="#4D5755">3</text>
-<text x="150.64000000000001" y="328" font-size="13" text-anchor="end" fill="#090A0B">TikTok Pte. Ltd.</text>
-<rect x="162.6" y="314" width="83.9" height="18" rx="3" fill="#1EA45A"/>
-<text x="254.5" y="328" font-size="13" fill="#4D5755">3</text>
-<text x="150.64000000000001" y="356" font-size="13" text-anchor="end" fill="#090A0B">Alibaba Mobile</text>
-<rect x="162.6" y="342" width="55.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="150.64000000000001" y="328" font-size="13" text-anchor="end" fill="#090A0B">Alibaba Mobile</text>
+<rect x="162.6" y="314" width="55.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="226.6" y="328" font-size="13" fill="#4D5755">2</text>
+<text x="150.64000000000001" y="356" font-size="13" text-anchor="end" fill="#090A0B">Alpha Exploration Co.</text>
+<rect x="162.6" y="342" width="28.0" height="18" rx="3" fill="#0088FF"/>
+<rect x="192.6" y="342" width="26.0" height="18" rx="3" fill="#1EA45A"/>
 <text x="226.6" y="356" font-size="13" fill="#4D5755">2</text>
 </g>
 </svg>
