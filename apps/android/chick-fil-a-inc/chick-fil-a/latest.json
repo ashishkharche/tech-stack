@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.chickfila.cfaflagship",
     "bundle_id": "com.chickfila.cfaflagship",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Chick-fil-A, Inc.",
       "slug": "chick-fil-a-inc",
@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2026.11.1",
+  "version": "2026.21.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-23T04:25:08Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-04T16:56:41Z"
+    "captured_at": "2026-11-08T14:51:10Z",
+    "store_first_seen_at": "2026-11-04T12:06:34Z",
+    "store_updated_at": "2026-10-27T14:23:04Z",
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -279,6 +279,7 @@
         "android.permission.INTERNET",
         "android.permission.NFC",
         "android.permission.POST_NOTIFICATIONS",
+        "android.permission.POST_PROMOTED_NOTIFICATIONS",
         "android.permission.RECEIVE_BOOT_COMPLETED",
         "android.permission.USE_BIOMETRIC",
         "android.permission.USE_FINGERPRINT",
@@ -291,30 +292,5 @@
       ]
     }
   },
-  "inferred": [
-    {
-      "kind": "analysis",
-      "method": "model_written_summary_of_detected_signals",
-      "note": "Written by a language model from the analysis; treat as unverified.",
-      "generated_at": "2026-06-23T04:25:08Z",
-      "headline": null,
-      "insights": [
-        {
-          "theme": "ui",
-          "title": "Jetpack Compose UI",
-          "detail": "Uses Jetpack Compose with Material Components, Coil, and Lottie, pointing to a declarative UI implementation over traditional XML layouts."
-        },
-        {
-          "theme": "notable",
-          "title": "Braintree payments",
-          "detail": "Bundles Braintree SDK for payment flows, alongside references to PayPal and Venmo packages."
-        },
-        {
-          "theme": "platform",
-          "title": "Play Core dynamic delivery",
-          "detail": "Depends on Play Core for in-app updates and dynamic feature modules."
-        }
-      ]
-    }
-  ]
+  "inferred": []
 }

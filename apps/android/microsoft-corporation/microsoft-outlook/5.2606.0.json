@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.microsoft.office.outlook",
     "bundle_id": "com.microsoft.office.outlook",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Microsoft Corporation",
       "slug": "microsoft-corporation",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-19T04:32:26Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

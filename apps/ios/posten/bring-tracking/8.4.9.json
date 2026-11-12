@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "6468981790",
     "bundle_id": "no.bring.sporing",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Posten",
       "slug": "posten",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-05T04:30:09Z",
     "store_first_seen_at": "2026-11-05T12:00:12Z",
     "store_updated_at": "2026-11-04T18:01:03Z",
-    "exported_at": "2026-11-05T17:18:48Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

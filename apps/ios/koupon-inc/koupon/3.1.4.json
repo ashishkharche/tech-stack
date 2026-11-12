@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "6472232952",
     "bundle_id": "sto.koupon",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Koupon Inc.",
       "slug": "koupon-inc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-04T12:34:55Z",
     "store_first_seen_at": "2026-11-05T00:00:16Z",
     "store_updated_at": "2026-10-30T17:21:09Z",
-    "exported_at": "2026-11-05T04:50:32Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

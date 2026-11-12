@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1044283059",
     "bundle_id": "com.xunmeng.pinduoduo",
-    "active": true,
+    "active": false,
     "company": {
       "name": "上海寻梦信息技术有限公司",
       "slug": "shanghai-xunmeng-information-technology-co-ltd",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-02T16:43:16Z",
     "store_first_seen_at": "2026-11-02T19:07:49Z",
     "store_updated_at": "2026-11-02T13:15:44Z",
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

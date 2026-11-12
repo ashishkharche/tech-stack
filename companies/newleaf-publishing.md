@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1636235979.png" width="20" height="20" alt="ReelShort icon"> | [ReelShort - Stream Drama & TV](../apps/ios/newleaf-publishing/reelshort/README.md) | iOS | 1 | 4.2.00 | 2026-10-24 | 84 | Yes |
+| <img src="../assets/icons/ios/1636235979.png" width="20" height="20" alt="ReelShort icon"> | [ReelShort - Stream Drama & TV](../apps/ios/newleaf-publishing/reelshort/README.md) | iOS | 1 | 4.2.00 | 2026-10-24 | 84 | No |
 
 ## SDKs by category
 

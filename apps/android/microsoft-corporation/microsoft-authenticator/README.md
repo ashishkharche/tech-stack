@@ -4,7 +4,7 @@
 
 # Microsoft Authenticator
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator) · [latest.json](latest.json)
 
@@ -13,17 +13,17 @@
 | Company | [Microsoft Corporation](../../../../companies/microsoft-corporation.md) |
 | Store id | `com.azure.authenticator` |
 | Bundle / package id | `com.azure.authenticator` |
-| Latest version | 6.2605.3042 (analysed 2026-06-23) |
-| Versions tracked | 1 |
+| Latest version | 6.2611.7348 (analysed 2026-11-06) |
+| Versions tracked | 2 |
 | SDKs in latest version | 25 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Jetpack Compose, Lottie, Material Components, Picasso |
 | Build | Gradle (inferred) |
-| Minimum OS | API 26, targets API 35 |
+| Minimum OS | API 26, targets API 36 |
 | Devices / ABIs | Android |
 | Capabilities | 11 |
 | Declares tracking | Yes |
-| Tracked | Yes |
+| Tracked | No. Kept for history. |
 
 ## SDKs by category
 
@@ -53,13 +53,8 @@ Approximate location, Background location, Biometric auth, Camera, Draw over oth
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 6.2611.7348 | 2026-11-06 | 2026-11-05 | 25 | +0 / −0 | No | No | [6.2611.7348.json](6.2611.7348.json) |
 | 6.2605.3042 | 2026-06-23 |  | 25 |  | No | No | [6.2605.3042.json](6.2605.3042.json) |
-
-## Model-written summary
-
-> Android app with Kotlin/Java and C++ natives (ONNX, Azure AI Vision, wolfSSL), Jetpack Compose, Microsoft Azure AD backends, and enterprise Knox support
-
-<sub>Written by a language model from the detected signals (`inferred[]`). It is commentary, not measurement.</sub>
 
 ---
 

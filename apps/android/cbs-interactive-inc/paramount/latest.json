@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.cbs.app",
     "bundle_id": "com.cbs.app",
-    "active": true,
+    "active": false,
     "company": {
       "name": "CBS Interactive, Inc.",
       "slug": "cbs-interactive-inc",
@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "16.13.0",
+  "version": "17.3.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-23T04:20:51Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-04T16:56:41Z"
+    "captured_at": "2026-11-07T16:38:05Z",
+    "store_first_seen_at": "2026-11-05T00:00:16Z",
+    "store_updated_at": "2026-10-27T17:18:39Z",
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 25,
+    "sdk_count": 28,
     "languages": [
       "C/C++ (native)",
       "Java",
@@ -44,9 +44,11 @@
     ],
     "frameworks": [],
     "ui_graphics": [
+      "Coil",
       "Glide",
       "Jetpack Compose",
-      "Material Components"
+      "Material Components",
+      "Rive"
     ],
     "build_system": [
       "Gradle (inferred)"
@@ -149,9 +151,9 @@
         "confidence": "observed"
       },
       {
-        "name": "Kotlin Coroutines",
+        "name": "Mux",
         "version": null,
-        "category": "reactive",
+        "category": "media",
         "confidence": "observed"
       },
       {
@@ -185,6 +187,12 @@
         "confidence": "observed"
       },
       {
+        "name": "Coil",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
         "name": "Glide",
         "version": null,
         "category": "rendering",
@@ -201,6 +209,18 @@
         "version": null,
         "category": "rendering",
         "confidence": "observed"
+      },
+      {
+        "name": "Rive",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Play Integrity",
+        "version": null,
+        "category": "anti_fraud",
+        "confidence": "observed"
       }
     ],
     "platform": {
@@ -213,7 +233,7 @@
         "Android"
       ],
       "abis": [
-        "armeabi-v7a"
+        "arm64-v8a"
       ],
       "localization_count": null
     },
@@ -225,7 +245,7 @@
     ],
     "privacy": {
       "declares_tracking": true,
-      "tracking_domain_count": 12,
+      "tracking_domain_count": 13,
       "collected_data_types": [],
       "required_reason_apis": [],
       "android_permissions": [
@@ -245,34 +265,11 @@
         "com.android.vending.BILLING",
         "com.cbs.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
         "com.google.android.c2dm.permission.RECEIVE",
-        "com.google.android.gms.permission.AD_ID"
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        "com.google.android.gms.permission.AD_ID",
+        "com.tivo.app.READ_TIVO_INFO"
       ]
     }
   },
-  "inferred": [
-    {
-      "kind": "analysis",
-      "method": "model_written_summary_of_detected_signals",
-      "note": "Written by a language model from the analysis; treat as unverified.",
-      "generated_at": "2026-06-23T04:20:51Z",
-      "headline": "Kotlin-based Android Paramount+ app using Jetpack Compose, Media3 ExoPlayer, Firebase, Kochava/Braze analytics, and root detection",
-      "insights": [
-        {
-          "theme": "analytics",
-          "title": "Multiple analytics and tracking SDKs",
-          "detail": "Bundles Kochava, Braze, comScore, Adobe Experience Platform, and New Relic for analytics, messaging, and crash reporting, plus Google Mobile Ads."
-        },
-        {
-          "theme": "sdks",
-          "title": "Media3 ExoPlayer and Google Cast",
-          "detail": "Includes Media3 (ExoPlayer) for video and Google Cast for streaming, along with queries to TV launcher apps."
-        },
-        {
-          "theme": "ui",
-          "title": "Jetpack Compose and Material UI",
-          "detail": "Uses Jetpack Compose with Material Components and Glide for images, with 17 bundled font families."
-        }
-      ]
-    }
-  ]
+  "inferred": []
 }

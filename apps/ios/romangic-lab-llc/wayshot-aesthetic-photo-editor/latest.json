@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "6749303003",
     "bundle_id": "com.romangic.wayshot",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Romangic Lab LLC",
       "slug": "romangic-lab-llc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-02T18:28:49Z",
     "store_first_seen_at": "2026-11-03T00:00:12Z",
     "store_updated_at": "2026-10-27T12:18:38Z",
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

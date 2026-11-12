@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **30** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **30** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/chick-fil-a-inc/chick-fil-a/README.md"><img src="../assets/icons/android/com.chickfila.cfaflagship.png" width="56" height="56" alt="Chick-fil-A® icon"></a><br><a href="../apps/android/chick-fil-a-inc/chick-fil-a/README.md"><sub><b>Chick-fil-A®</b></sub></a><br><sub>Android · 30 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.chickfila.cfaflagship.png" width="20" height="20" alt="Chick-fil-A® icon"> | [Chick-fil-A®](../apps/android/chick-fil-a-inc/chick-fil-a/README.md) | Android | 1 | 2026.11.1 | 2026-06-23 | 30 | Yes |
+| <img src="../assets/icons/android/com.chickfila.cfaflagship.png" width="20" height="20" alt="Chick-fil-A® icon"> | [Chick-fil-A®](../apps/android/chick-fil-a-inc/chick-fil-a/README.md) | Android | 2 | 2026.21.0 | 2026-11-08 | 30 | No |
 
 ## SDKs by category
 

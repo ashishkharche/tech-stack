@@ -14,9 +14,9 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> | [Facebook](../apps/android/meta-platforms-inc/facebook/README.md) | Android | 2 | 585.0.0.47.54 | 2026-11-02 | 2 | Yes |
-| <img src="../assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> | [Facebook](../apps/ios/meta-platforms-inc/facebook/README.md) | iOS | 1 | 564.0.0 | 2026-06-23 | 11 | Yes |
-| <img src="../assets/icons/ios/454638411.png" width="20" height="20" alt="Messenger icon"> | [Messenger](../apps/ios/meta-platforms-inc/messenger/README.md) | iOS | 1 | 563.0.0 | 2026-06-23 | 1 | Yes |
+| <img src="../assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> | [Facebook](../apps/android/meta-platforms-inc/facebook/README.md) | Android | 2 | 585.0.0.47.54 | 2026-11-02 | 2 | No |
+| <img src="../assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> | [Facebook](../apps/ios/meta-platforms-inc/facebook/README.md) | iOS | 1 | 564.0.0 | 2026-06-23 | 11 | No |
+| <img src="../assets/icons/ios/454638411.png" width="20" height="20" alt="Messenger icon"> | [Messenger](../apps/ios/meta-platforms-inc/messenger/README.md) | iOS | 1 | 563.0.0 | 2026-06-23 | 1 | No |
 | <img src="../assets/icons/android/com.facebook.stella.png" width="20" height="20" alt="Meta AI icon"> | [Meta AI](../apps/android/meta-platforms-inc/meta-ai/README.md) | Android | 1 | 295.0.0.37.164 | 2026-10-24 | 32 | Yes |
 | <img src="../assets/icons/ios/1558240027.png" width="20" height="20" alt="Meta AI icon"> | [Meta AI](../apps/ios/meta-platforms-inc/meta-ai/README.md) | iOS | 5 | 297.0.0 | 2026-11-04 | 6 | Yes |
 | <img src="../assets/icons/android/com.facebook.aura.png" width="20" height="20" alt="Muse from Meta icon"> | [Muse from Meta](../apps/android/meta-platforms-inc/muse-from-meta/README.md) | Android | 1 | 14.0.0.4.149 | 2026-11-01 | 23 | Yes |

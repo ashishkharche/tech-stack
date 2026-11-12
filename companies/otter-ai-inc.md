@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **1** versions · **36** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **2** versions · **36** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/otter-ai-inc/otter-transcribe-voice-notes/README.md"><img src="../assets/icons/ios/1276437113.png" width="56" height="56" alt="Otter Transcribe Voice Notes icon"></a><br><a href="../apps/ios/otter-ai-inc/otter-transcribe-voice-notes/README.md"><sub><b>Otter Transcribe Voice Notes</b></sub></a><br><sub>iOS · 36 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1276437113.png" width="20" height="20" alt="Otter Transcribe Voice Notes icon"> | [Otter Transcribe Voice Notes](../apps/ios/otter-ai-inc/otter-transcribe-voice-notes/README.md) | iOS | 1 | 3.110.1 | 2026-10-24 | 36 | Yes |
+| <img src="../assets/icons/ios/1276437113.png" width="20" height="20" alt="Otter Transcribe Voice Notes icon"> | [Otter Transcribe Voice Notes](../apps/ios/otter-ai-inc/otter-transcribe-voice-notes/README.md) | iOS | 2 | 3.111.0 | 2026-11-10 | 36 | Yes |
 
 ## SDKs by category
 

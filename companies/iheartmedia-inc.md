@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.clearchannel.iheartradio.controller.png" width="20" height="20" alt="iHeart icon"> | [iHeart: Music, Radio, Podcasts](../apps/android/iheartmedia-inc/iheart/README.md) | Android | 1 | 10.64.1 | 2026-06-19 | 41 | Yes |
+| <img src="../assets/icons/android/com.clearchannel.iheartradio.controller.png" width="20" height="20" alt="iHeart icon"> | [iHeart: Music, Radio, Podcasts](../apps/android/iheartmedia-inc/iheart/README.md) | Android | 1 | 10.64.1 | 2026-06-19 | 41 | No |
 | <img src="../assets/icons/android/com.clearchannel.iheartradio.tv.png" width="20" height="20" alt="iHeartRadio for Google TV icon"> | [iHeartRadio for Google TV](../apps/android/iheartmedia-inc/iheartradio-for-google-tv/README.md) | Android | 1 | 4.12.0 | 2026-06-19 | 17 | No |
 
 ## SDKs by category

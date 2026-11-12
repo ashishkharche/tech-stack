@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/350962117.png" width="20" height="20" alt="微博 icon"> | [微博](../apps/ios/sina-corporation/weibo/README.md) | iOS | 1 | 16.10.2 | 2026-10-24 | 51 | Yes |
+| <img src="../assets/icons/ios/350962117.png" width="20" height="20" alt="微博 icon"> | [微博](../apps/ios/sina-corporation/weibo/README.md) | iOS | 1 | 16.10.2 | 2026-10-24 | 51 | No |
 
 ## SDKs by category
 

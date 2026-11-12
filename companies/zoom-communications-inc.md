@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/546505307.png" width="20" height="20" alt="Zoom Workplace icon"> | [Zoom Workplace](../apps/ios/zoom-communications-inc/zoom-workplace/README.md) | iOS | 1 | 7.2.3 | 2026-10-24 | 18 | Yes |
+| <img src="../assets/icons/ios/546505307.png" width="20" height="20" alt="Zoom Workplace icon"> | [Zoom Workplace](../apps/ios/zoom-communications-inc/zoom-workplace/README.md) | iOS | 1 | 7.2.3 | 2026-10-24 | 18 | No |
 
 ## SDKs by category
 

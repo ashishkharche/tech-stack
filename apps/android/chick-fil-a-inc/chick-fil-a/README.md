@@ -4,7 +4,7 @@
 
 # Chick-fil-A®
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.chickfila.cfaflagship) · [latest.json](latest.json)
 
@@ -13,8 +13,8 @@
 | Company | [Chick-fil-A, Inc.](../../../../companies/chick-fil-a-inc.md) |
 | Store id | `com.chickfila.cfaflagship` |
 | Bundle / package id | `com.chickfila.cfaflagship` |
-| Latest version | 2026.11.1 (analysed 2026-06-23) |
-| Versions tracked | 1 |
+| Latest version | 2026.21.0 (analysed 2026-11-08) |
+| Versions tracked | 2 |
 | SDKs in latest version | 30 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Jetpack Compose, Lottie, Material Components |
@@ -23,7 +23,7 @@
 | Devices / ABIs | Android |
 | Capabilities | 11 |
 | Declares tracking | Yes |
-| Tracked | Yes |
+| Tracked | No. Kept for history. |
 
 ## SDKs by category
 
@@ -55,6 +55,7 @@ Advertising ID, Approximate location, Background location, Biometric auth, Camer
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2026.21.0 | 2026-11-08 | 2026-10-27 | 30 | +0 / −0 | No | No | [2026.21.0.json](2026.21.0.json) |
 | 2026.11.1 | 2026-06-23 |  | 30 |  | No | No | [2026.11.1.json](2026.11.1.json) |
 
 ---

@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/429047995.png" width="20" height="20" alt="Pinterest icon"> | [Pinterest](../apps/ios/pinterest-inc/pinterest/README.md) | iOS | 1 | 14.21 | 2026-06-19 | 28 | Yes |
+| <img src="../assets/icons/ios/429047995.png" width="20" height="20" alt="Pinterest icon"> | [Pinterest](../apps/ios/pinterest-inc/pinterest/README.md) | iOS | 1 | 14.21 | 2026-06-19 | 28 | No |
 
 ## SDKs by category
 

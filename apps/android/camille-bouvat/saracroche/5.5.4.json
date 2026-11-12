@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.cbouvat.android.saracroche",
     "bundle_id": "com.cbouvat.android.saracroche",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Camille Bouvat",
       "slug": "camille-bouvat",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-05T08:52:16Z",
     "store_first_seen_at": "2026-11-05T12:00:12Z",
     "store_updated_at": "2026-10-22T14:05:04Z",
-    "exported_at": "2026-11-05T17:18:48Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "482066631",
     "bundle_id": "com.roku.ios.roku",
-    "active": true,
+    "active": false,
     "company": {
       "name": "ROKU INC",
       "slug": "roku-inc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-02T09:39:04Z",
     "store_first_seen_at": "2026-11-03T00:00:12Z",
     "store_updated_at": "2026-09-21T22:34:52Z",
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

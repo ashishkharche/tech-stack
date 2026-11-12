@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.navercorp.navershopping.jpg" width="20" height="20" alt="네이버플러스 스토어 icon"> | [네이버플러스 스토어](../apps/android/naver-corp/app/README.md) | Android | 1 | 2.9.10 | 2026-11-05 | 27 | Yes |
-| <img src="../assets/icons/ios/6738063154.png" width="20" height="20" alt="네이버플러스 스토어 icon"> | [네이버플러스 스토어](../apps/ios/naver-corp/app/README.md) | iOS | 1 | 2.9.11 | 2026-11-05 | 49 | Yes |
+| <img src="../assets/icons/android/com.navercorp.navershopping.jpg" width="20" height="20" alt="네이버플러스 스토어 icon"> | [네이버플러스 스토어](../apps/android/naver-corp/app/README.md) | Android | 1 | 2.9.10 | 2026-11-05 | 27 | No |
+| <img src="../assets/icons/ios/6738063154.png" width="20" height="20" alt="네이버플러스 스토어 icon"> | [네이버플러스 스토어](../apps/ios/naver-corp/app/README.md) | iOS | 1 | 2.9.11 | 2026-11-05 | 49 | No |
 
 ## SDKs by category
 

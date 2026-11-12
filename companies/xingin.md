@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/741292507.png" width="20" height="20" alt="rednote icon"> | [rednote](../apps/ios/xingin/rednote/README.md) | iOS | 1 | 9.51.1 | 2026-10-24 | 139 | Yes |
+| <img src="../assets/icons/ios/741292507.png" width="20" height="20" alt="rednote icon"> | [rednote](../apps/ios/xingin/rednote/README.md) | iOS | 1 | 9.51.1 | 2026-10-24 | 139 | No |
 
 ## SDKs by category
 

@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.pinterest.png" width="20" height="20" alt="Pinterest icon"> | [Pinterest](../apps/android/pinterest/pinterest/README.md) | Android | 1 | 14.21.0 | 2026-06-19 | 35 | Yes |
+| <img src="../assets/icons/android/com.pinterest.png" width="20" height="20" alt="Pinterest icon"> | [Pinterest](../apps/android/pinterest/pinterest/README.md) | Android | 1 | 14.21.0 | 2026-06-19 | 35 | No |
 
 ## SDKs by category
 

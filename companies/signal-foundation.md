@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/org.thoughtcrime.securesms.png" width="20" height="20" alt="Signal Private Messenger icon"> | [Signal Private Messenger](../apps/android/signal-foundation/signal-private-messenger/README.md) | Android | 2 | 8.32.3 | 2026-10-23 | 22 | Yes |
+| <img src="../assets/icons/android/org.thoughtcrime.securesms.png" width="20" height="20" alt="Signal Private Messenger icon"> | [Signal Private Messenger](../apps/android/signal-foundation/signal-private-messenger/README.md) | Android | 2 | 8.32.3 | 2026-10-23 | 22 | No |
 
 ## SDKs by category
 

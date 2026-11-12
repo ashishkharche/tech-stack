@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **3** versions · **18** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **4** versions · **18** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/duckduckgo/duckduckgo-optional-duck-ai/README.md"><img src="../assets/icons/android/com.duckduckgo.mobile.android.png" width="56" height="56" alt="DuckDuckGo, optional Duck.ai icon"></a><br><a href="../apps/android/duckduckgo/duckduckgo-optional-duck-ai/README.md"><sub><b>DuckDuckGo, optional Duck.ai</b></sub></a><br><sub>Android · 18 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.duckduckgo.mobile.android.png" width="20" height="20" alt="DuckDuckGo, optional Duck.ai icon"> | [DuckDuckGo, optional Duck.ai](../apps/android/duckduckgo/duckduckgo-optional-duck-ai/README.md) | Android | 3 | 5.299.0 | 2026-10-23 | 18 | Yes |
+| <img src="../assets/icons/android/com.duckduckgo.mobile.android.png" width="20" height="20" alt="DuckDuckGo, optional Duck.ai icon"> | [DuckDuckGo, optional Duck.ai](../apps/android/duckduckgo/duckduckgo-optional-duck-ai/README.md) | Android | 4 | 5.301.1 | 2026-11-10 | 18 | Yes |
 
 ## SDKs by category
 

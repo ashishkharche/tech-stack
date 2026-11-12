@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.tiktok.lite.go",
     "bundle_id": "com.tiktok.lite.go",
-    "active": true,
+    "active": false,
     "company": {
       "name": "TikTok Pte. Ltd.",
       "slug": "tiktok-pte-ltd",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-02T19:14:19Z",
     "store_first_seen_at": "2026-11-03T00:00:12Z",
     "store_updated_at": "2026-10-29T12:59:12Z",
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

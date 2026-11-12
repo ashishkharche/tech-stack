@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/911813648.png" width="20" height="20" alt="Microsoft SwiftKey AI Keyboard icon"> | [Microsoft SwiftKey AI Keyboard](../apps/ios/swiftkey/microsoft-swiftkey-ai-keyboard/README.md) | iOS | 1 | 4.3.2 | 2026-06-19 | 46 | Yes |
+| <img src="../assets/icons/ios/911813648.png" width="20" height="20" alt="Microsoft SwiftKey AI Keyboard icon"> | [Microsoft SwiftKey AI Keyboard](../apps/ios/swiftkey/microsoft-swiftkey-ai-keyboard/README.md) | iOS | 1 | 4.3.2 | 2026-06-19 | 46 | No |
 
 ## SDKs by category
 

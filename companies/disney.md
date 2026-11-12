@@ -14,11 +14,11 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.disney.disneyplus.png" width="20" height="20" alt="Disney+ icon"> | [Disney+](../apps/android/disney/disney/README.md) | Android | 1 | 26.9.0+rc2-2026.06.01 | 2026-06-19 | 28 | Yes |
-| <img src="../assets/icons/ios/1446075923.png" width="20" height="20" alt="Disney+ icon"> | [Disney+](../apps/ios/disney/disney/README.md) | iOS | 2 | 5.20.5 | 2026-11-02 | 53 | Yes |
-| <img src="../assets/icons/android/com.espn.fantasy.lm.football.png" width="20" height="20" alt="ESPN Fantasy Sports icon"> | [ESPN Fantasy Sports](../apps/android/disney/espn-fantasy-sports/README.md) | Android | 2 | 9.12.0 | 2026-11-01 | 34 | Yes |
-| <img src="../assets/icons/ios/317469184.png" width="20" height="20" alt="ESPN icon"> | [ESPN: Live Sports & Scores](../apps/ios/disney/espn/README.md) | iOS | 1 | 8.19.0 | 2026-06-23 | 54 | Yes |
-| <img src="../assets/icons/android/com.hulu.plus.png" width="20" height="20" alt="Hulu icon"> | [Hulu: Stream TV shows & movies](../apps/android/disney/hulu/README.md) | Android | 2 | 6.34.0+18552420-google | 2026-11-02 | 33 | Yes |
+| <img src="../assets/icons/android/com.disney.disneyplus.png" width="20" height="20" alt="Disney+ icon"> | [Disney+](../apps/android/disney/disney/README.md) | Android | 1 | 26.9.0+rc2-2026.06.01 | 2026-06-19 | 28 | No |
+| <img src="../assets/icons/ios/1446075923.png" width="20" height="20" alt="Disney+ icon"> | [Disney+](../apps/ios/disney/disney/README.md) | iOS | 2 | 5.20.5 | 2026-11-02 | 53 | No |
+| <img src="../assets/icons/android/com.espn.fantasy.lm.football.png" width="20" height="20" alt="ESPN Fantasy Sports icon"> | [ESPN Fantasy Sports](../apps/android/disney/espn-fantasy-sports/README.md) | Android | 2 | 9.12.0 | 2026-11-01 | 34 | No |
+| <img src="../assets/icons/ios/317469184.png" width="20" height="20" alt="ESPN icon"> | [ESPN: Live Sports & Scores](../apps/ios/disney/espn/README.md) | iOS | 1 | 8.19.0 | 2026-06-23 | 54 | No |
+| <img src="../assets/icons/android/com.hulu.plus.png" width="20" height="20" alt="Hulu icon"> | [Hulu: Stream TV shows & movies](../apps/android/disney/hulu/README.md) | Android | 2 | 6.34.0+18552420-google | 2026-11-02 | 33 | No |
 
 ## SDKs by category
 

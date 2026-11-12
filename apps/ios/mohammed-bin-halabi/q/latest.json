@@ -1,0 +1,343 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Q | كيو",
+    "slug": "q",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6754709202",
+    "bundle_id": "sa.qeu.app",
+    "active": false,
+    "company": {
+      "name": "MOHAMMED BIN HALABI",
+      "slug": "mohammed-bin-halabi",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "2.6.2",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-10T20:29:30Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-12T00:31:40Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 37,
+    "languages": [
+      "C/C++",
+      "Flutter / Dart",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "CallKit (VoIP)",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "CryptoKit",
+      "MapKit",
+      "MetalKit",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "Photos",
+      "PhotosUI",
+      "PushKit (VoIP push)",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "Speech (recognition)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "NWWebSocket",
+        "version": "0.5.10",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": "12.18.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "GMSCore",
+        "version": "25.0.0",
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMaps",
+        "version": "9.4.0",
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.1",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": "16.6.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "12.18.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "12.18.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "12.18.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.1.1",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.3",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "SnapKit",
+        "version": "5.7.1",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "WebRTC",
+        "version": "1.0",
+        "category": "voice",
+        "confidence": "observed"
+      },
+      {
+        "name": "apple",
+        "version": "1.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CryptoSwift",
+        "version": "1.10.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "darwin",
+        "version": "10.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "denoise",
+        "version": "0.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "flutter",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "foundation",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "incoming",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "links",
+        "version": "7.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "notifications",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "plus",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PusherSwift",
+        "version": "10.1.10",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PusherTweetNacl",
+        "version": "1.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "review",
+        "version": "2.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftEntryKit",
+        "version": "2.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftyRSA",
+        "version": "1.7.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TapAdditionsKitV2",
+        "version": "0.0.18",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TapApplicationV2",
+        "version": "0.0.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TapKeychainV2",
+        "version": "1.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TapSwiftFixesV2",
+        "version": "1.0.3",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "test",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "vibration",
+        "version": "3.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "wkwebview",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.6",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 2
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background Audio",
+      "Background Push",
+      "Push Notifications (APNs)",
+      "VoIP"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CrashData",
+        "DeviceID",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "PerformanceData",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

@@ -4,7 +4,7 @@
 
 # WhatsApp Business
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
 
 [App Store](https://apps.apple.com/app/id1386412985) · [latest.json](latest.json)
 
@@ -13,8 +13,8 @@
 | Company | [WhatsApp Inc.](../../../../companies/whatsapp-inc.md) |
 | Store id | `1386412985` |
 | Bundle / package id | `net.whatsapp.WhatsAppSMB` |
-| Latest version | 26.42.77 (analysed 2026-11-02) |
-| Versions tracked | 2 |
+| Latest version | 26.43.77 (analysed 2026-11-07) |
+| Versions tracked | 3 |
 | SDKs in latest version | 6 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
@@ -22,9 +22,9 @@
 | Minimum OS | iOS 15.1 (built with Xcode 27.0, SDK iphoneos27.0) |
 | Devices / ABIs | iPhone |
 | Localisations | 45 |
-| Capabilities | 14 |
+| Capabilities | 15 |
 | Declares tracking | No |
-| Tracked | Yes |
+| Tracked | No. Kept for history. |
 
 ## SDKs by category
 
@@ -44,9 +44,9 @@ ActivityKit (Live Activities), AdServices (Apple Search Ads attribution), App In
 </details>
 
 <details>
-<summary>Capabilities (14)</summary>
+<summary>Capabilities (15)</summary>
 
-App Groups, Associated Domains (Universal Links), Background App Refresh, Background Audio, Background Location, Background Processing, Background Push, CarPlay, CloudKit, Communication Notifications, iCloud, Push Notifications (APNs), SiriKit, VoIP
+App Groups, Associated Domains (Universal Links), Background App Refresh, Background Audio, Background Location, Background Processing, Background Push, CarPlay, CloudKit, Communication Notifications, iCloud, iCloud Key-Value Storage, Push Notifications (APNs), SiriKit, VoIP
 
 </details>
 
@@ -54,6 +54,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 26.43.77 | 2026-11-07 |  | 6 | +0 / −0 | Yes | Yes | [26.43.77.json](26.43.77.json) |
 | 26.42.77 | 2026-11-02 | 2026-10-30 | 6 | +0 / −0 | Yes | Yes | [26.42.77.json](26.42.77.json) |
 | 26.41.75 | 2026-10-24 | 2026-10-22 | 6 |  | Yes | Yes | [26.41.75.json](26.41.75.json) |
 

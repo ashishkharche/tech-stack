@@ -14,9 +14,9 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.zhiliaoapp.musically.png" width="20" height="20" alt="TikTok icon"> | [TikTok - Videos, Shop & LIVE](../apps/android/tiktok-pte-ltd/tiktok/README.md) | Android | 1 | 45.5.1 | 2026-06-19 | 31 | Yes |
-| <img src="../assets/icons/android/com.tiktok.lite.go.png" width="20" height="20" alt="TikTok Lite icon"> | [TikTok Lite - Faster TikTok](../apps/android/tiktok-pte-ltd/tiktok-lite/README.md) | Android | 1 | 47.5.52 | 2026-11-02 | 17 | Yes |
-| <img src="../assets/icons/android/com.ss.android.ugc.tiktok.pro.png" width="20" height="20" alt="TikTok Pro icon"> | [TikTok Pro - Events](../apps/android/tiktok-pte-ltd/tiktok-pro/README.md) | Android | 1 | 47.4.3 | 2026-11-01 | 21 | Yes |
+| <img src="../assets/icons/android/com.zhiliaoapp.musically.png" width="20" height="20" alt="TikTok icon"> | [TikTok - Videos, Shop & LIVE](../apps/android/tiktok-pte-ltd/tiktok/README.md) | Android | 1 | 45.5.1 | 2026-06-19 | 31 | No |
+| <img src="../assets/icons/android/com.tiktok.lite.go.png" width="20" height="20" alt="TikTok Lite icon"> | [TikTok Lite - Faster TikTok](../apps/android/tiktok-pte-ltd/tiktok-lite/README.md) | Android | 1 | 47.5.52 | 2026-11-02 | 17 | No |
+| <img src="../assets/icons/android/com.ss.android.ugc.tiktok.pro.png" width="20" height="20" alt="TikTok Pro icon"> | [TikTok Pro - Events](../apps/android/tiktok-pte-ltd/tiktok-pro/README.md) | Android | 1 | 47.4.3 | 2026-11-01 | 21 | No |
 
 ## SDKs by category
 

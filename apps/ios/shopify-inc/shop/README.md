@@ -4,7 +4,7 @@
 
 # Shop: Track, Pay, Discover
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
 
 [App Store](https://apps.apple.com/app/id1223471316) · [latest.json](latest.json)
 
@@ -13,8 +13,8 @@
 | Company | [Shopify Inc.](../../../../companies/shopify-inc.md) |
 | Store id | `1223471316` |
 | Bundle / package id | `com.jadedlabs.arrive` |
-| Latest version | 3.17.0 (analysed 2026-11-05) |
-| Versions tracked | 1 |
+| Latest version | 3.18.0 (analysed 2026-11-09) |
+| Versions tracked | 2 |
 | SDKs in latest version | 34 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -24,7 +24,7 @@
 | Localisations | 19 |
 | Capabilities | 6 |
 | Declares tracking | No |
-| Tracked | Yes |
+| Tracked | No. Kept for history. |
 
 ## SDKs by category
 
@@ -60,6 +60,7 @@ App Attest, App Groups, Associated Domains (Universal Links), Keychain Sharing, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 3.18.0 | 2026-11-09 |  | 34 | +0 / −0 | Yes | Yes | [3.18.0.json](3.18.0.json) |
 | 3.17.0 | 2026-11-05 | 2026-11-04 | 34 |  | Yes | Yes | [3.17.0.json](3.17.0.json) |
 
 ---

@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/587794258.png" width="20" height="20" alt="Sony LIV icon"> | [Sony LIV](../apps/ios/sony-pictures-networks-india-pvt-ltd/sony-liv/README.md) | iOS | 1 | 9.2.6 | 2026-11-05 | 53 | Yes |
+| <img src="../assets/icons/ios/587794258.png" width="20" height="20" alt="Sony LIV icon"> | [Sony LIV](../apps/ios/sony-pictures-networks-india-pvt-ltd/sony-liv/README.md) | iOS | 1 | 9.2.6 | 2026-11-05 | 53 | No |
 
 ## SDKs by category
 

@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1503133294",
     "bundle_id": "co.alphaexploration.clubhouse",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Alpha Exploration Co.",
       "slug": "alpha-exploration-co",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-23T04:29:45Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

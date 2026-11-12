@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1017492454",
     "bundle_id": "com.google.ios.youtubemusic",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Google",
       "slug": "google",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-04T20:23:02Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-04T20:55:49Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

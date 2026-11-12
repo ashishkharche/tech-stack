@@ -13,15 +13,15 @@
 | Company | [Curebase](../../../../companies/curebase.md) |
 | Store id | `com.curebase.walgreens` |
 | Bundle / package id | `com.curebase.walgreens` |
-| Latest version | 1.0.30 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 18 |
+| Latest version | 1.1.0 (analysed 2026-11-08) |
+| Versions tracked | 2 |
+| SDKs in latest version | 21 |
 | Languages | C/C++ (native), Java, Kotlin, React Native / JavaScript |
-| UI | Fresco, Jetpack Compose, Material Components |
+| UI | Coil, Fresco, Jetpack Compose, Material Components |
 | Build | Gradle (inferred) |
-| Minimum OS | API 24, targets API 35 |
+| Minimum OS | API 24, targets API 36 |
 | Devices / ABIs | Android |
-| Capabilities | 6 |
+| Capabilities | 7 |
 | Declares tracking | Yes |
 | Tracked | No. Kept for history. |
 
@@ -29,21 +29,22 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/curebase/walgreens-clinical-trials-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/curebase/walgreens-clinical-trials-light.svg"></picture>
 
+- **UI and rendering** (5): AndroidSVG, Coil, Fresco, Jetpack Compose, Material Components
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
-- **UI and rendering** (3): Fresco, Jetpack Compose, Material Components
 - **Analytics** (2): Firebase Analytics, Segment
 - **ML and AI** (2): ML Kit, ML Kit (barcode/vision)
 - **Networking** (2): OkHttp, Retrofit
 - **Storage** (2): Okio, Room
 - **Sign-in and auth** (1): Google Sign-In / Auth
 - **Feature flags** (1): LaunchDarkly
+- **GraphQL** (1): Apollo GraphQL
 - **Messaging and push** (1): Firebase Messaging
 - **Reactive and async** (1): Kotlin Coroutines
 
 <details>
-<summary>Capabilities (6)</summary>
+<summary>Capabilities (7)</summary>
 
-Camera, Draw over other apps, Microphone, Notifications, Storage (read), Storage (write)
+Camera, Draw over other apps, Foreground service, Microphone, Notifications, Storage (read), Storage (write)
 
 </details>
 
@@ -51,7 +52,12 @@ Camera, Draw over other apps, Microphone, Notifications, Storage (read), Storage
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1.1.0 | 2026-11-08 |  | 21 | +3 / −0 | No | No | [1.1.0.json](1.1.0.json) |
 | 1.0.30 | 2026-06-19 |  | 18 |  | No | No | [1.0.30.json](1.0.30.json) |
+
+### SDK changes between versions
+
+- 1.0.30 → 1.1.0: added AndroidSVG, Apollo GraphQL, Coil
 
 ---
 

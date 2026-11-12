@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1459645446",
     "bundle_id": "AlexisBarreyat.BeReal",
-    "active": true,
+    "active": false,
     "company": {
       "name": "BeReal",
       "slug": "bereal",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-02T13:01:42Z",
     "store_first_seen_at": "2026-11-03T00:00:12Z",
     "store_updated_at": "2026-11-02T09:18:09Z",
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

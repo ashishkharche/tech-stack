@@ -14,10 +14,10 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6738967378.png" width="20" height="20" alt="Edits icon"> | [Edits: Video Editor](../apps/ios/instagram-inc/edits/README.md) | iOS | 1 | 452.1.0 | 2026-10-24 | 6 | Yes |
-| <img src="../assets/icons/ios/389801252.png" width="20" height="20" alt="Instagram icon"> | [Instagram](../apps/ios/instagram-inc/instagram/README.md) | iOS | 1 | 432.0.0 | 2026-06-23 | 13 | Yes |
-| <img src="../assets/icons/ios/6756442328.png" width="20" height="20" alt="Instants icon"> | [Instants – an Instagram app](../apps/ios/instagram-inc/instants-an-instagram-app/README.md) | iOS | 1 | 454.0.0 | 2026-11-05 | 7 | Yes |
-| <img src="../assets/icons/ios/6446901002.png" width="20" height="20" alt="Threads icon"> | [Threads](../apps/ios/instagram-inc/threads/README.md) | iOS | 2 | 452.1.0 | 2026-10-23 | 10 | Yes |
+| <img src="../assets/icons/ios/6738967378.png" width="20" height="20" alt="Edits icon"> | [Edits: Video Editor](../apps/ios/instagram-inc/edits/README.md) | iOS | 1 | 452.1.0 | 2026-10-24 | 6 | No |
+| <img src="../assets/icons/ios/389801252.png" width="20" height="20" alt="Instagram icon"> | [Instagram](../apps/ios/instagram-inc/instagram/README.md) | iOS | 1 | 432.0.0 | 2026-06-23 | 13 | No |
+| <img src="../assets/icons/ios/6756442328.png" width="20" height="20" alt="Instants icon"> | [Instants – an Instagram app](../apps/ios/instagram-inc/instants-an-instagram-app/README.md) | iOS | 1 | 454.0.0 | 2026-11-05 | 7 | No |
+| <img src="../assets/icons/ios/6446901002.png" width="20" height="20" alt="Threads icon"> | [Threads](../apps/ios/instagram-inc/threads/README.md) | iOS | 2 | 452.1.0 | 2026-10-23 | 10 | No |
 
 ## SDKs by category
 

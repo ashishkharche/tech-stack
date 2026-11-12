@@ -4,7 +4,7 @@
 
 # Deliveroo: Food & Shopping
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.deliveroo.orderapp) · [latest.json](latest.json)
 
@@ -13,8 +13,8 @@
 | Company | [Deliveroo](../../../../companies/deliveroo.md) |
 | Store id | `com.deliveroo.orderapp` |
 | Bundle / package id | `com.deliveroo.orderapp` |
-| Latest version | 3.295.0 (analysed 2026-10-24) |
-| Versions tracked | 1 |
+| Latest version | 3.297.2 (analysed 2026-11-09) |
+| Versions tracked | 2 |
 | SDKs in latest version | 54 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Fresco, Glide, Jetpack Compose, Lottie, Material Components |
@@ -23,7 +23,7 @@
 | Devices / ABIs | Android |
 | Capabilities | 8 |
 | Declares tracking | Yes |
-| Tracked | Yes |
+| Tracked | No. Kept for history. |
 
 ## SDKs by category
 
@@ -63,6 +63,7 @@ Advertising ID, Approximate location, Camera, Foreground service, Foreground ser
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 3.297.2 | 2026-11-09 |  | 54 | +0 / −0 | No | No | [3.297.2.json](3.297.2.json) |
 | 3.295.0 | 2026-10-24 | 2026-10-19 | 54 |  | No | No | [3.295.0.json](3.295.0.json) |
 
 ---

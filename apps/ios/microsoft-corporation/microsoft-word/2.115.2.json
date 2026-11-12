@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "586447913",
     "bundle_id": "com.microsoft.Office.Word",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Microsoft Corporation",
       "slug": "microsoft-corporation",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-03T01:50:19Z",
     "store_first_seen_at": "2026-11-03T12:00:07Z",
     "store_updated_at": "2026-11-02T05:07:19Z",
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

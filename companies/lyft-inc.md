@@ -15,7 +15,7 @@ The company name is the developer name on the store listing.
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/android/me.lyft.android.png" width="20" height="20" alt="Lyft icon"> | [Lyft](../apps/android/lyft-inc/lyft/README.md) | Android | 1 | 2026.21.3.1780471452 | 2026-06-19 | 30 | No |
-| <img src="../assets/icons/ios/529379082.png" width="20" height="20" alt="Lyft icon"> | [Lyft](../apps/ios/lyft-inc/lyft/README.md) | iOS | 1 | 2026.41.3 | 2026-10-24 | 14 | Yes |
+| <img src="../assets/icons/ios/529379082.png" width="20" height="20" alt="Lyft icon"> | [Lyft](../apps/ios/lyft-inc/lyft/README.md) | iOS | 1 | 2026.41.3 | 2026-10-24 | 14 | No |
 
 ## SDKs by category
 

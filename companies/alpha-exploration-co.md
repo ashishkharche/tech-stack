@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.clubhouse.app.png" width="20" height="20" alt="Clubhouse icon"> | [Clubhouse](../apps/android/alpha-exploration-co/clubhouse/README.md) | Android | 1 | 26.06.04 | 2026-06-19 | 35 | Yes |
-| <img src="../assets/icons/ios/1503133294.png" width="20" height="20" alt="Clubhouse icon"> | [Clubhouse](../apps/ios/alpha-exploration-co/clubhouse/README.md) | iOS | 2 | 26.10.29 | 2026-11-04 | 32 | Yes |
+| <img src="../assets/icons/android/com.clubhouse.app.png" width="20" height="20" alt="Clubhouse icon"> | [Clubhouse](../apps/android/alpha-exploration-co/clubhouse/README.md) | Android | 1 | 26.06.04 | 2026-06-19 | 35 | No |
+| <img src="../assets/icons/ios/1503133294.png" width="20" height="20" alt="Clubhouse icon"> | [Clubhouse](../apps/ios/alpha-exploration-co/clubhouse/README.md) | iOS | 2 | 26.10.29 | 2026-11-04 | 32 | No |
 
 ## SDKs by category
 

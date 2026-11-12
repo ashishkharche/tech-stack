@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/284862083.png" width="20" height="20" alt="NYTimes icon"> | [NYTimes: Breaking World News](../apps/ios/the-new-york-times-company/nytimes/README.md) | iOS | 1 | 11.98.0 | 2026-11-04 | 30 | Yes |
+| <img src="../assets/icons/ios/284862083.png" width="20" height="20" alt="NYTimes icon"> | [NYTimes: Breaking World News](../apps/ios/the-new-york-times-company/nytimes/README.md) | iOS | 1 | 11.98.0 | 2026-11-04 | 30 | No |
 
 ## SDKs by category
 

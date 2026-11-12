@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/484672289.png" width="20" height="20" alt="NBA icon"> | [NBA: Live Games & Scores](../apps/ios/nba-media-ventures-llc/nba/README.md) | iOS | 1 | 120722.1 | 2026-06-19 | 43 | Yes |
+| <img src="../assets/icons/ios/484672289.png" width="20" height="20" alt="NBA icon"> | [NBA: Live Games & Scores](../apps/ios/nba-media-ventures-llc/nba/README.md) | iOS | 1 | 120722.1 | 2026-06-19 | 43 | No |
 
 ## SDKs by category
 

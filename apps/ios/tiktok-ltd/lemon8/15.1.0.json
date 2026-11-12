@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1498607143",
     "bundle_id": "com.bd.nproject",
-    "active": true,
+    "active": false,
     "company": {
       "name": "TikTok Ltd.",
       "slug": "tiktok-ltd",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-03T00:55:49Z",
     "store_first_seen_at": "2026-10-30T12:21:27Z",
     "store_updated_at": "2026-10-30T06:49:50Z",
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

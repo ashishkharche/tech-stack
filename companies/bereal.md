@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1459645446.png" width="20" height="20" alt="BeReal icon"> | [BeReal: Photos & Friends Daily](../apps/ios/bereal/bereal/README.md) | iOS | 3 | 4.99.0 | 2026-11-02 | 124 | Yes |
+| <img src="../assets/icons/ios/1459645446.png" width="20" height="20" alt="BeReal icon"> | [BeReal: Photos & Friends Daily](../apps/ios/bereal/bereal/README.md) | iOS | 3 | 4.99.0 | 2026-11-02 | 124 | No |
 
 ## SDKs by category
 

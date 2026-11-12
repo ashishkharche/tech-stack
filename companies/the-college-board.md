@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6462904878.png" width="20" height="20" alt="BigFuture School icon"> | [BigFuture School](../apps/ios/the-college-board/bigfuture-school/README.md) | iOS | 1 | 3.1.0 | 2026-11-06 | 6 | Yes |
+| <img src="../assets/icons/ios/6462904878.png" width="20" height="20" alt="BigFuture School icon"> | [BigFuture School](../apps/ios/the-college-board/bigfuture-school/README.md) | iOS | 1 | 3.1.0 | 2026-11-06 | 6 | No |
 
 ## SDKs by category
 

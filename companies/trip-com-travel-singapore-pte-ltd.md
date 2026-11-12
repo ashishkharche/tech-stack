@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/681752345.png" width="20" height="20" alt="Trip.com icon"> | [Trip.com: Book Flights, Hotels](../apps/ios/trip-com-travel-singapore-pte-ltd/trip-com/README.md) | iOS | 1 | 8.59.0 | 2026-10-24 | 71 | Yes |
+| <img src="../assets/icons/ios/681752345.png" width="20" height="20" alt="Trip.com icon"> | [Trip.com: Book Flights, Hotels](../apps/ios/trip-com-travel-singapore-pte-ltd/trip-com/README.md) | iOS | 1 | 8.59.0 | 2026-10-24 | 71 | No |
 
 ## SDKs by category
 

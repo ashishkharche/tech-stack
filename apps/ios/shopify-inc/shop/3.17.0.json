@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1223471316",
     "bundle_id": "com.jadedlabs.arrive",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Shopify Inc.",
       "slug": "shopify-inc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-05T20:34:14Z",
     "store_first_seen_at": "2026-11-06T00:00:06Z",
     "store_updated_at": "2026-11-04T10:18:37Z",
-    "exported_at": "2026-11-06T14:13:26Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

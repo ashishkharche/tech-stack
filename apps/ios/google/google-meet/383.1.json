@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1096918571",
     "bundle_id": "com.google.Tachyon",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Google",
       "slug": "google",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-05T20:23:49Z",
     "store_first_seen_at": "2026-11-04T00:00:13Z",
     "store_updated_at": "2026-11-03T18:25:10Z",
-    "exported_at": "2026-11-06T14:13:26Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

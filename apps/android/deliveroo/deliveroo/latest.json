@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.deliveroo.orderapp",
     "bundle_id": "com.deliveroo.orderapp",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Deliveroo",
       "slug": "deliveroo",
@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "3.295.0",
+  "version": "3.297.2",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-10-24T21:14:50Z",
-    "store_first_seen_at": "2026-10-25T00:39:31Z",
-    "store_updated_at": "2026-10-19T11:08:33Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "captured_at": "2026-11-09T16:42:27Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -390,7 +390,7 @@
         "Android"
       ],
       "abis": [
-        "armeabi-v7a"
+        "arm64-v8a"
       ],
       "localization_count": null
     },

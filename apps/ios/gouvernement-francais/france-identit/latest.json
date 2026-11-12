@@ -1,0 +1,310 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "France Identité",
+    "slug": "france-identit",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1590142959",
+    "bundle_id": "fr.gouv.france-identite",
+    "active": false,
+    "company": {
+      "name": "Gouvernement Francais",
+      "slug": "gouvernement-francais",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.3.4433",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-11T08:32:37Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-12T00:31:40Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 35,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "AVFoundation (audio/video)",
+      "Combine (reactive)",
+      "Core Bluetooth",
+      "Core Data",
+      "Core Image",
+      "Core Motion",
+      "Core NFC",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "SwiftUI",
+      "UIKit",
+      "Vision"
+    ],
+    "ui_graphics": [
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "Alamofire",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "NIO",
+        "version": "1.0",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "NIOPosix",
+        "version": "1.0",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "NIOSSL",
+        "version": "1.0",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "Format",
+        "version": "1.0",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SWCompression",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftCBOR",
+        "version": "1.0",
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftProtobuf",
+        "version": null,
+        "category": "serialization",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.6.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "Logger",
+        "version": "1.0",
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "DequeModule",
+        "version": "1.0",
+        "category": "apple_std",
+        "confidence": "observed"
+      },
+      {
+        "name": "InternalCollectionsUtilities",
+        "version": "1.0",
+        "category": "apple_std",
+        "confidence": "observed"
+      },
+      {
+        "name": "Atomics",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "AtomicsShims",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "BitByteData",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ble",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CardReader",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CCryptoBoringSSL",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CNIOAtomics",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CNIOBoringSSL",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CNIOBoringSSLShims",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CNIODarwin",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CNIOLinux",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CNIOLLHTTP",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CNIOOpenBSD",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CNIOWASI",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CNIOWindows",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Crypto",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CryptoBoringWrapper",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CryptoExtras",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "IdaktoASN1",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lint",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SpanPreview",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftASN1",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "T2cCore",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.6",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.1",
+      "xcode": "26.1.1",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 2
+    },
+    "capabilities": [
+      "Associated Domains (Universal Links)",
+      "NFC"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [],
+      "required_reason_apis": [
+        "FileTimestamp"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

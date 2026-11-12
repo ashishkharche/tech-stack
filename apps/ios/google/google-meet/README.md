@@ -4,7 +4,7 @@
 
 # Google Meet
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
 
 [App Store](https://apps.apple.com/app/id1096918571) · [latest.json](latest.json)
 
@@ -13,24 +13,24 @@
 | Company | [Google](../../../../companies/google.md) |
 | Store id | `1096918571` |
 | Bundle / package id | `com.google.Tachyon` |
-| Latest version | 383.1 (analysed 2026-11-05) |
-| Versions tracked | 3 |
+| Latest version | 384.0 (analysed 2026-11-10) |
+| Versions tracked | 4 |
 | SDKs in latest version | 14 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
 | Build | Unknown / Xcode native |
-| Minimum OS | iOS 18.0 (built with Xcode 27.0, SDK iphoneos27.0) |
+| Minimum OS | iOS 18.0 (built with Xcode 27.1, SDK iphoneos27.1) |
 | Devices / ABIs | iPhone, iPad |
 | Localisations | 60 |
 | Capabilities | 12 |
 | Declares tracking | No |
-| Tracked | Yes |
+| Tracked | No. Kept for history. |
 
 ## SDKs by category
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/google/google-meet-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/google/google-meet-light.svg"></picture>
 
-- **Other** (5): ABCCalloutView, AppUpdateService, ChronosSiriShortcutManager, MaterialM3CTextField, SystemIcons 26.43
+- **Other** (5): ABCCalloutView, AppUpdateService, ChronosSiriShortcutManager, MaterialM3CTextField, SystemIcons 26.44
 - **UI and rendering** (3): MaterialDialogs, MaterialPullToRefresh, MaterialSearch
 - **Networking** (2): GoogleKitCore, GoogleKitWeb
 - **Ads** (1): OneGoogle
@@ -56,6 +56,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 384.0 | 2026-11-10 |  | 14 | +0 / −0 | Yes | Yes | [384.0.json](384.0.json) |
 | 383.1 | 2026-11-05 | 2026-11-03 | 14 | +0 / −0 | Yes | Yes | [383.1.json](383.1.json) |
 | 382.1 | 2026-11-02 |  | 14 | +3 / −0 | Yes | Yes | [382.1.json](382.1.json) |
 | 361.1 | 2026-06-19 |  | 11 |  | Yes | Yes | [361.1.json](361.1.json) |

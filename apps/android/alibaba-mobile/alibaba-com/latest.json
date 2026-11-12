@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.alibaba.intl.android.apps.poseidon",
     "bundle_id": "com.alibaba.intl.android.apps.poseidon",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Alibaba Mobile",
       "slug": "alibaba-mobile",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-06T14:01:09Z",
     "store_first_seen_at": "2026-11-06T12:00:10Z",
     "store_updated_at": "2026-11-03T11:21:37Z",
-    "exported_at": "2026-11-06T14:13:26Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

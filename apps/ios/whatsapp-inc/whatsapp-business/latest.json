@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1386412985",
     "bundle_id": "net.whatsapp.WhatsAppSMB",
-    "active": true,
+    "active": false,
     "company": {
       "name": "WhatsApp Inc.",
       "slug": "whatsapp-inc",
@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "26.42.77",
+  "version": "26.43.77",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-02T08:35:20Z",
-    "store_first_seen_at": "2026-10-30T12:21:27Z",
-    "store_updated_at": "2026-10-30T08:57:44Z",
-    "exported_at": "2026-11-02T10:56:13Z"
+    "captured_at": "2026-11-07T08:21:30Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -160,6 +160,7 @@
       "CloudKit",
       "Communication Notifications",
       "iCloud",
+      "iCloud Key-Value Storage",
       "Push Notifications (APNs)",
       "SiriKit",
       "VoIP"

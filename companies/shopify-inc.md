@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **1** versions · **34** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **2** versions · **34** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/shopify-inc/shop/README.md"><img src="../assets/icons/ios/1223471316.png" width="56" height="56" alt="Shop icon"></a><br><a href="../apps/ios/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>iOS · 34 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shop: Track, Pay, Discover](../apps/ios/shopify-inc/shop/README.md) | iOS | 1 | 3.17.0 | 2026-11-05 | 34 | Yes |
+| <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shop: Track, Pay, Discover](../apps/ios/shopify-inc/shop/README.md) | iOS | 2 | 3.18.0 | 2026-11-09 | 34 | No |
 
 ## SDKs by category
 

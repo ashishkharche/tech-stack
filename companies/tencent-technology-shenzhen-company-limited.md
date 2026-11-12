@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/444934666.png" width="20" height="20" alt="QQ icon"> | [QQ](../apps/ios/tencent-technology-shenzhen-company-limited/qq/README.md) | iOS | 1 | 9.3.78 | 2026-10-24 | 44 | Yes |
+| <img src="../assets/icons/ios/444934666.png" width="20" height="20" alt="QQ icon"> | [QQ](../apps/ios/tencent-technology-shenzhen-company-limited/qq/README.md) | iOS | 1 | 9.3.78 | 2026-10-24 | 44 | No |
 
 ## SDKs by category
 

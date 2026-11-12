@@ -4,7 +4,7 @@
 
 # Duolingo: Learn Languages
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.duolingo) · [latest.json](latest.json)
 
@@ -13,9 +13,9 @@
 | Company | [Duolingo](../../../../companies/duolingo.md) |
 | Store id | `com.duolingo` |
 | Bundle / package id | `com.duolingo` |
-| Latest version | 6.102.4 (analysed 2026-10-24) |
-| Versions tracked | 1 |
-| SDKs in latest version | 45 |
+| Latest version | 6.105.2 (analysed 2026-11-11) |
+| Versions tracked | 2 |
+| SDKs in latest version | 46 |
 | Languages | C/C++ (native), Java, Kotlin, Unity (C# / IL2CPP) |
 | UI | Coil, Jetpack Compose, Lottie, Material Components, Picasso, Rive |
 | Build | Gradle (inferred) |
@@ -23,7 +23,7 @@
 | Devices / ABIs | Android |
 | Capabilities | 11 |
 | Declares tracking | Yes |
-| Tracked | Yes |
+| Tracked | No. Kept for history. |
 
 ## SDKs by category
 
@@ -43,6 +43,7 @@
 - **Crash and performance** (1): Sentry
 - **Logging and diagnostics** (1): LeakCanary
 - **Maps and location** (1): Google Location
+- **ML and AI** (1): ONNX Runtime
 - **Payments** (1): Google Play Billing
 - **Social** (1): Facebook Share
 - **Telephony** (1): libphonenumber
@@ -58,7 +59,12 @@ Advertising ID, Biometric auth, Calendar (read), Calendar (write), Contacts (rea
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 6.105.2 | 2026-11-11 |  | 46 | +1 / −0 | No | No | [6.105.2.json](6.105.2.json) |
 | 6.102.4 | 2026-10-24 |  | 45 |  | No | No | [6.102.4.json](6.102.4.json) |
+
+### SDK changes between versions
+
+- 6.102.4 → 6.105.2: added ONNX Runtime
 
 ---
 

@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/482066631.png" width="20" height="20" alt="Roku Remote (Official) icon"> | [Roku Remote (Official)](../apps/ios/roku-inc/roku-remote-official/README.md) | iOS | 1 | 14.1.2 | 2026-11-02 | 39 | Yes |
+| <img src="../assets/icons/ios/482066631.png" width="20" height="20" alt="Roku Remote (Official) icon"> | [Roku Remote (Official)](../apps/ios/roku-inc/roku-remote-official/README.md) | iOS | 1 | 14.1.2 | 2026-11-02 | 39 | No |
 
 ## SDKs by category
 

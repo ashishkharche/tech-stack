@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/414478124.png" width="20" height="20" alt="WeChat icon"> | [WeChat](../apps/ios/wechat/wechat/README.md) | iOS | 1 | 8.0.74 | 2026-06-19 | 17 | Yes |
+| <img src="../assets/icons/ios/414478124.png" width="20" height="20" alt="WeChat icon"> | [WeChat](../apps/ios/wechat/wechat/README.md) | iOS | 1 | 8.0.74 | 2026-06-19 | 17 | No |
 
 ## SDKs by category
 

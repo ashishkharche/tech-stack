@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/323229106.png" width="20" height="20" alt="Waze Navigation &amp; Live Traffic icon"> | [Waze Navigation & Live Traffic](../apps/ios/waze-inc/waze-navigation-live-traffic/README.md) | iOS | 1 | 5.26.0 | 2026-10-24 | 4 | Yes |
+| <img src="../assets/icons/ios/323229106.png" width="20" height="20" alt="Waze Navigation &amp; Live Traffic icon"> | [Waze Navigation & Live Traffic](../apps/ios/waze-inc/waze-navigation-live-traffic/README.md) | iOS | 1 | 5.26.0 | 2026-10-24 | 4 | No |
 
 ## SDKs by category
 

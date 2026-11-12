@@ -4,7 +4,7 @@
 
 # GitHub
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
 
 [App Store](https://apps.apple.com/app/id1477376905) · [latest.json](latest.json)
 
@@ -13,18 +13,18 @@
 | Company | [GitHub](../../../../companies/github.md) |
 | Store id | `1477376905` |
 | Bundle / package id | `com.github.stormbreaker.prod` |
-| Latest version | 1.282.1 (analysed 2026-11-02) |
-| Versions tracked | 2 |
+| Latest version | 1.283.0 (analysed 2026-11-08) |
+| Versions tracked | 3 |
 | SDKs in latest version | 65 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
-| Minimum OS | iOS 17.0 (built with Xcode 26.6, SDK iphoneos26.5) |
+| Minimum OS | iOS 17.0 (built with Xcode 27.1, SDK iphoneos27.1) |
 | Devices / ABIs | iPhone, iPad |
 | Localisations | 7 |
 | Capabilities | 9 |
 | Declares tracking | No |
-| Tracked | Yes |
+| Tracked | No. Kept for history. |
 
 ## SDKs by category
 
@@ -37,9 +37,9 @@
 - **Messaging and push** (1): FirebaseMessaging
 
 <details>
-<summary>Frameworks (22)</summary>
+<summary>Frameworks (23)</summary>
 
-ActivityKit (Live Activities), Authentication Services (Sign in with Apple / passkeys), Background Tasks, Combine (reactive), Core Image, CryptoKit, Local Authentication (Face ID / Touch ID), MessageUI (mail / SMS compose), MetalKit, MetricKit (diagnostics), Network.framework, PDFKit, PhotosUI, SafariServices, SiriKit (Intents), Speech (recognition), SpriteKit, StoreKit (in-app purchase), SwiftUI, UIKit, User Notifications, WidgetKit (widgets)
+ActivityKit (Live Activities), Authentication Services (Sign in with Apple / passkeys), Background Tasks, Combine (reactive), Core Image, CryptoKit, Local Authentication (Face ID / Touch ID), MessageUI (mail / SMS compose), MetalKit, MetricKit (diagnostics), Network.framework, PDFKit, Photos, PhotosUI, SafariServices, SiriKit (Intents), Speech (recognition), SpriteKit, StoreKit (in-app purchase), SwiftUI, UIKit, User Notifications, WidgetKit (widgets)
 
 </details>
 
@@ -54,6 +54,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1.283.0 | 2026-11-08 | 2026-11-05 | 65 | +0 / −0 | Yes | Yes | [1.283.0.json](1.283.0.json) |
 | 1.282.1 | 2026-11-02 | 2026-10-27 | 65 | +0 / −0 | Yes | Yes | [1.282.1.json](1.282.1.json) |
 | 1.282.0 | 2026-10-24 | 2026-10-23 | 65 |  | Yes | Yes | [1.282.0.json](1.282.0.json) |
 

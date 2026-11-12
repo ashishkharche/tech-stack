@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "6738063154",
     "bundle_id": "com.nhncorp.NaverShopping",
-    "active": true,
+    "active": false,
     "company": {
       "name": "NAVER Corp.",
       "slug": "naver-corp",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-05T16:53:53Z",
     "store_first_seen_at": "2026-11-06T00:00:06Z",
     "store_updated_at": "2026-11-05T01:00:57Z",
-    "exported_at": "2026-11-06T14:13:26Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

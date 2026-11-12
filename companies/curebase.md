@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **18** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **21** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/curebase/walgreens-clinical-trials/README.md"><img src="../assets/icons/android/com.curebase.walgreens.png" width="56" height="56" alt="Walgreens Clinical Trials icon"></a><br><a href="../apps/android/curebase/walgreens-clinical-trials/README.md"><sub><b>Walgreens Clinical Trials</b></sub></a><br><sub>Android · 18 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/curebase/walgreens-clinical-trials/README.md"><img src="../assets/icons/android/com.curebase.walgreens.png" width="56" height="56" alt="Walgreens Clinical Trials icon"></a><br><a href="../apps/android/curebase/walgreens-clinical-trials/README.md"><sub><b>Walgreens Clinical Trials</b></sub></a><br><sub>Android · 21 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.curebase.walgreens.png" width="20" height="20" alt="Walgreens Clinical Trials icon"> | [Walgreens Clinical Trials](../apps/android/curebase/walgreens-clinical-trials/README.md) | Android | 1 | 1.0.30 | 2026-06-19 | 18 | No |
+| <img src="../assets/icons/android/com.curebase.walgreens.png" width="20" height="20" alt="Walgreens Clinical Trials icon"> | [Walgreens Clinical Trials](../apps/android/curebase/walgreens-clinical-trials/README.md) | Android | 2 | 1.1.0 | 2026-11-08 | 21 | No |
 
 ## SDKs by category
 

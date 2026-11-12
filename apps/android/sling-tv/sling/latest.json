@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.sling.airtvmini",
     "bundle_id": "com.sling.airtvmini",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Sling TV",
       "slug": "sling-tv",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-19T04:32:32Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

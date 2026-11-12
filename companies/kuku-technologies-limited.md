@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6768240254.png" width="20" height="20" alt="FreeDrama icon"> | [FreeDrama: Watch Short Stories](../apps/ios/kuku-technologies-limited/freedrama/README.md) | iOS | 1 | 3.8.7 | 2026-11-02 | 81 | Yes |
+| <img src="../assets/icons/ios/6768240254.png" width="20" height="20" alt="FreeDrama icon"> | [FreeDrama: Watch Short Stories](../apps/ios/kuku-technologies-limited/freedrama/README.md) | iOS | 1 | 3.8.7 | 2026-11-02 | 81 | No |
 
 ## SDKs by category
 

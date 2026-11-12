@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6742024490.png" width="20" height="20" alt="Reco Social icon"> | [Reco Social](../apps/ios/reco-social-inc/reco-social/README.md) | iOS | 1 | 1.8.6 | 2026-11-02 | 82 | Yes |
+| <img src="../assets/icons/ios/6742024490.png" width="20" height="20" alt="Reco Social icon"> | [Reco Social](../apps/ios/reco-social-inc/reco-social/README.md) | iOS | 1 | 1.8.6 | 2026-11-02 | 82 | No |
 
 ## SDKs by category
 

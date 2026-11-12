@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/647268330.png" width="20" height="20" alt="Grab icon"> | [Grab: Taxi Ride, Food Delivery](../apps/ios/grab-com/grab/README.md) | iOS | 1 | 5.432.0 | 2026-10-24 | 79 | Yes |
+| <img src="../assets/icons/ios/647268330.png" width="20" height="20" alt="Grab icon"> | [Grab: Taxi Ride, Food Delivery](../apps/ios/grab-com/grab/README.md) | iOS | 1 | 5.432.0 | 2026-10-24 | 79 | No |
 
 ## SDKs by category
 

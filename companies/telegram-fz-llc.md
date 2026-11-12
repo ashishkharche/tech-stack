@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/org.telegram.messenger.png" width="20" height="20" alt="Telegram icon"> | [Telegram](../apps/android/telegram-fz-llc/telegram/README.md) | Android | 1 | 12.7.3 | 2026-06-19 | 22 | Yes |
-| <img src="../assets/icons/ios/686449807.png" width="20" height="20" alt="Telegram Messenger icon"> | [Telegram Messenger](../apps/ios/telegram-fz-llc/telegram-messenger/README.md) | iOS | 2 | 13.1.1 | 2026-10-23 | 2 | Yes |
+| <img src="../assets/icons/android/org.telegram.messenger.png" width="20" height="20" alt="Telegram icon"> | [Telegram](../apps/android/telegram-fz-llc/telegram/README.md) | Android | 1 | 12.7.3 | 2026-06-19 | 22 | No |
+| <img src="../assets/icons/ios/686449807.png" width="20" height="20" alt="Telegram Messenger icon"> | [Telegram Messenger](../apps/ios/telegram-fz-llc/telegram-messenger/README.md) | iOS | 2 | 13.1.1 | 2026-10-23 | 2 | No |
 
 ## SDKs by category
 

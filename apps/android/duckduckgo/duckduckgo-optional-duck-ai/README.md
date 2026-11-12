@@ -13,13 +13,13 @@
 | Company | [DuckDuckGo](../../../../companies/duckduckgo.md) |
 | Store id | `com.duckduckgo.mobile.android` |
 | Bundle / package id | `com.duckduckgo.mobile.android` |
-| Latest version | 5.299.0 (analysed 2026-10-23) |
-| Versions tracked | 3 |
+| Latest version | 5.301.1 (analysed 2026-11-10) |
+| Versions tracked | 4 |
 | SDKs in latest version | 18 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Glide, Jetpack Compose, Lottie, Material Components |
 | Build | Gradle (inferred) |
-| Minimum OS | API 29, targets API 36 |
+| Minimum OS | API 28, targets API 36 |
 | Devices / ABIs | Android |
 | Capabilities | 13 |
 | Declares tracking | No |
@@ -48,6 +48,7 @@ Approximate location, Biometric auth, Camera, Fingerprint auth, Foreground servi
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 5.301.1 | 2026-11-10 | 2026-11-02 | 18 | +0 / −0 | No | No | [5.301.1.json](5.301.1.json) |
 | 5.299.0 | 2026-10-23 | 2026-10-19 | 18 | +1 / −2 | No | No | [5.299.0.json](5.299.0.json) |
 | 5.283.1 | 2026-06-19 |  | 19 | +0 / −0 | No | No | [5.283.1.json](5.283.1.json) |
 | 5.282.0 | 2026-06-11 |  | 19 |  | No | No | [5.282.0.json](5.282.0.json) |

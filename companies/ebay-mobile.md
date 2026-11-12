@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.ebay.mobile.png" width="20" height="20" alt="eBay online shopping &amp; selling icon"> | [eBay online shopping & selling](../apps/android/ebay-mobile/ebay-online-shopping-selling/README.md) | Android | 1 | 6.260.0.1 | 2026-06-19 | 37 | Yes |
+| <img src="../assets/icons/android/com.ebay.mobile.png" width="20" height="20" alt="eBay online shopping &amp; selling icon"> | [eBay online shopping & selling](../apps/android/ebay-mobile/ebay-online-shopping-selling/README.md) | Android | 1 | 6.260.0.1 | 2026-06-19 | 37 | No |
 
 ## SDKs by category
 

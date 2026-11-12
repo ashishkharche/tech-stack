@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1113153706",
     "bundle_id": "com.microsoft.skype.teams",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Microsoft Corporation",
       "slug": "microsoft-corporation",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-02T00:50:39Z",
     "store_first_seen_at": "2026-10-31T00:18:03Z",
     "store_updated_at": "2026-10-30T16:02:33Z",
-    "exported_at": "2026-11-02T02:53:24Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.amazon.mShop.android.shopping.png" width="20" height="20" alt="Amazon Shopping icon"> | [Amazon Shopping](../apps/android/amazon-mobile-llc/amazon-shopping/README.md) | Android | 1 | 32.11.0.100 | 2026-06-23 | 39 | Yes |
-| <img src="../assets/icons/android/com.amazon.avod.thirdpartyclient.png" width="20" height="20" alt="Prime Video icon"> | [Prime Video](../apps/android/amazon-mobile-llc/prime-video/README.md) | Android | 1 | 3.0.456.747 | 2026-06-23 | 29 | Yes |
+| <img src="../assets/icons/android/com.amazon.mShop.android.shopping.png" width="20" height="20" alt="Amazon Shopping icon"> | [Amazon Shopping](../apps/android/amazon-mobile-llc/amazon-shopping/README.md) | Android | 1 | 32.11.0.100 | 2026-06-23 | 39 | No |
+| <img src="../assets/icons/android/com.amazon.avod.thirdpartyclient.png" width="20" height="20" alt="Prime Video icon"> | [Prime Video](../apps/android/amazon-mobile-llc/prime-video/README.md) | Android | 1 | 3.0.456.747 | 2026-06-23 | 29 | No |
 
 ## SDKs by category
 

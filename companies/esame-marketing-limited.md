@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6759792530.png" width="20" height="20" alt="iAmor Family Location Tracker icon"> | [iAmor Family Location Tracker](../apps/ios/esame-marketing-limited/iamor-family-location-tracker/README.md) | iOS | 1 | 1.0.6 | 2026-11-06 | 72 | Yes |
+| <img src="../assets/icons/ios/6759792530.png" width="20" height="20" alt="iAmor Family Location Tracker icon"> | [iAmor Family Location Tracker](../apps/ios/esame-marketing-limited/iamor-family-location-tracker/README.md) | iOS | 1 | 1.0.6 | 2026-11-06 | 72 | No |
 
 ## SDKs by category
 

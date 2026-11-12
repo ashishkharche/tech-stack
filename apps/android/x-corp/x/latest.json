@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.twitter.android",
     "bundle_id": "com.twitter.android",
-    "active": true,
+    "active": false,
     "company": {
       "name": "X Corp.",
       "slug": "x-corp",
@@ -21,7 +21,7 @@
     "captured_at": "2026-10-24T20:05:15Z",
     "store_first_seen_at": "2026-10-21T12:08:35Z",
     "store_updated_at": "2026-10-21T01:50:08Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

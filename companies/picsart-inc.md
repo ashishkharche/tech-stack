@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/587366035.png" width="20" height="20" alt="Picsart AI Photo Editor, Video icon"> | [Picsart AI Photo Editor, Video](../apps/ios/picsart-inc/picsart-ai-photo-editor-video/README.md) | iOS | 1 | 30.9.2 | 2026-10-24 | 47 | Yes |
+| <img src="../assets/icons/ios/587366035.png" width="20" height="20" alt="Picsart AI Photo Editor, Video icon"> | [Picsart AI Photo Editor, Video](../apps/ios/picsart-inc/picsart-ai-photo-editor-video/README.md) | iOS | 1 | 30.9.2 | 2026-10-24 | 47 | No |
 
 ## SDKs by category
 

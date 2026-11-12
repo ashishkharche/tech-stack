@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.spotify.music.png" width="20" height="20" alt="Spotify icon"> | [Spotify: Music and Podcasts](../apps/android/spotify-ab/spotify/README.md) | Android | 1 | 9.1.52.1394 | 2026-06-23 | 35 | Yes |
+| <img src="../assets/icons/android/com.spotify.music.png" width="20" height="20" alt="Spotify icon"> | [Spotify: Music and Podcasts](../apps/android/spotify-ab/spotify/README.md) | Android | 1 | 9.1.52.1394 | 2026-06-23 | 35 | No |
 
 ## SDKs by category
 

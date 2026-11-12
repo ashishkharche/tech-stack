@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1631584032.png" width="20" height="20" alt="PLAYFUL REWARDS icon"> | [PLAYFUL REWARDS: Earn Rewards](../apps/ios/playful-rewards/playful-rewards/README.md) | iOS | 1 | 3.2.2 | 2026-11-04 | 44 | Yes |
+| <img src="../assets/icons/ios/1631584032.png" width="20" height="20" alt="PLAYFUL REWARDS icon"> | [PLAYFUL REWARDS: Earn Rewards](../apps/ios/playful-rewards/playful-rewards/README.md) | iOS | 1 | 3.2.2 | 2026-11-04 | 44 | No |
 
 ## SDKs by category
 

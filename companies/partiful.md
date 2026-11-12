@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1662982304.png" width="20" height="20" alt="Partiful icon"> | [Partiful: Party Invite Maker](../apps/ios/partiful/partiful/README.md) | iOS | 1 | 3.10.23 | 2026-11-02 | 23 | Yes |
+| <img src="../assets/icons/ios/1662982304.png" width="20" height="20" alt="Partiful icon"> | [Partiful: Party Invite Maker](../apps/ios/partiful/partiful/README.md) | iOS | 1 | 3.10.23 | 2026-11-02 | 23 | No |
 
 ## SDKs by category
 

@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "842849113",
     "bundle_id": "com.google.Sheets",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Google",
       "slug": "google",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-11T10:17:55Z",
     "store_first_seen_at": "2026-06-03T16:07:45Z",
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

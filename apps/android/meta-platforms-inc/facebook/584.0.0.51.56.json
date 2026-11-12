@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.facebook.katana",
     "bundle_id": "com.facebook.katana",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Meta Platforms, Inc.",
       "slug": "meta-platforms-inc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-10-24T19:31:08Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

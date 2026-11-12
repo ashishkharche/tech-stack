@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1288723196",
     "bundle_id": "com.microsoft.msedge",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Microsoft Corporation",
       "slug": "microsoft-corporation",
@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "156.4314.56",
+  "version": "157.4341.42",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-02T08:26:55Z",
-    "store_first_seen_at": "2026-11-03T00:00:12Z",
-    "store_updated_at": "2026-11-02T01:46:15Z",
-    "exported_at": "2026-11-04T16:56:41Z"
+    "captured_at": "2026-11-11T04:21:11Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,15 +36,13 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 88,
+    "sdk_count": 20,
     "languages": [
       "C/C++",
-      "Metal (shaders)",
       "Objective-C",
       "Swift"
     ],
     "frameworks": [
-      "ActivityKit (Live Activities)",
       "AdServices (Apple Search Ads attribution)",
       "AdSupport (IDFA)",
       "App Intents",
@@ -73,7 +71,6 @@
       "Photos",
       "PhotosUI",
       "SafariServices",
-      "SceneKit",
       "SiriKit (Intents)",
       "Speech (recognition)",
       "StoreKit (in-app purchase)",
@@ -86,7 +83,6 @@
       "WidgetKit (widgets)"
     ],
     "ui_graphics": [
-      "Lottie (animations)",
       "SwiftUI",
       "UIKit"
     ],
@@ -107,93 +103,9 @@
         "confidence": "observed"
       },
       {
-        "name": "Attribution",
-        "version": null,
-        "category": "analytics",
-        "confidence": "observed"
-      },
-      {
         "name": "Sentry",
         "version": "9.30.2",
         "category": "crash_perf",
-        "confidence": "observed"
-      },
-      {
-        "name": "ManageSubscription",
-        "version": null,
-        "category": "payments",
-        "confidence": "observed"
-      },
-      {
-        "name": "Auth0",
-        "version": null,
-        "category": "auth",
-        "confidence": "observed"
-      },
-      {
-        "name": "Authentication",
-        "version": null,
-        "category": "auth",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsConsent",
-        "version": null,
-        "category": "privacy_consent",
-        "confidence": "observed"
-      },
-      {
-        "name": "SwiftProtobuf",
-        "version": null,
-        "category": "serialization",
-        "confidence": "observed"
-      },
-      {
-        "name": "SwiftyJSON",
-        "version": null,
-        "category": "serialization",
-        "confidence": "observed"
-      },
-      {
-        "name": "Highlight.js",
-        "version": "11.9.0",
-        "category": "rendering",
-        "confidence": "inferred"
-      },
-      {
-        "name": "HighlightSwift",
-        "version": null,
-        "category": "rendering",
-        "confidence": "observed"
-      },
-      {
-        "name": "iosMath",
-        "version": null,
-        "category": "rendering",
-        "confidence": "observed"
-      },
-      {
-        "name": "Lottie",
-        "version": "4.6.0",
-        "category": "rendering",
-        "confidence": "observed"
-      },
-      {
-        "name": "MarkdownText",
-        "version": null,
-        "category": "rendering",
-        "confidence": "observed"
-      },
-      {
-        "name": "SDWebImage",
-        "version": null,
-        "category": "rendering",
-        "confidence": "observed"
-      },
-      {
-        "name": "SDWebImageSwiftUI",
-        "version": null,
-        "category": "rendering",
         "confidence": "observed"
       },
       {
@@ -203,158 +115,8 @@
         "confidence": "observed"
       },
       {
-        "name": "Accounts",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCards",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsComposeEmail",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsFinance",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsFlashcard",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsJob",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsM365",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsMedia",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsPersonalArtifacts",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsQuiz",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsRecipe",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsSafetyHelpline",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsSports",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AnswerCardsWeather",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Attachments",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "AutoSuggestions",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Banning",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
         "name": "BingKit",
         "version": "1.0",
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Camera",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "ChainOfThought",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "ChatInfra",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "ChatModal",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "ChatSessions",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Citations",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Composer",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "CopilotDesignSystem",
-        "version": null,
         "category": "other",
         "confidence": "observed"
       },
@@ -366,12 +128,6 @@
       },
       {
         "name": "CopilotUIKit",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "CopilotVision",
         "version": null,
         "category": "other",
         "confidence": "observed"
@@ -401,56 +157,8 @@
         "confidence": "observed"
       },
       {
-        "name": "DeepResearch",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "DeveloperOptions",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "FeatureLimit",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Feedback",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
         "name": "FluentUIResources-ios",
         "version": "0.35.0",
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "FoundationExtensions",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "GroupChat",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Home",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "MainContent",
-        "version": null,
         "category": "other",
         "confidence": "observed"
       },
@@ -473,20 +181,8 @@
         "confidence": "observed"
       },
       {
-        "name": "MediaFoundation",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
         "name": "MicrosoftTunnelApi",
         "version": "2.1.2",
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "MsnWebBridge",
-        "version": null,
         "category": "other",
         "confidence": "observed"
       },
@@ -503,122 +199,14 @@
         "confidence": "observed"
       },
       {
-        "name": "Notifications",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
         "name": "OneAuth",
         "version": "1.0",
         "category": "other",
         "confidence": "observed"
       },
       {
-        "name": "Pages",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "PagesAPI",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "PagesWebView",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Podcast",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Promotions",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "ReadAloud",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Recipe",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Reminders",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Root",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Share",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
         "name": "ssl",
         "version": "3.1.2",
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "ThinkDeeper",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "TurnLimits",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "VideoGen",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "ViewComponents",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "VoiceCall",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "VoiceSettings",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "YouTubePlayerKit",
-        "version": null,
         "category": "other",
         "confidence": "observed"
       }

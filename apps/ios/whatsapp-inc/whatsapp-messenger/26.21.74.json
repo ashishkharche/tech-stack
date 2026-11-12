@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "310633997",
     "bundle_id": "net.whatsapp.WhatsApp",
-    "active": true,
+    "active": false,
     "company": {
       "name": "WhatsApp Inc.",
       "slug": "whatsapp-inc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-19T04:29:51Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

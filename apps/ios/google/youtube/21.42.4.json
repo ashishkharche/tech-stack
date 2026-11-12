@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "544007664",
     "bundle_id": "com.google.ios.youtube",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Google",
       "slug": "google",
@@ -21,7 +21,7 @@
     "captured_at": "2026-10-24T19:43:43Z",
     "store_first_seen_at": "2026-10-25T17:44:07Z",
     "store_updated_at": "2026-10-21T23:07:58Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

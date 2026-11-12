@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.zzkko",
     "bundle_id": "com.zzkko",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Roadget Business PTE. LTD.",
       "slug": "roadget-business-pte-ltd",
@@ -21,7 +21,7 @@
     "captured_at": "2026-10-24T19:44:15Z",
     "store_first_seen_at": "2026-10-25T00:39:31Z",
     "store_updated_at": "2026-10-21T13:30:58Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

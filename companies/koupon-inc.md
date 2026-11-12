@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6472232952.png" width="20" height="20" alt="Koupon icon"> | [Koupon: Vouchers & Discounts](../apps/ios/koupon-inc/koupon/README.md) | iOS | 1 | 3.1.4 | 2026-11-04 | 38 | Yes |
+| <img src="../assets/icons/ios/6472232952.png" width="20" height="20" alt="Koupon icon"> | [Koupon: Vouchers & Discounts](../apps/ios/koupon-inc/koupon/README.md) | iOS | 1 | 3.1.4 | 2026-11-04 | 38 | No |
 
 ## SDKs by category
 

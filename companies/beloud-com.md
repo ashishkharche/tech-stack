@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/ma.safe.bn.jpg" width="20" height="20" alt="Breaking News icon"> | [Breaking News: Local & Alerts](../apps/android/beloud-com/breaking-news/README.md) | Android | 1 | 11.1.22 | 2026-11-05 | 28 | Yes |
+| <img src="../assets/icons/android/ma.safe.bn.jpg" width="20" height="20" alt="Breaking News icon"> | [Breaking News: Local & Alerts](../apps/android/beloud-com/breaking-news/README.md) | Android | 1 | 11.1.22 | 2026-11-05 | 28 | No |
 
 ## SDKs by category
 

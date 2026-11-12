@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6468981790.png" width="20" height="20" alt="Bring Tracking icon"> | [Bring Tracking](../apps/ios/posten/bring-tracking/README.md) | iOS | 1 | 8.4.9 | 2026-11-05 | 24 | Yes |
+| <img src="../assets/icons/ios/6468981790.png" width="20" height="20" alt="Bring Tracking icon"> | [Bring Tracking](../apps/ios/posten/bring-tracking/README.md) | iOS | 1 | 8.4.9 | 2026-11-05 | 24 | No |
 
 ## SDKs by category
 

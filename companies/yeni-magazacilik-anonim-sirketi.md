@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1644664646.png" width="20" height="20" alt="A101 icon"> | [A101: Tek Uygulama](../apps/ios/yeni-magazacilik-anonim-sirketi/a101/README.md) | iOS | 1 | 3.0.6 | 2026-11-04 | 51 | Yes |
+| <img src="../assets/icons/ios/1644664646.png" width="20" height="20" alt="A101 icon"> | [A101: Tek Uygulama](../apps/ios/yeni-magazacilik-anonim-sirketi/a101/README.md) | iOS | 1 | 3.0.6 | 2026-11-04 | 51 | No |
 
 ## SDKs by category
 

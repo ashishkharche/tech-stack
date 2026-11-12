@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1571998974.png" width="20" height="20" alt="Mastodon icon"> | [Mastodon](../apps/ios/mastodon-gmbh/mastodon/README.md) | iOS | 2 | 2026.07 | 2026-11-04 | 14 | Yes |
+| <img src="../assets/icons/ios/1571998974.png" width="20" height="20" alt="Mastodon icon"> | [Mastodon](../apps/ios/mastodon-gmbh/mastodon/README.md) | iOS | 2 | 2026.07 | 2026-11-04 | 14 | No |
 
 ## SDKs by category
 

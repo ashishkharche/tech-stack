@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/401626263.png" width="20" height="20" alt="Airbnb icon"> | [Airbnb](../apps/ios/airbnb-inc/airbnb/README.md) | iOS | 1 | 26.43.1 | 2026-10-24 | 23 | Yes |
+| <img src="../assets/icons/ios/401626263.png" width="20" height="20" alt="Airbnb icon"> | [Airbnb](../apps/ios/airbnb-inc/airbnb/README.md) | iOS | 1 | 26.43.1 | 2026-10-24 | 23 | No |
 
 ## SDKs by category
 

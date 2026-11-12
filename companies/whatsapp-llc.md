@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.whatsapp.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Messenger](../apps/android/whatsapp-llc/whatsapp-messenger/README.md) | Android | 2 | 2.26.41.77 | 2026-10-23 | 24 | Yes |
+| <img src="../assets/icons/android/com.whatsapp.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Messenger](../apps/android/whatsapp-llc/whatsapp-messenger/README.md) | Android | 2 | 2.26.41.77 | 2026-10-23 | 24 | No |
 
 ## SDKs by category
 

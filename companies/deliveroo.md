@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **3** versions · **145** distinct SDKs across their latest versions
+**2** apps (1 iOS, 1 Android) · **4** versions · **145** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/deliveroo/deliveroo/README.md"><img src="../assets/icons/android/com.deliveroo.orderapp.png" width="56" height="56" alt="Deliveroo icon"></a><br><a href="../apps/android/deliveroo/deliveroo/README.md"><sub><b>Deliveroo</b></sub></a><br><sub>Android · 54 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/deliveroo/deliveroo/README.md"><img src="../assets/icons/ios/1001501844.png" width="56" height="56" alt="Deliveroo icon"></a><br><a href="../apps/ios/deliveroo/deliveroo/README.md"><sub><b>Deliveroo</b></sub></a><br><sub>iOS · 98 SDKs</sub></td></tr>
@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.deliveroo.orderapp.png" width="20" height="20" alt="Deliveroo icon"> | [Deliveroo: Food & Shopping](../apps/android/deliveroo/deliveroo/README.md) | Android | 1 | 3.295.0 | 2026-10-24 | 54 | Yes |
-| <img src="../assets/icons/ios/1001501844.png" width="20" height="20" alt="Deliveroo icon"> | [Deliveroo: Food & Shopping](../apps/ios/deliveroo/deliveroo/README.md) | iOS | 2 | 3.346.0 | 2026-11-01 | 98 | Yes |
+| <img src="../assets/icons/android/com.deliveroo.orderapp.png" width="20" height="20" alt="Deliveroo icon"> | [Deliveroo: Food & Shopping](../apps/android/deliveroo/deliveroo/README.md) | Android | 2 | 3.297.2 | 2026-11-09 | 54 | No |
+| <img src="../assets/icons/ios/1001501844.png" width="20" height="20" alt="Deliveroo icon"> | [Deliveroo: Food & Shopping](../apps/ios/deliveroo/deliveroo/README.md) | iOS | 2 | 3.346.0 | 2026-11-01 | 98 | No |
 
 ## SDKs by category
 

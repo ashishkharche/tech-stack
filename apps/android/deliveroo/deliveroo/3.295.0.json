@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.deliveroo.orderapp",
     "bundle_id": "com.deliveroo.orderapp",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Deliveroo",
       "slug": "deliveroo",
@@ -21,7 +21,7 @@
     "captured_at": "2026-10-24T21:14:50Z",
     "store_first_seen_at": "2026-10-25T00:39:31Z",
     "store_updated_at": "2026-10-19T11:08:33Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

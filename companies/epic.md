@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/382952264.png" width="20" height="20" alt="MyChart icon"> | [MyChart](../apps/ios/epic/mychart/README.md) | iOS | 1 | 11.9.5 | 2026-11-02 | 0 | Yes |
+| <img src="../assets/icons/ios/382952264.png" width="20" height="20" alt="MyChart icon"> | [MyChart](../apps/ios/epic/mychart/README.md) | iOS | 1 | 11.9.5 | 2026-11-02 | 0 | No |
 
 ---
 

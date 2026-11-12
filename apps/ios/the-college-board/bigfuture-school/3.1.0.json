@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "6462904878",
     "bundle_id": "org.collegeboard.bigfutureschool",
-    "active": true,
+    "active": false,
     "company": {
       "name": "The College Board",
       "slug": "the-college-board",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-06T13:49:12Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-06T14:13:26Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

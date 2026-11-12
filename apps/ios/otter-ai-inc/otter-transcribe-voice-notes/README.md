@@ -13,8 +13,8 @@
 | Company | [Otter.ai, Inc.](../../../../companies/otter-ai-inc.md) |
 | Store id | `1276437113` |
 | Bundle / package id | `com.aisense.otter` |
-| Latest version | 3.110.1 (analysed 2026-10-24) |
-| Versions tracked | 1 |
+| Latest version | 3.111.0 (analysed 2026-11-10) |
+| Versions tracked | 2 |
 | SDKs in latest version | 36 |
 | Languages | C/C++, Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -60,6 +60,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 3.111.0 | 2026-11-10 | 2026-10-30 | 36 | +0 / −0 | Yes | Yes | [3.111.0.json](3.111.0.json) |
 | 3.110.1 | 2026-10-24 | 2026-10-22 | 36 |  | Yes | Yes | [3.110.1.json](3.110.1.json) |
 
 ---

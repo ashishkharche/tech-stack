@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1209815023.png" width="20" height="20" alt="Speechify icon"> | [Speechify – Text to Speech PDF](../apps/ios/speechify-inc/speechify/README.md) | iOS | 1 | 5.5.17 | 2026-10-24 | 103 | Yes |
+| <img src="../assets/icons/ios/1209815023.png" width="20" height="20" alt="Speechify icon"> | [Speechify – Text to Speech PDF](../apps/ios/speechify-inc/speechify/README.md) | iOS | 1 | 5.5.17 | 2026-10-24 | 103 | No |
 
 ## SDKs by category
 

@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/ctrip.english.png" width="20" height="20" alt="Trip.com icon"> | [Trip.com: Book Flights, Hotels](../apps/android/trip-com/trip-com/README.md) | Android | 1 | 8.59.0 | 2026-10-24 | 37 | Yes |
+| <img src="../assets/icons/android/ctrip.english.png" width="20" height="20" alt="Trip.com icon"> | [Trip.com: Book Flights, Hotels](../apps/android/trip-com/trip-com/README.md) | Android | 1 | 8.59.0 | 2026-10-24 | 37 | No |
 
 ## SDKs by category
 

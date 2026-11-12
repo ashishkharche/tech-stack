@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.spotify.music",
     "bundle_id": "com.spotify.music",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Spotify AB",
       "slug": "spotify-ab",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-23T03:59:47Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

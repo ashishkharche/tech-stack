@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.dealseekorg.dealseek.png" width="20" height="20" alt="DealSeek icon"> | [DealSeek: Coupons & Discounts](../apps/android/dealseek-llc/dealseek/README.md) | Android | 1 | 1.64.0 | 2026-11-02 | 25 | Yes |
-| <img src="../assets/icons/ios/6745274862.png" width="20" height="20" alt="DealSeek icon"> | [DealSeek: Coupons & Discounts](../apps/ios/dealseek-llc/dealseek/README.md) | iOS | 1 | 1.64.0 | 2026-11-02 | 32 | Yes |
+| <img src="../assets/icons/android/com.dealseekorg.dealseek.png" width="20" height="20" alt="DealSeek icon"> | [DealSeek: Coupons & Discounts](../apps/android/dealseek-llc/dealseek/README.md) | Android | 1 | 1.64.0 | 2026-11-02 | 25 | No |
+| <img src="../assets/icons/ios/6745274862.png" width="20" height="20" alt="DealSeek icon"> | [DealSeek: Coupons & Discounts](../apps/ios/dealseek-llc/dealseek/README.md) | iOS | 1 | 1.64.0 | 2026-11-02 | 32 | No |
 
 ## SDKs by category
 

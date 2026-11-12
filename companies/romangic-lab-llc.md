@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6749303003.png" width="20" height="20" alt="WayShot icon"> | [WayShot:Aesthetic Photo Editor](../apps/ios/romangic-lab-llc/wayshot-aesthetic-photo-editor/README.md) | iOS | 1 | 2.14.0 | 2026-11-02 | 59 | Yes |
+| <img src="../assets/icons/ios/6749303003.png" width="20" height="20" alt="WayShot icon"> | [WayShot:Aesthetic Photo Editor](../apps/ios/romangic-lab-llc/wayshot-aesthetic-photo-editor/README.md) | iOS | 1 | 2.14.0 | 2026-11-02 | 59 | No |
 
 ## SDKs by category
 

@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/324684580.png" width="20" height="20" alt="Spotify icon"> | [Spotify: Music and Podcasts](../apps/ios/spotify/spotify/README.md) | iOS | 2 | 9.1.92 | 2026-10-23 | 22 | Yes |
+| <img src="../assets/icons/ios/324684580.png" width="20" height="20" alt="Spotify icon"> | [Spotify: Music and Podcasts](../apps/ios/spotify/spotify/README.md) | iOS | 2 | 9.1.92 | 2026-10-23 | 22 | No |
 
 ## SDKs by category
 

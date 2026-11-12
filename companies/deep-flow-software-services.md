@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1510944943.png" width="20" height="20" alt="Cleanup icon"> | [Cleanup: Phone Storage Cleaner](../apps/ios/deep-flow-software-services/cleanup/README.md) | iOS | 1 | 6.25.1 | 2026-11-02 | 42 | Yes |
+| <img src="../assets/icons/ios/1510944943.png" width="20" height="20" alt="Cleanup icon"> | [Cleanup: Phone Storage Cleaner](../apps/ios/deep-flow-software-services/cleanup/README.md) | iOS | 1 | 6.25.1 | 2026-11-02 | 42 | No |
 
 ## SDKs by category
 

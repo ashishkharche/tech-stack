@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.azure.authenticator",
     "bundle_id": "com.azure.authenticator",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Microsoft Corporation",
       "slug": "microsoft-corporation",
@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "6.2605.3042",
+  "version": "6.2611.7348",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-23T04:41:21Z",
-    "store_first_seen_at": null,
-    "store_updated_at": null,
-    "exported_at": "2026-11-04T16:56:41Z"
+    "captured_at": "2026-11-06T20:38:44Z",
+    "store_first_seen_at": "2026-11-06T12:00:10Z",
+    "store_updated_at": "2026-11-05T03:27:47Z",
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -207,7 +207,7 @@
     "platform": {
       "min_os": "Android API 26",
       "min_sdk": "26",
-      "target_sdk": "35",
+      "target_sdk": "36",
       "build_sdk": null,
       "xcode": null,
       "device_families": [
@@ -272,40 +272,5 @@
       ]
     }
   },
-  "inferred": [
-    {
-      "kind": "analysis",
-      "method": "model_written_summary_of_detected_signals",
-      "note": "Written by a language model from the analysis; treat as unverified.",
-      "generated_at": "2026-06-23T04:41:21Z",
-      "headline": "Android app with Kotlin/Java and C++ natives (ONNX, Azure AI Vision, wolfSSL), Jetpack Compose, Microsoft Azure AD backends, and enterprise Knox support",
-      "insights": [
-        {
-          "theme": "ml_ai",
-          "title": "On-device ML with ONNX and Azure Vision",
-          "detail": "Bundles ONNX Runtime (via native imports) plus multiple Azure AI Vision native libraries including face extension, indicating on-device ML inference and image processing."
-        },
-        {
-          "theme": "ui",
-          "title": "Jetpack Compose UI stack",
-          "detail": "Uses Jetpack Compose with Material Components, Lottie, and Picasso for rendering and image handling."
-        },
-        {
-          "theme": "sdks",
-          "title": "Telemetry and auth SDK mix",
-          "detail": "Integrates App Center, OpenTelemetry, Firebase Analytics, AppAuth, Credential Manager, and Retrofit for networking and monitoring."
-        },
-        {
-          "theme": "architecture",
-          "title": "Large component and native surface",
-          "detail": "Declares 54 activities, 28 services, 20 receivers, 13 native JNI libraries, and queries many Microsoft apps, showing high integration complexity."
-        },
-        {
-          "theme": "languages",
-          "title": "Kotlin, Java and C/C++ mix",
-          "detail": "Built with Kotlin and Java runtimes plus C/C++ native code and 13 JNI libraries."
-        }
-      ]
-    }
-  ]
+  "inferred": []
 }

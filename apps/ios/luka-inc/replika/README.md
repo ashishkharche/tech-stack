@@ -4,7 +4,7 @@
 
 # Replika - AI Companion Chat
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
 
 [App Store](https://apps.apple.com/app/id1158555867) · [latest.json](latest.json)
 
@@ -13,8 +13,8 @@
 | Company | [Luka, Inc.](../../../../companies/luka-inc.md) |
 | Store id | `1158555867` |
 | Bundle / package id | `ai.replika.app` |
-| Latest version | 12.5.1 (analysed 2026-11-03) |
-| Versions tracked | 3 |
+| Latest version | 12.5.2 (analysed 2026-11-06) |
+| Versions tracked | 4 |
 | SDKs in latest version | 80 |
 | Languages | C/C++, Objective-C, Swift, Unity (C# / IL2CPP) |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -24,7 +24,7 @@
 | Localisations | 5 |
 | Capabilities | 10 |
 | Declares tracking | Yes |
-| Tracked | Yes |
+| Tracked | No. Kept for history. |
 
 ## SDKs by category
 
@@ -62,6 +62,7 @@ App Attest, App Groups, Apple Pay, Associated Domains (Universal Links), Backgro
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 12.5.2 | 2026-11-06 | 2026-11-05 | 80 | +0 / −0 | Yes | Yes | [12.5.2.json](12.5.2.json) |
 | 12.5.1 | 2026-11-03 | 2026-11-02 | 80 | +0 / −0 | Yes | Yes | [12.5.1.json](12.5.1.json) |
 | 12.5.0 | 2026-11-02 | 2026-10-27 | 80 | +0 / −3 | Yes | Yes | [12.5.0.json](12.5.0.json) |
 | 12.4.2 | 2026-10-24 | 2026-10-13 | 83 |  | Yes | Yes | [12.4.2.json](12.4.2.json) |

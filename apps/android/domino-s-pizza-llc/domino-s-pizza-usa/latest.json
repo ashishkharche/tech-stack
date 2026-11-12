@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.dominospizza",
     "bundle_id": "com.dominospizza",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Domino's Pizza LLC",
       "slug": "domino-s-pizza-llc",
@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "13.6.0",
+  "version": "13.12.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-19T04:32:05Z",
+    "captured_at": "2026-11-10T08:39:24Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 35,
+    "sdk_count": 23,
     "languages": [
       "C/C++ (native)",
       "Java",
@@ -44,7 +44,6 @@
     ],
     "frameworks": [],
     "ui_graphics": [
-      "Coil",
       "Glide",
       "Jetpack Compose",
       "Material Components"
@@ -60,12 +59,6 @@
         "confidence": "observed"
       },
       {
-        "name": "Facebook SDK",
-        "version": null,
-        "category": "analytics",
-        "confidence": "observed"
-      },
-      {
         "name": "Firebase Analytics",
         "version": null,
         "category": "analytics",
@@ -75,12 +68,6 @@
         "name": "Google App Measurement",
         "version": null,
         "category": "analytics",
-        "confidence": "observed"
-      },
-      {
-        "name": "Google Mobile Ads (AdMob)",
-        "version": null,
-        "category": "ads",
         "confidence": "observed"
       },
       {
@@ -108,27 +95,15 @@
         "confidence": "observed"
       },
       {
+        "name": "Cronet",
+        "version": null,
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
         "name": "OkHttp",
         "version": null,
         "category": "networking",
-        "confidence": "observed"
-      },
-      {
-        "name": "Retrofit",
-        "version": null,
-        "category": "networking",
-        "confidence": "observed"
-      },
-      {
-        "name": "Volley",
-        "version": null,
-        "category": "networking",
-        "confidence": "observed"
-      },
-      {
-        "name": "Apollo GraphQL",
-        "version": null,
-        "category": "graphql",
         "confidence": "observed"
       },
       {
@@ -156,19 +131,7 @@
         "confidence": "observed"
       },
       {
-        "name": "Kotlin Coroutines",
-        "version": null,
-        "category": "reactive",
-        "confidence": "observed"
-      },
-      {
         "name": "DataStore",
-        "version": null,
-        "category": "storage",
-        "confidence": "observed"
-      },
-      {
-        "name": "Okio",
         "version": null,
         "category": "storage",
         "confidence": "observed"
@@ -198,18 +161,6 @@
         "confidence": "observed"
       },
       {
-        "name": "AndroidSVG",
-        "version": null,
-        "category": "rendering",
-        "confidence": "observed"
-      },
-      {
-        "name": "Coil",
-        "version": null,
-        "category": "rendering",
-        "confidence": "observed"
-      },
-      {
         "name": "Glide",
         "version": null,
         "category": "rendering",
@@ -222,27 +173,9 @@
         "confidence": "observed"
       },
       {
-        "name": "Markwon",
-        "version": null,
-        "category": "rendering",
-        "confidence": "observed"
-      },
-      {
         "name": "Material Components",
         "version": null,
         "category": "rendering",
-        "confidence": "observed"
-      },
-      {
-        "name": "Play Integrity",
-        "version": null,
-        "category": "anti_fraud",
-        "confidence": "observed"
-      },
-      {
-        "name": "reCAPTCHA",
-        "version": null,
-        "category": "anti_fraud",
         "confidence": "observed"
       },
       {
@@ -256,18 +189,12 @@
         "version": null,
         "category": "feature_flags",
         "confidence": "observed"
-      },
-      {
-        "name": "Chucker",
-        "version": null,
-        "category": "debugging",
-        "confidence": "observed"
       }
     ],
     "platform": {
       "min_os": "Android API 28",
       "min_sdk": "28",
-      "target_sdk": "35",
+      "target_sdk": "36",
       "build_sdk": null,
       "xcode": null,
       "device_families": [
@@ -284,40 +211,29 @@
     "capabilities": [
       "Advertising ID",
       "Approximate location",
-      "Background location",
-      "Bluetooth",
       "Foreground service",
-      "Microphone",
       "Notifications",
-      "Phone / carrier info",
-      "Precise location",
-      "Storage (write)"
+      "Precise location"
     ],
     "privacy": {
       "declares_tracking": true,
-      "tracking_domain_count": 8,
+      "tracking_domain_count": 6,
       "collected_data_types": [],
       "required_reason_apis": [],
       "android_permissions": [
         "android.permission.ACCESS_ADSERVICES_AD_ID",
         "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
-        "android.permission.ACCESS_BACKGROUND_LOCATION",
         "android.permission.ACCESS_COARSE_LOCATION",
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.ACCESS_WIFI_STATE",
-        "android.permission.BLUETOOTH",
-        "android.permission.CALL_PHONE",
         "android.permission.EXPAND_STATUS_BAR",
         "android.permission.FOREGROUND_SERVICE",
         "android.permission.INTERNET",
         "android.permission.POST_NOTIFICATIONS",
-        "android.permission.READ_PHONE_STATE",
         "android.permission.RECEIVE_BOOT_COMPLETED",
-        "android.permission.RECORD_AUDIO",
-        "android.permission.VIBRATE",
+        "android.permission.REORDER_TASKS",
         "android.permission.WAKE_LOCK",
-        "android.permission.WRITE_EXTERNAL_STORAGE",
         "com.dominospizza.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
         "com.google.android.c2dm.permission.RECEIVE",
         "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
@@ -326,20 +242,5 @@
       ]
     }
   },
-  "inferred": [
-    {
-      "kind": "analysis",
-      "method": "model_written_summary_of_detected_signals",
-      "note": "Written by a language model from the analysis; treat as unverified.",
-      "generated_at": "2026-06-14T00:49:36Z",
-      "headline": null,
-      "insights": [
-        {
-          "theme": "ui",
-          "title": "Compose UI with image libs",
-          "detail": "Renders via Jetpack Compose and Material Components; loads images with both Glide and Coil."
-        }
-      ]
-    }
-  ]
+  "inferred": []
 }

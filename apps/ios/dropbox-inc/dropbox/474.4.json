@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "327630330",
     "bundle_id": "com.getdropbox.Dropbox",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Dropbox, Inc.",
       "slug": "dropbox-inc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-09T02:19:29Z",
     "store_first_seen_at": "2026-05-31T16:32:41Z",
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

@@ -4,7 +4,7 @@
 
 # Domino's Pizza USA
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.dominospizza) · [latest.json](latest.json)
 
@@ -13,44 +13,39 @@
 | Company | [Domino's Pizza LLC](../../../../companies/domino-s-pizza-llc.md) |
 | Store id | `com.dominospizza` |
 | Bundle / package id | `com.dominospizza` |
-| Latest version | 13.6.0 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 35 |
+| Latest version | 13.12.0 (analysed 2026-11-10) |
+| Versions tracked | 2 |
+| SDKs in latest version | 23 |
 | Languages | C/C++ (native), Java, Kotlin |
-| UI | Coil, Glide, Jetpack Compose, Material Components |
+| UI | Glide, Jetpack Compose, Material Components |
 | Build | Gradle (inferred) |
-| Minimum OS | API 28, targets API 35 |
+| Minimum OS | API 28, targets API 36 |
 | Devices / ABIs | Android |
-| Capabilities | 10 |
+| Capabilities | 5 |
 | Declares tracking | Yes |
-| Tracked | Yes |
+| Tracked | No. Kept for history. |
 
 ## SDKs by category
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/domino-s-pizza-llc/domino-s-pizza-usa-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/domino-s-pizza-llc/domino-s-pizza-usa-light.svg"></picture>
 
-- **UI and rendering** (6): AndroidSVG, Coil, Glide, Jetpack Compose, Markwon, Material Components
-- **Analytics** (4): Branch, Facebook SDK, Firebase Analytics, Google App Measurement
+- **Analytics** (3): Branch, Firebase Analytics, Google App Measurement
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
-- **Networking** (3): OkHttp, Retrofit, Volley
-- **Storage** (3): DataStore, Okio, Room
-- **Anti-fraud and integrity** (2): Play Integrity, reCAPTCHA
+- **UI and rendering** (3): Glide, Jetpack Compose, Material Components
 - **Crash and performance** (2): Firebase Crashlytics, Firebase Performance
 - **Feature flags** (2): Firebase Remote Config, LaunchDarkly
 - **Maps and location** (2): Google Location, Google Maps
-- **Ads** (1): Google Mobile Ads (AdMob)
+- **Networking** (2): Cronet, OkHttp
+- **Storage** (2): DataStore, Room
 - **Sign-in and auth** (1): Google Sign-In / Auth
-- **Logging and diagnostics** (1): Chucker
-- **GraphQL** (1): Apollo GraphQL
 - **Media** (1): Media3 (ExoPlayer)
 - **Messaging and push** (1): Firebase Messaging
 - **Payments** (1): Braintree
-- **Reactive and async** (1): Kotlin Coroutines
 
 <details>
-<summary>Capabilities (10)</summary>
+<summary>Capabilities (5)</summary>
 
-Advertising ID, Approximate location, Background location, Bluetooth, Foreground service, Microphone, Notifications, Phone / carrier info, Precise location, Storage (write)
+Advertising ID, Approximate location, Foreground service, Notifications, Precise location
 
 </details>
 
@@ -58,7 +53,12 @@ Advertising ID, Approximate location, Background location, Bluetooth, Foreground
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 13.12.0 | 2026-11-10 |  | 23 | +1 / −13 | No | No | [13.12.0.json](13.12.0.json) |
 | 13.6.0 | 2026-06-19 |  | 35 |  | No | No | [13.6.0.json](13.6.0.json) |
+
+### SDK changes between versions
+
+- 13.6.0 → 13.12.0: added Cronet; removed AndroidSVG, Apollo GraphQL, Chucker, Coil, Facebook SDK, Google Mobile Ads (AdMob), Kotlin Coroutines, Markwon, Okio, Play Integrity, reCAPTCHA, Retrofit, Volley
 
 ---
 

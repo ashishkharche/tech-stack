@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1636235979",
     "bundle_id": "com.newleaf.app.ios.vic",
-    "active": true,
+    "active": false,
     "company": {
       "name": "NewLeaf Publishing",
       "slug": "newleaf-publishing",
@@ -21,7 +21,7 @@
     "captured_at": "2026-10-24T19:45:38Z",
     "store_first_seen_at": "2026-10-25T00:39:31Z",
     "store_updated_at": "2026-09-28T01:36:57Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

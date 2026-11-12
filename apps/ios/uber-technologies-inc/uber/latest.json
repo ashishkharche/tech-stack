@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "368677368",
     "bundle_id": "com.ubercab.UberClient",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Uber Technologies, Inc.",
       "slug": "uber-technologies-inc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-10-24T19:28:45Z",
     "store_first_seen_at": "2026-10-25T00:39:31Z",
     "store_updated_at": "2026-10-19T15:39:52Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

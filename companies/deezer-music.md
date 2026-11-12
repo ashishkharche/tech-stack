@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.deezer.analytics.png" width="20" height="20" alt="Deezer for Creators icon"> | [Deezer for Creators](../apps/android/deezer-music/deezer-for-creators/README.md) | Android | 1 | 3.0.1 | 2026-06-19 | 15 | Yes |
-| <img src="../assets/icons/android/deezer.android.app.png" width="20" height="20" alt="Deezer icon"> | [Deezer: Music & Podcast Player](../apps/android/deezer-music/deezer/README.md) | Android | 1 | 1.0.1.1 | 2026-06-19 | 22 | Yes |
+| <img src="../assets/icons/android/com.deezer.analytics.png" width="20" height="20" alt="Deezer for Creators icon"> | [Deezer for Creators](../apps/android/deezer-music/deezer-for-creators/README.md) | Android | 1 | 3.0.1 | 2026-06-19 | 15 | No |
+| <img src="../assets/icons/android/deezer.android.app.png" width="20" height="20" alt="Deezer icon"> | [Deezer: Music & Podcast Player](../apps/android/deezer-music/deezer/README.md) | Android | 1 | 1.0.1.1 | 2026-06-19 | 22 | No |
 
 ## SDKs by category
 

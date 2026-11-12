@@ -4,18 +4,18 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **3** versions · **42** distinct SDKs across their latest versions
+**2** apps (1 iOS, 1 Android) · **4** versions · **39** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/discord-inc/discord/README.md"><img src="../assets/icons/android/com.discord.png" width="56" height="56" alt="Discord icon"></a><br><a href="../apps/android/discord-inc/discord/README.md"><sub><b>Discord</b></sub></a><br><sub>Android · 30 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/discord-inc/discord/README.md"><img src="../assets/icons/ios/985746746.png" width="56" height="56" alt="Discord icon"></a><br><a href="../apps/ios/discord-inc/discord/README.md"><sub><b>Discord</b></sub></a><br><sub>iOS · 15 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/discord-inc/discord/README.md"><img src="../assets/icons/android/com.discord.png" width="56" height="56" alt="Discord icon"></a><br><a href="../apps/android/discord-inc/discord/README.md"><sub><b>Discord</b></sub></a><br><sub>Android · 27 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/discord-inc/discord/README.md"><img src="../assets/icons/ios/985746746.png" width="56" height="56" alt="Discord icon"></a><br><a href="../apps/ios/discord-inc/discord/README.md"><sub><b>Discord</b></sub></a><br><sub>iOS · 15 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.discord.png" width="20" height="20" alt="Discord icon"> | [Discord - Talk, Play, Hang Out](../apps/android/discord-inc/discord/README.md) | Android | 1 | 350.8 - Stable | 2026-10-24 | 30 | Yes |
-| <img src="../assets/icons/ios/985746746.png" width="20" height="20" alt="Discord icon"> | [Discord - Talk, Play, Hang Out](../apps/ios/discord-inc/discord/README.md) | iOS | 2 | 350.0 | 2026-10-23 | 15 | Yes |
+| <img src="../assets/icons/android/com.discord.png" width="20" height="20" alt="Discord icon"> | [Discord - Talk, Play, Hang Out](../apps/android/discord-inc/discord/README.md) | Android | 2 | 352.17 - Stable | 2026-11-10 | 27 | No |
+| <img src="../assets/icons/ios/985746746.png" width="20" height="20" alt="Discord icon"> | [Discord - Talk, Play, Hang Out](../apps/ios/discord-inc/discord/README.md) | iOS | 2 | 350.0 | 2026-10-23 | 15 | No |
 
 ## SDKs by category
 

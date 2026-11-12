@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6742321547.png" width="20" height="20" alt="i-Kfz icon"> | [i-Kfz](../apps/ios/kraftfahrt-bundesamt/i-kfz/README.md) | iOS | 1 | 1.1.8 | 2026-11-05 | 4 | Yes |
+| <img src="../assets/icons/ios/6742321547.png" width="20" height="20" alt="i-Kfz icon"> | [i-Kfz](../apps/ios/kraftfahrt-bundesamt/i-kfz/README.md) | iOS | 1 | 1.1.8 | 2026-11-05 | 4 | No |
 
 ## SDKs by category
 

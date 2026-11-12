@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/327630330.png" width="20" height="20" alt="Dropbox icon"> | [Dropbox: Cloud Storage Backup](../apps/ios/dropbox-inc/dropbox/README.md) | iOS | 2 | 476.2 | 2026-06-23 | 19 | Yes |
+| <img src="../assets/icons/ios/327630330.png" width="20" height="20" alt="Dropbox icon"> | [Dropbox: Cloud Storage Backup](../apps/ios/dropbox-inc/dropbox/README.md) | iOS | 2 | 476.2 | 2026-06-23 | 19 | No |
 
 ## SDKs by category
 

@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/518684914.png" width="20" height="20" alt="Depop icon"> | [Depop - Buy & Sell Clothes](../apps/ios/depop-ltd/depop/README.md) | iOS | 1 | 2.418 | 2026-11-02 | 344 | Yes |
+| <img src="../assets/icons/ios/518684914.png" width="20" height="20" alt="Depop icon"> | [Depop - Buy & Sell Clothes](../apps/ios/depop-ltd/depop/README.md) | iOS | 1 | 2.418 | 2026-11-02 | 344 | No |
 
 ## SDKs by category
 

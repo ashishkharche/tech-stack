@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6587576438.png" width="20" height="20" alt="setlog icon"> | [setlog - friends camera](../apps/ios/new-chat/setlog/README.md) | iOS | 1 | 2.7.7 | 2026-11-05 | 1 | Yes |
+| <img src="../assets/icons/ios/6587576438.png" width="20" height="20" alt="setlog icon"> | [setlog - friends camera](../apps/ios/new-chat/setlog/README.md) | iOS | 1 | 2.7.7 | 2026-11-05 | 1 | No |
 
 ## SDKs by category
 

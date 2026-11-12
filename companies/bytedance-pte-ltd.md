@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.lemon.lvoverseas.png" width="20" height="20" alt="CapCut icon"> | [CapCut - Video Editor](../apps/android/bytedance-pte-ltd/capcut/README.md) | Android | 1 | 19.8.0 | 2026-10-24 | 37 | Yes |
-| <img src="../assets/icons/ios/1500855883.png" width="20" height="20" alt="CapCut icon"> | [CapCut: Photo & Video Editor](../apps/ios/bytedance-pte-ltd/capcut/README.md) | iOS | 2 | 19.9.0 | 2026-11-03 | 163 | Yes |
+| <img src="../assets/icons/android/com.lemon.lvoverseas.png" width="20" height="20" alt="CapCut icon"> | [CapCut - Video Editor](../apps/android/bytedance-pte-ltd/capcut/README.md) | Android | 1 | 19.8.0 | 2026-10-24 | 37 | No |
+| <img src="../assets/icons/ios/1500855883.png" width="20" height="20" alt="CapCut icon"> | [CapCut: Photo & Video Editor](../apps/ios/bytedance-pte-ltd/capcut/README.md) | iOS | 2 | 19.9.0 | 2026-11-03 | 163 | No |
 
 ## SDKs by category
 

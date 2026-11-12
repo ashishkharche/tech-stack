@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "1571998974",
     "bundle_id": "org.joinmastodon.app",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Mastodon GmbH",
       "slug": "mastodon-gmbh",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-04T12:27:49Z",
     "store_first_seen_at": "2026-11-03T00:00:12Z",
     "store_updated_at": "2026-08-10T14:03:04Z",
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

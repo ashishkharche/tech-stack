@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/640360962.png" width="20" height="20" alt="Nextdoor icon"> | [Nextdoor: Neighborhood Network](../apps/ios/nextdoor/nextdoor/README.md) | iOS | 1 | 6.201.2 | 2026-06-19 | 98 | Yes |
+| <img src="../assets/icons/ios/640360962.png" width="20" height="20" alt="Nextdoor icon"> | [Nextdoor: Neighborhood Network](../apps/ios/nextdoor/nextdoor/README.md) | iOS | 1 | 6.201.2 | 2026-06-19 | 98 | No |
 
 ## SDKs by category
 

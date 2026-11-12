@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.grabtaxi.passenger.png" width="20" height="20" alt="Grab icon"> | [Grab - Taxi & Food Delivery](../apps/android/grab-holdings/grab/README.md) | Android | 1 | 5.430.0 | 2026-10-24 | 47 | Yes |
+| <img src="../assets/icons/android/com.grabtaxi.passenger.png" width="20" height="20" alt="Grab icon"> | [Grab - Taxi & Food Delivery](../apps/android/grab-holdings/grab/README.md) | Android | 1 | 5.430.0 | 2026-10-24 | 47 | No |
 
 ## SDKs by category
 

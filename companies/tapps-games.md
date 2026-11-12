@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/br.com.tapps.goatevolution.png" width="20" height="20" alt="Goat Evolution icon"> | [Goat Evolution: Animal Merge](../apps/android/tapps-games/goat-evolution/README.md) | Android | 1 | 1.3.75 | 2026-06-23 | 35 | Yes |
+| <img src="../assets/icons/android/br.com.tapps.goatevolution.png" width="20" height="20" alt="Goat Evolution icon"> | [Goat Evolution: Animal Merge](../apps/android/tapps-games/goat-evolution/README.md) | Android | 1 | 1.3.75 | 2026-06-23 | 35 | No |
 
 ## SDKs by category
 

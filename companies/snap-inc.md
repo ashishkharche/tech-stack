@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.snapchat.android.png" width="20" height="20" alt="Snapchat icon"> | [Snapchat](../apps/android/snap-inc/snapchat/README.md) | Android | 1 | 14.29.0.50 | 2026-10-24 | 29 | Yes |
-| <img src="../assets/icons/ios/447188370.png" width="20" height="20" alt="Snapchat icon"> | [Snapchat](../apps/ios/snap-inc/snapchat/README.md) | iOS | 1 | 13.95.1 | 2026-06-19 | 7 | Yes |
+| <img src="../assets/icons/android/com.snapchat.android.png" width="20" height="20" alt="Snapchat icon"> | [Snapchat](../apps/android/snap-inc/snapchat/README.md) | Android | 1 | 14.29.0.50 | 2026-10-24 | 29 | No |
+| <img src="../assets/icons/ios/447188370.png" width="20" height="20" alt="Snapchat icon"> | [Snapchat](../apps/ios/snap-inc/snapchat/README.md) | iOS | 1 | 13.95.1 | 2026-06-19 | 7 | No |
 
 ## SDKs by category
 

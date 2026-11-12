@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/719972451.png" width="20" height="20" alt="DoorDash icon"> | [DoorDash: Food, Grocery, More](../apps/ios/doordash-inc/doordash/README.md) | iOS | 1 | 8.41.0 | 2026-10-24 | 98 | Yes |
+| <img src="../assets/icons/ios/719972451.png" width="20" height="20" alt="DoorDash icon"> | [DoorDash: Food, Grocery, More](../apps/ios/doordash-inc/doordash/README.md) | iOS | 1 | 8.41.0 | 2026-10-24 | 98 | No |
 
 ## SDKs by category
 

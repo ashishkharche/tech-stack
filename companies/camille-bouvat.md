@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.cbouvat.android.saracroche.png" width="20" height="20" alt="Saracroche icon"> | [Saracroche : bloqueur d'appels](../apps/android/camille-bouvat/saracroche/README.md) | Android | 1 | 5.5.4 | 2026-11-05 | 3 | Yes |
+| <img src="../assets/icons/android/com.cbouvat.android.saracroche.png" width="20" height="20" alt="Saracroche icon"> | [Saracroche : bloqueur d'appels](../apps/android/camille-bouvat/saracroche/README.md) | Android | 1 | 5.5.4 | 2026-11-05 | 3 | No |
 
 ## SDKs by category
 

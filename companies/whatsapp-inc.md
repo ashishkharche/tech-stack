@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (2 iOS, 0 Android) · **4** versions · **6** distinct SDKs across their latest versions
+**2** apps (2 iOS, 0 Android) · **5** versions · **6** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/whatsapp-inc/whatsapp-business/README.md"><img src="../assets/icons/ios/1386412985.png" width="56" height="56" alt="WhatsApp Business icon"></a><br><a href="../apps/ios/whatsapp-inc/whatsapp-business/README.md"><sub><b>WhatsApp Business</b></sub></a><br><sub>iOS · 6 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/whatsapp-inc/whatsapp-messenger/README.md"><img src="../assets/icons/ios/310633997.png" width="56" height="56" alt="WhatsApp Messenger icon"></a><br><a href="../apps/ios/whatsapp-inc/whatsapp-messenger/README.md"><sub><b>WhatsApp Messenger</b></sub></a><br><sub>iOS · 6 SDKs</sub></td></tr>
@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> | [WhatsApp Business](../apps/ios/whatsapp-inc/whatsapp-business/README.md) | iOS | 2 | 26.42.77 | 2026-11-02 | 6 | Yes |
-| <img src="../assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Messenger](../apps/ios/whatsapp-inc/whatsapp-messenger/README.md) | iOS | 2 | 26.41.75 | 2026-10-23 | 6 | Yes |
+| <img src="../assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> | [WhatsApp Business](../apps/ios/whatsapp-inc/whatsapp-business/README.md) | iOS | 3 | 26.43.77 | 2026-11-07 | 6 | No |
+| <img src="../assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Messenger](../apps/ios/whatsapp-inc/whatsapp-messenger/README.md) | iOS | 2 | 26.41.75 | 2026-10-23 | 6 | No |
 
 ## SDKs by category
 

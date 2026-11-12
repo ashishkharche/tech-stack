@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.duolingo",
     "bundle_id": "com.duolingo",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Duolingo",
       "slug": "duolingo",
@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "6.102.4",
+  "version": "6.105.2",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-10-24T19:46:37Z",
+    "captured_at": "2026-11-11T04:39:53Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 45,
+    "sdk_count": 46,
     "languages": [
       "C/C++ (native)",
       "Java",
@@ -213,6 +213,12 @@
         "confidence": "observed"
       },
       {
+        "name": "ONNX Runtime",
+        "version": null,
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
         "name": "Kotlin Coroutines",
         "version": null,
         "category": "reactive",
@@ -385,6 +391,7 @@
         "android.permission.WAKE_LOCK",
         "android.permission.WRITE_CALENDAR",
         "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.amazon.privacypass.ATTEST",
         "com.anddoes.launcher.permission.UPDATE_COUNT",
         "com.android.vending.BILLING",
         "com.duolingo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",

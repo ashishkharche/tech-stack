@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1498607143.png" width="20" height="20" alt="Lemon8 icon"> | [Lemon8 - Lifestyle Community](../apps/ios/tiktok-ltd/lemon8/README.md) | iOS | 2 | 15.1.0 | 2026-11-03 | 57 | Yes |
-| <img src="../assets/icons/ios/835599320.png" width="20" height="20" alt="TikTok icon"> | [TikTok - Videos, Shop & LIVE](../apps/ios/tiktok-ltd/tiktok/README.md) | iOS | 1 | 45.4.0 | 2026-06-19 | 139 | Yes |
+| <img src="../assets/icons/ios/1498607143.png" width="20" height="20" alt="Lemon8 icon"> | [Lemon8 - Lifestyle Community](../apps/ios/tiktok-ltd/lemon8/README.md) | iOS | 2 | 15.1.0 | 2026-11-03 | 57 | No |
+| <img src="../assets/icons/ios/835599320.png" width="20" height="20" alt="TikTok icon"> | [TikTok - Videos, Shop & LIVE](../apps/ios/tiktok-ltd/tiktok/README.md) | iOS | 1 | 45.4.0 | 2026-06-19 | 139 | No |
 
 ## SDKs by category
 

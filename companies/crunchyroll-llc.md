@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/329913454.png" width="20" height="20" alt="Crunchyroll icon"> | [Crunchyroll](../apps/ios/crunchyroll-llc/crunchyroll/README.md) | iOS | 1 | 4.109.3 | 2026-06-23 | 33 | Yes |
+| <img src="../assets/icons/ios/329913454.png" width="20" height="20" alt="Crunchyroll icon"> | [Crunchyroll](../apps/ios/crunchyroll-llc/crunchyroll/README.md) | iOS | 1 | 4.109.3 | 2026-06-23 | 33 | No |
 | <img src="../assets/icons/android/com.crunchyroll.manga.png" width="20" height="20" alt="Crunchyroll Manga icon"> | [Crunchyroll Manga](../apps/android/crunchyroll-llc/crunchyroll-manga/README.md) | Android | 1 | 1.1.3 | 2026-06-19 | 26 | No |
 
 ## SDKs by category

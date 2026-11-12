@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "686449807",
     "bundle_id": "ph.telegra.Telegraph",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Telegram FZ-LLC",
       "slug": "telegram-fz-llc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-19T04:30:48Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

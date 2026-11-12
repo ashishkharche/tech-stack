@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/751712884.png" width="20" height="20" alt="PlutoTV icon"> | [PlutoTV: Stream Free Movies/TV](../apps/ios/pluto-tv/plutotv/README.md) | iOS | 1 | 5.75.1 | 2026-06-19 | 39 | Yes |
+| <img src="../assets/icons/ios/751712884.png" width="20" height="20" alt="PlutoTV icon"> | [PlutoTV: Stream Free Movies/TV](../apps/ios/pluto-tv/plutotv/README.md) | iOS | 1 | 5.75.1 | 2026-06-19 | 39 | No |
 
 ## SDKs by category
 

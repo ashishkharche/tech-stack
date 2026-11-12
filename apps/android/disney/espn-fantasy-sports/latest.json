@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.espn.fantasy.lm.football",
     "bundle_id": "com.espn.fantasy.lm.football",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Disney",
       "slug": "disney",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-01T21:40:25Z",
     "store_first_seen_at": "2026-11-04T12:06:34Z",
     "store_updated_at": "2026-10-17T01:35:06Z",
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

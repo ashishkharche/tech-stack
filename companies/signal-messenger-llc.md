@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/874139669.png" width="20" height="20" alt="Signal icon"> | [Signal - Private Messenger](../apps/ios/signal-messenger-llc/signal-private-messenger/README.md) | iOS | 2 | 8.34 | 2026-10-23 | 9 | Yes |
+| <img src="../assets/icons/ios/874139669.png" width="20" height="20" alt="Signal icon"> | [Signal - Private Messenger](../apps/ios/signal-messenger-llc/signal-private-messenger/README.md) | iOS | 2 | 8.34 | 2026-10-23 | 9 | No |
 
 ## SDKs by category
 

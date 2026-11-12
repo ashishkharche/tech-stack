@@ -4,7 +4,7 @@
 
 # Pinduoduo
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/active-dark.svg"><img alt="Tracked" src="../../../../assets/badges/active-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/ios-dark.svg"><img alt="iOS" src="../../../../assets/badges/ios-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/encrypted-dark.svg"><img alt="Binary encrypted" src="../../../../assets/badges/encrypted-light.svg"></picture>
 
 [App Store](https://apps.apple.com/app/id1044283059) · [latest.json](latest.json)
 
@@ -13,8 +13,8 @@
 | Company | [上海寻梦信息技术有限公司](../../../../companies/shanghai-xunmeng-information-technology-co-ltd.md) |
 | Store id | `1044283059` |
 | Bundle / package id | `com.xunmeng.pinduoduo` |
-| Latest version | 8.30.0 (analysed 2026-11-02) |
-| Versions tracked | 3 |
+| Latest version | 8.31.0 (analysed 2026-11-09) |
+| Versions tracked | 4 |
 | SDKs in latest version | 71 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
@@ -24,13 +24,13 @@
 | Localisations | 0 |
 | Capabilities | 13 |
 | Declares tracking | No |
-| Tracked | Yes |
+| Tracked | No. Kept for history. |
 
 ## SDKs by category
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo-light.svg"></picture>
 
-- **Other** (67): AlipaySDK, AlmightyContainer 8.30.1, AMFaceDetectBase 6.87.13, AMMobileKeychain, AMNavigation 4.19.198, AMSecurityPolicy 2.1.124, APPAvAlbum 2.0.267, effect, PDDAddressScene 8.30.1, PDDAvAlbum, PDDAVBaseKit 8.29.1, PDDAVFloatWindow 8.29.1, PDDAVGallery 8.30.1, PDDAVUtil, PDDBasePhotoBrowser 8.30.2, PDDBizUIKit 8.30.6, PDDBootScene 8.30.3, PDDChatScene 8.30.4, PDDComment 8.28.12, PDDCommentListScene 8.30.6, PDDCommentScene 8.30.4, PDDContentBrowserScene 8.25.1, PDDDynamicView 8.15.2, PDDEffectUIKit 6.14.74, PDDExpressScene 8.29.1, PDDFavorite 8.7.1, PDDFavoriteScene 8.27.1, PDDGoodsDetail 8.30.9, PDDGoodsDetailScene 8.30.9, PDDGoodsListing 8.30.6, PDDGoodsSku 9.1.1605, PDDHomeScene 8.30.6, PDDHybrid 5.78.83, PDDLego 8.30.1, PDDLive 8.29.1, PDDLivePublishScene 8.21.1, PDDLiveScene 8.29.2, PDDLiveTabScene 8.29.1, PDDLiveTabService 8.26.1, PDDMall 8.30.1, PDDMallScene 8.30.4, PDDMCEffect, PDDMediaPage 8.27.1, PDDMomentsScene 8.30.4, PDDMPEffectRender, pddOpus 7.69.2, PDDOrder 8.30.4, PDDOrderListScene 8.30.8, PDDPayBizUIKit 8.30.2, PDDPersonalScene 8.30.2, PDDSafeModeScene 7.39.1, PDDSearch 8.30.3, PDDSearchKit 8.30.5, PDDSearchScene 8.30.4, PDDShareImageTemplates 1.61.67, PDDShareSharePages 1.61.67, PDDShoppingCartScene 8.19.2, PDDShoppingCartService 8.19.3, PDDSocial 8.30.3, PDDUser 7.91.46, PDDVideoPageScene 8.30.1, PDDVideoPageService 8.27.1, PDDWeb 5.78.520, PTZImagePicker 8.30.2, renderEngine, SGQRCode, TronPlayerMetal 8.29.0
+- **Other** (67): AlipaySDK, AlmightyContainer 8.30.1, AMFaceDetectBase 6.87.13, AMMobileKeychain, AMNavigation 8.31.2, AMSecurityPolicy 2.1.124, APPAvAlbum 2.0.267, effect, PDDAddressScene 8.31.2, PDDAvAlbum, PDDAVBaseKit 8.31.1, PDDAVFloatWindow 8.29.1, PDDAVGallery 8.30.1, PDDAVUtil, PDDBasePhotoBrowser 8.30.2, PDDBizUIKit 8.31.5, PDDBootScene 8.31.1, PDDChatScene 8.31.1, PDDComment 8.28.16, PDDCommentListScene 8.31.8, PDDCommentScene 8.31.5, PDDContentBrowserScene 8.25.1, PDDDynamicView 8.15.2, PDDEffectUIKit 6.14.74, PDDExpressScene 8.29.1, PDDFavorite 8.7.1, PDDFavoriteScene 8.27.1, PDDGoodsDetail 8.31.16, PDDGoodsDetailScene 8.31.12, PDDGoodsListing 8.31.2, PDDGoodsSku 9.1.1614, PDDHomeScene 8.31.1, PDDHybrid 5.78.83, PDDLego 8.31.2, PDDLive 8.29.1, PDDLivePublishScene 8.21.1, PDDLiveScene 8.31.2, PDDLiveTabScene 8.29.1, PDDLiveTabService 8.26.1, PDDMall 8.31.2, PDDMallScene 8.31.3, PDDMCEffect, PDDMediaPage 8.31.1, PDDMomentsScene 8.31.5, PDDMPEffectRender, pddOpus 7.69.2, PDDOrder 8.31.6, PDDOrderListScene 8.31.3, PDDPayBizUIKit 8.30.2, PDDPersonalScene 8.30.2, PDDSafeModeScene 7.39.1, PDDSearch 8.31.2, PDDSearchKit 8.31.6, PDDSearchScene 8.31.5, PDDShareImageTemplates 1.61.67, PDDShareSharePages 1.61.67, PDDShoppingCartScene 8.19.2, PDDShoppingCartService 8.19.3, PDDSocial 8.31.3, PDDUser 7.91.48, PDDVideoPageScene 8.31.1, PDDVideoPageService 8.27.1, PDDWeb 5.78.520, PTZImagePicker 8.30.2, renderEngine, SGQRCode, TronPlayerMetal 8.31.1
 - **Payments** (4): DuoduoWallet 2.18.153, PDDPaymentKit 8.30.2, PDDWalletPay 8.30.1, PDDWalletScene 8.30.2
 
 <details>
@@ -51,6 +51,7 @@ App Groups, Apple Pay, Associated Domains (Universal Links), Background App Refr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 8.31.0 | 2026-11-09 |  | 71 | +0 / −0 | Yes | Yes | [8.31.0.json](8.31.0.json) |
 | 8.30.0 | 2026-11-02 | 2026-11-02 | 71 | +0 / −0 | Yes | Yes | [8.30.0.json](8.30.0.json) |
 | 8.29.0 | 2026-11-01 | 2026-10-26 | 71 | +0 / −0 | Yes | Yes | [8.29.0.json](8.29.0.json) |
 | 8.28.0 | 2026-10-24 | 2026-10-19 | 71 |  | Yes | Yes | [8.28.0.json](8.28.0.json) |

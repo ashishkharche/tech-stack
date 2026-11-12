@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> | [SHEIN - Shopping Online](../apps/ios/roadget-business-pte-ltd/shein/README.md) | iOS | 1 | 15.5.6 | 2026-10-24 | 41 | Yes |
-| <img src="../assets/icons/android/com.zzkko.png" width="20" height="20" alt="SHEIN-Shopping Online icon"> | [SHEIN-Shopping Online](../apps/android/roadget-business-pte-ltd/shein-shopping-online/README.md) | Android | 1 | 15.5.0 | 2026-10-24 | 28 | Yes |
+| <img src="../assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> | [SHEIN - Shopping Online](../apps/ios/roadget-business-pte-ltd/shein/README.md) | iOS | 1 | 15.5.6 | 2026-10-24 | 41 | No |
+| <img src="../assets/icons/android/com.zzkko.png" width="20" height="20" alt="SHEIN-Shopping Online icon"> | [SHEIN-Shopping Online](../apps/android/roadget-business-pte-ltd/shein-shopping-online/README.md) | Android | 1 | 15.5.0 | 2026-10-24 | 28 | No |
 
 ## SDKs by category
 

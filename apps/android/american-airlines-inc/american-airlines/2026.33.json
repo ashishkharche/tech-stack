@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.aa.android",
     "bundle_id": "com.aa.android",
-    "active": true,
+    "active": false,
     "company": {
       "name": "American Airlines, Inc.",
       "slug": "american-airlines-inc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-05T17:01:51Z",
     "store_first_seen_at": "2026-11-05T00:00:16Z",
     "store_updated_at": "2026-10-30T23:23:30Z",
-    "exported_at": "2026-11-05T17:18:48Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

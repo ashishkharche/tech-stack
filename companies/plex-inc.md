@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/383457673.png" width="20" height="20" alt="Plex icon"> | [Plex: Find Movies and TV Shows](../apps/ios/plex-inc/plex/README.md) | iOS | 1 | 2026.11.0 | 2026-06-19 | 38 | Yes |
+| <img src="../assets/icons/ios/383457673.png" width="20" height="20" alt="Plex icon"> | [Plex: Find Movies and TV Shows](../apps/ios/plex-inc/plex/README.md) | iOS | 1 | 2026.11.0 | 2026-06-19 | 38 | No |
 
 ## SDKs by category
 

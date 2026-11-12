@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1232780281.png" width="20" height="20" alt="Notion icon"> | [Notion: Notes, Tasks, AI](../apps/ios/notion-labs-incorporated/notion/README.md) | iOS | 2 | 0.4.2133 | 2026-06-19 | 38 | Yes |
+| <img src="../assets/icons/ios/1232780281.png" width="20" height="20" alt="Notion icon"> | [Notion: Notes, Tasks, AI](../apps/ios/notion-labs-incorporated/notion/README.md) | iOS | 2 | 0.4.2133 | 2026-06-19 | 38 | No |
 
 ## SDKs by category
 

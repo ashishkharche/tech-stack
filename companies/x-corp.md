@@ -16,8 +16,8 @@ The company name is the developer name on the store listing.
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/ios/6670324846.png" width="20" height="20" alt="Grok icon"> | [Grok - AI Chat & Video](../apps/ios/x-corp/grok/README.md) | iOS | 13 | 1.4.58 | 2026-10-24 | 47 | Yes |
 | <img src="../assets/icons/ios/6794501026.png" width="20" height="20" alt="Grok Bot icon"> | [Grok Bot](../apps/ios/x-corp/grok-bot/README.md) | iOS | 1 | 1.0.0 | 2026-08-11 | 18 | Yes |
-| <img src="../assets/icons/android/com.twitter.android.png" width="20" height="20" alt="X icon"> | [X](../apps/android/x-corp/x/README.md) | Android | 1 | 12.36.1-prod.01 | 2026-10-24 | 50 | Yes |
-| <img src="../assets/icons/ios/333903271.png" width="20" height="20" alt="X icon"> | [X](../apps/ios/x-corp/x/README.md) | iOS | 1 | 11.97 | 2026-06-23 | 65 | Yes |
+| <img src="../assets/icons/android/com.twitter.android.png" width="20" height="20" alt="X icon"> | [X](../apps/android/x-corp/x/README.md) | Android | 1 | 12.36.1-prod.01 | 2026-10-24 | 50 | No |
+| <img src="../assets/icons/ios/333903271.png" width="20" height="20" alt="X icon"> | [X](../apps/ios/x-corp/x/README.md) | iOS | 1 | 11.97 | 2026-06-23 | 65 | No |
 
 ## SDKs by category
 

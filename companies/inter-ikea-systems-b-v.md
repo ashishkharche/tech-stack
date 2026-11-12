@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.ikea.inter.homesmart.system2.png" width="20" height="20" alt="IKEA Home smart icon"> | [IKEA Home smart](../apps/android/inter-ikea-systems-b-v/ikea-home-smart/README.md) | Android | 2 | 1.73.0 | 2026-11-02 | 18 | Yes |
+| <img src="../assets/icons/android/com.ikea.inter.homesmart.system2.png" width="20" height="20" alt="IKEA Home smart icon"> | [IKEA Home smart](../apps/android/inter-ikea-systems-b-v/ikea-home-smart/README.md) | Android | 2 | 1.73.0 | 2026-11-02 | 18 | No |
 
 ## SDKs by category
 

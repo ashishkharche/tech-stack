@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/432274380.png" width="20" height="20" alt="知乎 icon"> | [知乎](../apps/ios/beijing-zhizhetianxia-technology-co-ltd/zhihu/README.md) | iOS | 1 | 11.12.0 | 2026-10-24 | 214 | Yes |
+| <img src="../assets/icons/ios/432274380.png" width="20" height="20" alt="知乎 icon"> | [知乎](../apps/ios/beijing-zhizhetianxia-technology-co-ltd/zhihu/README.md) | iOS | 1 | 11.12.0 | 2026-10-24 | 214 | No |
 
 ## SDKs by category
 

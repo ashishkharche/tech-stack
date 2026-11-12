@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/510855668.png" width="20" height="20" alt="Amazon Music icon"> | [Amazon Music: Songs & Podcasts](../apps/ios/amzn-mobile-llc/amazon-music/README.md) | iOS | 1 | 26.17.0 | 2026-06-23 | 72 | Yes |
-| <img src="../assets/icons/ios/545519333.png" width="20" height="20" alt="Amazon Prime Video icon"> | [Amazon Prime Video](../apps/ios/amzn-mobile-llc/amazon-prime-video/README.md) | iOS | 1 | 10.134 | 2026-06-23 | 48 | Yes |
+| <img src="../assets/icons/ios/510855668.png" width="20" height="20" alt="Amazon Music icon"> | [Amazon Music: Songs & Podcasts](../apps/ios/amzn-mobile-llc/amazon-music/README.md) | iOS | 1 | 26.17.0 | 2026-06-23 | 72 | No |
+| <img src="../assets/icons/ios/545519333.png" width="20" height="20" alt="Amazon Prime Video icon"> | [Amazon Prime Video](../apps/ios/amzn-mobile-llc/amazon-prime-video/README.md) | iOS | 1 | 10.134 | 2026-06-23 | 48 | No |
 
 ## SDKs by category
 

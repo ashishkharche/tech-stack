@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1488269261.png" width="20" height="20" alt="Whatnot icon"> | [Whatnot: Shop, Sell, Connect](../apps/ios/whatnot-inc/whatnot/README.md) | iOS | 3 | 26.45.0 | 2026-11-04 | 349 | Yes |
+| <img src="../assets/icons/ios/1488269261.png" width="20" height="20" alt="Whatnot icon"> | [Whatnot: Shop, Sell, Connect](../apps/ios/whatnot-inc/whatnot/README.md) | iOS | 3 | 26.45.0 | 2026-11-04 | 349 | No |
 
 ## SDKs by category
 

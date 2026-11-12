@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.aa.android.png" width="20" height="20" alt="American Airlines icon"> | [American Airlines](../apps/android/american-airlines-inc/american-airlines/README.md) | Android | 2 | 2026.33 | 2026-11-05 | 34 | Yes |
+| <img src="../assets/icons/android/com.aa.android.png" width="20" height="20" alt="American Airlines icon"> | [American Airlines](../apps/android/american-airlines-inc/american-airlines/README.md) | Android | 2 | 2026.33 | 2026-11-05 | 34 | No |
 
 ## SDKs by category
 

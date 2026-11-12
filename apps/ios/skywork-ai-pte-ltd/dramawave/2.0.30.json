@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "6670430706",
     "bundle_id": "com.dramabuzz.app",
-    "active": true,
+    "active": false,
     "company": {
       "name": "SKYWORK AI PTE LTD",
       "slug": "skywork-ai-pte-ltd",
@@ -21,7 +21,7 @@
     "captured_at": "2026-10-24T19:57:19Z",
     "store_first_seen_at": "2026-10-25T00:39:31Z",
     "store_updated_at": "2026-10-09T03:11:16Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

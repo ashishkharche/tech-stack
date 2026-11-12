@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/305343404.png" width="20" height="20" alt="Tumblr icon"> | [Tumblr: Social Media & Art](../apps/ios/tumblr-inc/tumblr/README.md) | iOS | 1 | 44.8 | 2026-06-19 | 60 | Yes |
+| <img src="../assets/icons/ios/305343404.png" width="20" height="20" alt="Tumblr icon"> | [Tumblr: Social Media & Art](../apps/ios/tumblr-inc/tumblr/README.md) | iOS | 1 | 44.8 | 2026-06-19 | 60 | No |
 
 ## SDKs by category
 

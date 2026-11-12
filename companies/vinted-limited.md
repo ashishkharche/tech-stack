@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/632064380.png" width="20" height="20" alt="Vinted icon"> | [Vinted: Pre-loved marketplace](../apps/ios/vinted-limited/vinted/README.md) | iOS | 1 | 26.41.1 | 2026-10-24 | 82 | Yes |
+| <img src="../assets/icons/ios/632064380.png" width="20" height="20" alt="Vinted icon"> | [Vinted: Pre-loved marketplace](../apps/ios/vinted-limited/vinted/README.md) | iOS | 1 | 26.41.1 | 2026-10-24 | 82 | No |
 
 ## SDKs by category
 

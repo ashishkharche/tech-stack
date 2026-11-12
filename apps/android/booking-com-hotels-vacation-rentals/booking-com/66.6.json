@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.booking",
     "bundle_id": "com.booking",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Booking.com Hotels & Vacation Rentals",
       "slug": "booking-com-hotels-vacation-rentals",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-23T04:43:59Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

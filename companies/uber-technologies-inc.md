@@ -14,9 +14,9 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.ubercab.png" width="20" height="20" alt="Uber icon"> | [Uber - Request a ride](../apps/android/uber-technologies-inc/uber/README.md) | Android | 1 | 4.634.10003 | 2026-06-19 | 38 | Yes |
-| <img src="../assets/icons/ios/368677368.png" width="20" height="20" alt="Uber icon"> | [Uber - Rides, Eats, Hotels](../apps/ios/uber-technologies-inc/uber/README.md) | iOS | 1 | 3.744.10001 | 2026-10-24 | 96 | Yes |
-| <img src="../assets/icons/ios/1058959277.png" width="20" height="20" alt="Uber Eats icon"> | [Uber Eats: Food & Groceries](../apps/ios/uber-technologies-inc/uber-eats/README.md) | iOS | 2 | 6.346.10000 | 2026-11-01 | 63 | Yes |
+| <img src="../assets/icons/android/com.ubercab.png" width="20" height="20" alt="Uber icon"> | [Uber - Request a ride](../apps/android/uber-technologies-inc/uber/README.md) | Android | 1 | 4.634.10003 | 2026-06-19 | 38 | No |
+| <img src="../assets/icons/ios/368677368.png" width="20" height="20" alt="Uber icon"> | [Uber - Rides, Eats, Hotels](../apps/ios/uber-technologies-inc/uber/README.md) | iOS | 1 | 3.744.10001 | 2026-10-24 | 96 | No |
+| <img src="../assets/icons/ios/1058959277.png" width="20" height="20" alt="Uber Eats icon"> | [Uber Eats: Food & Groceries](../apps/ios/uber-technologies-inc/uber-eats/README.md) | iOS | 2 | 6.346.10000 | 2026-11-01 | 63 | No |
 | <img src="../assets/icons/android/com.ubercab.eats.png" width="20" height="20" alt="Uber Eats icon"> | [Uber Eats: Food and Grocery](../apps/android/uber-technologies-inc/uber-eats/README.md) | Android | 1 | 6.326.10001 | 2026-06-19 | 36 | No |
 
 ## SDKs by category

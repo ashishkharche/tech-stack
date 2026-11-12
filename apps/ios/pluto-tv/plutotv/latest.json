@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "751712884",
     "bundle_id": "tv.pluto.ios",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Pluto.tv",
       "slug": "pluto-tv",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-19T04:31:02Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

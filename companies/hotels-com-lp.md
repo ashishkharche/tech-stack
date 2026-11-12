@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.hcom.android.png" width="20" height="20" alt="Hotels.com icon"> | [Hotels.com: Travel Booking](../apps/android/hotels-com-lp/hotels-com/README.md) | Android | 2 | 2026.43.0 | 2026-11-02 | 43 | Yes |
+| <img src="../assets/icons/android/com.hcom.android.png" width="20" height="20" alt="Hotels.com icon"> | [Hotels.com: Travel Booking](../apps/android/hotels-com-lp/hotels-com/README.md) | Android | 2 | 2026.43.0 | 2026-11-02 | 43 | No |
 
 ## SDKs by category
 

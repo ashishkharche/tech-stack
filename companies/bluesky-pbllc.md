@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/xyz.blueskyweb.app.png" width="20" height="20" alt="Bluesky icon"> | [Bluesky](../apps/android/bluesky-pbllc/bluesky/README.md) | Android | 2 | 1.136.0 | 2026-10-23 | 24 | Yes |
-| <img src="../assets/icons/ios/6444370199.png" width="20" height="20" alt="Bluesky Social icon"> | [Bluesky Social](../apps/ios/bluesky-pbllc/bluesky/README.md) | iOS | 2 | 1.136.0 | 2026-10-23 | 13 | Yes |
+| <img src="../assets/icons/android/xyz.blueskyweb.app.png" width="20" height="20" alt="Bluesky icon"> | [Bluesky](../apps/android/bluesky-pbllc/bluesky/README.md) | Android | 2 | 1.136.0 | 2026-10-23 | 24 | No |
+| <img src="../assets/icons/ios/6444370199.png" width="20" height="20" alt="Bluesky Social icon"> | [Bluesky Social](../apps/ios/bluesky-pbllc/bluesky/README.md) | iOS | 2 | 1.136.0 | 2026-10-23 | 13 | No |
 
 ## SDKs by category
 

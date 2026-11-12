@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Skins Projeto Grau 2",
+    "slug": "skins-projeto-grau-2",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6818339091",
+    "bundle_id": "com.InsanityGroup.SkinsProjetoGrau2",
+    "active": false,
+    "company": {
+      "name": "Anderson Mateus de Lima",
+      "slug": "anderson-mateus-de-lima",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.0.3",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-10T04:38:15Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-12T00:31:40Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 3,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift",
+      "Unity (C# / IL2CPP)"
+    ],
+    "frameworks": [
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Core Motion",
+      "Media Player",
+      "MessageUI (mail / SMS compose)",
+      "Network.framework",
+      "SafariServices",
+      "StoreKit (in-app purchase)",
+      "UIKit"
+    ],
+    "ui_graphics": [
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "UnityFramework",
+        "version": "1.0",
+        "category": "ml_ai",
+        "confidence": "observed"
+      },
+      {
+        "name": "unity-plugin-library",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.0",
+      "xcode": "26.0.1",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 0
+    },
+    "capabilities": [],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "OtherDiagnosticData",
+        "PerformanceData",
+        "ProductInteraction"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

@@ -7,7 +7,7 @@
     "store": "google_play",
     "store_id": "com.handmark.sportcaster",
     "bundle_id": "com.handmark.sportcaster",
-    "active": true,
+    "active": false,
     "company": {
       "name": "CBS Interactive, Inc.",
       "slug": "cbs-interactive-inc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-19T04:32:14Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

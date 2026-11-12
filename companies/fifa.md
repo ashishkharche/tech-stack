@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6476561442.png" width="20" height="20" alt="FIFA World Cup 2026™ icon"> | [FIFA World Cup 2026™](../apps/ios/fifa/fifa-world-cup-2026/README.md) | iOS | 1 | 3.1.1 | 2026-06-23 | 69 | Yes |
+| <img src="../assets/icons/ios/6476561442.png" width="20" height="20" alt="FIFA World Cup 2026™ icon"> | [FIFA World Cup 2026™](../apps/ios/fifa/fifa-world-cup-2026/README.md) | iOS | 1 | 3.1.1 | 2026-06-23 | 69 | No |
 
 ## SDKs by category
 

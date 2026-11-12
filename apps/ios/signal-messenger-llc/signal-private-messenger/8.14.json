@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "874139669",
     "bundle_id": "org.whispersystems.signal",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Signal Messenger, LLC",
       "slug": "signal-messenger-llc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-19T04:30:20Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

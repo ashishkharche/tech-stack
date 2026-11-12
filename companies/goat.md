@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.airgoat.goat.png" width="20" height="20" alt="GOAT icon"> | [GOAT – Sneakers & Apparel](../apps/android/goat/goat/README.md) | Android | 2 | 2.14.2 | 2026-11-05 | 34 | Yes |
+| <img src="../assets/icons/android/com.airgoat.goat.png" width="20" height="20" alt="GOAT icon"> | [GOAT – Sneakers & Apparel](../apps/android/goat/goat/README.md) | Android | 2 | 2.14.2 | 2026-11-05 | 34 | No |
 
 ## SDKs by category
 

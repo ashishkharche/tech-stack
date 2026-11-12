@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.meetrixonline.drawnames.png" width="20" height="20" alt="drawnames icon"> | [drawnames \| Secret Santa app](../apps/android/drawnames/drawnames-secret-santa-app/README.md) | Android | 1 | 1.81.13 | 2026-11-05 | 15 | Yes |
+| <img src="../assets/icons/android/com.meetrixonline.drawnames.png" width="20" height="20" alt="drawnames icon"> | [drawnames \| Secret Santa app](../apps/android/drawnames/drawnames-secret-santa-app/README.md) | Android | 1 | 1.81.13 | 2026-11-05 | 15 | No |
 
 ## SDKs by category
 

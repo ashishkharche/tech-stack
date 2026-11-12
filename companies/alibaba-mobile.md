@@ -14,8 +14,8 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.alibaba.intl.android.apps.poseidon.png" width="20" height="20" alt="Alibaba.com icon"> | [Alibaba.com - B2B marketplace](../apps/android/alibaba-mobile/alibaba-com/README.md) | Android | 2 | 26.38.0 | 2026-11-06 | 30 | Yes |
-| <img src="../assets/icons/android/com.alibaba.aliexpresshd.png" width="20" height="20" alt="AliExpress icon"> | [AliExpress - Shopping App](../apps/android/alibaba-mobile/aliexpress/README.md) | Android | 2 | 8.180.1 | 2026-11-01 | 24 | Yes |
+| <img src="../assets/icons/android/com.alibaba.intl.android.apps.poseidon.png" width="20" height="20" alt="Alibaba.com icon"> | [Alibaba.com - B2B marketplace](../apps/android/alibaba-mobile/alibaba-com/README.md) | Android | 2 | 26.38.0 | 2026-11-06 | 30 | No |
+| <img src="../assets/icons/android/com.alibaba.aliexpresshd.png" width="20" height="20" alt="AliExpress icon"> | [AliExpress - Shopping App](../apps/android/alibaba-mobile/aliexpress/README.md) | Android | 2 | 8.180.1 | 2026-11-01 | 24 | No |
 
 ## SDKs by category
 

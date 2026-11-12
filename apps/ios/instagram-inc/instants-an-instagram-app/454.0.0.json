@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "6756442328",
     "bundle_id": "com.burbn.moonshot",
-    "active": true,
+    "active": false,
     "company": {
       "name": "Instagram, Inc.",
       "slug": "instagram-inc",
@@ -21,7 +21,7 @@
     "captured_at": "2026-11-05T16:48:30Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-05T17:18:48Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

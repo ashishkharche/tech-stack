@@ -7,7 +7,7 @@
     "store": "app_store",
     "store_id": "336353151",
     "bundle_id": "com.soundcloud.TouchApp",
-    "active": true,
+    "active": false,
     "company": {
       "name": "SoundCloud Global Limited & Co KG",
       "slug": "soundcloud-global-limited-co-kg",
@@ -21,7 +21,7 @@
     "captured_at": "2026-06-19T04:28:27Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-04T16:56:41Z"
+    "exported_at": "2026-11-12T00:31:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",

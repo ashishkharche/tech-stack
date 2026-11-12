@@ -41,22 +41,22 @@
 <text x="158.17999999999995" y="284" font-size="13" text-anchor="end" fill="#090A0B">Social</text>
 <rect x="170.2" y="274" width="36.3" height="14" rx="3" fill="#090A0B"/>
 <text x="214.5" y="284" font-size="13" fill="#4D5755">3</text>
-<text x="158.17999999999995" y="306" font-size="13" text-anchor="end" fill="#090A0B">Telephony</text>
+<text x="158.17999999999995" y="306" font-size="13" text-anchor="end" fill="#090A0B">ML and AI</text>
 <rect x="170.2" y="296" width="24.2" height="14" rx="3" fill="#090A0B"/>
 <text x="202.4" y="306" font-size="13" fill="#4D5755">2</text>
-<text x="158.17999999999995" y="328" font-size="13" text-anchor="end" fill="#090A0B">Anti-fraud and integrity</text>
-<rect x="170.2" y="318" width="12.1" height="14" rx="3" fill="#090A0B"/>
-<text x="190.3" y="328" font-size="13" fill="#4D5755">1</text>
-<text x="158.17999999999995" y="350" font-size="13" text-anchor="end" fill="#090A0B">Apple frameworks</text>
+<text x="158.17999999999995" y="328" font-size="13" text-anchor="end" fill="#090A0B">Telephony</text>
+<rect x="170.2" y="318" width="24.2" height="14" rx="3" fill="#090A0B"/>
+<text x="202.4" y="328" font-size="13" fill="#4D5755">2</text>
+<text x="158.17999999999995" y="350" font-size="13" text-anchor="end" fill="#090A0B">Anti-fraud and integrity</text>
 <rect x="170.2" y="340" width="12.1" height="14" rx="3" fill="#090A0B"/>
 <text x="190.3" y="350" font-size="13" fill="#4D5755">1</text>
-<text x="158.17999999999995" y="372" font-size="13" text-anchor="end" fill="#090A0B">Crash and performance</text>
+<text x="158.17999999999995" y="372" font-size="13" text-anchor="end" fill="#090A0B">Apple frameworks</text>
 <rect x="170.2" y="362" width="12.1" height="14" rx="3" fill="#090A0B"/>
 <text x="190.3" y="372" font-size="13" fill="#4D5755">1</text>
-<text x="158.17999999999995" y="394" font-size="13" text-anchor="end" fill="#090A0B">Maps and location</text>
+<text x="158.17999999999995" y="394" font-size="13" text-anchor="end" fill="#090A0B">Crash and performance</text>
 <rect x="170.2" y="384" width="12.1" height="14" rx="3" fill="#090A0B"/>
 <text x="190.3" y="394" font-size="13" fill="#4D5755">1</text>
-<text x="158.17999999999995" y="416" font-size="13" text-anchor="end" fill="#090A0B">ML and AI</text>
+<text x="158.17999999999995" y="416" font-size="13" text-anchor="end" fill="#090A0B">Maps and location</text>
 <rect x="170.2" y="406" width="12.1" height="14" rx="3" fill="#090A0B"/>
 <text x="190.3" y="416" font-size="13" fill="#4D5755">1</text>
 <text x="158.17999999999995" y="438" font-size="13" text-anchor="end" fill="#090A0B">Payments</text>

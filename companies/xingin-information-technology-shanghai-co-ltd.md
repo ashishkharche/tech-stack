@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.xingin.xhs.png" width="20" height="20" alt="rednote icon"> | [rednote](../apps/android/xingin-information-technology-shanghai-co-ltd/rednote/README.md) | Android | 1 | 9.51.0 | 2026-10-24 | 35 | Yes |
+| <img src="../assets/icons/android/com.xingin.xhs.png" width="20" height="20" alt="rednote icon"> | [rednote](../apps/android/xingin-information-technology-shanghai-co-ltd/rednote/README.md) | Android | 1 | 9.51.0 | 2026-10-24 | 35 | No |
 
 ## SDKs by category
 
