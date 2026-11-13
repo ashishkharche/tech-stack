@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **2** versions · **29** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **3** versions · **29** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/burger-king-inc/burger-king-app/README.md"><img src="../assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="56" height="56" alt="BURGER KING® App icon"></a><br><a href="../apps/android/burger-king-inc/burger-king-app/README.md"><sub><b>BURGER KING® App</b></sub></a><br><sub>Android · 29 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="20" height="20" alt="BURGER KING® App icon"> | [BURGER KING® App](../apps/android/burger-king-inc/burger-king-app/README.md) | Android | 2 | 7.85.0 | 2026-11-01 | 29 | No |
+| <img src="../assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="20" height="20" alt="BURGER KING® App icon"> | [BURGER KING® App](../apps/android/burger-king-inc/burger-king-app/README.md) | Android | 3 | 7.86.0 | 2026-11-13 | 29 | No |
 
 ## SDKs by category
 

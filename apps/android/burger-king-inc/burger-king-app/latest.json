@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "7.85.0",
+  "version": "7.86.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-01T21:13:49Z",
-    "store_first_seen_at": "2026-11-04T12:06:34Z",
-    "store_updated_at": "2026-10-26T17:52:13Z",
-    "exported_at": "2026-11-12T00:31:40Z"
+    "captured_at": "2026-11-13T16:40:12Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-13T16:56:39Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -273,6 +273,7 @@
         "android.permission.INTERNET",
         "android.permission.MODIFY_AUDIO_SETTINGS",
         "android.permission.POST_NOTIFICATIONS",
+        "android.permission.POST_PROMOTED_NOTIFICATIONS",
         "android.permission.READ_APP_BADGE",
         "android.permission.READ_EXTERNAL_STORAGE",
         "android.permission.RECEIVE_BOOT_COMPLETED",

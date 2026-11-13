@@ -13,8 +13,8 @@
 | Company | [Burger King, Inc.](../../../../companies/burger-king-inc.md) |
 | Store id | `com.emn8.mobilem8.nativeapp.bk` |
 | Bundle / package id | `com.emn8.mobilem8.nativeapp.bk` |
-| Latest version | 7.85.0 (analysed 2026-11-01) |
-| Versions tracked | 2 |
+| Latest version | 7.86.0 (analysed 2026-11-13) |
+| Versions tracked | 3 |
 | SDKs in latest version | 29 |
 | Languages | C/C++ (native), Java, Kotlin, React Native / JavaScript |
 | UI | Fresco, Glide, Lottie, Material Components |
@@ -56,6 +56,7 @@ Advertising ID, Approximate location, Biometric auth, Camera, Draw over other ap
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 7.86.0 | 2026-11-13 |  | 29 | +0 / −0 | Yes | No | [7.86.0.json](7.86.0.json) |
 | 7.85.0 | 2026-11-01 | 2026-10-26 | 29 | +1 / −5 | Yes | No | [7.85.0.json](7.85.0.json) |
 | 7.75.0 | 2026-06-22 |  | 33 |  | Yes | No | [7.75.0.json](7.75.0.json) |
 
