@@ -7,26 +7,17 @@
 <rect x="70.53999999999999" y="8" width="12" height="12" rx="3" fill="#3DDC84"/>
 <text x="88.53999999999999" y="18" font-size="13" fill="#A9B2BC">Android</text>
 <line x1="10" y1="200.5" x2="810" y2="200.5" stroke="#262A2D"/>
-<rect x="53.7" y="139.9" width="46.0" height="60.1" rx="2" fill="#0091FF"/>
-<rect x="53.7" y="54.0" width="46.0" height="83.9" rx="2" fill="#3DDC84"/>
-<text x="76.7" y="48.0" font-size="12" text-anchor="middle" fill="#A9B2BC">221</text>
-<text x="76.7" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-06</text>
-<rect x="187.0" y="198.0" width="46.0" height="2.0" rx="2" fill="#0091FF"/>
-<text x="210.0" y="192.0" font-size="12" text-anchor="middle" fill="#A9B2BC">3</text>
-<text x="210.0" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-07</text>
-<rect x="320.3" y="195.4" width="46.0" height="4.6" rx="2" fill="#0091FF"/>
-<text x="343.3" y="189.4" font-size="12" text-anchor="middle" fill="#A9B2BC">7</text>
-<text x="343.3" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-08</text>
-<rect x="453.7" y="199.3" width="46.0" height="1.5" rx="2" fill="#3DDC84"/>
-<text x="476.7" y="193.3" font-size="12" text-anchor="middle" fill="#A9B2BC">1</text>
-<text x="476.7" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-09</text>
-<rect x="587.0" y="159.0" width="46.0" height="41.0" rx="2" fill="#0091FF"/>
-<rect x="587.0" y="141.2" width="46.0" height="15.8" rx="2" fill="#3DDC84"/>
-<text x="610.0" y="135.2" font-size="12" text-anchor="middle" fill="#A9B2BC">89</text>
-<text x="610.0" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-10</text>
-<rect x="720.3" y="141.2" width="46.0" height="58.8" rx="2" fill="#0091FF"/>
-<rect x="720.3" y="102.9" width="46.0" height="36.3" rx="2" fill="#3DDC84"/>
-<text x="743.3" y="96.9" font-size="12" text-anchor="middle" fill="#A9B2BC">147</text>
-<text x="743.3" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-11</text>
+<rect x="120.3" y="140.8" width="46.0" height="59.2" rx="2" fill="#0091FF"/>
+<rect x="120.3" y="54.0" width="46.0" height="84.8" rx="2" fill="#3DDC84"/>
+<text x="143.3" y="48.0" font-size="12" text-anchor="middle" fill="#A9B2BC">217</text>
+<text x="143.3" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-06</text>
+<rect x="387.0" y="159.0" width="46.0" height="41.0" rx="2" fill="#0091FF"/>
+<rect x="387.0" y="141.5" width="46.0" height="15.5" rx="2" fill="#3DDC84"/>
+<text x="410.0" y="135.5" font-size="12" text-anchor="middle" fill="#A9B2BC">87</text>
+<text x="410.0" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-10</text>
+<rect x="653.7" y="140.8" width="46.0" height="59.2" rx="2" fill="#0091FF"/>
+<rect x="653.7" y="103.1" width="46.0" height="35.7" rx="2" fill="#3DDC84"/>
+<text x="676.7" y="97.1" font-size="12" text-anchor="middle" fill="#A9B2BC">144</text>
+<text x="676.7" y="218.0" font-size="12" text-anchor="middle" fill="#F1F6F3">2026-11</text>
 </g>
 </svg>
