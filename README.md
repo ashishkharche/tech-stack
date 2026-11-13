@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">352 apps · 468 versions · 232 companies · 4,329 SDKs</p>
+<p align="center">346 apps · 448 versions · 230 companies · 4,284 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 177 of 179 iOS apps, and Jetpack Compose is in 133 of 173 Android apps. 87 apps also use a cross-platform runtime.
+SwiftUI is in 174 of 176 iOS apps, and Jetpack Compose is in 130 of 170 Android apps. 85 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 177 of 179 iOS apps, and Jetpack Compose is in 133 of 173 Android 
 
 ## What most apps ship
 
-Firebase is in 230 of 352 apps. 78% of apps ship at least one analytics SDK.
+Firebase is in 226 of 346 apps. 77% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -51,15 +51,15 @@ The median app ships 35 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 <br>
 
-**The same app on both stores (16 largest of 70)**
+**The same app on both stores (16 largest of 67)**
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/both-platforms-dark.svg"><img alt="The same app on both stores (16 largest of 70)" src="assets/charts/both-platforms-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/both-platforms-dark.svg"><img alt="The same app on both stores (16 largest of 67)" src="assets/charts/both-platforms-light.svg"></picture>
 
 <br>
 
 ## Privacy and permissions
 
-49% of iOS apps declare tracking. The median Android app asks for 31 permissions.
+50% of iOS apps declare tracking. The median Android app asks for 31 permissions.
 
 **Most declared iOS collected data types**
 
@@ -75,7 +75,7 @@ The median app ships 35 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## How apps change between versions
 
-64 of 116 updates changed the SDK list. Together they added 200 SDKs and removed 291.
+58 of 102 updates changed the SDK list. Together they added 164 SDKs and removed 251.
 
 **SDKs added and removed between versions**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 184 of 232 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 184 of 230 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -136,7 +136,7 @@ Google and Google LLC share the most apps, with 21 each. 184 of 232 companies ha
 ### All apps
 
 <details>
-<summary>iOS (179 apps)</summary>
+<summary>iOS (176 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -206,8 +206,6 @@ Google and Google LLC share the most apps, with 21 each. 184 of 232 companies ha
 | <img src="assets/icons/ios/1605170923.png" width="20" height="20" alt="GoWish icon"> | [GoWish - Your Digital Wishlist](apps/ios/onskeskyen-aps/gowish/README.md) | [Onskeskyen ApS](companies/onskeskyen-aps.md) | 9.2.4 | 45 |
 | <img src="assets/icons/ios/647268330.png" width="20" height="20" alt="Grab icon"> | [Grab: Taxi Ride, Food Delivery](apps/ios/grab-com/grab/README.md) | [Grab.com](companies/grab-com.md) | 5.432.0 | 79 |
 | <img src="assets/icons/ios/6739429409.png" width="20" height="20" alt="Granola icon"> | [Granola - AI Meeting Notes](apps/ios/granola-inc/granola/README.md) | [Granola inc](companies/granola-inc.md) | 1.15.11 | 31 |
-| <img src="assets/icons/ios/6670324846.png" width="20" height="20" alt="Grok icon"> | [Grok - AI Chat & Video](apps/ios/x-corp/grok/README.md) | [X Corp.](companies/x-corp.md) | 1.4.58 | 47 |
-| <img src="assets/icons/ios/6794501026.png" width="20" height="20" alt="Grok Bot icon"> | [Grok Bot](apps/ios/x-corp/grok-bot/README.md) | [X Corp.](companies/x-corp.md) | 1.0.0 | 18 |
 | <img src="assets/icons/ios/392796698.png" width="20" height="20" alt="GroupMe icon"> | [GroupMe](apps/ios/skype-communications-s-a-r-l/groupme/README.md) | [Skype Communications S.a.r.l](companies/skype-communications-s-a-r-l.md) | 15.76.3 | 76 |
 | <img src="assets/icons/ios/1666653815.png" width="20" height="20" alt="HBO Max icon"> | [HBO Max: Stream Movies & TV](apps/ios/warnermedia-global-digital-services-llc/hbo-max/README.md) | [WarnerMedia Global Digital Services, LLC](companies/warnermedia-global-digital-services-llc.md) | 7.4.0 | 107 |
 | <img src="assets/icons/ios/376510438.png" width="20" height="20" alt="Hulu icon"> | [Hulu: Stream TV shows & movies](apps/ios/hulu-llc/hulu/README.md) | [Hulu, LLC](companies/hulu-llc.md) | 9.34.0 | 28 |
@@ -310,7 +308,6 @@ Google and Google LLC share the most apps, with 21 each. 184 of 232 companies ha
 | <img src="assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> | [WhatsApp Business](apps/ios/whatsapp-inc/whatsapp-business/README.md) | [WhatsApp Inc.](companies/whatsapp-inc.md) | 26.43.77 | 6 |
 | <img src="assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Messenger](apps/ios/whatsapp-inc/whatsapp-messenger/README.md) | [WhatsApp Inc.](companies/whatsapp-inc.md) | 26.41.75 | 6 |
 | <img src="assets/icons/ios/6813645709.png" width="20" height="20" alt="Workout Director icon"> | [Workout Director - Gym & Home](apps/ios/shelgaon-ltd/workout-director-gym-home/README.md) | [Shelgaon Ltd](companies/shelgaon-ltd.md) | 1.0.89 | 7 |
-| <img src="assets/icons/ios/333903271.png" width="20" height="20" alt="X icon"> | [X](apps/ios/x-corp/x/README.md) | [X Corp.](companies/x-corp.md) | 11.97 | 65 |
 | <img src="assets/icons/ios/544007664.png" width="20" height="20" alt="YouTube icon"> | [YouTube](apps/ios/google/youtube/README.md) | [Google](companies/google.md) | 21.42.4 | 19 |
 | <img src="assets/icons/ios/1017492454.png" width="20" height="20" alt="YouTube Music icon"> | [YouTube Music](apps/ios/google/youtube-music/README.md) | [Google](companies/google.md) | 9.44.2 | 19 |
 | <img src="assets/icons/ios/546505307.png" width="20" height="20" alt="Zoom Workplace icon"> | [Zoom Workplace](apps/ios/zoom-communications-inc/zoom-workplace/README.md) | [Zoom Communications, Inc.](companies/zoom-communications-inc.md) | 7.2.3 | 18 |
@@ -323,7 +320,7 @@ Google and Google LLC share the most apps, with 21 each. 184 of 232 companies ha
 </details>
 
 <details>
-<summary>Android (173 apps)</summary>
+<summary>Android (170 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -391,8 +388,6 @@ Google and Google LLC share the most apps, with 21 each. 184 of 232 companies ha
 | <img src="assets/icons/android/com.main.gopuff.png" width="20" height="20" alt="Gopuff icon"> | [Gopuff - Grocery Delivery](apps/android/gopuff/gopuff/README.md) | [Gopuff](companies/gopuff.md) | 12.12.0 | 46 |
 | <img src="assets/icons/android/com.gowish.app.jpg" width="20" height="20" alt="GoWish icon"> | [GoWish - Your Digital Wishlist](apps/android/nskeskyen-aps/gowish/README.md) | [Ønskeskyen ApS](companies/nskeskyen-aps.md) | 9.2.7 | 32 |
 | <img src="assets/icons/android/com.grabtaxi.passenger.png" width="20" height="20" alt="Grab icon"> | [Grab - Taxi & Food Delivery](apps/android/grab-holdings/grab/README.md) | [Grab Holdings](companies/grab-holdings.md) | 5.430.0 | 47 |
-| <img src="assets/icons/android/ai.x.grok.png" width="20" height="20" alt="Grok icon"> | [Grok - AI Chat & Video](apps/android/spacex-super-intelligence/grok/README.md) | [SpaceX Super Intelligence](companies/spacex-super-intelligence.md) | 1.2.53-release.00 | 36 |
-| <img src="assets/icons/android/ai.x.grok.bot.png" width="20" height="20" alt="Grok Bot icon"> | [Grok Bot](apps/android/spacex-super-intelligence/grok-bot/README.md) | [SpaceX Super Intelligence](companies/spacex-super-intelligence.md) | 1.19.1 | 27 |
 | <img src="assets/icons/android/com.grubhub.android.png" width="20" height="20" alt="Grubhub icon"> | [Grubhub: Food Delivery](apps/android/grubhub/grubhub/README.md) | [Grubhub](companies/grubhub.md) | 2026.43.1 | 44 |
 | <img src="assets/icons/android/com.hilton.android.hhonors.png" width="20" height="20" alt="Hilton Honors icon"> | [Hilton Honors: Book Hotels](apps/android/hilton/hilton-honors/README.md) | [Hilton](companies/hilton.md) | 2026.10.20 | 29 |
 | <img src="assets/icons/android/com.hopper.mountainview.play.png" width="20" height="20" alt="Hopper icon"> | [Hopper: Hotels, Flights & Cars](apps/android/hopper-inc/hopper/README.md) | [Hopper Inc.](companies/hopper-inc.md) | 5.107.0 | 36 |
@@ -494,7 +489,6 @@ Google and Google LLC share the most apps, with 21 each. 184 of 232 companies ha
 | <img src="assets/icons/android/com.waze.png" width="20" height="20" alt="Waze Navigation &amp; Live Traffic icon"> | [Waze Navigation & Live Traffic](apps/android/waze/waze-navigation-live-traffic/README.md) | [Waze](companies/waze.md) | 5.19.90.900 | 20 |
 | <img src="assets/icons/android/com.wendys.nutritiontool.png" width="20" height="20" alt="Wendy’s icon"> | [Wendy’s](apps/android/wendy-s-int-l-llc/wendy-s/README.md) | [Wendy's Int'l., LLC](companies/wendy-s-int-l-llc.md) | 11.53.1 | 31 |
 | <img src="assets/icons/android/com.whatsapp.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Messenger](apps/android/whatsapp-llc/whatsapp-messenger/README.md) | [WhatsApp LLC](companies/whatsapp-llc.md) | 2.26.41.77 | 24 |
-| <img src="assets/icons/android/com.twitter.android.png" width="20" height="20" alt="X icon"> | [X](apps/android/x-corp/x/README.md) | [X Corp.](companies/x-corp.md) | 12.36.1-prod.01 | 50 |
 | <img src="assets/icons/android/com.yelp.android.png" width="20" height="20" alt="Yelp icon"> | [Yelp: Food, Delivery & Reviews](apps/android/yelp-inc/yelp/README.md) | [Yelp, Inc](companies/yelp-inc.md) | 26.24.0-28262402 | 32 |
 | <img src="assets/icons/android/com.google.android.youtube.png" width="20" height="20" alt="YouTube icon"> | [YouTube](apps/android/google-llc/youtube/README.md) | [Google LLC](companies/google-llc.md) | 21.22.165 | 22 |
 | <img src="assets/icons/android/com.google.android.apps.youtube.music.png" width="20" height="20" alt="YouTube Music icon"> | [YouTube Music](apps/android/google-llc/youtube-music/README.md) | [Google LLC](companies/google-llc.md) | 9.22.53 | 19 |
