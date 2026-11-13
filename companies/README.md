@@ -2,7 +2,7 @@
 
 # Companies
 
-230 companies. Each name is the developer name on the store listing.
+232 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | <img src="../assets/icons/android/tv.twitch.android.app.png" width="20" height="20" alt="Twitch icon"> <img src="../assets/icons/ios/460177396.png" width="20" height="20" alt="Twitch icon"> | [Twitch Interactive, Inc.](twitch-interactive-inc.md) | 2 | 1 | 1 | 2 | 42 |
 | <img src="../assets/icons/android/com.wayfair.wayfair.png" width="20" height="20" alt="Wayfair icon"> <img src="../assets/icons/android/com.wayfair.wayhome.png" width="20" height="20" alt="Wayfair Service Pro icon"> | [Wayfair, LLC](wayfair-llc.md) | 2 | 0 | 2 | 2 | 45 |
 | <img src="../assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Inc.](whatsapp-inc.md) | 2 | 2 | 0 | 5 | 6 |
+| <img src="../assets/icons/android/com.whatsapp.w4b.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/android/com.whatsapp.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp LLC](whatsapp-llc.md) | 2 | 0 | 2 | 3 | 25 |
 | <img src="../assets/icons/android/com.advitaortho.chime.png" width="20" height="20" alt="Chime icon"> | [Advita Ortho, LLC](advita-ortho-llc.md) | 1 | 0 | 1 | 1 | 24 |
 | <img src="../assets/icons/android/io.affirmquest.app.png" width="20" height="20" alt="Affirm Quest icon"> | [Affirm Quest](affirm-quest.md) | 1 | 0 | 1 | 1 | 13 |
 | <img src="../assets/icons/ios/401626263.png" width="20" height="20" alt="Airbnb icon"> | [Airbnb, Inc.](airbnb-inc.md) | 1 | 1 | 0 | 1 | 23 |
@@ -112,6 +113,7 @@
 | <img src="../assets/icons/android/com.hilton.android.hhonors.png" width="20" height="20" alt="Hilton Honors icon"> | [Hilton](hilton.md) | 1 | 0 | 1 | 2 | 29 |
 | <img src="../assets/icons/android/com.hopper.mountainview.play.png" width="20" height="20" alt="Hopper icon"> | [Hopper Inc.](hopper-inc.md) | 1 | 0 | 1 | 1 | 36 |
 | <img src="../assets/icons/android/com.hcom.android.png" width="20" height="20" alt="Hotels.com icon"> | [Hotels.com LP](hotels-com-lp.md) | 1 | 0 | 1 | 2 | 43 |
+| <img src="../assets/icons/ios/6477774492.png" width="20" height="20" alt="Hudhud icon"> | [Hudhud Information Technology Company](hudhud-information-technology-company.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/ios/376510438.png" width="20" height="20" alt="Hulu icon"> | [Hulu, LLC](hulu-llc.md) | 1 | 1 | 0 | 1 | 28 |
 | <img src="../assets/icons/ios/6476790495.png" width="20" height="20" alt="Ideogram AI icon"> | [Ideogram](ideogram.md) | 1 | 1 | 0 | 1 | 19 |
 | <img src="../assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeartMedia Management Services, Inc.](iheartmedia-management-services-inc.md) | 1 | 1 | 0 | 1 | 88 |
@@ -164,6 +166,7 @@
 | <img src="../assets/icons/android/com.usepepper.kohlwholesaleapp.png" width="20" height="20" alt="Kohl Wholesale icon"> | [Pomegranate Technologies](pomegranate-technologies.md) | 1 | 0 | 1 | 1 | 40 |
 | <img src="../assets/icons/ios/1556928106.png" width="20" height="20" alt="Posh icon"> | [Posh Group Inc.](posh-group-inc.md) | 1 | 1 | 0 | 2 | 32 |
 | <img src="../assets/icons/ios/6468981790.png" width="20" height="20" alt="Bring Tracking icon"> | [Posten](posten.md) | 1 | 1 | 0 | 1 | 24 |
+| <img src="../assets/icons/android/com.bring.sporing.controller.png" width="20" height="20" alt="Bring icon"> | [Posten & Bring](posten-bring.md) | 1 | 0 | 1 | 1 | 25 |
 | <img src="../assets/icons/ios/1436732536.png" width="20" height="20" alt="Lensa AI icon"> | [Prisma labs, inc.](prisma-labs-inc.md) | 1 | 1 | 0 | 1 | 68 |
 | <img src="../assets/icons/ios/6752485055.png" width="20" height="20" alt="DARB icon"> | [Q Mobility](q-mobility.md) | 1 | 1 | 0 | 1 | 43 |
 | <img src="../assets/icons/android/com.qobuz.music.png" width="20" height="20" alt="Qobuz icon"> | [Qobuz](qobuz.md) | 1 | 0 | 1 | 1 | 24 |
@@ -174,9 +177,9 @@
 | <img src="../assets/icons/ios/6749303003.png" width="20" height="20" alt="WayShot icon"> | [Romangic Lab LLC](romangic-lab-llc.md) | 1 | 1 | 0 | 1 | 59 |
 | <img src="../assets/icons/ios/1198464606.png" width="20" height="20" alt="Rapido icon"> | [Roppen Transportation Services Private Limited](roppen-transportation-services-private-limited.md) | 1 | 1 | 0 | 1 | 56 |
 | <img src="../assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club](sam-s-club.md) | 1 | 0 | 1 | 1 | 37 |
-| <img src="../assets/icons/android/com.enzo.paulo.png" width="20" height="20" alt="Seekee icon"> | [Seekee Ltd](seekee-ltd.md) | 1 | 0 | 1 | 1 | 43 |
+| <img src="../assets/icons/android/com.enzo.paulo.png" width="20" height="20" alt="Seekee icon"> | [Seekee Ltd](seekee-ltd.md) | 1 | 0 | 1 | 2 | 43 |
 | <img src="../assets/icons/android/com.swm.live.png" width="20" height="20" alt="7plus icon"> | [Seven West Media](seven-west-media.md) | 1 | 0 | 1 | 1 | 31 |
-| <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shopify Inc.](shopify-inc.md) | 1 | 1 | 0 | 2 | 34 |
+| <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shopify Inc.](shopify-inc.md) | 1 | 1 | 0 | 3 | 34 |
 | <img src="../assets/icons/android/org.thoughtcrime.securesms.png" width="20" height="20" alt="Signal Private Messenger icon"> | [Signal Foundation](signal-foundation.md) | 1 | 0 | 1 | 2 | 22 |
 | <img src="../assets/icons/ios/874139669.png" width="20" height="20" alt="Signal icon"> | [Signal Messenger, LLC](signal-messenger-llc.md) | 1 | 1 | 0 | 2 | 9 |
 | <img src="../assets/icons/ios/350962117.png" width="20" height="20" alt="微博 icon"> | [SINA Corporation](sina-corporation.md) | 1 | 1 | 0 | 1 | 51 |
@@ -224,7 +227,6 @@
 | <img src="../assets/icons/ios/414478124.png" width="20" height="20" alt="WeChat icon"> | [WeChat](wechat.md) | 1 | 1 | 0 | 1 | 17 |
 | <img src="../assets/icons/android/com.wendys.nutritiontool.png" width="20" height="20" alt="Wendy’s icon"> | [Wendy's Int'l., LLC](wendy-s-int-l-llc.md) | 1 | 0 | 1 | 1 | 31 |
 | <img src="../assets/icons/ios/1488269261.png" width="20" height="20" alt="Whatnot icon"> | [Whatnot Inc.](whatnot-inc.md) | 1 | 1 | 0 | 3 | 349 |
-| <img src="../assets/icons/android/com.whatsapp.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp LLC](whatsapp-llc.md) | 1 | 0 | 1 | 2 | 24 |
 | <img src="../assets/icons/ios/741292507.png" width="20" height="20" alt="rednote icon"> | [Xingin](xingin.md) | 1 | 1 | 0 | 1 | 139 |
 | <img src="../assets/icons/android/com.yelp.android.png" width="20" height="20" alt="Yelp icon"> | [Yelp, Inc](yelp-inc.md) | 1 | 0 | 1 | 1 | 32 |
 | <img src="../assets/icons/ios/1644664646.png" width="20" height="20" alt="A101 icon"> | [YENİ MAĞAZACILIK ANONİM ŞİRKETİ](yeni-magazacilik-anonim-sirketi.md) | 1 | 1 | 0 | 1 | 51 |

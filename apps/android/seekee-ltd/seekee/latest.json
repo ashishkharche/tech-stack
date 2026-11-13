@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2.19.0",
+  "version": "2.19.1",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-06T21:03:50Z",
-    "store_first_seen_at": "2026-11-07T00:00:24Z",
-    "store_updated_at": "2026-11-06T10:48:06Z",
-    "exported_at": "2026-11-12T00:31:40Z"
+    "captured_at": "2026-11-13T21:10:50Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-13T22:14:02Z"
   },
   "source": {
     "kind": "static_binary_analysis",

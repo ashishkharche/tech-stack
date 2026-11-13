@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **43** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **43** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/seekee-ltd/seekee/README.md"><img src="../assets/icons/android/com.enzo.paulo.png" width="56" height="56" alt="Seekee icon"></a><br><a href="../apps/android/seekee-ltd/seekee/README.md"><sub><b>Seekee</b></sub></a><br><sub>Android · 43 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.enzo.paulo.png" width="20" height="20" alt="Seekee icon"> | [Seekee - AI Search & Assistant](../apps/android/seekee-ltd/seekee/README.md) | Android | 1 | 2.19.0 | 2026-11-06 | 43 | No |
+| <img src="../assets/icons/android/com.enzo.paulo.png" width="20" height="20" alt="Seekee icon"> | [Seekee - AI Search & Assistant](../apps/android/seekee-ltd/seekee/README.md) | Android | 2 | 2.19.1 | 2026-11-13 | 43 | No |
 
 ## SDKs by category
 

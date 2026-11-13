@@ -4,16 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **2** versions · **24** distinct SDKs across their latest versions
+**2** apps (0 iOS, 2 Android) · **3** versions · **25** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/whatsapp-llc/whatsapp-messenger/README.md"><img src="../assets/icons/android/com.whatsapp.png" width="56" height="56" alt="WhatsApp Messenger icon"></a><br><a href="../apps/android/whatsapp-llc/whatsapp-messenger/README.md"><sub><b>WhatsApp Messenger</b></sub></a><br><sub>Android · 24 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/whatsapp-llc/whatsapp-business/README.md"><img src="../assets/icons/android/com.whatsapp.w4b.png" width="56" height="56" alt="WhatsApp Business icon"></a><br><a href="../apps/android/whatsapp-llc/whatsapp-business/README.md"><sub><b>WhatsApp Business</b></sub></a><br><sub>Android · 25 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/whatsapp-llc/whatsapp-messenger/README.md"><img src="../assets/icons/android/com.whatsapp.png" width="56" height="56" alt="WhatsApp Messenger icon"></a><br><a href="../apps/android/whatsapp-llc/whatsapp-messenger/README.md"><sub><b>WhatsApp Messenger</b></sub></a><br><sub>Android · 24 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
+| <img src="../assets/icons/android/com.whatsapp.w4b.png" width="20" height="20" alt="WhatsApp Business icon"> | [WhatsApp Business](../apps/android/whatsapp-llc/whatsapp-business/README.md) | Android | 1 | 2.26.44.74 | 2026-11-13 | 25 | No |
 | <img src="../assets/icons/android/com.whatsapp.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Messenger](../apps/android/whatsapp-llc/whatsapp-messenger/README.md) | Android | 2 | 2.26.41.77 | 2026-10-23 | 24 | No |
 
 ## SDKs by category
@@ -21,6 +22,31 @@ The company name is the developer name on the store listing.
 Counted across the latest version of each app.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../assets/charts/companies/whatsapp-llc-dark.svg"><img alt="SDKs by category" src="../assets/charts/companies/whatsapp-llc-light.svg"></picture>
+
+## SDKs shared across their apps
+
+| SDK | Apps |
+|---|---|
+| AndroidSVG | 2 of 2 |
+| Credential Manager | 2 of 2 |
+| Cronet | 2 of 2 |
+| Cronet (Google) | 2 of 2 |
+| ExoPlayer | 2 of 2 |
+| Firebase | 2 of 2 |
+| Firebase Messaging | 2 of 2 |
+| Fresco | 2 of 2 |
+| Google DataTransport | 2 of 2 |
+| Google Location | 2 of 2 |
+| Google Maps | 2 of 2 |
+| Google Play Billing | 2 of 2 |
+| Google Play services | 2 of 2 |
+| Google Sign-In / Auth | 2 of 2 |
+| Jetpack Compose | 2 of 2 |
+| Kotlin Coroutines | 2 of 2 |
+| Lottie | 2 of 2 |
+| Material Components | 2 of 2 |
+| Media3 (ExoPlayer) | 2 of 2 |
+| ML Kit | 2 of 2 |
 
 ---
 

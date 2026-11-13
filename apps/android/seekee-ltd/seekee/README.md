@@ -13,8 +13,8 @@
 | Company | [Seekee Ltd](../../../../companies/seekee-ltd.md) |
 | Store id | `com.enzo.paulo` |
 | Bundle / package id | `com.enzo.paulo` |
-| Latest version | 2.19.0 (analysed 2026-11-06) |
-| Versions tracked | 1 |
+| Latest version | 2.19.1 (analysed 2026-11-13) |
+| Versions tracked | 2 |
 | SDKs in latest version | 43 |
 | Languages | C/C++ (native), Java, Kotlin, Unity (C# / IL2CPP) |
 | UI | Glide, Lottie, Material Components, Picasso |
@@ -58,6 +58,7 @@ Advertising ID, Bluetooth, Bluetooth (connect), Bluetooth (scan), Camera, Draw o
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2.19.1 | 2026-11-13 |  | 43 | +0 / −0 | Yes | No | [2.19.1.json](2.19.1.json) |
 | 2.19.0 | 2026-11-06 | 2026-11-06 | 43 |  | Yes | No | [2.19.0.json](2.19.0.json) |
 
 ---

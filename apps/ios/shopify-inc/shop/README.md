@@ -13,8 +13,8 @@
 | Company | [Shopify Inc.](../../../../companies/shopify-inc.md) |
 | Store id | `1223471316` |
 | Bundle / package id | `com.jadedlabs.arrive` |
-| Latest version | 3.18.0 (analysed 2026-11-09) |
-| Versions tracked | 2 |
+| Latest version | 3.19.0 (analysed 2026-11-13) |
+| Versions tracked | 3 |
 | SDKs in latest version | 34 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -60,6 +60,7 @@ App Attest, App Groups, Associated Domains (Universal Links), Keychain Sharing, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 3.19.0 | 2026-11-13 |  | 34 | +0 / −0 | Yes | Yes | [3.19.0.json](3.19.0.json) |
 | 3.18.0 | 2026-11-09 |  | 34 | +0 / −0 | Yes | Yes | [3.18.0.json](3.18.0.json) |
 | 3.17.0 | 2026-11-05 | 2026-11-04 | 34 |  | Yes | Yes | [3.17.0.json](3.17.0.json) |
 

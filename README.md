@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">346 apps · 448 versions · 230 companies · 4,284 SDKs</p>
+<p align="center">349 apps · 453 versions · 232 companies · 4,296 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 174 of 176 iOS apps, and Jetpack Compose is in 130 of 170 Android apps. 85 apps also use a cross-platform runtime.
+SwiftUI is in 175 of 177 iOS apps, and Jetpack Compose is in 132 of 172 Android apps. 86 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 174 of 176 iOS apps, and Jetpack Compose is in 130 of 170 Android 
 
 ## What most apps ship
 
-Firebase is in 226 of 346 apps. 77% of apps ship at least one analytics SDK.
+Firebase is in 228 of 349 apps. 77% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -51,9 +51,9 @@ The median app ships 35 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 <br>
 
-**The same app on both stores (16 largest of 67)**
+**The same app on both stores (16 largest of 68)**
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/both-platforms-dark.svg"><img alt="The same app on both stores (16 largest of 67)" src="assets/charts/both-platforms-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/both-platforms-dark.svg"><img alt="The same app on both stores (16 largest of 68)" src="assets/charts/both-platforms-light.svg"></picture>
 
 <br>
 
@@ -75,7 +75,7 @@ The median app ships 35 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## How apps change between versions
 
-58 of 102 updates changed the SDK list. Together they added 164 SDKs and removed 251.
+58 of 104 updates changed the SDK list. Together they added 164 SDKs and removed 251.
 
 **SDKs added and removed between versions**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 184 of 230 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 185 of 232 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,14 +129,14 @@ Google and Google LLC share the most apps, with 21 each. 184 of 230 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/android/burger-king-inc/burger-king-app/README.md"><img src="assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="56" height="56" alt="BURGER KING® App icon"></a><br><a href="apps/android/burger-king-inc/burger-king-app/README.md"><sub><b>BURGER KING® App</b></sub></a><br><sub>Android · 2026-11-13</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/trade-republic-bank-gmbh/trade-republic/README.md"><img src="assets/icons/android/de.traderepublic.app.png" width="56" height="56" alt="Trade Republic icon"></a><br><a href="apps/android/trade-republic-bank-gmbh/trade-republic/README.md"><sub><b>Trade Republic</b></sub></a><br><sub>Android · 2026-11-12</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><img src="assets/icons/ios/1410703839.png" width="56" height="56" alt="Trade Republic icon"></a><br><a href="apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><sub><b>Trade Republic</b></sub></a><br><sub>iOS · 2026-11-12</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hanlong-group-hk-limited/pdf-reader-annotate-on-pdf/README.md"><img src="assets/icons/android/com.ebookpdf.pdfreaderpro.allpdfviewer.png" width="56" height="56" alt="PDF Reader, Annotate on PDF icon"></a><br><a href="apps/android/hanlong-group-hk-limited/pdf-reader-annotate-on-pdf/README.md"><sub><b>PDF Reader, Annotate on PDF</b></sub></a><br><sub>Android · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gouvernement-francais/france-identit/README.md"><img src="assets/icons/ios/1590142959.png" width="56" height="56" alt="France Identité icon"></a><br><a href="apps/ios/gouvernement-francais/france-identit/README.md"><sub><b>France Identité</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gie-sesam-vitale/carte-vitale/README.md"><img src="assets/icons/ios/1458351041.png" width="56" height="56" alt="Carte Vitale icon"></a><br><a href="apps/ios/gie-sesam-vitale/carte-vitale/README.md"><sub><b>Carte Vitale</b></sub></a><br><sub>iOS · 2026-11-11</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><img src="assets/icons/ios/1343581380.png" width="56" height="56" alt="VN icon"></a><br><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><sub><b>VN</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/duolingo/duolingo/README.md"><img src="assets/icons/android/com.duolingo.png" width="56" height="56" alt="Duolingo icon"></a><br><a href="apps/android/duolingo/duolingo/README.md"><sub><b>Duolingo</b></sub></a><br><sub>Android · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/amo/bump/README.md"><img src="assets/icons/ios/6471519217.png" width="56" height="56" alt="Bump icon"></a><br><a href="apps/ios/amo/bump/README.md"><sub><b>Bump</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/chengdu-dance-elephant-technology-co-ltd/faceally/README.md"><img src="assets/icons/ios/6618119931.png" width="56" height="56" alt="FaceAlly icon"></a><br><a href="apps/ios/chengdu-dance-elephant-technology-co-ltd/faceally/README.md"><sub><b>FaceAlly</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><img src="assets/icons/ios/1288723196.png" width="56" height="56" alt="Microsoft Edge icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><sub><b>Microsoft Edge</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/apcoa-gmbh/apcoa-flow/README.md"><img src="assets/icons/android/com.europark.mobilparkering.png" width="56" height="56" alt="APCOA FLOW icon"></a><br><a href="apps/android/apcoa-gmbh/apcoa-flow/README.md"><sub><b>APCOA FLOW</b></sub></a><br><sub>Android · 2026-11-10</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/whatsapp-llc/whatsapp-business/README.md"><img src="assets/icons/android/com.whatsapp.w4b.png" width="56" height="56" alt="WhatsApp Business icon"></a><br><a href="apps/android/whatsapp-llc/whatsapp-business/README.md"><sub><b>WhatsApp Business</b></sub></a><br><sub>Android · 2026-11-13</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/posten-bring/bring/README.md"><img src="assets/icons/android/com.bring.sporing.controller.png" width="56" height="56" alt="Bring icon"></a><br><a href="apps/android/posten-bring/bring/README.md"><sub><b>Bring</b></sub></a><br><sub>Android · 2026-11-13</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/seekee-ltd/seekee/README.md"><img src="assets/icons/android/com.enzo.paulo.png" width="56" height="56" alt="Seekee icon"></a><br><a href="apps/android/seekee-ltd/seekee/README.md"><sub><b>Seekee</b></sub></a><br><sub>Android · 2026-11-13</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/hudhud-information-technology-company/hudhud/README.md"><img src="assets/icons/ios/6477774492.png" width="56" height="56" alt="Hudhud icon"></a><br><a href="apps/ios/hudhud-information-technology-company/hudhud/README.md"><sub><b>Hudhud</b></sub></a><br><sub>iOS · 2026-11-13</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/shopify-inc/shop/README.md"><img src="assets/icons/ios/1223471316.png" width="56" height="56" alt="Shop icon"></a><br><a href="apps/ios/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>iOS · 2026-11-13</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/burger-king-inc/burger-king-app/README.md"><img src="assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="56" height="56" alt="BURGER KING® App icon"></a><br><a href="apps/android/burger-king-inc/burger-king-app/README.md"><sub><b>BURGER KING® App</b></sub></a><br><sub>Android · 2026-11-13</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/trade-republic-bank-gmbh/trade-republic/README.md"><img src="assets/icons/android/de.traderepublic.app.png" width="56" height="56" alt="Trade Republic icon"></a><br><a href="apps/android/trade-republic-bank-gmbh/trade-republic/README.md"><sub><b>Trade Republic</b></sub></a><br><sub>Android · 2026-11-12</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><img src="assets/icons/ios/1410703839.png" width="56" height="56" alt="Trade Republic icon"></a><br><a href="apps/ios/trade-republic-bank-gmbh/trade-republic/README.md"><sub><b>Trade Republic</b></sub></a><br><sub>iOS · 2026-11-12</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hanlong-group-hk-limited/pdf-reader-annotate-on-pdf/README.md"><img src="assets/icons/android/com.ebookpdf.pdfreaderpro.allpdfviewer.png" width="56" height="56" alt="PDF Reader, Annotate on PDF icon"></a><br><a href="apps/android/hanlong-group-hk-limited/pdf-reader-annotate-on-pdf/README.md"><sub><b>PDF Reader, Annotate on PDF</b></sub></a><br><sub>Android · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gouvernement-francais/france-identit/README.md"><img src="assets/icons/ios/1590142959.png" width="56" height="56" alt="France Identité icon"></a><br><a href="apps/ios/gouvernement-francais/france-identit/README.md"><sub><b>France Identité</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gie-sesam-vitale/carte-vitale/README.md"><img src="assets/icons/ios/1458351041.png" width="56" height="56" alt="Carte Vitale icon"></a><br><a href="apps/ios/gie-sesam-vitale/carte-vitale/README.md"><sub><b>Carte Vitale</b></sub></a><br><sub>iOS · 2026-11-11</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><img src="assets/icons/ios/1343581380.png" width="56" height="56" alt="VN icon"></a><br><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><sub><b>VN</b></sub></a><br><sub>iOS · 2026-11-11</sub></td></tr>
 </table>
 
 ### All apps
 
 <details>
-<summary>iOS (176 apps)</summary>
+<summary>iOS (177 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -208,6 +208,7 @@ Google and Google LLC share the most apps, with 21 each. 184 of 230 companies ha
 | <img src="assets/icons/ios/6739429409.png" width="20" height="20" alt="Granola icon"> | [Granola - AI Meeting Notes](apps/ios/granola-inc/granola/README.md) | [Granola inc](companies/granola-inc.md) | 1.15.11 | 31 |
 | <img src="assets/icons/ios/392796698.png" width="20" height="20" alt="GroupMe icon"> | [GroupMe](apps/ios/skype-communications-s-a-r-l/groupme/README.md) | [Skype Communications S.a.r.l](companies/skype-communications-s-a-r-l.md) | 15.76.3 | 76 |
 | <img src="assets/icons/ios/1666653815.png" width="20" height="20" alt="HBO Max icon"> | [HBO Max: Stream Movies & TV](apps/ios/warnermedia-global-digital-services-llc/hbo-max/README.md) | [WarnerMedia Global Digital Services, LLC](companies/warnermedia-global-digital-services-llc.md) | 7.4.0 | 107 |
+| <img src="assets/icons/ios/6477774492.png" width="20" height="20" alt="Hudhud icon"> | [Hudhud: Accurate KSA Maps](apps/ios/hudhud-information-technology-company/hudhud/README.md) | [Hudhud Information Technology Company](companies/hudhud-information-technology-company.md) | 26.45.3 | 38 |
 | <img src="assets/icons/ios/376510438.png" width="20" height="20" alt="Hulu icon"> | [Hulu: Stream TV shows & movies](apps/ios/hulu-llc/hulu/README.md) | [Hulu, LLC](companies/hulu-llc.md) | 9.34.0 | 28 |
 | <img src="assets/icons/ios/6742321547.png" width="20" height="20" alt="i-Kfz icon"> | [i-Kfz](apps/ios/kraftfahrt-bundesamt/i-kfz/README.md) | [Kraftfahrt-Bundesamt](companies/kraftfahrt-bundesamt.md) | 1.1.8 | 4 |
 | <img src="assets/icons/ios/6759792530.png" width="20" height="20" alt="iAmor Family Location Tracker icon"> | [iAmor Family Location Tracker](apps/ios/esame-marketing-limited/iamor-family-location-tracker/README.md) | [Esame Marketing Limited](companies/esame-marketing-limited.md) | 1.0.6 | 72 |
@@ -277,7 +278,7 @@ Google and Google LLC share the most apps, with 21 each. 184 of 230 companies ha
 | <img src="assets/icons/ios/6587576438.png" width="20" height="20" alt="setlog icon"> | [setlog - friends camera](apps/ios/new-chat/setlog/README.md) | [new chat](companies/new-chat.md) | 2.7.7 | 1 |
 | <img src="assets/icons/ios/284993459.png" width="20" height="20" alt="Shazam icon"> | [Shazam: Find Music & Concerts](apps/ios/apple/shazam/README.md) | [Apple](companies/apple.md) | 26.11.0 | 1 |
 | <img src="assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> | [SHEIN - Shopping Online](apps/ios/roadget-business-pte-ltd/shein/README.md) | [ROADGET BUSINESS PTE. LTD.](companies/roadget-business-pte-ltd.md) | 15.5.6 | 41 |
-| <img src="assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shop: Track, Pay, Discover](apps/ios/shopify-inc/shop/README.md) | [Shopify Inc.](companies/shopify-inc.md) | 3.18.0 | 34 |
+| <img src="assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shop: Track, Pay, Discover](apps/ios/shopify-inc/shop/README.md) | [Shopify Inc.](companies/shopify-inc.md) | 3.19.0 | 34 |
 | <img src="assets/icons/ios/874139669.png" width="20" height="20" alt="Signal icon"> | [Signal - Private Messenger](apps/ios/signal-messenger-llc/signal-private-messenger/README.md) | [Signal Messenger, LLC](companies/signal-messenger-llc.md) | 8.34 | 9 |
 | <img src="assets/icons/ios/6818339091.png" width="20" height="20" alt="Skins Projeto Grau 2 icon"> | [Skins Projeto Grau 2](apps/ios/anderson-mateus-de-lima/skins-projeto-grau-2/README.md) | [Anderson Mateus de Lima](companies/anderson-mateus-de-lima.md) | 1.0.3 | 3 |
 | <img src="assets/icons/ios/447188370.png" width="20" height="20" alt="Snapchat icon"> | [Snapchat](apps/ios/snap-inc/snapchat/README.md) | [Snap, Inc.](companies/snap-inc.md) | 13.95.1 | 7 |
@@ -320,7 +321,7 @@ Google and Google LLC share the most apps, with 21 each. 184 of 230 companies ha
 </details>
 
 <details>
-<summary>Android (170 apps)</summary>
+<summary>Android (172 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -338,6 +339,7 @@ Google and Google LLC share the most apps, with 21 each. 184 of 230 companies ha
 | <img src="assets/icons/android/com.jmireports.bluesky.png" width="20" height="20" alt="BlueSkyVUE icon"> | [BlueSkyVUE](apps/android/morelandconnect/blueskyvue/README.md) | [MorelandConnect](companies/morelandconnect.md) | 2.13.0 | 28 |
 | <img src="assets/icons/android/com.booking.png" width="20" height="20" alt="Booking.com icon"> | [Booking.com: Hotels & Travel](apps/android/booking-com-hotels-vacation-rentals/booking-com/README.md) | [Booking.com Hotels & Vacation Rentals](companies/booking-com-hotels-vacation-rentals.md) | 66.6 | 45 |
 | <img src="assets/icons/android/ma.safe.bn.jpg" width="20" height="20" alt="Breaking News icon"> | [Breaking News: Local & Alerts](apps/android/beloud-com/breaking-news/README.md) | [Beloud.com](companies/beloud-com.md) | 11.1.22 | 28 |
+| <img src="assets/icons/android/com.bring.sporing.controller.png" width="20" height="20" alt="Bring icon"> | [Bring](apps/android/posten-bring/bring/README.md) | [Posten & Bring](companies/posten-bring.md) | 8.4.5 | 25 |
 | <img src="assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="20" height="20" alt="BURGER KING® App icon"> | [BURGER KING® App](apps/android/burger-king-inc/burger-king-app/README.md) | [Burger King, Inc.](companies/burger-king-inc.md) | 7.86.0 | 29 |
 | <img src="assets/icons/android/com.canva.editor.png" width="20" height="20" alt="Canva icon"> | [Canva: AI Photo & Video Editor](apps/android/canva/canva/README.md) | [Canva](companies/canva.md) | 2.383.0 | 39 |
 | <img src="assets/icons/android/com.lemon.lvoverseas.png" width="20" height="20" alt="CapCut icon"> | [CapCut - Video Editor](apps/android/bytedance-pte-ltd/capcut/README.md) | [Bytedance Pte. Ltd.](companies/bytedance-pte-ltd.md) | 19.8.0 | 37 |
@@ -449,7 +451,7 @@ Google and Google LLC share the most apps, with 21 each. 184 of 230 companies ha
 | <img src="assets/icons/android/com.xingin.xhs.png" width="20" height="20" alt="rednote icon"> | [rednote](apps/android/xingin-information-technology-shanghai-co-ltd/rednote/README.md) | [行吟信息科技(上海)有限公司](companies/xingin-information-technology-shanghai-co-ltd.md) | 9.51.0 | 35 |
 | <img src="assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club: Shopping & Savings](apps/android/sam-s-club/sam-s-club/README.md) | [Sam's Club](companies/sam-s-club.md) | 26.6.20 | 37 |
 | <img src="assets/icons/android/com.cbouvat.android.saracroche.png" width="20" height="20" alt="Saracroche icon"> | [Saracroche : bloqueur d'appels](apps/android/camille-bouvat/saracroche/README.md) | [Camille Bouvat](companies/camille-bouvat.md) | 5.5.4 | 3 |
-| <img src="assets/icons/android/com.enzo.paulo.png" width="20" height="20" alt="Seekee icon"> | [Seekee - AI Search & Assistant](apps/android/seekee-ltd/seekee/README.md) | [Seekee Ltd](companies/seekee-ltd.md) | 2.19.0 | 43 |
+| <img src="assets/icons/android/com.enzo.paulo.png" width="20" height="20" alt="Seekee icon"> | [Seekee - AI Search & Assistant](apps/android/seekee-ltd/seekee/README.md) | [Seekee Ltd](companies/seekee-ltd.md) | 2.19.1 | 43 |
 | <img src="assets/icons/android/com.eet.settings.launcher.png" width="20" height="20" alt="Settings Home icon"> | [Settings Home](apps/android/utility-apps-home/settings-home/README.md) | [Utility Apps Home](companies/utility-apps-home.md) | 1.6.4 | 43 |
 | <img src="assets/icons/android/com.zzkko.png" width="20" height="20" alt="SHEIN-Shopping Online icon"> | [SHEIN-Shopping Online](apps/android/roadget-business-pte-ltd/shein-shopping-online/README.md) | [Roadget Business PTE. LTD.](companies/roadget-business-pte-ltd.md) | 15.5.0 | 28 |
 | <img src="assets/icons/android/org.thoughtcrime.securesms.png" width="20" height="20" alt="Signal Private Messenger icon"> | [Signal Private Messenger](apps/android/signal-foundation/signal-private-messenger/README.md) | [Signal Foundation](companies/signal-foundation.md) | 8.32.3 | 22 |
@@ -488,6 +490,7 @@ Google and Google LLC share the most apps, with 21 each. 184 of 230 companies ha
 | <img src="assets/icons/android/com.wayfair.wayhome.png" width="20" height="20" alt="Wayfair Service Pro icon"> | [Wayfair Service Pro](apps/android/wayfair-llc/wayfair-service-pro/README.md) | [Wayfair, LLC](companies/wayfair-llc.md) | 1.100.0 | 26 |
 | <img src="assets/icons/android/com.waze.png" width="20" height="20" alt="Waze Navigation &amp; Live Traffic icon"> | [Waze Navigation & Live Traffic](apps/android/waze/waze-navigation-live-traffic/README.md) | [Waze](companies/waze.md) | 5.19.90.900 | 20 |
 | <img src="assets/icons/android/com.wendys.nutritiontool.png" width="20" height="20" alt="Wendy’s icon"> | [Wendy’s](apps/android/wendy-s-int-l-llc/wendy-s/README.md) | [Wendy's Int'l., LLC](companies/wendy-s-int-l-llc.md) | 11.53.1 | 31 |
+| <img src="assets/icons/android/com.whatsapp.w4b.png" width="20" height="20" alt="WhatsApp Business icon"> | [WhatsApp Business](apps/android/whatsapp-llc/whatsapp-business/README.md) | [WhatsApp LLC](companies/whatsapp-llc.md) | 2.26.44.74 | 25 |
 | <img src="assets/icons/android/com.whatsapp.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Messenger](apps/android/whatsapp-llc/whatsapp-messenger/README.md) | [WhatsApp LLC](companies/whatsapp-llc.md) | 2.26.41.77 | 24 |
 | <img src="assets/icons/android/com.yelp.android.png" width="20" height="20" alt="Yelp icon"> | [Yelp: Food, Delivery & Reviews](apps/android/yelp-inc/yelp/README.md) | [Yelp, Inc](companies/yelp-inc.md) | 26.24.0-28262402 | 32 |
 | <img src="assets/icons/android/com.google.android.youtube.png" width="20" height="20" alt="YouTube icon"> | [YouTube](apps/android/google-llc/youtube/README.md) | [Google LLC](companies/google-llc.md) | 21.22.165 | 22 |
