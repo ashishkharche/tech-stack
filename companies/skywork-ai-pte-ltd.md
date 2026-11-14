@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **2** versions · **124** distinct SDKs across their latest versions
+**2** apps (1 iOS, 1 Android) · **3** versions · **124** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/skywork-ai-pte-ltd/dramawave/README.md"><img src="../assets/icons/ios/6670430706.png" width="56" height="56" alt="DramaWave icon"></a><br><a href="../apps/ios/skywork-ai-pte-ltd/dramawave/README.md"><sub><b>DramaWave</b></sub></a><br><sub>iOS · 93 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/skywork-ai-pte-ltd/freereels/README.md"><img src="../assets/icons/android/com.freereels.app.png" width="56" height="56" alt="FreeReels icon"></a><br><a href="../apps/android/skywork-ai-pte-ltd/freereels/README.md"><sub><b>FreeReels</b></sub></a><br><sub>Android · 38 SDKs</sub></td></tr>
@@ -15,7 +15,7 @@ The company name is the developer name on the store listing.
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/ios/6670430706.png" width="20" height="20" alt="DramaWave icon"> | [DramaWave - Dramas & Reels](../apps/ios/skywork-ai-pte-ltd/dramawave/README.md) | iOS | 1 | 2.0.30 | 2026-10-24 | 93 | No |
-| <img src="../assets/icons/android/com.freereels.app.png" width="20" height="20" alt="FreeReels icon"> | [FreeReels - Dramas & Reels](../apps/android/skywork-ai-pte-ltd/freereels/README.md) | Android | 1 | 2.5.20 | 2026-11-02 | 38 | No |
+| <img src="../assets/icons/android/com.freereels.app.png" width="20" height="20" alt="FreeReels icon"> | [FreeReels - Dramas & Reels](../apps/android/skywork-ai-pte-ltd/freereels/README.md) | Android | 2 | 2.5.40 | 2026-11-14 | 38 | No |
 
 ## SDKs by category
 

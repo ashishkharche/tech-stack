@@ -3,26 +3,26 @@
 <rect x="0.5" y="0.5" width="859" height="259" rx="12" fill="#FAF8F3" stroke="#D9E1DD"/>
 <g transform="translate(20 20)">
 <line x1="10" y1="190.5" x2="810" y2="190.5" stroke="#D9E1DD"/>
-<rect x="44.1" y="180.2" width="46.0" height="9.8" rx="2" fill="#0088FF"/>
-<text x="67.1" y="174.2" font-size="12" text-anchor="middle" fill="#4D5755">3</text>
+<rect x="44.1" y="180.4" width="46.0" height="9.6" rx="2" fill="#0088FF"/>
+<text x="67.1" y="174.4" font-size="12" text-anchor="middle" fill="#4D5755">3</text>
 <text x="67.1" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 13</text>
-<rect x="158.4" y="177.0" width="46.0" height="13.0" rx="2" fill="#0088FF"/>
-<text x="181.4" y="171.0" font-size="12" text-anchor="middle" fill="#4D5755">4</text>
+<rect x="158.4" y="177.2" width="46.0" height="12.8" rx="2" fill="#0088FF"/>
+<text x="181.4" y="171.2" font-size="12" text-anchor="middle" fill="#4D5755">4</text>
 <text x="181.4" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 14</text>
-<rect x="272.7" y="50.0" width="46.0" height="140.0" rx="2" fill="#0088FF"/>
-<text x="295.7" y="44.0" font-size="12" text-anchor="middle" fill="#4D5755">43</text>
+<rect x="272.7" y="52.7" width="46.0" height="137.3" rx="2" fill="#0088FF"/>
+<text x="295.7" y="46.7" font-size="12" text-anchor="middle" fill="#4D5755">43</text>
 <text x="295.7" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 15</text>
 <rect x="387.0" y="24.0" width="46.0" height="166.0" rx="2" fill="#0088FF"/>
-<text x="410.0" y="18.0" font-size="12" text-anchor="middle" fill="#4D5755">51</text>
+<text x="410.0" y="18.0" font-size="12" text-anchor="middle" fill="#4D5755">52</text>
 <text x="410.0" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 16</text>
-<rect x="501.3" y="56.5" width="46.0" height="133.5" rx="2" fill="#0088FF"/>
-<text x="524.3" y="50.5" font-size="12" text-anchor="middle" fill="#4D5755">41</text>
+<rect x="501.3" y="59.1" width="46.0" height="130.9" rx="2" fill="#0088FF"/>
+<text x="524.3" y="53.1" font-size="12" text-anchor="middle" fill="#4D5755">41</text>
 <text x="524.3" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 17</text>
-<rect x="615.6" y="76.1" width="46.0" height="113.9" rx="2" fill="#0088FF"/>
-<text x="638.6" y="70.1" font-size="12" text-anchor="middle" fill="#4D5755">35</text>
+<rect x="615.6" y="78.3" width="46.0" height="111.7" rx="2" fill="#0088FF"/>
+<text x="638.6" y="72.3" font-size="12" text-anchor="middle" fill="#4D5755">35</text>
 <text x="638.6" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 18</text>
-<rect x="729.9" y="183.5" width="46.0" height="6.5" rx="2" fill="#0088FF"/>
-<text x="752.9" y="177.5" font-size="12" text-anchor="middle" fill="#4D5755">2</text>
+<rect x="729.9" y="183.6" width="46.0" height="6.4" rx="2" fill="#0088FF"/>
+<text x="752.9" y="177.6" font-size="12" text-anchor="middle" fill="#4D5755">2</text>
 <text x="752.9" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 26</text>
 </g>
 </svg>

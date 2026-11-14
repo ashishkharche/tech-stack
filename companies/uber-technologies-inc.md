@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**4** apps (2 iOS, 2 Android) · **5** versions · **144** distinct SDKs across their latest versions
+**4** apps (2 iOS, 2 Android) · **6** versions · **144** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/uber-technologies-inc/uber/README.md"><img src="../assets/icons/android/com.ubercab.png" width="56" height="56" alt="Uber icon"></a><br><a href="../apps/android/uber-technologies-inc/uber/README.md"><sub><b>Uber</b></sub></a><br><sub>Android · 38 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/uber-technologies-inc/uber/README.md"><img src="../assets/icons/ios/368677368.png" width="56" height="56" alt="Uber icon"></a><br><a href="../apps/ios/uber-technologies-inc/uber/README.md"><sub><b>Uber</b></sub></a><br><sub>iOS · 96 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/uber-technologies-inc/uber-eats/README.md"><img src="../assets/icons/ios/1058959277.png" width="56" height="56" alt="Uber Eats icon"></a><br><a href="../apps/ios/uber-technologies-inc/uber-eats/README.md"><sub><b>Uber Eats</b></sub></a><br><sub>iOS · 63 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/uber-technologies-inc/uber-eats/README.md"><img src="../assets/icons/android/com.ubercab.eats.png" width="56" height="56" alt="Uber Eats icon"></a><br><a href="../apps/android/uber-technologies-inc/uber-eats/README.md"><sub><b>Uber Eats</b></sub></a><br><sub>Android · 36 SDKs</sub></td></tr>
@@ -16,7 +16,7 @@ The company name is the developer name on the store listing.
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/android/com.ubercab.png" width="20" height="20" alt="Uber icon"> | [Uber - Request a ride](../apps/android/uber-technologies-inc/uber/README.md) | Android | 1 | 4.634.10003 | 2026-06-19 | 38 | No |
 | <img src="../assets/icons/ios/368677368.png" width="20" height="20" alt="Uber icon"> | [Uber - Rides, Eats, Hotels](../apps/ios/uber-technologies-inc/uber/README.md) | iOS | 1 | 3.744.10001 | 2026-10-24 | 96 | No |
-| <img src="../assets/icons/ios/1058959277.png" width="20" height="20" alt="Uber Eats icon"> | [Uber Eats: Food & Groceries](../apps/ios/uber-technologies-inc/uber-eats/README.md) | iOS | 2 | 6.346.10000 | 2026-11-01 | 63 | No |
+| <img src="../assets/icons/ios/1058959277.png" width="20" height="20" alt="Uber Eats icon"> | [Uber Eats: Food & Groceries](../apps/ios/uber-technologies-inc/uber-eats/README.md) | iOS | 3 | 6.348.10001 | 2026-11-14 | 63 | No |
 | <img src="../assets/icons/android/com.ubercab.eats.png" width="20" height="20" alt="Uber Eats icon"> | [Uber Eats: Food and Grocery](../apps/android/uber-technologies-inc/uber-eats/README.md) | Android | 1 | 6.326.10001 | 2026-06-19 | 36 | No |
 
 ## SDKs by category

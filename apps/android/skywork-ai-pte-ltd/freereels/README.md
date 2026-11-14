@@ -13,8 +13,8 @@
 | Company | [SKYWORK AI PTE.LTD.](../../../../companies/skywork-ai-pte-ltd.md) |
 | Store id | `com.freereels.app` |
 | Bundle / package id | `com.freereels.app` |
-| Latest version | 2.5.20 (analysed 2026-11-02) |
-| Versions tracked | 1 |
+| Latest version | 2.5.40 (analysed 2026-11-14) |
+| Versions tracked | 2 |
 | SDKs in latest version | 38 |
 | Languages | C/C++ (native), Java, Kotlin, Unity (C# / IL2CPP) |
 | UI | Coil, Jetpack Compose, Lottie, Material Components |
@@ -56,6 +56,7 @@ Advertising ID, Bluetooth, Calendar (write), Camera, Foreground service, Notific
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2.5.40 | 2026-11-14 |  | 38 | +0 / −0 | No | No | [2.5.40.json](2.5.40.json) |
 | 2.5.20 | 2026-11-02 | 2026-10-27 | 38 |  | No | No | [2.5.20.json](2.5.20.json) |
 
 ---
