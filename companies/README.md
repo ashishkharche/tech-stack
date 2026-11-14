@@ -2,7 +2,7 @@
 
 # Companies
 
-233 companies. Each name is the developer name on the store listing.
+236 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | <img src="../assets/icons/ios/1510944943.png" width="20" height="20" alt="Cleanup icon"> | [DEEP FLOW SOFTWARE SERVICES](deep-flow-software-services.md) | 1 | 1 | 0 | 1 | 42 |
 | <img src="../assets/icons/android/com.deepseek.chat.png" width="20" height="20" alt="DeepSeek icon"> | [DeepSeek](deepseek.md) | 1 | 0 | 1 | 1 | 11 |
 | <img src="../assets/icons/ios/518684914.png" width="20" height="20" alt="Depop icon"> | [Depop Ltd](depop-ltd.md) | 1 | 1 | 0 | 1 | 344 |
+| <img src="../assets/icons/ios/1148204349.png" width="20" height="20" alt="Liverpool icon"> | [Distribuidora Liverpool S.A. De C.V.](distribuidora-liverpool-s-a-de-c-v.md) | 1 | 1 | 0 | 1 | 92 |
 | <img src="../assets/icons/android/com.dominospizza.png" width="20" height="20" alt="Domino's Pizza USA icon"> | [Domino's Pizza LLC](domino-s-pizza-llc.md) | 1 | 0 | 1 | 2 | 23 |
 | <img src="../assets/icons/ios/719972451.png" width="20" height="20" alt="DoorDash icon"> | [DoorDash, Inc.](doordash-inc.md) | 1 | 1 | 0 | 1 | 98 |
 | <img src="../assets/icons/android/com.meetrixonline.drawnames.png" width="20" height="20" alt="drawnames icon"> | [drawnames](drawnames.md) | 1 | 0 | 1 | 1 | 15 |
@@ -132,6 +133,7 @@
 | <img src="../assets/icons/ios/1571998974.png" width="20" height="20" alt="Mastodon icon"> | [Mastodon GmbH](mastodon-gmbh.md) | 1 | 1 | 0 | 2 | 14 |
 | <img src="../assets/icons/android/com.mcdonalds.app.png" width="20" height="20" alt="McDonald's icon"> | [McDonalds USA, LLC](mcdonalds-usa-llc.md) | 1 | 0 | 1 | 2 | 42 |
 | <img src="../assets/icons/ios/932002377.png" width="20" height="20" alt="drawnames icon"> | [Meetrix Online](meetrix-online.md) | 1 | 1 | 0 | 1 | 37 |
+| <img src="../assets/icons/android/com.mercadolibre.png" width="20" height="20" alt="Mercado Libre icon"> | [Mercado Libre](mercado-libre.md) | 1 | 0 | 1 | 1 | 44 |
 | <img src="../assets/icons/ios/627410001.png" width="20" height="20" alt="Autofirma App icon"> | [Ministerio de Asuntos Economicos y Transformacion Digital](ministerio-de-asuntos-economicos-y-transformacion-digital.md) | 1 | 1 | 0 | 1 | 0 |
 | <img src="../assets/icons/ios/6754709202.png" width="20" height="20" alt="Q | كيو icon"> | [MOHAMMED BIN HALABI](mohammed-bin-halabi.md) | 1 | 1 | 0 | 1 | 36 |
 | <img src="../assets/icons/android/com.jmireports.bluesky.png" width="20" height="20" alt="BlueSkyVUE icon"> | [MorelandConnect](morelandconnect.md) | 1 | 0 | 1 | 1 | 28 |
@@ -178,6 +180,7 @@
 | <img src="../assets/icons/ios/6749303003.png" width="20" height="20" alt="WayShot icon"> | [Romangic Lab LLC](romangic-lab-llc.md) | 1 | 1 | 0 | 1 | 59 |
 | <img src="../assets/icons/ios/1198464606.png" width="20" height="20" alt="Rapido icon"> | [Roppen Transportation Services Private Limited](roppen-transportation-services-private-limited.md) | 1 | 1 | 0 | 1 | 56 |
 | <img src="../assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club](sam-s-club.md) | 1 | 0 | 1 | 1 | 37 |
+| <img src="../assets/icons/ios/396584034.png" width="20" height="20" alt="Everland icon"> | [Samsung Everland Co. Ltd.](samsung-everland-co-ltd.md) | 1 | 1 | 0 | 1 | 52 |
 | <img src="../assets/icons/android/com.enzo.paulo.png" width="20" height="20" alt="Seekee icon"> | [Seekee Ltd](seekee-ltd.md) | 1 | 0 | 1 | 2 | 43 |
 | <img src="../assets/icons/android/com.swm.live.png" width="20" height="20" alt="7plus icon"> | [Seven West Media](seven-west-media.md) | 1 | 0 | 1 | 1 | 31 |
 | <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shopify Inc.](shopify-inc.md) | 1 | 1 | 0 | 3 | 34 |

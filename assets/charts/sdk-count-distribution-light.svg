@@ -15,15 +15,15 @@
 <rect x="158.4" y="54.0" width="46.0" height="109.4" rx="2" fill="#1EA45A"/>
 <text x="181.4" y="48.0" font-size="12" text-anchor="middle" fill="#4D5755">154</text>
 <text x="181.4" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">20–39</text>
-<rect x="272.7" y="179.6" width="46.0" height="30.4" rx="2" fill="#0088FF"/>
-<rect x="272.7" y="149.2" width="46.0" height="28.4" rx="2" fill="#1EA45A"/>
-<text x="295.7" y="143.2" font-size="12" text-anchor="middle" fill="#4D5755">60</text>
+<rect x="272.7" y="178.6" width="46.0" height="31.4" rx="2" fill="#0088FF"/>
+<rect x="272.7" y="147.2" width="46.0" height="29.4" rx="2" fill="#1EA45A"/>
+<text x="295.7" y="141.2" font-size="12" text-anchor="middle" fill="#4D5755">62</text>
 <text x="295.7" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">40–59</text>
 <rect x="387.0" y="193.8" width="46.0" height="16.2" rx="2" fill="#0088FF"/>
 <text x="410.0" y="187.8" font-size="12" text-anchor="middle" fill="#4D5755">16</text>
 <text x="410.0" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">60–79</text>
-<rect x="501.3" y="194.8" width="46.0" height="15.2" rx="2" fill="#0088FF"/>
-<text x="524.3" y="188.8" font-size="12" text-anchor="middle" fill="#4D5755">15</text>
+<rect x="501.3" y="193.8" width="46.0" height="16.2" rx="2" fill="#0088FF"/>
+<text x="524.3" y="187.8" font-size="12" text-anchor="middle" fill="#4D5755">16</text>
 <text x="524.3" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">80–99</text>
 <rect x="615.6" y="201.9" width="46.0" height="8.1" rx="2" fill="#0088FF"/>
 <text x="638.6" y="195.9" font-size="12" text-anchor="middle" fill="#4D5755">8</text>
