@@ -2,7 +2,7 @@
 
 # Companies
 
-237 companies. Each name is the developer name on the store listing.
+239 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | <img src="../assets/icons/android/com.reddit.frontpage.png" width="20" height="20" alt="Reddit icon"> <img src="../assets/icons/ios/1064216828.png" width="20" height="20" alt="Reddit icon"> | [reddit Inc.](reddit-inc.md) | 2 | 1 | 1 | 2 | 64 |
 | <img src="../assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> <img src="../assets/icons/android/com.zzkko.png" width="20" height="20" alt="SHEIN-Shopping Online icon"> | [Roadget Business PTE. LTD.](roadget-business-pte-ltd.md) | 2 | 1 | 1 | 2 | 66 |
 | <img src="../assets/icons/ios/6752915724.png" width="20" height="20" alt="Kalo icon"> <img src="../assets/icons/ios/6813645709.png" width="20" height="20" alt="Workout Director icon"> | [Shelgaon Ltd](shelgaon-ltd.md) | 2 | 2 | 0 | 2 | 29 |
+| <img src="../assets/icons/android/com.shopify.arrive.png" width="20" height="20" alt="Shop icon"> <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shopify Inc.](shopify-inc.md) | 2 | 1 | 1 | 4 | 48 |
 | <img src="../assets/icons/ios/6670430706.png" width="20" height="20" alt="DramaWave icon"> <img src="../assets/icons/android/com.freereels.app.png" width="20" height="20" alt="FreeReels icon"> | [SKYWORK AI PTE.LTD.](skywork-ai-pte-ltd.md) | 2 | 1 | 1 | 3 | 124 |
 | <img src="../assets/icons/android/com.snapchat.android.png" width="20" height="20" alt="Snapchat icon"> <img src="../assets/icons/ios/447188370.png" width="20" height="20" alt="Snapchat icon"> | [Snap Inc](snap-inc.md) | 2 | 1 | 1 | 2 | 35 |
 | <img src="../assets/icons/android/com.suno.android.png" width="20" height="20" alt="Suno icon"> <img src="../assets/icons/ios/6480136315.png" width="20" height="20" alt="Suno icon"> | [Suno, Inc](suno-inc.md) | 2 | 1 | 1 | 2 | 67 |
@@ -51,7 +52,7 @@
 | <img src="../assets/icons/android/de.traderepublic.app.png" width="20" height="20" alt="Trade Republic icon"> <img src="../assets/icons/ios/1410703839.png" width="20" height="20" alt="Trade Republic icon"> | [Trade Republic Bank GmbH](trade-republic-bank-gmbh.md) | 2 | 1 | 1 | 2 | 104 |
 | <img src="../assets/icons/android/tv.twitch.android.app.png" width="20" height="20" alt="Twitch icon"> <img src="../assets/icons/ios/460177396.png" width="20" height="20" alt="Twitch icon"> | [Twitch Interactive, Inc.](twitch-interactive-inc.md) | 2 | 1 | 1 | 2 | 42 |
 | <img src="../assets/icons/android/com.wayfair.wayfair.png" width="20" height="20" alt="Wayfair icon"> <img src="../assets/icons/android/com.wayfair.wayhome.png" width="20" height="20" alt="Wayfair Service Pro icon"> | [Wayfair, LLC](wayfair-llc.md) | 2 | 0 | 2 | 2 | 45 |
-| <img src="../assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Inc.](whatsapp-inc.md) | 2 | 2 | 0 | 5 | 6 |
+| <img src="../assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Inc.](whatsapp-inc.md) | 2 | 2 | 0 | 6 | 6 |
 | <img src="../assets/icons/android/com.whatsapp.w4b.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/android/com.whatsapp.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp LLC](whatsapp-llc.md) | 2 | 0 | 2 | 3 | 25 |
 | <img src="../assets/icons/android/com.advitaortho.chime.png" width="20" height="20" alt="Chime icon"> | [Advita Ortho, LLC](advita-ortho-llc.md) | 1 | 0 | 1 | 1 | 24 |
 | <img src="../assets/icons/android/io.affirmquest.app.png" width="20" height="20" alt="Affirm Quest icon"> | [Affirm Quest](affirm-quest.md) | 1 | 0 | 1 | 1 | 13 |
@@ -137,6 +138,7 @@
 | <img src="../assets/icons/ios/627410001.png" width="20" height="20" alt="Autofirma App icon"> | [Ministerio de Asuntos Economicos y Transformacion Digital](ministerio-de-asuntos-economicos-y-transformacion-digital.md) | 1 | 1 | 0 | 1 | 0 |
 | <img src="../assets/icons/ios/6754709202.png" width="20" height="20" alt="Q | كيو icon"> | [MOHAMMED BIN HALABI](mohammed-bin-halabi.md) | 1 | 1 | 0 | 1 | 36 |
 | <img src="../assets/icons/android/com.jmireports.bluesky.png" width="20" height="20" alt="BlueSkyVUE icon"> | [MorelandConnect](morelandconnect.md) | 1 | 0 | 1 | 1 | 28 |
+| <img src="../assets/icons/ios/1570860098.png" width="20" height="20" alt="myMTN NG icon"> | [MTN Nigeria](mtn-nigeria.md) | 1 | 1 | 0 | 1 | 41 |
 | <img src="../assets/icons/ios/484672289.png" width="20" height="20" alt="NBA icon"> | [NBA MEDIA VENTURES, LLC](nba-media-ventures-llc.md) | 1 | 1 | 0 | 1 | 43 |
 | <img src="../assets/icons/ios/6587576438.png" width="20" height="20" alt="setlog icon"> | [new chat](new-chat.md) | 1 | 1 | 0 | 1 | 1 |
 | <img src="../assets/icons/ios/6742177802.png" width="20" height="20" alt="New York Road Runners icon"> | [New York Road Runners, Inc.](new-york-road-runners-inc.md) | 1 | 1 | 0 | 1 | 32 |
@@ -183,7 +185,6 @@
 | <img src="../assets/icons/ios/396584034.png" width="20" height="20" alt="Everland icon"> | [Samsung Everland Co. Ltd.](samsung-everland-co-ltd.md) | 1 | 1 | 0 | 1 | 52 |
 | <img src="../assets/icons/android/com.enzo.paulo.png" width="20" height="20" alt="Seekee icon"> | [Seekee Ltd](seekee-ltd.md) | 1 | 0 | 1 | 2 | 43 |
 | <img src="../assets/icons/android/com.swm.live.png" width="20" height="20" alt="7plus icon"> | [Seven West Media](seven-west-media.md) | 1 | 0 | 1 | 1 | 31 |
-| <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shopify Inc.](shopify-inc.md) | 1 | 1 | 0 | 3 | 34 |
 | <img src="../assets/icons/android/org.thoughtcrime.securesms.png" width="20" height="20" alt="Signal Private Messenger icon"> | [Signal Foundation](signal-foundation.md) | 1 | 0 | 1 | 2 | 22 |
 | <img src="../assets/icons/ios/874139669.png" width="20" height="20" alt="Signal icon"> | [Signal Messenger, LLC](signal-messenger-llc.md) | 1 | 1 | 0 | 2 | 9 |
 | <img src="../assets/icons/ios/350962117.png" width="20" height="20" alt="微博 icon"> | [SINA Corporation](sina-corporation.md) | 1 | 1 | 0 | 1 | 51 |
@@ -199,6 +200,7 @@
 | <img src="../assets/icons/ios/324684580.png" width="20" height="20" alt="Spotify icon"> | [Spotify](spotify.md) | 1 | 1 | 0 | 2 | 22 |
 | <img src="../assets/icons/android/com.spotify.music.png" width="20" height="20" alt="Spotify icon"> | [Spotify AB](spotify-ab.md) | 1 | 0 | 1 | 1 | 35 |
 | <img src="../assets/icons/android/com.starbucks.mobilecard.png" width="20" height="20" alt="Starbucks icon"> | [Starbucks Coffee Company](starbucks-coffee-company.md) | 1 | 0 | 1 | 1 | 28 |
+| <img src="../assets/icons/ios/6741806791.png" width="20" height="20" alt="Stichting Zevenheuvelenloop icon"> | [Stichting Zevenheuvelenloop](stichting-zevenheuvelenloop.md) | 1 | 1 | 0 | 1 | 15 |
 | <img src="../assets/icons/ios/426826309.png" width="20" height="20" alt="Strava icon"> | [Strava, Inc.](strava-inc.md) | 1 | 1 | 0 | 1 | 50 |
 | <img src="../assets/icons/android/com.subway.mobile.subwayapp03.png" width="20" height="20" alt="Subway® icon"> | [SUBWAY Restaurants](subway-restaurants.md) | 1 | 0 | 1 | 1 | 40 |
 | <img src="../assets/icons/ios/911813648.png" width="20" height="20" alt="Microsoft SwiftKey AI Keyboard icon"> | [SwiftKey](swiftkey.md) | 1 | 1 | 0 | 1 | 46 |

@@ -4,16 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **3** versions · **34** distinct SDKs across their latest versions
+**2** apps (1 iOS, 1 Android) · **4** versions · **48** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/shopify-inc/shop/README.md"><img src="../assets/icons/ios/1223471316.png" width="56" height="56" alt="Shop icon"></a><br><a href="../apps/ios/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>iOS · 34 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/shopify-inc/shop/README.md"><img src="../assets/icons/android/com.shopify.arrive.png" width="56" height="56" alt="Shop icon"></a><br><a href="../apps/android/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>Android · 15 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/shopify-inc/shop/README.md"><img src="../assets/icons/ios/1223471316.png" width="56" height="56" alt="Shop icon"></a><br><a href="../apps/ios/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>iOS · 34 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
+| <img src="../assets/icons/android/com.shopify.arrive.png" width="20" height="20" alt="Shop icon"> | [Shop: Track, Pay, Discover](../apps/android/shopify-inc/shop/README.md) | Android | 1 | 3.18.0 | 2026-11-14 | 15 | No |
 | <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shop: Track, Pay, Discover](../apps/ios/shopify-inc/shop/README.md) | iOS | 3 | 3.19.0 | 2026-11-13 | 34 | No |
 
 ## SDKs by category
@@ -21,6 +22,12 @@ The company name is the developer name on the store listing.
 Counted across the latest version of each app.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../assets/charts/companies/shopify-inc-dark.svg"><img alt="SDKs by category" src="../assets/charts/companies/shopify-inc-light.svg"></picture>
+
+## SDKs shared across their apps
+
+| SDK | Apps |
+|---|---|
+| Bugsnag | 2 of 2 |
 
 ---
 

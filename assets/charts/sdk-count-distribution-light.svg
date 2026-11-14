@@ -7,17 +7,17 @@
 <rect x="70.53999999999999" y="8" width="12" height="12" rx="3" fill="#1EA45A"/>
 <text x="88.53999999999999" y="18" font-size="13" fill="#4D5755">Android</text>
 <line x1="10" y1="210.5" x2="810" y2="210.5" stroke="#D9E1DD"/>
-<rect x="44.1" y="151.2" width="46.0" height="58.8" rx="2" fill="#0088FF"/>
-<rect x="44.1" y="117.8" width="46.0" height="31.4" rx="2" fill="#1EA45A"/>
-<text x="67.1" y="111.8" font-size="12" text-anchor="middle" fill="#4D5755">91</text>
+<rect x="44.1" y="150.2" width="46.0" height="59.8" rx="2" fill="#0088FF"/>
+<rect x="44.1" y="115.8" width="46.0" height="32.4" rx="2" fill="#1EA45A"/>
+<text x="67.1" y="109.8" font-size="12" text-anchor="middle" fill="#4D5755">93</text>
 <text x="67.1" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">0–19</text>
 <rect x="158.4" y="165.4" width="46.0" height="44.6" rx="2" fill="#0088FF"/>
 <rect x="158.4" y="54.0" width="46.0" height="109.4" rx="2" fill="#1EA45A"/>
 <text x="181.4" y="48.0" font-size="12" text-anchor="middle" fill="#4D5755">154</text>
 <text x="181.4" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">20–39</text>
-<rect x="272.7" y="178.6" width="46.0" height="31.4" rx="2" fill="#0088FF"/>
-<rect x="272.7" y="147.2" width="46.0" height="29.4" rx="2" fill="#1EA45A"/>
-<text x="295.7" y="141.2" font-size="12" text-anchor="middle" fill="#4D5755">62</text>
+<rect x="272.7" y="177.6" width="46.0" height="32.4" rx="2" fill="#0088FF"/>
+<rect x="272.7" y="146.2" width="46.0" height="29.4" rx="2" fill="#1EA45A"/>
+<text x="295.7" y="140.2" font-size="12" text-anchor="middle" fill="#4D5755">63</text>
 <text x="295.7" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">40–59</text>
 <rect x="387.0" y="193.8" width="46.0" height="16.2" rx="2" fill="#0088FF"/>
 <text x="410.0" y="187.8" font-size="12" text-anchor="middle" fill="#4D5755">16</text>
