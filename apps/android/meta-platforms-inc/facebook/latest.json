@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "585.0.0.47.54",
+  "version": "587.0.0.39.55",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-02T02:22:41Z",
+    "captured_at": "2026-11-14T04:35:36Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-12T00:31:40Z"
+    "exported_at": "2026-11-14T05:32:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -67,7 +67,7 @@
     "platform": {
       "min_os": "Android API 28",
       "min_sdk": "28",
-      "target_sdk": "36",
+      "target_sdk": "37",
       "build_sdk": null,
       "xcode": null,
       "device_families": [
@@ -177,6 +177,7 @@
         "com.amazon.device.messaging.permission.RECEIVE",
         "com.android.launcher.permission.INSTALL_SHORTCUT",
         "com.android.vending.BILLING",
+        "com.facebook.appmanager.KNOWN_SIGNED_API_ACCESS",
         "com.facebook.appmanager.UNPROTECTED_API_ACCESS",
         "com.facebook.katana.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
         "com.facebook.katana.permission.CREATE_SHORTCUT",

@@ -13,13 +13,13 @@
 | Company | [Meta Platforms, Inc.](../../../../companies/meta-platforms-inc.md) |
 | Store id | `com.facebook.katana` |
 | Bundle / package id | `com.facebook.katana` |
-| Latest version | 585.0.0.47.54 (analysed 2026-11-02) |
-| Versions tracked | 2 |
+| Latest version | 587.0.0.39.55 (analysed 2026-11-14) |
+| Versions tracked | 3 |
 | SDKs in latest version | 2 |
 | Languages | C/C++ (native), Java, Kotlin, React Native / JavaScript |
 | UI | Android Views (inferred) |
 | Build | Gradle (inferred) |
-| Minimum OS | API 28, targets API 36 |
+| Minimum OS | API 28, targets API 37 |
 | Devices / ABIs | Android |
 | Capabilities | 25 |
 | Declares tracking | Yes |
@@ -43,6 +43,7 @@ Advertising ID, Approximate location, Biometric auth, Bluetooth, Bluetooth (conn
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 587.0.0.39.55 | 2026-11-14 |  | 2 | +0 / −0 | No | No | [587.0.0.39.55.json](587.0.0.39.55.json) |
 | 585.0.0.47.54 | 2026-11-02 |  | 2 | +0 / −0 | No | No | [585.0.0.47.54.json](585.0.0.47.54.json) |
 | 584.0.0.51.56 | 2026-10-24 |  | 2 |  | No | No | [584.0.0.51.56.json](584.0.0.51.56.json) |
 

@@ -16,14 +16,14 @@
 <rect x="181.1" y="90" width="565.7" height="18" rx="3" fill="#0091FF"/>
 <text x="754.8" y="104" font-size="13" fill="#A9B2BC">176</text>
 <text x="169.09999999999994" y="132" font-size="13" text-anchor="end" fill="#F1F6F3">Java</text>
-<rect x="181.1" y="118" width="552.8" height="18" rx="3" fill="#3DDC84"/>
-<text x="741.9" y="132" font-size="13" fill="#A9B2BC">172</text>
+<rect x="181.1" y="118" width="556.0" height="18" rx="3" fill="#3DDC84"/>
+<text x="745.1" y="132" font-size="13" fill="#A9B2BC">173</text>
 <text x="169.09999999999994" y="160" font-size="13" text-anchor="end" fill="#F1F6F3">C/C++ (native)</text>
-<rect x="181.1" y="146" width="536.8" height="18" rx="3" fill="#3DDC84"/>
-<text x="725.9" y="160" font-size="13" fill="#A9B2BC">167</text>
+<rect x="181.1" y="146" width="540.0" height="18" rx="3" fill="#3DDC84"/>
+<text x="729.1" y="160" font-size="13" fill="#A9B2BC">168</text>
 <text x="169.09999999999994" y="188" font-size="13" text-anchor="end" fill="#F1F6F3">Kotlin</text>
-<rect x="181.1" y="174" width="533.5" height="18" rx="3" fill="#3DDC84"/>
-<text x="722.6" y="188" font-size="13" fill="#A9B2BC">166</text>
+<rect x="181.1" y="174" width="536.8" height="18" rx="3" fill="#3DDC84"/>
+<text x="725.9" y="188" font-size="13" fill="#A9B2BC">167</text>
 <text x="169.09999999999994" y="216" font-size="13" text-anchor="end" fill="#F1F6F3">Metal (shaders)</text>
 <rect x="181.1" y="202" width="360.0" height="18" rx="3" fill="#0091FF"/>
 <text x="549.1" y="216" font-size="13" fill="#A9B2BC">112</text>
