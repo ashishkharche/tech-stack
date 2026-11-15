@@ -13,37 +13,38 @@
 | Company | [Prisma labs, inc.](../../../../companies/prisma-labs-inc.md) |
 | Store id | `1436732536` |
 | Bundle / package id | `com.prisma-ai.lensa-app` |
-| Latest version | 8.13.0 (analysed 2026-10-24) |
-| Versions tracked | 1 |
-| SDKs in latest version | 68 |
+| Latest version | 9.0.0 (analysed 2026-11-15) |
+| Versions tracked | 2 |
+| SDKs in latest version | 73 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
-| Minimum OS | iOS 18.0 (built with Xcode 26.2, SDK iphoneos26.2) |
+| Minimum OS | iOS 18.0 (built with Xcode 27.0, SDK iphoneos27.0) |
 | Devices / ABIs | iPhone |
 | Localisations | 9 |
 | Capabilities | 5 |
-| Declares tracking | No |
+| Declares tracking | Yes |
 | Tracked | Yes |
 
 ## SDKs by category
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/prisma-labs-inc/lensa-ai-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/prisma-labs-inc/lensa-ai-light.svg"></picture>
 
-- **Other** (45): AIBokeh, Authorization, AutoAdjuster, BackgroundHarmonisation, Beautifier, BodySkinRetouch, Bokeh, Brains, ColorGrader, CustomPicker, DepthMate, DeviceKit, EduardAI, FaceGeometryCalculator 1.0, FaceMesh, FiltersStore, FXEffects, Gallery, GenAI, Inpainter, LookUpTable, MaskAdjustment, MetalCore, MusicLibrary, Palette, Paywalls, PhotoEditingPackage, PhotoEditingScene, PhotoPreprocessing, PhotoProcessing, RealEngine, Reshape, ScreenshotGuard, SelectiveColor, SettingsModule, TextureStatistics, Tokens, UserSurvey, VideoEditorNew, VideoEngine, VideoRetouch, VideoTimeline, Vignette, Vortex, Warper
-- **Firebase** (9): FBLPromises, Firebase, FirebaseCore, FirebaseCoreInternal, FirebaseInstallations, FirebaseRemoteConfig, GoogleDataTransport, nanopb, Promises
+- **Other** (46): AIBokeh, Authorization, AutoAdjuster, BackgroundHarmonisation, Beautifier, BodySkinRetouch, Bokeh, Brains, ColorGrader, CustomPicker, DepthMate, DeviceKit, EduardAI, FaceGeometryCalculator 1.0, FaceMesh, FiltersStore, FXEffects, Gallery, GenAI, Inpainter, LookUpTable, MaskAdjustment, MetalCore, MusicLibrary, Palette, Paywalls, PhotoEditingPackage, PhotoEditingSceneCore, PhotoEditingSceneMetal, PhotoPreprocessing, PhotoProcessing, RealEngine, Reshape, ScreenshotGuard, SelectiveColor, SettingsModule, TextureStatistics, Tokens, UserSurvey, VideoEditorNew, VideoEngine, VideoRetouch, VideoTimeline, Vignette, Vortex, Warper
+- **Firebase** (8): FBLPromises, Firebase, FirebaseCore, FirebaseCoreInternal, FirebaseInstallations, FirebaseRemoteConfig, GoogleDataTransport, nanopb
+- **Analytics** (6): Adjust, Amplitude, FacebookAEM, FacebookCore, FBAEMKit 1.0, FBSDKCoreKit 1.0
 - **Sign-in and auth** (4): AppAuth, GoogleSignIn, GTMAppAuth, GTMSessionFetcher
-- **Analytics** (3): Adjust, Amplitude, Facebook SDK
 - **UI and rendering** (2): Lottie, SnapKit
+- **Social** (2): FacebookShare, FBSDKShareKit 1.0
 - **Storage** (2): GRDB, ZIPFoundation
 - **Ads** (1): Google Mobile Ads (AdMob)
 - **Crash and performance** (1): FirebaseCrashlytics
 - **Serialization** (1): SwiftProtobuf
 
 <details>
-<summary>Frameworks (26)</summary>
+<summary>Frameworks (27)</summary>
 
-AdSupport (IDFA), App Tracking Transparency (ATT), Authentication Services (Sign in with Apple / passkeys), AVFoundation (audio/video), AVKit, Combine (reactive), Core Image, Core ML, CryptoKit, Local Authentication (Face ID / Touch ID), Media Player, MessageUI (mail / SMS compose), MetalKit, MetricKit (diagnostics), MusicKit, Network.framework, Photos, PhotosUI, SafariServices, SpriteKit, StoreKit (in-app purchase), SwiftUI, UIKit, User Notifications, Vision, WidgetKit (widgets)
+AdSupport (IDFA), App Tracking Transparency (ATT), Authentication Services (Sign in with Apple / passkeys), AVFoundation (audio/video), AVKit, Combine (reactive), Core Image, Core ML, CryptoKit, DeviceCheck / App Attest, Local Authentication (Face ID / Touch ID), Media Player, MessageUI (mail / SMS compose), MetalKit, MetricKit (diagnostics), MusicKit, Network.framework, Photos, PhotosUI, SafariServices, SpriteKit, StoreKit (in-app purchase), SwiftUI, UIKit, User Notifications, Vision, WidgetKit (widgets)
 
 </details>
 
@@ -58,7 +59,12 @@ App Groups, Associated Domains (Universal Links), Keychain Sharing, Push Notific
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 9.0.0 | 2026-11-15 | 2026-11-12 | 73 | +8 / −3 | Yes | Yes | [9.0.0.json](9.0.0.json) |
 | 8.13.0 | 2026-10-24 | 2026-09-29 | 68 |  | Yes | Yes | [8.13.0.json](8.13.0.json) |
+
+### SDK changes between versions
+
+- 8.13.0 → 9.0.0: added FacebookAEM, FacebookCore, FacebookShare, FBAEMKit, FBSDKCoreKit, FBSDKShareKit, PhotoEditingSceneCore, PhotoEditingSceneMetal; removed Facebook SDK, PhotoEditingScene, Promises
 
 ---
 

@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "8.13.0",
+  "version": "9.0.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-10-24T21:45:17Z",
-    "store_first_seen_at": "2026-10-25T00:39:31Z",
-    "store_updated_at": "2026-09-29T05:57:05Z",
-    "exported_at": "2026-11-01T19:16:22Z"
+    "captured_at": "2026-11-15T08:21:23Z",
+    "store_first_seen_at": "2026-11-12T12:00:07Z",
+    "store_updated_at": "2026-11-12T07:00:33Z",
+    "exported_at": "2026-11-15T08:55:07Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 68,
+    "sdk_count": 73,
     "languages": [
       "C/C++",
       "Metal (shaders)",
@@ -53,6 +53,7 @@
       "Core Image",
       "Core ML",
       "CryptoKit",
+      "DeviceCheck / App Attest",
       "Local Authentication (Face ID / Touch ID)",
       "Media Player",
       "MessageUI (mail / SMS compose)",
@@ -93,8 +94,26 @@
         "confidence": "observed"
       },
       {
-        "name": "Facebook SDK",
+        "name": "FacebookAEM",
         "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FacebookCore",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBAEMKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKCoreKit",
+        "version": "1.0",
         "category": "analytics",
         "confidence": "observed"
       },
@@ -201,12 +220,6 @@
         "confidence": "observed"
       },
       {
-        "name": "Promises",
-        "version": null,
-        "category": "firebase",
-        "confidence": "observed"
-      },
-      {
         "name": "Lottie",
         "version": null,
         "category": "rendering",
@@ -216,6 +229,18 @@
         "name": "SnapKit",
         "version": null,
         "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "FacebookShare",
+        "version": null,
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKShareKit",
+        "version": "1.0",
+        "category": "social",
         "confidence": "observed"
       },
       {
@@ -381,7 +406,13 @@
         "confidence": "observed"
       },
       {
-        "name": "PhotoEditingScene",
+        "name": "PhotoEditingSceneCore",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PhotoEditingSceneMetal",
         "version": null,
         "category": "other",
         "confidence": "observed"
@@ -493,8 +524,8 @@
       "min_os": "18.0",
       "min_sdk": null,
       "target_sdk": null,
-      "build_sdk": "iphoneos26.2",
-      "xcode": "26.2",
+      "build_sdk": "iphoneos27.0",
+      "xcode": "27.0",
       "device_families": [
         "iPhone"
       ],
@@ -509,9 +540,10 @@
       "Sign in with Apple"
     ],
     "privacy": {
-      "declares_tracking": false,
-      "tracking_domain_count": 0,
+      "declares_tracking": true,
+      "tracking_domain_count": 17,
       "collected_data_types": [
+        "AdvertisingData",
         "CoarseLocation",
         "CrashData",
         "CustomerSupport",
@@ -521,8 +553,11 @@
         "OtherDataTypes",
         "OtherDiagnosticData",
         "OtherUsageData",
+        "OtherUserContent",
+        "PaymentInfo",
         "PerformanceData",
         "PhoneNumber",
+        "PhotosorVideos",
         "ProductInteraction",
         "PurchaseHistory",
         "UserID"

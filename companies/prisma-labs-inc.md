@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **1** versions · **68** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **2** versions · **73** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/prisma-labs-inc/lensa-ai/README.md"><img src="../assets/icons/ios/1436732536.png" width="56" height="56" alt="Lensa AI icon"></a><br><a href="../apps/ios/prisma-labs-inc/lensa-ai/README.md"><sub><b>Lensa AI</b></sub></a><br><sub>iOS · 68 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/prisma-labs-inc/lensa-ai/README.md"><img src="../assets/icons/ios/1436732536.png" width="56" height="56" alt="Lensa AI icon"></a><br><a href="../apps/ios/prisma-labs-inc/lensa-ai/README.md"><sub><b>Lensa AI</b></sub></a><br><sub>iOS · 73 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1436732536.png" width="20" height="20" alt="Lensa AI icon"> | [Lensa AI: Photo Editor](../apps/ios/prisma-labs-inc/lensa-ai/README.md) | iOS | 1 | 8.13.0 | 2026-10-24 | 68 | Yes |
+| <img src="../assets/icons/ios/1436732536.png" width="20" height="20" alt="Lensa AI icon"> | [Lensa AI: Photo Editor](../apps/ios/prisma-labs-inc/lensa-ai/README.md) | iOS | 2 | 9.0.0 | 2026-11-15 | 73 | Yes |
 
 ## SDKs by category
 
