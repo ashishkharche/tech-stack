@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "5.20.5",
+  "version": "5.21.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-02T08:53:53Z",
-    "store_first_seen_at": "2026-11-03T00:00:12Z",
-    "store_updated_at": "2026-11-01T09:04:06Z",
-    "exported_at": "2026-11-12T00:31:40Z"
+    "captured_at": "2026-11-15T16:22:18Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-15T16:56:26Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 53,
+    "sdk_count": 55,
     "languages": [
       "C/C++",
       "Objective-C",
@@ -83,6 +83,12 @@
       {
         "name": "BrazeKit",
         "version": "11.4.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "ConvivaSDK",
+        "version": "4.4.1",
         "category": "analytics",
         "confidence": "observed"
       },
@@ -237,6 +243,12 @@
         "confidence": "observed"
       },
       {
+        "name": "ConvivaAVFoundation",
+        "version": "4.4.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
         "name": "CoreGraph",
         "version": "1.0",
         "category": "other",
@@ -256,7 +268,7 @@
       },
       {
         "name": "DominguezCore",
-        "version": "1.0",
+        "version": null,
         "category": "other",
         "confidence": "observed"
       },
@@ -430,6 +442,7 @@
         "CrashData",
         "DeviceID",
         "OtherDiagnosticData",
+        "OtherUsageData",
         "OtherUserContent",
         "PerformanceData",
         "ProductInteraction",

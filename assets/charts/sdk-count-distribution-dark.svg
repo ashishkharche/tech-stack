@@ -15,9 +15,9 @@
 <rect x="158.4" y="54.0" width="46.0" height="109.4" rx="2" fill="#3DDC84"/>
 <text x="181.4" y="48.0" font-size="12" text-anchor="middle" fill="#A9B2BC">154</text>
 <text x="181.4" y="228.0" font-size="12" text-anchor="middle" fill="#F1F6F3">20–39</text>
-<rect x="272.7" y="177.6" width="46.0" height="32.4" rx="2" fill="#0091FF"/>
-<rect x="272.7" y="146.2" width="46.0" height="29.4" rx="2" fill="#3DDC84"/>
-<text x="295.7" y="140.2" font-size="12" text-anchor="middle" fill="#A9B2BC">63</text>
+<rect x="272.7" y="176.6" width="46.0" height="33.4" rx="2" fill="#0091FF"/>
+<rect x="272.7" y="145.2" width="46.0" height="29.4" rx="2" fill="#3DDC84"/>
+<text x="295.7" y="139.2" font-size="12" text-anchor="middle" fill="#A9B2BC">64</text>
 <text x="295.7" y="228.0" font-size="12" text-anchor="middle" fill="#F1F6F3">40–59</text>
 <rect x="387.0" y="193.8" width="46.0" height="16.2" rx="2" fill="#0091FF"/>
 <text x="410.0" y="187.8" font-size="12" text-anchor="middle" fill="#A9B2BC">16</text>
@@ -25,8 +25,8 @@
 <rect x="501.3" y="193.8" width="46.0" height="16.2" rx="2" fill="#0091FF"/>
 <text x="524.3" y="187.8" font-size="12" text-anchor="middle" fill="#A9B2BC">16</text>
 <text x="524.3" y="228.0" font-size="12" text-anchor="middle" fill="#F1F6F3">80–99</text>
-<rect x="615.6" y="200.9" width="46.0" height="9.1" rx="2" fill="#0091FF"/>
-<text x="638.6" y="194.9" font-size="12" text-anchor="middle" fill="#A9B2BC">9</text>
+<rect x="615.6" y="199.9" width="46.0" height="10.1" rx="2" fill="#0091FF"/>
+<text x="638.6" y="193.9" font-size="12" text-anchor="middle" fill="#A9B2BC">10</text>
 <text x="638.6" y="228.0" font-size="12" text-anchor="middle" fill="#F1F6F3">100–149</text>
 <rect x="729.9" y="203.9" width="46.0" height="6.1" rx="2" fill="#0091FF"/>
 <text x="752.9" y="197.9" font-size="12" text-anchor="middle" fill="#A9B2BC">6</text>

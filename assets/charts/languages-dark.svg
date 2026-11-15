@@ -8,43 +8,43 @@
 <text x="259.63999999999993" y="18" font-size="13" fill="#A9B2BC">Android</text>
 <text x="169.09999999999994" y="48" font-size="13" text-anchor="end" fill="#F1F6F3">Objective-C</text>
 <rect x="181.1" y="34" width="568.9" height="18" rx="3" fill="#0091FF"/>
-<text x="758.0" y="48" font-size="13" fill="#A9B2BC">184</text>
+<text x="758.0" y="48" font-size="13" fill="#A9B2BC">186</text>
 <text x="169.09999999999994" y="76" font-size="13" text-anchor="end" fill="#F1F6F3">Swift</text>
 <rect x="181.1" y="62" width="568.9" height="18" rx="3" fill="#0091FF"/>
-<text x="758.0" y="76" font-size="13" fill="#A9B2BC">184</text>
+<text x="758.0" y="76" font-size="13" fill="#A9B2BC">186</text>
 <text x="169.09999999999994" y="104" font-size="13" text-anchor="end" fill="#F1F6F3">C/C++</text>
 <rect x="181.1" y="90" width="565.8" height="18" rx="3" fill="#0091FF"/>
-<text x="754.9" y="104" font-size="13" fill="#A9B2BC">183</text>
+<text x="754.9" y="104" font-size="13" fill="#A9B2BC">185</text>
 <text x="169.09999999999994" y="132" font-size="13" text-anchor="end" fill="#F1F6F3">Java</text>
-<rect x="181.1" y="118" width="541.1" height="18" rx="3" fill="#3DDC84"/>
-<text x="730.2" y="132" font-size="13" fill="#A9B2BC">175</text>
+<rect x="181.1" y="118" width="535.3" height="18" rx="3" fill="#3DDC84"/>
+<text x="724.4" y="132" font-size="13" fill="#A9B2BC">175</text>
 <text x="169.09999999999994" y="160" font-size="13" text-anchor="end" fill="#F1F6F3">C/C++ (native)</text>
-<rect x="181.1" y="146" width="525.6" height="18" rx="3" fill="#3DDC84"/>
-<text x="714.7" y="160" font-size="13" fill="#A9B2BC">170</text>
+<rect x="181.1" y="146" width="520.0" height="18" rx="3" fill="#3DDC84"/>
+<text x="709.1" y="160" font-size="13" fill="#A9B2BC">170</text>
 <text x="169.09999999999994" y="188" font-size="13" text-anchor="end" fill="#F1F6F3">Kotlin</text>
-<rect x="181.1" y="174" width="519.4" height="18" rx="3" fill="#3DDC84"/>
-<text x="708.5" y="188" font-size="13" fill="#A9B2BC">168</text>
+<rect x="181.1" y="174" width="513.8" height="18" rx="3" fill="#3DDC84"/>
+<text x="702.9" y="188" font-size="13" fill="#A9B2BC">168</text>
 <text x="169.09999999999994" y="216" font-size="13" text-anchor="end" fill="#F1F6F3">Metal (shaders)</text>
-<rect x="181.1" y="202" width="355.6" height="18" rx="3" fill="#0091FF"/>
-<text x="544.7" y="216" font-size="13" fill="#A9B2BC">115</text>
+<rect x="181.1" y="202" width="354.8" height="18" rx="3" fill="#0091FF"/>
+<text x="543.9" y="216" font-size="13" fill="#A9B2BC">116</text>
 <text x="169.09999999999994" y="244" font-size="13" text-anchor="end" fill="#F1F6F3">React Native / JavaScript</text>
-<rect x="181.1" y="230" width="102.0" height="18" rx="3" fill="#0091FF"/>
-<rect x="285.1" y="230" width="100.0" height="18" rx="3" fill="#3DDC84"/>
-<text x="393.2" y="244" font-size="13" fill="#A9B2BC">66</text>
+<rect x="181.1" y="230" width="100.9" height="18" rx="3" fill="#0091FF"/>
+<rect x="284.0" y="230" width="98.9" height="18" rx="3" fill="#3DDC84"/>
+<text x="391.0" y="244" font-size="13" fill="#A9B2BC">66</text>
 <text x="169.09999999999994" y="272" font-size="13" text-anchor="end" fill="#F1F6F3">Flutter / Dart</text>
-<rect x="181.1" y="258" width="27.8" height="18" rx="3" fill="#0091FF"/>
-<rect x="210.9" y="258" width="25.8" height="18" rx="3" fill="#3DDC84"/>
-<text x="244.8" y="272" font-size="13" fill="#A9B2BC">18</text>
+<rect x="181.1" y="258" width="27.5" height="18" rx="3" fill="#0091FF"/>
+<rect x="210.6" y="258" width="25.5" height="18" rx="3" fill="#3DDC84"/>
+<text x="244.2" y="272" font-size="13" fill="#A9B2BC">18</text>
 <text x="169.09999999999994" y="300" font-size="13" text-anchor="end" fill="#F1F6F3">Unity (C# / IL2CPP)</text>
-<rect x="181.1" y="286" width="9.3" height="18" rx="3" fill="#0091FF"/>
-<rect x="192.4" y="286" width="22.7" height="18" rx="3" fill="#3DDC84"/>
-<text x="223.1" y="300" font-size="13" fill="#A9B2BC">11</text>
+<rect x="181.1" y="286" width="9.2" height="18" rx="3" fill="#0091FF"/>
+<rect x="192.3" y="286" width="22.5" height="18" rx="3" fill="#3DDC84"/>
+<text x="222.7" y="300" font-size="13" fill="#A9B2BC">11</text>
 <text x="169.09999999999994" y="328" font-size="13" text-anchor="end" fill="#F1F6F3">Kotlin Multiplatform</text>
-<rect x="181.1" y="314" width="24.7" height="18" rx="3" fill="#0091FF"/>
-<text x="213.8" y="328" font-size="13" fill="#A9B2BC">8</text>
+<rect x="181.1" y="314" width="27.5" height="18" rx="3" fill="#0091FF"/>
+<text x="216.6" y="328" font-size="13" fill="#A9B2BC">9</text>
 <text x="169.09999999999994" y="356" font-size="13" text-anchor="end" fill="#F1F6F3">Cordova (web)</text>
-<rect x="181.1" y="342" width="9.3" height="18" rx="3" fill="#3DDC84"/>
-<text x="198.4" y="356" font-size="13" fill="#A9B2BC">3</text>
+<rect x="181.1" y="342" width="9.2" height="18" rx="3" fill="#3DDC84"/>
+<text x="198.3" y="356" font-size="13" fill="#A9B2BC">3</text>
 <text x="169.09999999999994" y="384" font-size="13" text-anchor="end" fill="#F1F6F3">Capacitor (web)</text>
 <rect x="181.1" y="370" width="3.1" height="18" rx="3" fill="#3DDC84"/>
 <text x="192.2" y="384" font-size="13" fill="#A9B2BC">1</text>
