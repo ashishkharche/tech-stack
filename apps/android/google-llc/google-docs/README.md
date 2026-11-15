@@ -13,8 +13,8 @@
 | Company | [Google LLC](../../../../companies/google-llc.md) |
 | Store id | `com.google.android.apps.docs.editors.docs` |
 | Bundle / package id | `com.google.android.apps.docs.editors.docs` |
-| Latest version | 1.26.431.04.90 (analysed 2026-11-02) |
-| Versions tracked | 2 |
+| Latest version | 1.26.461.00.90 (analysed 2026-11-15) |
+| Versions tracked | 3 |
 | SDKs in latest version | 19 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
@@ -51,6 +51,7 @@ Contacts (read), Foreground service, Microphone, Notifications, Storage (write)
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1.26.461.00.90 | 2026-11-15 |  | 19 | +0 / −0 | No | No | [1.26.461.00.90.json](1.26.461.00.90.json) |
 | 1.26.431.04.90 | 2026-11-02 |  | 19 | +3 / −1 | No | No | [1.26.431.04.90.json](1.26.431.04.90.json) |
 | 1.26.222.01.90 | 2026-06-19 |  | 17 |  | No | No | [1.26.222.01.90.json](1.26.222.01.90.json) |
 

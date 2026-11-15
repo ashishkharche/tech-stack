@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "はま楽",
+    "slug": "app",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1630058362",
+    "bundle_id": "jp.co.hamasushi.entame",
+    "active": false,
+    "company": {
+      "name": "HAMAZUSHI CO., LTD.",
+      "slug": "hamazushi-co-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.12",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-15T04:31:06Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-15T04:57:45Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 17,
+    "languages": [
+      "C/C++",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "MessageUI (mail / SMS compose)",
+      "Photos",
+      "SafariServices",
+      "UIKit",
+      "User Notifications"
+    ],
+    "ui_graphics": [
+      "UIKit"
+    ],
+    "build_system": [
+      "Unknown / Xcode native"
+    ],
+    "sdks": [
+      {
+        "name": "GMSCore",
+        "version": "6.51.0",
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMaps",
+        "version": "7.4.0",
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Capacitor",
+        "version": "5.6.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapacitorApp",
+        "version": "5.0.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapacitorAppLauncher",
+        "version": "5.0.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapacitorBrowser",
+        "version": "5.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapacitorDevice",
+        "version": "5.0.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapacitorDialog",
+        "version": "5.0.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapacitorFilesystem",
+        "version": "5.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapacitorGeolocation",
+        "version": "5.0.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapacitorHaptics",
+        "version": "5.0.6",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapacitorKeyboard",
+        "version": "5.0.7",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapacitorPushNotifications",
+        "version": "5.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CapacitorStorage",
+        "version": "1.2.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Cordova",
+        "version": "5.6.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "CordovaPlugins",
+        "version": "5.6.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lodash",
+        "version": null,
+        "category": "other",
+        "confidence": "inferred"
+      }
+    ],
+    "platform": {
+      "min_os": "13.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.0",
+      "xcode": "26.0",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 0
+    },
+    "capabilities": [
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CrashData",
+        "OtherUsageData",
+        "ProductInteraction"
+      ],
+      "required_reason_apis": [
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **1** versions · **20** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **2** versions · **19** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/dazz-pte-ltd/dazz-cam/README.md"><img src="../assets/icons/ios/1422471180.png" width="56" height="56" alt="Dazz Cam icon"></a><br><a href="../apps/ios/dazz-pte-ltd/dazz-cam/README.md"><sub><b>Dazz Cam</b></sub></a><br><sub>iOS · 20 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/ios/dazz-pte-ltd/dazz-cam/README.md"><img src="../assets/icons/ios/1422471180.png" width="56" height="56" alt="Dazz Cam icon"></a><br><a href="../apps/ios/dazz-pte-ltd/dazz-cam/README.md"><sub><b>Dazz Cam</b></sub></a><br><sub>iOS · 19 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1422471180.png" width="20" height="20" alt="Dazz Cam icon"> | [Dazz Cam - Vintage Camera](../apps/ios/dazz-pte-ltd/dazz-cam/README.md) | iOS | 1 | 2.17.7 | 2026-11-08 | 20 | No |
+| <img src="../assets/icons/ios/1422471180.png" width="20" height="20" alt="Dazz Cam icon"> | [Dazz Cam - Vintage Camera](../apps/ios/dazz-pte-ltd/dazz-cam/README.md) | iOS | 2 | 2.18 | 2026-11-15 | 19 | No |
 
 ## SDKs by category
 

@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2.17.7",
+  "version": "2.18",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-08T20:27:49Z",
+    "captured_at": "2026-11-15T04:20:28Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-12T00:31:40Z"
+    "exported_at": "2026-11-15T04:57:45Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 20,
+    "sdk_count": 19,
     "languages": [
       "C/C++",
       "Metal (shaders)",
@@ -52,7 +52,6 @@
       "Core Image",
       "Core Location",
       "Core Motion",
-      "MapKit",
       "Media Player",
       "MessageUI (mail / SMS compose)",
       "MetalKit",
@@ -78,13 +77,13 @@
     "sdks": [
       {
         "name": "FirebaseAnalytics",
-        "version": "12.19.0",
+        "version": "13.0.1",
         "category": "analytics",
         "confidence": "observed"
       },
       {
         "name": "GoogleAppMeasurement",
-        "version": "12.19.0",
+        "version": "13.0.1",
         "category": "analytics",
         "confidence": "observed"
       },
@@ -161,12 +160,6 @@
         "confidence": "observed"
       },
       {
-        "name": "Promises",
-        "version": null,
-        "category": "firebase",
-        "confidence": "observed"
-      },
-      {
         "name": "SnapKit",
         "version": null,
         "category": "rendering",
@@ -201,8 +194,8 @@
       "min_os": "16.0",
       "min_sdk": null,
       "target_sdk": null,
-      "build_sdk": "iphoneos27.0",
-      "xcode": "27.0",
+      "build_sdk": "iphoneos27.2",
+      "xcode": "27.2",
       "device_families": [
         "iPhone",
         "iPad"

@@ -13,13 +13,13 @@
 | Company | [DAZZ PTE. LTD.](../../../../companies/dazz-pte-ltd.md) |
 | Store id | `1422471180` |
 | Bundle / package id | `dazz.camera.vintagecamera` |
-| Latest version | 2.17.7 (analysed 2026-11-08) |
-| Versions tracked | 1 |
-| SDKs in latest version | 20 |
+| Latest version | 2.18 (analysed 2026-11-15) |
+| Versions tracked | 2 |
+| SDKs in latest version | 19 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
-| Minimum OS | iOS 16.0 (built with Xcode 27.0, SDK iphoneos27.0) |
+| Minimum OS | iOS 16.0 (built with Xcode 27.2, SDK iphoneos27.2) |
 | Devices / ABIs | iPhone, iPad |
 | Localisations | 16 |
 | Capabilities | 1 |
@@ -30,9 +30,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/dazz-pte-ltd/dazz-cam-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/dazz-pte-ltd/dazz-cam-light.svg"></picture>
 
-- **Firebase** (10): FBLPromises, Firebase, FirebaseCore, FirebaseCoreInternal, FirebaseInstallations, FirebaseRemoteConfig, GoogleDataTransport, GoogleUtilities, nanopb, Promises
+- **Firebase** (9): FBLPromises, Firebase, FirebaseCore, FirebaseCoreInternal, FirebaseInstallations, FirebaseRemoteConfig, GoogleDataTransport, GoogleUtilities, nanopb
 - **Other** (3): DeviceGuru, DZImageFilter 1.9.6, ZZCircleProgress
-- **Analytics** (2): FirebaseAnalytics 12.19.0, GoogleAppMeasurement 12.19.0
+- **Analytics** (2): FirebaseAnalytics 13.0.1, GoogleAppMeasurement 13.0.1
 - **Ads** (1): Google Mobile Ads (AdMob)
 - **Crash and performance** (1): FirebaseCrashlytics
 - **Logging and diagnostics** (1): CocoaLumberjack
@@ -40,9 +40,9 @@
 - **Storage** (1): ZIPFoundation
 
 <details>
-<summary>Frameworks (23)</summary>
+<summary>Frameworks (22)</summary>
 
-AdSupport (IDFA), App Intents, AVFoundation (audio/video), AVKit, Combine (reactive), Core Image, Core Location, Core Motion, MapKit, Media Player, MessageUI (mail / SMS compose), MetalKit, Network.framework, Photos, PhotosUI, SafariServices, SceneKit, SiriKit (Intents), StoreKit (in-app purchase), SwiftUI, UIKit, Vision, WidgetKit (widgets)
+AdSupport (IDFA), App Intents, AVFoundation (audio/video), AVKit, Combine (reactive), Core Image, Core Location, Core Motion, Media Player, MessageUI (mail / SMS compose), MetalKit, Network.framework, Photos, PhotosUI, SafariServices, SceneKit, SiriKit (Intents), StoreKit (in-app purchase), SwiftUI, UIKit, Vision, WidgetKit (widgets)
 
 </details>
 
@@ -57,7 +57,12 @@ App Groups
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2.18 | 2026-11-15 |  | 19 | +0 / −1 | Yes | Yes | [2.18.json](2.18.json) |
 | 2.17.7 | 2026-11-08 |  | 20 |  | Yes | Yes | [2.17.7.json](2.17.7.json) |
+
+### SDK changes between versions
+
+- 2.17.7 → 2.18: removed Promises
 
 ---
 

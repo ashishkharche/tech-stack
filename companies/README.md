@@ -2,12 +2,12 @@
 
 # Companies
 
-239 companies. Each name is the developer name on the store listing.
+240 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
 | <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 30 | 85 |
-| <img src="../assets/icons/android/com.google.android.gm.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/android/com.google.android.googlequicksearchbox.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/android/com.google.android.calendar.png" width="20" height="20" alt="Google Calendar icon"> <img src="../assets/icons/android/com.google.android.apps.dynamite.png" width="20" height="20" alt="Google Chat icon"> <img src="../assets/icons/android/com.android.chrome.png" width="20" height="20" alt="Google Chrome icon"> | [Google LLC](google-llc.md) | 21 | 0 | 21 | 27 | 41 |
+| <img src="../assets/icons/android/com.google.android.gm.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/android/com.google.android.googlequicksearchbox.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/android/com.google.android.calendar.png" width="20" height="20" alt="Google Calendar icon"> <img src="../assets/icons/android/com.google.android.apps.dynamite.png" width="20" height="20" alt="Google Chat icon"> <img src="../assets/icons/android/com.android.chrome.png" width="20" height="20" alt="Google Chrome icon"> | [Google LLC](google-llc.md) | 21 | 0 | 21 | 28 | 41 |
 | <img src="../assets/icons/android/com.azure.authenticator.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/983156458.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/345323231.png" width="20" height="20" alt="Microsoft Bing Search icon"> <img src="../assets/icons/android/com.microsoft.bingwebmastertools.twa.png" width="20" height="20" alt="Microsoft Bing Webmaster Tools icon"> <img src="../assets/icons/ios/541164041.png" width="20" height="20" alt="Microsoft Copilot icon"> | [Microsoft Corporation](microsoft-corporation.md) | 20 | 8 | 12 | 29 | 249 |
 | <img src="../assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/454638411.png" width="20" height="20" alt="Messenger icon"> <img src="../assets/icons/android/com.facebook.stella.png" width="20" height="20" alt="Meta AI icon"> <img src="../assets/icons/ios/1558240027.png" width="20" height="20" alt="Meta AI icon"> | [Meta Platforms, Inc.](meta-platforms-inc.md) | 6 | 3 | 3 | 12 | 46 |
 | <img src="../assets/icons/android/com.disney.disneyplus.png" width="20" height="20" alt="Disney+ icon"> <img src="../assets/icons/ios/1446075923.png" width="20" height="20" alt="Disney+ icon"> <img src="../assets/icons/android/com.espn.fantasy.lm.football.png" width="20" height="20" alt="ESPN Fantasy Sports icon"> <img src="../assets/icons/ios/317469184.png" width="20" height="20" alt="ESPN icon"> <img src="../assets/icons/android/com.hulu.plus.png" width="20" height="20" alt="Hulu icon"> | [Disney](disney.md) | 5 | 2 | 3 | 8 | 139 |
@@ -87,7 +87,7 @@
 | <img src="../assets/icons/ios/1625279562.png" width="20" height="20" alt="CouponBirds icon"> | [CouponBirds Inc](couponbirds-inc.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/android/com.curebase.walgreens.png" width="20" height="20" alt="Walgreens Clinical Trials icon"> | [Curebase](curebase.md) | 1 | 0 | 1 | 2 | 21 |
 | <img src="../assets/icons/android/com.cvshealth.specialtyrx.png" width="20" height="20" alt="CVS Specialty icon"> | [CVS Pharmacy](cvs-pharmacy.md) | 1 | 0 | 1 | 1 | 23 |
-| <img src="../assets/icons/ios/1422471180.png" width="20" height="20" alt="Dazz Cam icon"> | [DAZZ PTE. LTD.](dazz-pte-ltd.md) | 1 | 1 | 0 | 1 | 20 |
+| <img src="../assets/icons/ios/1422471180.png" width="20" height="20" alt="Dazz Cam icon"> | [DAZZ PTE. LTD.](dazz-pte-ltd.md) | 1 | 1 | 0 | 2 | 19 |
 | <img src="../assets/icons/ios/1510944943.png" width="20" height="20" alt="Cleanup icon"> | [DEEP FLOW SOFTWARE SERVICES](deep-flow-software-services.md) | 1 | 1 | 0 | 1 | 42 |
 | <img src="../assets/icons/android/com.deepseek.chat.png" width="20" height="20" alt="DeepSeek icon"> | [DeepSeek](deepseek.md) | 1 | 0 | 1 | 1 | 11 |
 | <img src="../assets/icons/ios/518684914.png" width="20" height="20" alt="Depop icon"> | [Depop Ltd](depop-ltd.md) | 1 | 1 | 0 | 1 | 344 |
@@ -111,6 +111,7 @@
 | <img src="../assets/icons/ios/647268330.png" width="20" height="20" alt="Grab icon"> | [Grab.com](grab-com.md) | 1 | 1 | 0 | 1 | 79 |
 | <img src="../assets/icons/ios/6739429409.png" width="20" height="20" alt="Granola icon"> | [Granola inc](granola-inc.md) | 1 | 1 | 0 | 1 | 31 |
 | <img src="../assets/icons/android/com.grubhub.android.png" width="20" height="20" alt="Grubhub icon"> | [Grubhub](grubhub.md) | 1 | 0 | 1 | 2 | 44 |
+| <img src="../assets/icons/ios/1630058362.png" width="20" height="20" alt="はま楽 icon"> | [HAMAZUSHI CO., LTD.](hamazushi-co-ltd.md) | 1 | 1 | 0 | 1 | 17 |
 | <img src="../assets/icons/android/com.ebookpdf.pdfreaderpro.allpdfviewer.png" width="20" height="20" alt="PDF Reader, Annotate on PDF icon"> | [HANLONG GROUP (HK) LIMITED](hanlong-group-hk-limited.md) | 1 | 0 | 1 | 1 | 15 |
 | <img src="../assets/icons/android/com.hilton.android.hhonors.png" width="20" height="20" alt="Hilton Honors icon"> | [Hilton](hilton.md) | 1 | 0 | 1 | 2 | 29 |
 | <img src="../assets/icons/android/com.hopper.mountainview.play.png" width="20" height="20" alt="Hopper icon"> | [Hopper Inc.](hopper-inc.md) | 1 | 0 | 1 | 1 | 36 |

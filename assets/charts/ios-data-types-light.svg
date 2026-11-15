@@ -6,14 +6,14 @@
 <rect x="147.0" y="10" width="603.0" height="18" rx="3" fill="#0088FF"/>
 <text x="758.0" y="24" font-size="13" fill="#4D5755">151</text>
 <text x="135.03999999999996" y="52" font-size="13" text-anchor="end" fill="#090A0B">CrashData</text>
-<rect x="147.0" y="38" width="571.0" height="18" rx="3" fill="#0088FF"/>
-<text x="726.1" y="52" font-size="13" fill="#4D5755">143</text>
+<rect x="147.0" y="38" width="575.0" height="18" rx="3" fill="#0088FF"/>
+<text x="730.0" y="52" font-size="13" fill="#4D5755">144</text>
 <text x="135.03999999999996" y="80" font-size="13" text-anchor="end" fill="#090A0B">OtherDiagnosticData</text>
 <rect x="147.0" y="66" width="571.0" height="18" rx="3" fill="#0088FF"/>
 <text x="726.1" y="80" font-size="13" fill="#4D5755">143</text>
 <text x="135.03999999999996" y="108" font-size="13" text-anchor="end" fill="#090A0B">ProductInteraction</text>
-<rect x="147.0" y="94" width="559.0" height="18" rx="3" fill="#0088FF"/>
-<text x="714.1" y="108" font-size="13" fill="#4D5755">140</text>
+<rect x="147.0" y="94" width="563.0" height="18" rx="3" fill="#0088FF"/>
+<text x="718.1" y="108" font-size="13" fill="#4D5755">141</text>
 <text x="135.03999999999996" y="136" font-size="13" text-anchor="end" fill="#090A0B">UserID</text>
 <rect x="147.0" y="122" width="535.1" height="18" rx="3" fill="#0088FF"/>
 <text x="690.1" y="136" font-size="13" fill="#4D5755">134</text>
@@ -36,8 +36,8 @@
 <rect x="147.0" y="290" width="367.4" height="18" rx="3" fill="#0088FF"/>
 <text x="522.4" y="304" font-size="13" fill="#4D5755">92</text>
 <text x="135.03999999999996" y="332" font-size="13" text-anchor="end" fill="#090A0B">OtherUsageData</text>
-<rect x="147.0" y="318" width="359.4" height="18" rx="3" fill="#0088FF"/>
-<text x="514.4" y="332" font-size="13" fill="#4D5755">90</text>
+<rect x="147.0" y="318" width="363.4" height="18" rx="3" fill="#0088FF"/>
+<text x="518.4" y="332" font-size="13" fill="#4D5755">91</text>
 <text x="135.03999999999996" y="360" font-size="13" text-anchor="end" fill="#090A0B">AdvertisingData</text>
 <rect x="147.0" y="346" width="311.5" height="18" rx="3" fill="#0088FF"/>
 <text x="466.5" y="360" font-size="13" fill="#4D5755">78</text>
