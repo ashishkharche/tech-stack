@@ -13,8 +13,8 @@
 | Company | [Google LLC](../../../../companies/google-llc.md) |
 | Store id | `com.google.android.apps.photos` |
 | Bundle / package id | `com.google.android.apps.photos` |
-| Latest version | 7.99.0.1007655401 (analysed 2026-11-02) |
-| Versions tracked | 2 |
+| Latest version | 8.1.0.1020990585 (analysed 2026-11-15) |
+| Versions tracked | 3 |
 | SDKs in latest version | 24 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
@@ -53,6 +53,7 @@ Advertising ID, Approximate location, Bluetooth, Calendar (read), Calendar (writ
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 8.1.0.1020990585 | 2026-11-15 |  | 24 | +0 / −0 | No | No | [8.1.0.1020990585.json](8.1.0.1020990585.json) |
 | 7.99.0.1007655401 | 2026-11-02 |  | 24 | +2 / −0 | No | No | [7.99.0.1007655401.json](7.99.0.1007655401.json) |
 | 7.79.0.924379438 | 2026-06-19 |  | 22 |  | No | No | [7.79.0.924379438.json](7.79.0.924379438.json) |
 

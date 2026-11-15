@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">361 apps · 473 versions · 243 companies · 4,541 SDKs</p>
+<p align="center">363 apps · 476 versions · 245 companies · 4,555 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 183 of 186 iOS apps, and Jetpack Compose is in 135 of 175 Android apps. 88 apps also use a cross-platform runtime.
+SwiftUI is in 185 of 188 iOS apps, and Jetpack Compose is in 135 of 175 Android apps. 89 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 183 of 186 iOS apps, and Jetpack Compose is in 135 of 175 Android 
 
 ## What most apps ship
 
-Firebase is in 237 of 361 apps. 78% of apps ship at least one analytics SDK.
+Firebase is in 239 of 363 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -43,7 +43,7 @@ Firebase is in 237 of 361 apps. 78% of apps ship at least one analytics SDK.
 
 ## How big an SDK list gets
 
-The median app ships 36 SDKs on iOS and 29 on Android. Whatnot (iOS) has the most, at 349.
+The median app ships 36.5 SDKs on iOS and 29 on Android. Whatnot (iOS) has the most, at 349.
 
 **Apps by number of SDKs**
 
@@ -75,7 +75,7 @@ The median app ships 36 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## How apps change between versions
 
-61 of 112 updates changed the SDK list. Together they added 174 SDKs and removed 255.
+61 of 113 updates changed the SDK list. Together they added 174 SDKs and removed 255.
 
 **SDKs added and removed between versions**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 195 of 243 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 197 of 245 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,14 +129,14 @@ Google and Google LLC share the most apps, with 21 each. 195 of 243 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/meitu-technology-co-ltd/meitu/README.md"><img src="assets/icons/ios/416048305.png" width="56" height="56" alt="Meitu icon"></a><br><a href="apps/ios/meitu-technology-co-ltd/meitu/README.md"><sub><b>Meitu</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gymshark-ltd/gymshark/README.md"><img src="assets/icons/ios/1139155460.png" width="56" height="56" alt="Gymshark icon"></a><br><a href="apps/ios/gymshark-ltd/gymshark/README.md"><sub><b>Gymshark</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/disney/disney/README.md"><img src="assets/icons/ios/1446075923.png" width="56" height="56" alt="Disney+ icon"></a><br><a href="apps/ios/disney/disney/README.md"><sub><b>Disney+</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ticketmaster/ticketmaster-buy-sell-tickets/README.md"><img src="assets/icons/ios/500003565.png" width="56" height="56" alt="Ticketmaster－Buy, Sell Tickets icon"></a><br><a href="apps/ios/ticketmaster/ticketmaster-buy-sell-tickets/README.md"><sub><b>Ticketmaster－Buy, Sell Tickets</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/prisma-labs-inc/lensa-ai/README.md"><img src="assets/icons/ios/1436732536.png" width="56" height="56" alt="Lensa AI icon"></a><br><a href="apps/ios/prisma-labs-inc/lensa-ai/README.md"><sub><b>Lensa AI</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/google-llc/google-docs/README.md"><img src="assets/icons/android/com.google.android.apps.docs.editors.docs.png" width="56" height="56" alt="Google Docs icon"></a><br><a href="apps/android/google-llc/google-docs/README.md"><sub><b>Google Docs</b></sub></a><br><sub>Android · 2026-11-15</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/hamazushi-co-ltd/app/README.md"><img src="assets/icons/ios/1630058362.png" width="56" height="56" alt="はま楽 icon"></a><br><a href="apps/ios/hamazushi-co-ltd/app/README.md"><sub><b>はま楽</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/dazz-pte-ltd/dazz-cam/README.md"><img src="assets/icons/ios/1422471180.png" width="56" height="56" alt="Dazz Cam icon"></a><br><a href="apps/ios/dazz-pte-ltd/dazz-cam/README.md"><sub><b>Dazz Cam</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/shopify-inc/shop/README.md"><img src="assets/icons/android/com.shopify.arrive.png" width="56" height="56" alt="Shop icon"></a><br><a href="apps/android/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>Android · 2026-11-14</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/mtn-nigeria/mymtn-ng/README.md"><img src="assets/icons/ios/1570860098.png" width="56" height="56" alt="myMTN NG icon"></a><br><a href="apps/ios/mtn-nigeria/mymtn-ng/README.md"><sub><b>myMTN NG</b></sub></a><br><sub>iOS · 2026-11-14</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/stichting-zevenheuvelenloop/stichting-zevenheuvelenloop/README.md"><img src="assets/icons/ios/6741806791.png" width="56" height="56" alt="Stichting Zevenheuvelenloop icon"></a><br><a href="apps/ios/stichting-zevenheuvelenloop/stichting-zevenheuvelenloop/README.md"><sub><b>Stichting Zevenheuvelenloop</b></sub></a><br><sub>iOS · 2026-11-14</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><img src="assets/icons/ios/1386412985.png" width="56" height="56" alt="WhatsApp Business icon"></a><br><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><sub><b>WhatsApp Business</b></sub></a><br><sub>iOS · 2026-11-14</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/google-llc/google-photos/README.md"><img src="assets/icons/android/com.google.android.apps.photos.png" width="56" height="56" alt="Google Photos icon"></a><br><a href="apps/android/google-llc/google-photos/README.md"><sub><b>Google Photos</b></sub></a><br><sub>Android · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ys-culture-limited/coindrama/README.md"><img src="assets/icons/ios/6801006288.png" width="56" height="56" alt="CoinDrama icon"></a><br><a href="apps/ios/ys-culture-limited/coindrama/README.md"><sub><b>CoinDrama</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/noon-e-commerce/dubai-mall-online/README.md"><img src="assets/icons/ios/6759314623.png" width="56" height="56" alt="Dubai Mall Online icon"></a><br><a href="apps/ios/noon-e-commerce/dubai-mall-online/README.md"><sub><b>Dubai Mall Online</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/meitu-technology-co-ltd/meitu/README.md"><img src="assets/icons/ios/416048305.png" width="56" height="56" alt="Meitu icon"></a><br><a href="apps/ios/meitu-technology-co-ltd/meitu/README.md"><sub><b>Meitu</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gymshark-ltd/gymshark/README.md"><img src="assets/icons/ios/1139155460.png" width="56" height="56" alt="Gymshark icon"></a><br><a href="apps/ios/gymshark-ltd/gymshark/README.md"><sub><b>Gymshark</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/disney/disney/README.md"><img src="assets/icons/ios/1446075923.png" width="56" height="56" alt="Disney+ icon"></a><br><a href="apps/ios/disney/disney/README.md"><sub><b>Disney+</b></sub></a><br><sub>iOS · 2026-11-15</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/ios/ticketmaster/ticketmaster-buy-sell-tickets/README.md"><img src="assets/icons/ios/500003565.png" width="56" height="56" alt="Ticketmaster－Buy, Sell Tickets icon"></a><br><a href="apps/ios/ticketmaster/ticketmaster-buy-sell-tickets/README.md"><sub><b>Ticketmaster－Buy, Sell Tickets</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/prisma-labs-inc/lensa-ai/README.md"><img src="assets/icons/ios/1436732536.png" width="56" height="56" alt="Lensa AI icon"></a><br><a href="apps/ios/prisma-labs-inc/lensa-ai/README.md"><sub><b>Lensa AI</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/google-llc/google-docs/README.md"><img src="assets/icons/android/com.google.android.apps.docs.editors.docs.png" width="56" height="56" alt="Google Docs icon"></a><br><a href="apps/android/google-llc/google-docs/README.md"><sub><b>Google Docs</b></sub></a><br><sub>Android · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/hamazushi-co-ltd/app/README.md"><img src="assets/icons/ios/1630058362.png" width="56" height="56" alt="はま楽 icon"></a><br><a href="apps/ios/hamazushi-co-ltd/app/README.md"><sub><b>はま楽</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/dazz-pte-ltd/dazz-cam/README.md"><img src="assets/icons/ios/1422471180.png" width="56" height="56" alt="Dazz Cam icon"></a><br><a href="apps/ios/dazz-pte-ltd/dazz-cam/README.md"><sub><b>Dazz Cam</b></sub></a><br><sub>iOS · 2026-11-15</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/shopify-inc/shop/README.md"><img src="assets/icons/android/com.shopify.arrive.png" width="56" height="56" alt="Shop icon"></a><br><a href="apps/android/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>Android · 2026-11-14</sub></td></tr>
 </table>
 
 ### All apps
 
 <details>
-<summary>iOS (186 apps)</summary>
+<summary>iOS (188 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -162,6 +162,7 @@ Google and Google LLC share the most apps, with 21 each. 195 of 243 companies ha
 | <img src="assets/icons/ios/6473753684.png" width="20" height="20" alt="Claude by Anthropic icon"> | [Claude by Anthropic](apps/ios/anthropic-pbc/claude/README.md) | [Anthropic PBC](companies/anthropic-pbc.md) | 1.261021.20 | 43 |
 | <img src="assets/icons/ios/1510944943.png" width="20" height="20" alt="Cleanup icon"> | [Cleanup: Phone Storage Cleaner](apps/ios/deep-flow-software-services/cleanup/README.md) | [DEEP FLOW SOFTWARE SERVICES](companies/deep-flow-software-services.md) | 6.25.1 | 42 |
 | <img src="assets/icons/ios/1503133294.png" width="20" height="20" alt="Clubhouse icon"> | [Clubhouse](apps/ios/alpha-exploration-co/clubhouse/README.md) | [Alpha Exploration Co.](companies/alpha-exploration-co.md) | 26.10.29 | 32 |
+| <img src="assets/icons/ios/6801006288.png" width="20" height="20" alt="CoinDrama icon"> | [CoinDrama](apps/ios/ys-culture-limited/coindrama/README.md) | [YS Culture Limited](companies/ys-culture-limited.md) | 1.0.5 | 84 |
 | <img src="assets/icons/ios/1625279562.png" width="20" height="20" alt="CouponBirds icon"> | [CouponBirds: Deals & Vouchers](apps/ios/couponbirds-inc/couponbirds/README.md) | [CouponBirds Inc](companies/couponbirds-inc.md) | 1.11.14 | 38 |
 | <img src="assets/icons/ios/329913454.png" width="20" height="20" alt="Crunchyroll icon"> | [Crunchyroll](apps/ios/crunchyroll-llc/crunchyroll/README.md) | [Crunchyroll, LLC](companies/crunchyroll-llc.md) | 4.109.3 | 33 |
 | <img src="assets/icons/ios/6752485055.png" width="20" height="20" alt="DARB icon"> | [DARB - Urban mobility](apps/ios/q-mobility/darb/README.md) | [Q Mobility](companies/q-mobility.md) | 1.3.0 | 43 |
@@ -175,6 +176,7 @@ Google and Google LLC share the most apps, with 21 each. 195 of 243 companies ha
 | <img src="assets/icons/ios/6670430706.png" width="20" height="20" alt="DramaWave icon"> | [DramaWave - Dramas & Reels](apps/ios/skywork-ai-pte-ltd/dramawave/README.md) | [SKYWORK AI PTE LTD](companies/skywork-ai-pte-ltd.md) | 2.0.30 | 93 |
 | <img src="assets/icons/ios/932002377.png" width="20" height="20" alt="drawnames icon"> | [drawnames \| Secret Santa app](apps/ios/meetrix-online/drawnames-secret-santa-app/README.md) | [Meetrix Online](companies/meetrix-online.md) | 1.81.13 | 37 |
 | <img src="assets/icons/ios/327630330.png" width="20" height="20" alt="Dropbox icon"> | [Dropbox: Cloud Storage Backup](apps/ios/dropbox-inc/dropbox/README.md) | [Dropbox, Inc.](companies/dropbox-inc.md) | 476.2 | 19 |
+| <img src="assets/icons/ios/6759314623.png" width="20" height="20" alt="Dubai Mall Online icon"> | [Dubai Mall Online](apps/ios/noon-e-commerce/dubai-mall-online/README.md) | [noon E Commerce](companies/noon-e-commerce.md) | 1.0.4 | 40 |
 | <img src="assets/icons/ios/570060128.png" width="20" height="20" alt="Duolingo icon"> | [Duolingo: Learn Languages](apps/ios/duolingo/duolingo/README.md) | [Duolingo](companies/duolingo.md) | 7.145.1 | 87 |
 | <img src="assets/icons/ios/6738967378.png" width="20" height="20" alt="Edits icon"> | [Edits: Video Editor](apps/ios/instagram-inc/edits/README.md) | [Instagram, Inc.](companies/instagram-inc.md) | 452.1.0 | 6 |
 | <img src="assets/icons/ios/317469184.png" width="20" height="20" alt="ESPN icon"> | [ESPN: Live Sports & Scores](apps/ios/disney/espn/README.md) | [Disney](companies/disney.md) | 8.19.0 | 54 |
@@ -391,7 +393,7 @@ Google and Google LLC share the most apps, with 21 each. 195 of 243 companies ha
 | <img src="assets/icons/android/com.google.android.apps.maps.png" width="20" height="20" alt="Google Maps icon"> | [Google Maps](apps/android/google-llc/google-maps/README.md) | [Google LLC](companies/google-llc.md) | 26.22.04.920688788 | 22 |
 | <img src="assets/icons/android/com.google.android.apps.tachyon.png" width="20" height="20" alt="Google Meet icon"> | [Google Meet](apps/android/google-llc/google-meet/README.md) | [Google LLC](companies/google-llc.md) | 362.0.924540007.duo.android_20260601.01_p0 | 17 |
 | <img src="assets/icons/android/com.google.android.apps.magazines.png" width="20" height="20" alt="Google News icon"> | [Google News - Daily Headlines](apps/android/google-llc/google-news/README.md) | [Google LLC](companies/google-llc.md) | 5.159.0.914722252 | 21 |
-| <img src="assets/icons/android/com.google.android.apps.photos.png" width="20" height="20" alt="Google Photos icon"> | [Google Photos](apps/android/google-llc/google-photos/README.md) | [Google LLC](companies/google-llc.md) | 7.99.0.1007655401 | 24 |
+| <img src="assets/icons/android/com.google.android.apps.photos.png" width="20" height="20" alt="Google Photos icon"> | [Google Photos](apps/android/google-llc/google-photos/README.md) | [Google LLC](companies/google-llc.md) | 8.1.0.1020990585 | 24 |
 | <img src="assets/icons/android/com.google.android.apps.docs.editors.sheets.png" width="20" height="20" alt="Google Sheets icon"> | [Google Sheets](apps/android/google-llc/google-sheets/README.md) | [Google LLC](companies/google-llc.md) | 1.26.222.02.90 | 22 |
 | <img src="assets/icons/android/com.google.android.apps.docs.editors.slides.png" width="20" height="20" alt="Google Slides icon"> | [Google Slides](apps/android/google-llc/google-slides/README.md) | [Google LLC](companies/google-llc.md) | 1.26.431.03.90 | 21 |
 | <img src="assets/icons/android/com.google.android.apps.translate.png" width="20" height="20" alt="Google Translate icon"> | [Google Translate](apps/android/google-llc/google-translate/README.md) | [Google LLC](companies/google-llc.md) | 10.20.41.923213375.5-release | 13 |
