@@ -13,8 +13,8 @@
 | Company | [BeReal](../../../../companies/bereal.md) |
 | Store id | `1459645446` |
 | Bundle / package id | `AlexisBarreyat.BeReal` |
-| Latest version | 4.99.0 (analysed 2026-11-02) |
-| Versions tracked | 3 |
+| Latest version | 4.100.0 (analysed 2026-11-16) |
+| Versions tracked | 4 |
 | SDKs in latest version | 124 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -67,6 +67,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 4.100.0 | 2026-11-16 |  | 124 | +0 / −0 | Yes | Yes | [4.100.0.json](4.100.0.json) |
 | 4.99.0 | 2026-11-02 | 2026-11-02 | 124 | +16 / −26 | Yes | Yes | [4.99.0.json](4.99.0.json) |
 | 4.79.1 | 2026-06-23 |  | 134 | +4 / −2 | Yes | Yes | [4.79.1.json](4.79.1.json) |
 | 4.77.2 | 2026-06-19 |  | 132 |  | Yes | Yes | [4.77.2.json](4.77.2.json) |

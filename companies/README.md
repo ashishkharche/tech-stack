@@ -72,7 +72,7 @@
 | <img src="../assets/icons/ios/432274380.png" width="20" height="20" alt="知乎 icon"> | [Beijing Zhizhetianxia Technology Co., Ltd.](beijing-zhizhetianxia-technology-co-ltd.md) | 1 | 1 | 0 | 1 | 214 |
 | <img src="../assets/icons/android/ma.safe.bn.jpg" width="20" height="20" alt="Breaking News icon"> | [Beloud.com](beloud-com.md) | 1 | 0 | 1 | 1 | 28 |
 | <img src="../assets/icons/ios/1470373330.png" width="20" height="20" alt="Remini icon"> | [BENDING SPOONS OPERATIONS SPA](bending-spoons-operations-spa.md) | 1 | 1 | 0 | 2 | 87 |
-| <img src="../assets/icons/ios/1459645446.png" width="20" height="20" alt="BeReal icon"> | [BeReal](bereal.md) | 1 | 1 | 0 | 3 | 124 |
+| <img src="../assets/icons/ios/1459645446.png" width="20" height="20" alt="BeReal icon"> | [BeReal](bereal.md) | 1 | 1 | 0 | 4 | 124 |
 | <img src="../assets/icons/ios/960335206.png" width="20" height="20" alt="Blinkit icon"> | [BLINK COMMERCE PRIVATE LIMITED](blink-commerce-private-limited.md) | 1 | 1 | 0 | 1 | 58 |
 | <img src="../assets/icons/android/com.booking.png" width="20" height="20" alt="Booking.com icon"> | [Booking.com Hotels & Vacation Rentals](booking-com-hotels-vacation-rentals.md) | 1 | 0 | 1 | 1 | 45 |
 | <img src="../assets/icons/android/com.emn8.mobilem8.nativeapp.bk.png" width="20" height="20" alt="BURGER KING® App icon"> | [Burger King, Inc.](burger-king-inc.md) | 1 | 0 | 1 | 3 | 29 |
