@@ -162,7 +162,7 @@
 | <img src="../assets/icons/ios/1508186374.png" width="20" height="20" alt="Peacock TV icon"> | [Peacock TV LLC](peacock-tv-llc.md) | 1 | 1 | 0 | 1 | 40 |
 | <img src="../assets/icons/ios/1668000334.png" width="20" height="20" alt="Perplexity icon"> | [Perplexity AI, Inc.](perplexity-ai-inc.md) | 1 | 1 | 0 | 1 | 26 |
 | <img src="../assets/icons/android/ai.perplexity.app.android.png" width="20" height="20" alt="Perplexity icon"> | [PerplexityAI](perplexityai.md) | 1 | 0 | 1 | 1 | 37 |
-| <img src="../assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom](photoroom.md) | 1 | 1 | 0 | 2 | 87 |
+| <img src="../assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom](photoroom.md) | 1 | 1 | 0 | 3 | 92 |
 | <img src="../assets/icons/android/com.photoroom.app.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom AI Photo Editor](photoroom-ai-photo-editor.md) | 1 | 0 | 1 | 1 | 37 |
 | <img src="../assets/icons/ios/587366035.png" width="20" height="20" alt="Picsart AI Photo Editor, Video icon"> | [PicsArt, Inc.](picsart-inc.md) | 1 | 1 | 0 | 1 | 47 |
 | <img src="../assets/icons/android/com.pinterest.png" width="20" height="20" alt="Pinterest icon"> | [Pinterest](pinterest.md) | 1 | 0 | 1 | 1 | 35 |

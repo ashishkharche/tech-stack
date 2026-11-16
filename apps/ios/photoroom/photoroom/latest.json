@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2026.45.01",
+  "version": "2026.46.01",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-02T17:21:06Z",
-    "store_first_seen_at": "2026-11-02T19:07:49Z",
-    "store_updated_at": "2026-11-02T12:22:26Z",
-    "exported_at": "2026-11-04T16:56:41Z"
+    "captured_at": "2026-11-16T04:24:33Z",
+    "store_first_seen_at": "2026-11-10T12:00:08Z",
+    "store_updated_at": "2026-11-09T08:56:55Z",
+    "exported_at": "2026-11-16T04:59:55Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 87,
+    "sdk_count": 92,
     "languages": [
       "C/C++",
       "Metal (shaders)",
@@ -166,6 +166,12 @@
         "confidence": "observed"
       },
       {
+        "name": "Datadog",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
         "name": "DatadogCore",
         "version": null,
         "category": "crash_perf",
@@ -185,7 +191,7 @@
       },
       {
         "name": "Sentry",
-        "version": "9.31.0",
+        "version": "9.32.0",
         "category": "crash_perf",
         "confidence": "observed"
       },
@@ -232,14 +238,8 @@
         "confidence": "observed"
       },
       {
-        "name": "InteropForGoogle",
-        "version": null,
-        "category": "auth",
-        "confidence": "observed"
-      },
-      {
         "name": "Didomi",
-        "version": "2.52.1",
+        "version": "2.53.1",
         "category": "privacy_consent",
         "confidence": "observed"
       },
@@ -257,7 +257,7 @@
       },
       {
         "name": "Intercom",
-        "version": "19.9.1",
+        "version": "19.9.2",
         "category": "messaging",
         "confidence": "observed"
       },
@@ -281,12 +281,6 @@
       },
       {
         "name": "abseil",
-        "version": null,
-        "category": "firebase",
-        "confidence": "observed"
-      },
-      {
-        "name": "AppCheck",
         "version": null,
         "category": "firebase",
         "confidence": "observed"
@@ -454,6 +448,12 @@
         "confidence": "observed"
       },
       {
+        "name": "app-check",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
         "name": "AssistiveCamera",
         "version": null,
         "category": "other",
@@ -472,7 +472,31 @@
         "confidence": "observed"
       },
       {
+        "name": "facebook-ios-sdk",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
         "name": "Filters",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "google-ads-on-device-conversion-ios-sdk",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "gtm-session-fetcher",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "interop-ios-for-google-sdks",
         "version": null,
         "category": "other",
         "confidence": "observed"
@@ -480,6 +504,12 @@
       {
         "name": "Lokalise",
         "version": "1.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "lokalise-ios-framework",
+        "version": null,
         "category": "other",
         "confidence": "observed"
       },
