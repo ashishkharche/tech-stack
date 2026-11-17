@@ -43,8 +43,8 @@
 <rect x="281.6" y="314" width="246.2" height="18" rx="3" fill="#1EA45A"/>
 <text x="535.8" y="328" font-size="13" fill="#4D5755">145</text>
 <text x="172.99999999999994" y="356" font-size="13" text-anchor="end" fill="#090A0B">Jetpack Compose</text>
-<rect x="185.0" y="342" width="319.1" height="18" rx="3" fill="#1EA45A"/>
-<text x="512.1" y="356" font-size="13" fill="#4D5755">135</text>
+<rect x="185.0" y="342" width="321.5" height="18" rx="3" fill="#1EA45A"/>
+<text x="514.5" y="356" font-size="13" fill="#4D5755">136</text>
 <text x="172.99999999999994" y="384" font-size="13" text-anchor="end" fill="#090A0B">Firebase Analytics</text>
 <rect x="185.0" y="370" width="307.3" height="18" rx="3" fill="#1EA45A"/>
 <text x="500.3" y="384" font-size="13" fill="#4D5755">130</text>

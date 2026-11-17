@@ -13,13 +13,13 @@
 | Company | [Google LLC](../../../../companies/google-llc.md) |
 | Store id | `com.google.android.youtube` |
 | Bundle / package id | `com.google.android.youtube` |
-| Latest version | 21.22.165 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 22 |
+| Latest version | 21.46.522-SECONDARY (analysed 2026-11-17) |
+| Versions tracked | 2 |
+| SDKs in latest version | 23 |
 | Languages | C/C++ (native), Java, Kotlin |
-| UI | Glide, Lottie, Material Components, Rive |
+| UI | Glide, Jetpack Compose, Lottie, Material Components, Rive |
 | Build | Gradle (inferred) |
-| Minimum OS | API 29, targets API 36 |
+| Minimum OS | API 29, targets API 37 |
 | Devices / ABIs | Android |
 | Capabilities | 19 |
 | Declares tracking | Yes |
@@ -29,18 +29,17 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/google-llc/youtube-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/google-llc/youtube-light.svg"></picture>
 
-- **UI and rendering** (4): Glide, Lottie, Material Components, Rive
+- **UI and rendering** (5): Glide, Jetpack Compose, Lottie, Material Components, Rive
 - **Networking** (3): Cronet, Cronet (Chromium net), Cronet (Google)
 - **Analytics** (2): Firebase Analytics, Google App Measurement
 - **Firebase** (2): Firebase, Google Play services
 - **Maps and location** (2): Google Location, Google Maps
 - **Media** (2): Google Cast, Media3 (ExoPlayer)
+- **Storage** (2): DataStore, Room
 - **Sign-in and auth** (1): Google Sign-In / Auth
 - **Messaging and push** (1): Firebase Messaging
-- **ML and AI** (1): ML Kit
 - **Payments** (1): Google Play Billing
 - **Reactive and async** (1): Kotlin Coroutines
-- **Storage** (1): Room
 - **Voice** (1): WebRTC
 
 <details>
@@ -54,13 +53,12 @@ Advertising ID, Approximate location, Biometric auth, Camera, Contacts (read), D
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 21.46.522-SECONDARY | 2026-11-17 |  | 23 | +2 / −1 | No | No | [21.46.522-SECONDARY.json](21.46.522-SECONDARY.json) |
 | 21.22.165 | 2026-06-19 |  | 22 |  | No | No | [21.22.165.json](21.22.165.json) |
 
-## Model-written summary
+### SDK changes between versions
 
-> YouTube Android app using Kotlin/Java with extensive C++ native libraries for media and VR, Cronet for networking, Firebase services, ML Kit, and Rive for UI.
-
-<sub>Written by a language model from the detected signals (`inferred[]`). It is commentary, not measurement.</sub>
+- 21.22.165 → 21.46.522-SECONDARY: added DataStore, Jetpack Compose; removed ML Kit
 
 ---
 

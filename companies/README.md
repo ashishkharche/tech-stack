@@ -2,12 +2,12 @@
 
 # Companies
 
-245 companies. Each name is the developer name on the store listing.
+246 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
 | <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 30 | 85 |
-| <img src="../assets/icons/android/com.google.android.gm.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/android/com.google.android.googlequicksearchbox.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/android/com.google.android.calendar.png" width="20" height="20" alt="Google Calendar icon"> <img src="../assets/icons/android/com.google.android.apps.dynamite.png" width="20" height="20" alt="Google Chat icon"> <img src="../assets/icons/android/com.android.chrome.png" width="20" height="20" alt="Google Chrome icon"> | [Google LLC](google-llc.md) | 21 | 0 | 21 | 29 | 41 |
+| <img src="../assets/icons/android/com.google.android.gm.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/android/com.google.android.googlequicksearchbox.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/android/com.google.android.calendar.png" width="20" height="20" alt="Google Calendar icon"> <img src="../assets/icons/android/com.google.android.apps.dynamite.png" width="20" height="20" alt="Google Chat icon"> <img src="../assets/icons/android/com.android.chrome.png" width="20" height="20" alt="Google Chrome icon"> | [Google LLC](google-llc.md) | 21 | 0 | 21 | 30 | 41 |
 | <img src="../assets/icons/android/com.azure.authenticator.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/983156458.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/345323231.png" width="20" height="20" alt="Microsoft Bing Search icon"> <img src="../assets/icons/android/com.microsoft.bingwebmastertools.twa.png" width="20" height="20" alt="Microsoft Bing Webmaster Tools icon"> <img src="../assets/icons/ios/541164041.png" width="20" height="20" alt="Microsoft Copilot icon"> | [Microsoft Corporation](microsoft-corporation.md) | 20 | 8 | 12 | 29 | 249 |
 | <img src="../assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/454638411.png" width="20" height="20" alt="Messenger icon"> <img src="../assets/icons/android/com.facebook.stella.png" width="20" height="20" alt="Meta AI icon"> <img src="../assets/icons/ios/1558240027.png" width="20" height="20" alt="Meta AI icon"> | [Meta Platforms, Inc.](meta-platforms-inc.md) | 6 | 3 | 3 | 12 | 46 |
 | <img src="../assets/icons/android/com.disney.disneyplus.png" width="20" height="20" alt="Disney+ icon"> <img src="../assets/icons/ios/1446075923.png" width="20" height="20" alt="Disney+ icon"> <img src="../assets/icons/android/com.espn.fantasy.lm.football.png" width="20" height="20" alt="ESPN Fantasy Sports icon"> <img src="../assets/icons/ios/317469184.png" width="20" height="20" alt="ESPN icon"> <img src="../assets/icons/android/com.hulu.plus.png" width="20" height="20" alt="Hulu icon"> | [Disney](disney.md) | 5 | 2 | 3 | 9 | 139 |
@@ -71,7 +71,7 @@
 | <img src="../assets/icons/ios/382201985.png" width="20" height="20" alt="百度-AI智能搜索 icon"> | [Beijing Baidu Netcom Science & Technology Co.,Ltd](beijing-baidu-netcom-science-technology-co-ltd.md) | 1 | 1 | 0 | 1 | 188 |
 | <img src="../assets/icons/ios/432274380.png" width="20" height="20" alt="知乎 icon"> | [Beijing Zhizhetianxia Technology Co., Ltd.](beijing-zhizhetianxia-technology-co-ltd.md) | 1 | 1 | 0 | 1 | 214 |
 | <img src="../assets/icons/android/ma.safe.bn.jpg" width="20" height="20" alt="Breaking News icon"> | [Beloud.com](beloud-com.md) | 1 | 0 | 1 | 1 | 28 |
-| <img src="../assets/icons/ios/1470373330.png" width="20" height="20" alt="Remini icon"> | [BENDING SPOONS OPERATIONS SPA](bending-spoons-operations-spa.md) | 1 | 1 | 0 | 2 | 87 |
+| <img src="../assets/icons/ios/1470373330.png" width="20" height="20" alt="Remini icon"> | [BENDING SPOONS OPERATIONS SPA](bending-spoons-operations-spa.md) | 1 | 1 | 0 | 3 | 87 |
 | <img src="../assets/icons/ios/1459645446.png" width="20" height="20" alt="BeReal icon"> | [BeReal](bereal.md) | 1 | 1 | 0 | 4 | 124 |
 | <img src="../assets/icons/ios/960335206.png" width="20" height="20" alt="Blinkit icon"> | [BLINK COMMERCE PRIVATE LIMITED](blink-commerce-private-limited.md) | 1 | 1 | 0 | 1 | 58 |
 | <img src="../assets/icons/android/com.booking.png" width="20" height="20" alt="Booking.com icon"> | [Booking.com Hotels & Vacation Rentals](booking-com-hotels-vacation-rentals.md) | 1 | 0 | 1 | 1 | 45 |
@@ -189,6 +189,7 @@
 | <img src="../assets/icons/ios/396584034.png" width="20" height="20" alt="Everland icon"> | [Samsung Everland Co. Ltd.](samsung-everland-co-ltd.md) | 1 | 1 | 0 | 1 | 52 |
 | <img src="../assets/icons/android/com.enzo.paulo.png" width="20" height="20" alt="Seekee icon"> | [Seekee Ltd](seekee-ltd.md) | 1 | 0 | 1 | 2 | 43 |
 | <img src="../assets/icons/android/com.swm.live.png" width="20" height="20" alt="7plus icon"> | [Seven West Media](seven-west-media.md) | 1 | 0 | 1 | 1 | 31 |
+| <img src="../assets/icons/ios/6813012717.png" width="20" height="20" alt="Who Calling Pro icon"> | [SHUBHAMKUMAR PATEL](shubhamkumar-patel.md) | 1 | 1 | 0 | 1 | 4 |
 | <img src="../assets/icons/android/org.thoughtcrime.securesms.png" width="20" height="20" alt="Signal Private Messenger icon"> | [Signal Foundation](signal-foundation.md) | 1 | 0 | 1 | 2 | 22 |
 | <img src="../assets/icons/ios/874139669.png" width="20" height="20" alt="Signal icon"> | [Signal Messenger, LLC](signal-messenger-llc.md) | 1 | 1 | 0 | 2 | 9 |
 | <img src="../assets/icons/ios/350962117.png" width="20" height="20" alt="微博 icon"> | [SINA Corporation](sina-corporation.md) | 1 | 1 | 0 | 1 | 51 |
@@ -249,7 +250,7 @@
 | <img src="../assets/icons/android/com.gowish.app.jpg" width="20" height="20" alt="GoWish icon"> | [Ønskeskyen ApS](nskeskyen-aps.md) | 1 | 0 | 1 | 1 | 32 |
 | <img src="../assets/icons/ios/6741471889.png" width="20" height="20" alt="Mawhiba icon"> | [موهبة](mawhiba.md) | 1 | 1 | 0 | 1 | 18 |
 | <img src="../assets/icons/ios/1476359069.png" width="20" height="20" alt="MynaApp (formerly Mynaportal) icon"> | [デジタル庁](go.md) | 1 | 1 | 0 | 1 | 167 |
-| <img src="../assets/icons/ios/1044283059.png" width="20" height="20" alt="Pinduoduo icon"> | [上海寻梦信息技术有限公司](shanghai-xunmeng-information-technology-co-ltd.md) | 1 | 1 | 0 | 4 | 71 |
+| <img src="../assets/icons/ios/1044283059.png" width="20" height="20" alt="Pinduoduo icon"> | [上海寻梦信息技术有限公司](shanghai-xunmeng-information-technology-co-ltd.md) | 1 | 1 | 0 | 5 | 71 |
 | <img src="../assets/icons/android/com.xingin.xhs.png" width="20" height="20" alt="rednote icon"> | [行吟信息科技(上海)有限公司](xingin-information-technology-shanghai-co-ltd.md) | 1 | 0 | 1 | 1 | 35 |
 
 ---

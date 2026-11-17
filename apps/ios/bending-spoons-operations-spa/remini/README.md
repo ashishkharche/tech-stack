@@ -13,8 +13,8 @@
 | Company | [BENDING SPOONS OPERATIONS SPA](../../../../companies/bending-spoons-operations-spa.md) |
 | Store id | `1470373330` |
 | Bundle / package id | `com.bigwinepot.nwdn.international` |
-| Latest version | 2.10.222 (analysed 2026-11-04) |
-| Versions tracked | 2 |
+| Latest version | 2.10.225 (analysed 2026-11-16) |
+| Versions tracked | 3 |
 | SDKs in latest version | 87 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -32,7 +32,7 @@
 
 - **Other** (60): AIPhotosAutomaticTrainingImplementation, AIStickersImplementation, AIStudioImplementation, AIStyleImplementation, AppSetup, BSPConcierge, BSPIrisImplementation, BSPLegal, ChatExperienceImplementation, Chocolate, ConfigurableOnboardingCardsSurveyImplementation, ConfigurableOnboardingFeaturesImplementation, ConfigurableOnboardingIntroImplementation, ConfigurableOnboardingLandingImplementation, ConfigurableOnboardingNotificationsPermissionsImplementation, ConfigurableOnboardingOngoingImplementation, ConfigurableOnboardingPermissionsImplementation, ConfigurableOnboardingSurveyImplementation, ConfigurableOnboardingUserIntentImplementation, CrisperCoreEnzymes, EmailInputImplementation, EnhanceImplementation, FaceFixImplementation, FakeDoorPaywallImplementation, Fellini, GenderSelectorImplementation, HomeImplementation, IconsSurveyImplementation, InAppReceipt, InjetKitImplementation, Inpainting, InstantProcessingImplementation, LegalUpdate, LoadingImplementation, LocalizationQualityExperiment, MediaSharing, MLModelsImplementation, MockExampleImplementation, MultiAvatarGenerationWizardImplementation, MultiAvatarResultImplementation, OracleImplementation, PaywallImplementation, PhotoLibraryManagerImplementation, PhotoRestorationImplementation, Pico, PostProcessingImplementation, PromotionPopupImplementation, RetakeBackendInterfaceImplementation, RetakeGenerationWizardImplementation, RetakeImplementation, RetouchImplementation, SearchImplementation, SettingsImplementation, SuggestFeature, TextualEditsImplementation, Tools, UnlockFeatureImplementation, VideoEnhance, VideoForEnhance, WebViewImplementation
 - **Firebase** (9): FBLPromises, Firebase 1.0, FirebaseCore, FirebaseCoreInternal, FirebaseInstallations, GoogleDataTransport, GoogleUtilities 1.0, nanopb, Promises
-- **Ads** (4): AppLovin 7.12.8, Google Mobile Ads (AdMob), MolocoSDK 4.4.1, MonetizationManager
+- **Ads** (4): AppLovin 7.12.9, Google Mobile Ads (AdMob), MolocoSDK 4.4.1, MonetizationManager
 - **Storage** (3): PersistenceImplementation, PersistenceSCA, ZIPFoundation
 - **Networking** (2): Alamofire, ASN1Swift
 - **Privacy and consent** (2): FacialDataConsentImplementation, InAppTrackingConsentImplementation
@@ -61,6 +61,7 @@ App Attest, App Groups, Apple Pay, Associated Domains (Universal Links), Keychai
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2.10.225 | 2026-11-16 | 2026-11-12 | 87 | +0 / −0 | Yes | Yes | [2.10.225.json](2.10.225.json) |
 | 2.10.222 | 2026-11-04 | 2026-11-03 | 87 | +0 / −0 | Yes | Yes | [2.10.222.json](2.10.222.json) |
 | 2.10.221 | 2026-10-24 | 2026-10-10 | 87 |  | Yes | Yes | [2.10.221.json](2.10.221.json) |
 

@@ -15,9 +15,9 @@
 <rect x="400.1" y="62" width="308.0" height="18" rx="3" fill="#1EA45A"/>
 <text x="716.1" y="76" font-size="13" fill="#4D5755">295</text>
 <text x="158.17999999999995" y="104" font-size="13" text-anchor="end" fill="#090A0B">Analytics</text>
-<rect x="170.2" y="90" width="255.3" height="18" rx="3" fill="#0088FF"/>
-<rect x="427.4" y="90" width="256.9" height="18" rx="3" fill="#1EA45A"/>
-<text x="692.4" y="104" font-size="13" fill="#4D5755">282</text>
+<rect x="170.2" y="90" width="257.1" height="18" rx="3" fill="#0088FF"/>
+<rect x="429.3" y="90" width="256.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="694.2" y="104" font-size="13" fill="#4D5755">283</text>
 <text x="158.17999999999995" y="132" font-size="13" text-anchor="end" fill="#090A0B">Sign-in and auth</text>
 <rect x="170.2" y="118" width="202.4" height="18" rx="3" fill="#0088FF"/>
 <rect x="374.6" y="118" width="304.3" height="18" rx="3" fill="#1EA45A"/>
@@ -68,12 +68,12 @@
 <text x="351.4" y="440" font-size="13" fill="#4D5755">95</text>
 <text x="158.17999999999995" y="468" font-size="13" text-anchor="end" fill="#090A0B">ML and AI</text>
 <rect x="170.2" y="454" width="9.1" height="18" rx="3" fill="#0088FF"/>
-<rect x="181.3" y="454" width="156.6" height="18" rx="3" fill="#1EA45A"/>
-<text x="345.9" y="468" font-size="13" fill="#4D5755">92</text>
+<rect x="181.3" y="454" width="154.8" height="18" rx="3" fill="#1EA45A"/>
+<text x="344.1" y="468" font-size="13" fill="#4D5755">91</text>
 <text x="158.17999999999995" y="496" font-size="13" text-anchor="end" fill="#090A0B">Telephony</text>
-<rect x="170.2" y="482" width="65.6" height="18" rx="3" fill="#0088FF"/>
-<rect x="237.8" y="482" width="63.6" height="18" rx="3" fill="#1EA45A"/>
-<text x="309.5" y="496" font-size="13" fill="#4D5755">72</text>
+<rect x="170.2" y="482" width="67.5" height="18" rx="3" fill="#0088FF"/>
+<rect x="239.6" y="482" width="63.6" height="18" rx="3" fill="#1EA45A"/>
+<text x="311.3" y="496" font-size="13" fill="#4D5755">73</text>
 <text x="158.17999999999995" y="524" font-size="13" text-anchor="end" fill="#090A0B">Privacy and consent</text>
 <rect x="170.2" y="510" width="82.1" height="18" rx="3" fill="#0088FF"/>
 <rect x="254.2" y="510" width="41.8" height="18" rx="3" fill="#1EA45A"/>
