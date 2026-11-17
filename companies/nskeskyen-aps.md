@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **32** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **30** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/nskeskyen-aps/gowish/README.md"><img src="../assets/icons/android/com.gowish.app.jpg" width="56" height="56" alt="GoWish icon"></a><br><a href="../apps/android/nskeskyen-aps/gowish/README.md"><sub><b>GoWish</b></sub></a><br><sub>Android · 32 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/nskeskyen-aps/gowish/README.md"><img src="../assets/icons/android/com.gowish.app.jpg" width="56" height="56" alt="GoWish icon"></a><br><a href="../apps/android/nskeskyen-aps/gowish/README.md"><sub><b>GoWish</b></sub></a><br><sub>Android · 30 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.gowish.app.jpg" width="20" height="20" alt="GoWish icon"> | [GoWish - Your Digital Wishlist](../apps/android/nskeskyen-aps/gowish/README.md) | Android | 1 | 9.2.7 | 2026-11-09 | 32 | No |
+| <img src="../assets/icons/android/com.gowish.app.jpg" width="20" height="20" alt="GoWish icon"> | [GoWish - Your Digital Wishlist](../apps/android/nskeskyen-aps/gowish/README.md) | Android | 2 | 9.3.0 | 2026-11-17 | 30 | No |
 
 ## SDKs by category
 

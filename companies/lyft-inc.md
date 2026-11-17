@@ -4,10 +4,10 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **2** versions · **44** distinct SDKs across their latest versions
+**3** apps (2 iOS, 1 Android) · **3** versions · **54** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/lyft-inc/lyft/README.md"><img src="../assets/icons/android/me.lyft.android.png" width="56" height="56" alt="Lyft icon"></a><br><a href="../apps/android/lyft-inc/lyft/README.md"><sub><b>Lyft</b></sub></a><br><sub>Android · 30 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/lyft-inc/lyft/README.md"><img src="../assets/icons/ios/529379082.png" width="56" height="56" alt="Lyft icon"></a><br><a href="../apps/ios/lyft-inc/lyft/README.md"><sub><b>Lyft</b></sub></a><br><sub>iOS · 14 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/lyft-inc/lyft/README.md"><img src="../assets/icons/android/me.lyft.android.png" width="56" height="56" alt="Lyft icon"></a><br><a href="../apps/android/lyft-inc/lyft/README.md"><sub><b>Lyft</b></sub></a><br><sub>Android · 30 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/lyft-inc/lyft/README.md"><img src="../assets/icons/ios/529379082.png" width="56" height="56" alt="Lyft icon"></a><br><a href="../apps/ios/lyft-inc/lyft/README.md"><sub><b>Lyft</b></sub></a><br><sub>iOS · 14 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/lyft-inc/tfl-santander-cycles/README.md"><img src="../assets/icons/ios/6748404131.png" width="56" height="56" alt="TfL Santander Cycles icon"></a><br><a href="../apps/ios/lyft-inc/tfl-santander-cycles/README.md"><sub><b>TfL Santander Cycles</b></sub></a><br><sub>iOS · 18 SDKs</sub></td></tr>
 </table>
 
 ## Apps
@@ -16,12 +16,26 @@ The company name is the developer name on the store listing.
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/android/me.lyft.android.png" width="20" height="20" alt="Lyft icon"> | [Lyft](../apps/android/lyft-inc/lyft/README.md) | Android | 1 | 2026.21.3.1780471452 | 2026-06-19 | 30 | No |
 | <img src="../assets/icons/ios/529379082.png" width="20" height="20" alt="Lyft icon"> | [Lyft](../apps/ios/lyft-inc/lyft/README.md) | iOS | 1 | 2026.41.3 | 2026-10-24 | 14 | No |
+| <img src="../assets/icons/ios/6748404131.png" width="20" height="20" alt="TfL Santander Cycles icon"> | [TfL Santander Cycles](../apps/ios/lyft-inc/tfl-santander-cycles/README.md) | iOS | 1 | 2026.36.36 | 2026-11-17 | 18 | No |
 
 ## SDKs by category
 
 Counted across the latest version of each app.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../assets/charts/companies/lyft-inc-dark.svg"><img alt="SDKs by category" src="../assets/charts/companies/lyft-inc-light.svg"></picture>
+
+## SDKs shared across their apps
+
+| SDK | Apps |
+|---|---|
+| FBLPromises | 2 of 3 |
+| Firebase | 2 of 3 |
+| FirebaseCore | 2 of 3 |
+| FirebaseCoreInternal | 2 of 3 |
+| FirebaseInstallations | 2 of 3 |
+| GoogleUtilities | 2 of 3 |
+| Mapbox | 2 of 3 |
+| nanopb | 2 of 3 |
 
 ---
 

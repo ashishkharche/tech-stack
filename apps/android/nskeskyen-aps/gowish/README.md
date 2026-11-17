@@ -13,9 +13,9 @@
 | Company | [Ønskeskyen ApS](../../../../companies/nskeskyen-aps.md) |
 | Store id | `com.gowish.app` |
 | Bundle / package id | `com.gowish.app` |
-| Latest version | 9.2.7 (analysed 2026-11-09) |
-| Versions tracked | 1 |
-| SDKs in latest version | 32 |
+| Latest version | 9.3.0 (analysed 2026-11-17) |
+| Versions tracked | 2 |
+| SDKs in latest version | 30 |
 | Languages | C/C++ (native), Java, Kotlin, React Native / JavaScript |
 | UI | Coil, Fresco, Glide, Jetpack Compose, Material Components |
 | Build | Gradle (inferred), R8 / ProGuard (name obfuscation detected) |
@@ -29,10 +29,10 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/nskeskyen-aps/gowish-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/nskeskyen-aps/gowish-light.svg"></picture>
 
-- **UI and rendering** (7): Coil, Fresco, Glide, Jetpack Compose, Material Components, React Native Reanimated, react-native-svg
+- **UI and rendering** (6): Coil, Fresco, Glide, Jetpack Compose, Material Components, React Native Reanimated
 - **Analytics** (5): Amplitude, AppsFlyer, Branch, Firebase Analytics, Google App Measurement
-- **Storage** (4): DataStore, Okio, Realm, Room
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
+- **Storage** (3): DataStore, Okio, Room
 - **Crash and performance** (2): Sentry, Sentry (native)
 - **Messaging and push** (2): Firebase Messaging, Intercom
 - **Networking** (2): OkHttp, Retrofit
@@ -55,7 +55,12 @@ Advertising ID, Approximate location, Biometric auth, Contacts (read), Contacts 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 9.3.0 | 2026-11-17 |  | 30 | +0 / −2 | Yes | No | [9.3.0.json](9.3.0.json) |
 | 9.2.7 | 2026-11-09 |  | 32 |  | Yes | No | [9.2.7.json](9.2.7.json) |
+
+### SDK changes between versions
+
+- 9.2.7 → 9.3.0: removed react-native-svg, Realm
 
 ---
 

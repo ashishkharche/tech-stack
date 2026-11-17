@@ -27,18 +27,18 @@
 <text x="389.5" y="122" font-size="12" text-anchor="end" fill="#4D5755">2</text>
 <rect x="478.7" y="109" width="124.8" height="16" rx="3" fill="#090A0B"/>
 <text x="609.6" y="122" font-size="12" fill="#4D5755">3</text>
-<text x="145.44" y="147" font-size="13" text-anchor="end" fill="#090A0B">Cronet</text>
-<rect x="478.7" y="134" width="166.4" height="16" rx="3" fill="#090A0B"/>
-<text x="651.2" y="147" font-size="12" fill="#4D5755">4</text>
-<text x="145.44" y="172" font-size="13" text-anchor="end" fill="#090A0B">Firebase Messaging</text>
+<text x="145.44" y="147" font-size="13" text-anchor="end" fill="#090A0B">react-native-svg</text>
+<rect x="270.7" y="134" width="208.1" height="16" rx="3" fill="#5F6A6C"/>
+<text x="264.7" y="147" font-size="12" text-anchor="end" fill="#4D5755">5</text>
+<text x="145.44" y="172" font-size="13" text-anchor="end" fill="#090A0B">Cronet</text>
 <rect x="478.7" y="159" width="166.4" height="16" rx="3" fill="#090A0B"/>
 <text x="651.2" y="172" font-size="12" fill="#4D5755">4</text>
-<text x="145.44" y="197" font-size="13" text-anchor="end" fill="#090A0B">MaterialM3CTextField</text>
+<text x="145.44" y="197" font-size="13" text-anchor="end" fill="#090A0B">Firebase Messaging</text>
 <rect x="478.7" y="184" width="166.4" height="16" rx="3" fill="#090A0B"/>
 <text x="651.2" y="197" font-size="12" fill="#4D5755">4</text>
-<text x="145.44" y="222" font-size="13" text-anchor="end" fill="#090A0B">react-native-svg</text>
-<rect x="312.3" y="209" width="166.4" height="16" rx="3" fill="#5F6A6C"/>
-<text x="306.3" y="222" font-size="12" text-anchor="end" fill="#4D5755">4</text>
+<text x="145.44" y="222" font-size="13" text-anchor="end" fill="#090A0B">MaterialM3CTextField</text>
+<rect x="478.7" y="209" width="166.4" height="16" rx="3" fill="#090A0B"/>
+<text x="651.2" y="222" font-size="12" fill="#4D5755">4</text>
 <text x="145.44" y="247" font-size="13" text-anchor="end" fill="#090A0B">Sentry</text>
 <rect x="395.5" y="234" width="83.2" height="16" rx="3" fill="#5F6A6C"/>
 <text x="389.5" y="247" font-size="12" text-anchor="end" fill="#4D5755">2</text>

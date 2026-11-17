@@ -13,15 +13,15 @@
 | Company | [Uber Technologies, Inc.](../../../../companies/uber-technologies-inc.md) |
 | Store id | `1058959277` |
 | Bundle / package id | `com.ubercab.UberEats` |
-| Latest version | 6.348.10001 (analysed 2026-11-14) |
-| Versions tracked | 3 |
+| Latest version | 6.349.10000 (analysed 2026-11-17) |
+| Versions tracked | 4 |
 | SDKs in latest version | 63 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Intercom UI, Lottie (animations), SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
 | Minimum OS | iOS 18.0 (built with Xcode 26.5, SDK iphoneos26.5) |
 | Devices / ABIs | iPhone, iPad |
-| Localisations | 55 |
+| Localisations | 57 |
 | Capabilities | 11 |
 | Declares tracking | Yes |
 | Tracked | No. Kept for history. |
@@ -63,6 +63,7 @@ App Groups, Apple Pay, Associated Domains (Universal Links), Background App Refr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 6.349.10000 | 2026-11-17 |  | 63 | +0 / −0 | Yes | Yes | [6.349.10000.json](6.349.10000.json) |
 | 6.348.10001 | 2026-11-14 |  | 63 | +0 / −0 | Yes | Yes | [6.348.10001.json](6.348.10001.json) |
 | 6.346.10000 | 2026-11-01 | 2026-10-26 | 63 | +1 / −1 | Yes | Yes | [6.346.10000.json](6.346.10000.json) |
 | 6.345.10000 | 2026-10-24 | 2026-10-19 | 63 |  | Yes | Yes | [6.345.10000.json](6.345.10000.json) |
