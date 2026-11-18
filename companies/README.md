@@ -2,11 +2,11 @@
 
 # Companies
 
-247 companies. Each name is the developer name on the store listing.
+249 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 30 | 85 |
+| <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 31 | 85 |
 | <img src="../assets/icons/android/com.google.android.gm.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/android/com.google.android.googlequicksearchbox.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/android/com.google.android.calendar.png" width="20" height="20" alt="Google Calendar icon"> <img src="../assets/icons/android/com.google.android.apps.dynamite.png" width="20" height="20" alt="Google Chat icon"> <img src="../assets/icons/android/com.android.chrome.png" width="20" height="20" alt="Google Chrome icon"> | [Google LLC](google-llc.md) | 21 | 0 | 21 | 30 | 41 |
 | <img src="../assets/icons/android/com.azure.authenticator.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/983156458.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/345323231.png" width="20" height="20" alt="Microsoft Bing Search icon"> <img src="../assets/icons/android/com.microsoft.bingwebmastertools.twa.png" width="20" height="20" alt="Microsoft Bing Webmaster Tools icon"> <img src="../assets/icons/ios/541164041.png" width="20" height="20" alt="Microsoft Copilot icon"> | [Microsoft Corporation](microsoft-corporation.md) | 20 | 8 | 12 | 29 | 249 |
 | <img src="../assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/454638411.png" width="20" height="20" alt="Messenger icon"> <img src="../assets/icons/android/com.facebook.stella.png" width="20" height="20" alt="Meta AI icon"> <img src="../assets/icons/ios/1558240027.png" width="20" height="20" alt="Meta AI icon"> | [Meta Platforms, Inc.](meta-platforms-inc.md) | 6 | 3 | 3 | 12 | 46 |
@@ -107,7 +107,7 @@
 | <img src="../assets/icons/android/com.airgoat.goat.png" width="20" height="20" alt="GOAT icon"> | [GOAT](goat.md) | 1 | 0 | 1 | 2 | 34 |
 | <img src="../assets/icons/android/com.main.gopuff.png" width="20" height="20" alt="Gopuff icon"> | [Gopuff](gopuff.md) | 1 | 0 | 1 | 1 | 46 |
 | <img src="../assets/icons/ios/1590142959.png" width="20" height="20" alt="France Identité icon"> | [Gouvernement Francais](gouvernement-francais.md) | 1 | 1 | 0 | 1 | 35 |
-| <img src="../assets/icons/android/com.grabtaxi.passenger.png" width="20" height="20" alt="Grab icon"> | [Grab Holdings](grab-holdings.md) | 1 | 0 | 1 | 1 | 47 |
+| <img src="../assets/icons/android/com.grabtaxi.passenger.png" width="20" height="20" alt="Grab icon"> | [Grab Holdings](grab-holdings.md) | 1 | 0 | 1 | 2 | 47 |
 | <img src="../assets/icons/ios/647268330.png" width="20" height="20" alt="Grab icon"> | [Grab.com](grab-com.md) | 1 | 1 | 0 | 1 | 79 |
 | <img src="../assets/icons/ios/6739429409.png" width="20" height="20" alt="Granola icon"> | [Granola inc](granola-inc.md) | 1 | 1 | 0 | 1 | 31 |
 | <img src="../assets/icons/android/com.grubhub.android.png" width="20" height="20" alt="Grubhub icon"> | [Grubhub](grubhub.md) | 1 | 0 | 1 | 2 | 44 |
@@ -123,6 +123,7 @@
 | <img src="../assets/icons/ios/6476790495.png" width="20" height="20" alt="Ideogram AI icon"> | [Ideogram](ideogram.md) | 1 | 1 | 0 | 1 | 19 |
 | <img src="../assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeartMedia Management Services, Inc.](iheartmedia-management-services-inc.md) | 1 | 1 | 0 | 1 | 88 |
 | <img src="../assets/icons/android/uk.co.inpost.inmobile.png" width="20" height="20" alt="InPost icon"> | [InPost UK Ltd](inpost-uk-ltd.md) | 1 | 0 | 1 | 1 | 38 |
+| <img src="../assets/icons/android/com.InsanityGroup.SkinsProjetoGrau2.png" width="20" height="20" alt="Skins Projeto Grau 2 icon"> | [Insanity Group](insanity-group.md) | 1 | 0 | 1 | 1 | 8 |
 | <img src="../assets/icons/android/com.instacart.client.png" width="20" height="20" alt="Instacart icon"> | [Instacart](instacart.md) | 1 | 0 | 1 | 2 | 47 |
 | <img src="../assets/icons/android/com.ikea.inter.homesmart.system2.png" width="20" height="20" alt="IKEA Home smart icon"> | [Inter IKEA Systems B.V](inter-ikea-systems-b-v.md) | 1 | 0 | 1 | 2 | 18 |
 | <img src="../assets/icons/android/me.karmalab.talk.png" width="20" height="20" alt="KARMA Secure Messenger icon"> | [Karmalab Inc.](karmalab-inc.md) | 1 | 0 | 1 | 1 | 26 |
@@ -133,6 +134,7 @@
 | <img src="../assets/icons/ios/384830320.png" width="20" height="20" alt="Life360 icon"> | [Life360](life360.md) | 1 | 1 | 0 | 1 | 137 |
 | <img src="../assets/icons/ios/288429040.png" width="20" height="20" alt="LinkedIn icon"> | [LinkedIn Corporation](linkedin-corporation.md) | 1 | 1 | 0 | 1 | 18 |
 | <img src="../assets/icons/ios/1158555867.png" width="20" height="20" alt="Replika icon"> | [Luka, Inc.](luka-inc.md) | 1 | 1 | 0 | 4 | 80 |
+| <img src="../assets/icons/ios/6812807809.png" width="20" height="20" alt="BeFitWay icon"> | [MARKETING AFFILIATES LTDA](marketing-affiliates-ltda.md) | 1 | 1 | 0 | 1 | 24 |
 | <img src="../assets/icons/android/com.marriott.mrt.png" width="20" height="20" alt="Marriott Bonvoy icon"> | [Marriott International](marriott-international.md) | 1 | 0 | 1 | 1 | 25 |
 | <img src="../assets/icons/ios/1571998974.png" width="20" height="20" alt="Mastodon icon"> | [Mastodon GmbH](mastodon-gmbh.md) | 1 | 1 | 0 | 2 | 14 |
 | <img src="../assets/icons/android/com.mcdonalds.app.png" width="20" height="20" alt="McDonald's icon"> | [McDonalds USA, LLC](mcdonalds-usa-llc.md) | 1 | 0 | 1 | 2 | 42 |

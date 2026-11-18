@@ -13,13 +13,13 @@
 | Company | [Google](../../../../companies/google.md) |
 | Store id | `1029207872` |
 | Bundle / package id | `com.google.Keep` |
-| Latest version | 2.2026.43101 (analysed 2026-11-01) |
-| Versions tracked | 2 |
+| Latest version | 2.2026.46102 (analysed 2026-11-18) |
+| Versions tracked | 3 |
 | SDKs in latest version | 9 |
 | Languages | C/C++, Objective-C, Swift |
 | UI | SwiftUI, UIKit |
 | Build | Unknown / Xcode native |
-| Minimum OS | iOS 18.0 (built with Xcode 26.4.1, SDK iphoneos26.4) |
+| Minimum OS | iOS 18.0 (built with Xcode 27.1, SDK iphoneos27.1) |
 | Devices / ABIs | iPhone, iPad |
 | Localisations | 82 |
 | Capabilities | 5 |
@@ -55,6 +55,7 @@ App Groups, Associated Domains (Universal Links), Background Push, Keychain Shar
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2.2026.46102 | 2026-11-18 |  | 9 | +0 / −0 | Yes | Yes | [2.2026.46102.json](2.2026.46102.json) |
 | 2.2026.43101 | 2026-11-01 |  | 9 | +1 / −0 | Yes | Yes | [2.2026.43101.json](2.2026.43101.json) |
 | 2.2026.22200 | 2026-06-19 |  | 8 |  | Yes | Yes | [2.2026.22200.json](2.2026.22200.json) |
 

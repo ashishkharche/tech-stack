@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **47** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **47** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/grab-holdings/grab/README.md"><img src="../assets/icons/android/com.grabtaxi.passenger.png" width="56" height="56" alt="Grab icon"></a><br><a href="../apps/android/grab-holdings/grab/README.md"><sub><b>Grab</b></sub></a><br><sub>Android · 47 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.grabtaxi.passenger.png" width="20" height="20" alt="Grab icon"> | [Grab - Taxi & Food Delivery](../apps/android/grab-holdings/grab/README.md) | Android | 1 | 5.430.0 | 2026-10-24 | 47 | No |
+| <img src="../assets/icons/android/com.grabtaxi.passenger.png" width="20" height="20" alt="Grab icon"> | [Grab - Taxi & Food Delivery](../apps/android/grab-holdings/grab/README.md) | Android | 2 | 5.436.0 | 2026-11-18 | 47 | No |
 
 ## SDKs by category
 

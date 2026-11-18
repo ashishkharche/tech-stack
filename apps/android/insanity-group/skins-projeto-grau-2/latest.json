@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Skins Projeto Grau 2",
+    "slug": "skins-projeto-grau-2",
+    "platform": "android",
+    "store": "google_play",
+    "store_id": "com.InsanityGroup.SkinsProjetoGrau2",
+    "bundle_id": "com.InsanityGroup.SkinsProjetoGrau2",
+    "active": false,
+    "company": {
+      "name": "Insanity Group",
+      "slug": "insanity-group",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.0.2",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-18T04:49:13Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-18T04:53:32Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "apk",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": false,
+    "binary_encrypted": false,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 8,
+    "languages": [
+      "C/C++ (native)",
+      "Java",
+      "Kotlin",
+      "Unity (C# / IL2CPP)"
+    ],
+    "frameworks": [],
+    "ui_graphics": [
+      "Android Views (inferred)"
+    ],
+    "build_system": [
+      "Gradle (inferred)"
+    ],
+    "sdks": [
+      {
+        "name": "Google App Measurement",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Mobile Ads (AdMob)",
+        "version": null,
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Sign-In / Auth",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Kotlin Coroutines",
+        "version": null,
+        "category": "reactive",
+        "confidence": "observed"
+      },
+      {
+        "name": "DataStore",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Room",
+        "version": null,
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Google Play services",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "Android API 32",
+      "min_sdk": "32",
+      "target_sdk": "36",
+      "build_sdk": null,
+      "xcode": null,
+      "device_families": [
+        "Android"
+      ],
+      "abis": [
+        "arm64-v8a"
+      ],
+      "localization_count": null
+    },
+    "capabilities": [
+      "Advertising ID",
+      "Foreground service"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 3,
+      "collected_data_types": [],
+      "required_reason_apis": [],
+      "android_permissions": [
+        "android.permission.ACCESS_ADSERVICES_AD_ID",
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_ADSERVICES_TOPICS",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.INTERNET",
+        "android.permission.WAKE_LOCK",
+        "com.InsanityGroup.SkinsProjetoGrau2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "com.android.vending.CHECK_LICENSE",
+        "com.google.android.gms.permission.AD_ID"
+      ]
+    }
+  },
+  "inferred": []
+}

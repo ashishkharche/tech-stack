@@ -13,8 +13,8 @@
 | Company | [Grab Holdings](../../../../companies/grab-holdings.md) |
 | Store id | `com.grabtaxi.passenger` |
 | Bundle / package id | `com.grabtaxi.passenger` |
-| Latest version | 5.430.0 (analysed 2026-10-24) |
-| Versions tracked | 1 |
+| Latest version | 5.436.0 (analysed 2026-11-18) |
+| Versions tracked | 2 |
 | SDKs in latest version | 47 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components, Picasso |
@@ -59,6 +59,7 @@ Advertising ID, Approximate location, Background location, Biometric auth, Bluet
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 5.436.0 | 2026-11-18 |  | 47 | +0 / −0 | No | No | [5.436.0.json](5.436.0.json) |
 | 5.430.0 | 2026-10-24 | 2026-10-20 | 47 |  | No | No | [5.430.0.json](5.430.0.json) |
 
 ---
