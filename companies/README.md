@@ -2,11 +2,11 @@
 
 # Companies
 
-249 companies. Each name is the developer name on the store listing.
+250 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 31 | 85 |
+| <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 32 | 85 |
 | <img src="../assets/icons/android/com.google.android.gm.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/android/com.google.android.googlequicksearchbox.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/android/com.google.android.calendar.png" width="20" height="20" alt="Google Calendar icon"> <img src="../assets/icons/android/com.google.android.apps.dynamite.png" width="20" height="20" alt="Google Chat icon"> <img src="../assets/icons/android/com.android.chrome.png" width="20" height="20" alt="Google Chrome icon"> | [Google LLC](google-llc.md) | 21 | 0 | 21 | 30 | 41 |
 | <img src="../assets/icons/android/com.azure.authenticator.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/983156458.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/345323231.png" width="20" height="20" alt="Microsoft Bing Search icon"> <img src="../assets/icons/android/com.microsoft.bingwebmastertools.twa.png" width="20" height="20" alt="Microsoft Bing Webmaster Tools icon"> <img src="../assets/icons/ios/541164041.png" width="20" height="20" alt="Microsoft Copilot icon"> | [Microsoft Corporation](microsoft-corporation.md) | 20 | 8 | 12 | 29 | 249 |
 | <img src="../assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/454638411.png" width="20" height="20" alt="Messenger icon"> <img src="../assets/icons/android/com.facebook.stella.png" width="20" height="20" alt="Meta AI icon"> <img src="../assets/icons/ios/1558240027.png" width="20" height="20" alt="Meta AI icon"> | [Meta Platforms, Inc.](meta-platforms-inc.md) | 6 | 3 | 3 | 12 | 46 |
@@ -110,7 +110,7 @@
 | <img src="../assets/icons/android/com.grabtaxi.passenger.png" width="20" height="20" alt="Grab icon"> | [Grab Holdings](grab-holdings.md) | 1 | 0 | 1 | 2 | 47 |
 | <img src="../assets/icons/ios/647268330.png" width="20" height="20" alt="Grab icon"> | [Grab.com](grab-com.md) | 1 | 1 | 0 | 1 | 79 |
 | <img src="../assets/icons/ios/6739429409.png" width="20" height="20" alt="Granola icon"> | [Granola inc](granola-inc.md) | 1 | 1 | 0 | 1 | 31 |
-| <img src="../assets/icons/android/com.grubhub.android.png" width="20" height="20" alt="Grubhub icon"> | [Grubhub](grubhub.md) | 1 | 0 | 1 | 2 | 44 |
+| <img src="../assets/icons/android/com.grubhub.android.png" width="20" height="20" alt="Grubhub icon"> | [Grubhub](grubhub.md) | 1 | 0 | 1 | 3 | 45 |
 | <img src="../assets/icons/ios/1139155460.png" width="20" height="20" alt="Gymshark icon"> | [Gymshark Ltd](gymshark-ltd.md) | 1 | 1 | 0 | 1 | 45 |
 | <img src="../assets/icons/ios/1630058362.png" width="20" height="20" alt="はま楽 icon"> | [HAMAZUSHI CO., LTD.](hamazushi-co-ltd.md) | 1 | 1 | 0 | 1 | 17 |
 | <img src="../assets/icons/android/com.ebookpdf.pdfreaderpro.allpdfviewer.png" width="20" height="20" alt="PDF Reader, Annotate on PDF icon"> | [HANLONG GROUP (HK) LIMITED](hanlong-group-hk-limited.md) | 1 | 0 | 1 | 1 | 15 |
@@ -142,6 +142,7 @@
 | <img src="../assets/icons/ios/416048305.png" width="20" height="20" alt="Meitu icon"> | [Meitu Technology Co., Ltd.](meitu-technology-co-ltd.md) | 1 | 1 | 0 | 1 | 137 |
 | <img src="../assets/icons/android/com.mercadolibre.png" width="20" height="20" alt="Mercado Libre icon"> | [Mercado Libre](mercado-libre.md) | 1 | 0 | 1 | 1 | 44 |
 | <img src="../assets/icons/ios/627410001.png" width="20" height="20" alt="Autofirma App icon"> | [Ministerio de Asuntos Economicos y Transformacion Digital](ministerio-de-asuntos-economicos-y-transformacion-digital.md) | 1 | 1 | 0 | 1 | 0 |
+| <img src="../assets/icons/ios/6469515422.png" width="20" height="20" alt="Nusuk icon"> | [Ministry of Hajj and Umrah](ministry-of-hajj-and-umrah.md) | 1 | 1 | 0 | 1 | 87 |
 | <img src="../assets/icons/ios/6754709202.png" width="20" height="20" alt="Q | كيو icon"> | [MOHAMMED BIN HALABI](mohammed-bin-halabi.md) | 1 | 1 | 0 | 1 | 36 |
 | <img src="../assets/icons/android/com.jmireports.bluesky.png" width="20" height="20" alt="BlueSkyVUE icon"> | [MorelandConnect](morelandconnect.md) | 1 | 0 | 1 | 1 | 28 |
 | <img src="../assets/icons/ios/1570860098.png" width="20" height="20" alt="myMTN NG icon"> | [MTN Nigeria](mtn-nigeria.md) | 1 | 1 | 0 | 1 | 41 |

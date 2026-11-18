@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "384.0",
+  "version": "385.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-10T08:23:26Z",
+    "captured_at": "2026-11-18T08:26:30Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-12T00:31:40Z"
+    "exported_at": "2026-11-18T09:08:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -162,7 +162,7 @@
       },
       {
         "name": "SystemIcons",
-        "version": "26.44",
+        "version": "26.45",
         "category": "other",
         "confidence": "observed"
       }

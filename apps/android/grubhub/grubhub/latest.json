@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2026.43.1",
+  "version": "2026.45",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-02T15:42:18Z",
+    "captured_at": "2026-11-18T08:48:36Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-12T00:31:40Z"
+    "exported_at": "2026-11-18T09:08:40Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 44,
+    "sdk_count": 45,
     "languages": [
       "C/C++ (native)",
       "Java",
@@ -210,6 +210,12 @@
         "name": "Google Maps",
         "version": null,
         "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "Media3 (ExoPlayer)",
+        "version": null,
+        "category": "media",
         "confidence": "observed"
       },
       {

@@ -13,8 +13,8 @@
 | Company | [Google](../../../../companies/google.md) |
 | Store id | `1096918571` |
 | Bundle / package id | `com.google.Tachyon` |
-| Latest version | 384.0 (analysed 2026-11-10) |
-| Versions tracked | 4 |
+| Latest version | 385.0 (analysed 2026-11-18) |
+| Versions tracked | 5 |
 | SDKs in latest version | 14 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
@@ -30,7 +30,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/google/google-meet-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/google/google-meet-light.svg"></picture>
 
-- **Other** (5): ABCCalloutView, AppUpdateService, ChronosSiriShortcutManager, MaterialM3CTextField, SystemIcons 26.44
+- **Other** (5): ABCCalloutView, AppUpdateService, ChronosSiriShortcutManager, MaterialM3CTextField, SystemIcons 26.45
 - **UI and rendering** (3): MaterialDialogs, MaterialPullToRefresh, MaterialSearch
 - **Networking** (2): GoogleKitCore, GoogleKitWeb
 - **Ads** (1): OneGoogle
@@ -56,6 +56,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 385.0 | 2026-11-18 |  | 14 | +0 / −0 | Yes | Yes | [385.0.json](385.0.json) |
 | 384.0 | 2026-11-10 |  | 14 | +0 / −0 | Yes | Yes | [384.0.json](384.0.json) |
 | 383.1 | 2026-11-05 | 2026-11-03 | 14 | +0 / −0 | Yes | Yes | [383.1.json](383.1.json) |
 | 382.1 | 2026-11-02 |  | 14 | +3 / −0 | Yes | Yes | [382.1.json](382.1.json) |

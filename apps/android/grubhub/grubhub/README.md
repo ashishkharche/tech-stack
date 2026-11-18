@@ -13,9 +13,9 @@
 | Company | [Grubhub](../../../../companies/grubhub.md) |
 | Store id | `com.grubhub.android` |
 | Bundle / package id | `com.grubhub.android` |
-| Latest version | 2026.43.1 (analysed 2026-11-02) |
-| Versions tracked | 2 |
-| SDKs in latest version | 44 |
+| Latest version | 2026.45 (analysed 2026-11-18) |
+| Versions tracked | 3 |
+| SDKs in latest version | 45 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components, Picasso |
 | Build | Gradle (inferred), R8 / ProGuard (name obfuscation detected) |
@@ -42,6 +42,7 @@
 - **Reactive and async** (2): Kotlin Coroutines, RxJava
 - **Ads** (1): Google Mobile Ads (AdMob)
 - **Feature flags** (1): LaunchDarkly
+- **Media** (1): Media3 (ExoPlayer)
 - **Social** (1): Facebook Share
 
 <details>
@@ -55,11 +56,13 @@ Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2026.45 | 2026-11-18 |  | 45 | +1 / −0 | Yes | No | [2026.45.json](2026.45.json) |
 | 2026.43.1 | 2026-11-02 |  | 44 | +2 / −2 | Yes | No | [2026.43.1.json](2026.43.1.json) |
 | 2026.23 | 2026-06-19 |  | 44 |  | Yes | No | [2026.23.json](2026.23.json) |
 
 ### SDK changes between versions
 
+- 2026.43.1 → 2026.45: added Media3 (ExoPlayer)
 - 2026.23 → 2026.43.1: added Cronet, Cronet (Google); removed axios, Fresco
 
 ---
