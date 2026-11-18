@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">369 apps · 493 versions · 250 companies · 4,607 SDKs</p>
+<p align="center">370 apps · 495 versions · 251 companies · 4,683 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 190 of 193 iOS apps, and Jetpack Compose is in 136 of 176 Android apps. 89 apps also use a cross-platform runtime.
+SwiftUI is in 191 of 194 iOS apps, and Jetpack Compose is in 136 of 176 Android apps. 89 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 190 of 193 iOS apps, and Jetpack Compose is in 136 of 176 Android 
 
 ## What most apps ship
 
-Firebase is in 243 of 369 apps. 78% of apps ship at least one analytics SDK.
+Firebase is in 244 of 370 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -75,7 +75,7 @@ The median app ships 36 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## How apps change between versions
 
-65 of 124 updates changed the SDK list. Together they added 184 SDKs and removed 260.
+65 of 125 updates changed the SDK list. Together they added 184 SDKs and removed 260.
 
 **SDKs added and removed between versions**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 202 of 250 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 203 of 251 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,14 +129,14 @@ Google and Google LLC share the most apps, with 21 each. 202 of 250 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/android/grubhub/grubhub/README.md"><img src="assets/icons/android/com.grubhub.android.png" width="56" height="56" alt="Grubhub icon"></a><br><a href="apps/android/grubhub/grubhub/README.md"><sub><b>Grubhub</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ministry-of-hajj-and-umrah/nusuk/README.md"><img src="assets/icons/ios/6469515422.png" width="56" height="56" alt="Nusuk icon"></a><br><a href="apps/ios/ministry-of-hajj-and-umrah/nusuk/README.md"><sub><b>Nusuk</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/google-meet/README.md"><img src="assets/icons/ios/1096918571.png" width="56" height="56" alt="Google Meet icon"></a><br><a href="apps/ios/google/google-meet/README.md"><sub><b>Google Meet</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/insanity-group/skins-projeto-grau-2/README.md"><img src="assets/icons/android/com.InsanityGroup.SkinsProjetoGrau2.png" width="56" height="56" alt="Skins Projeto Grau 2 icon"></a><br><a href="apps/android/insanity-group/skins-projeto-grau-2/README.md"><sub><b>Skins Projeto Grau 2</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/grab-holdings/grab/README.md"><img src="assets/icons/android/com.grabtaxi.passenger.png" width="56" height="56" alt="Grab icon"></a><br><a href="apps/android/grab-holdings/grab/README.md"><sub><b>Grab</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/marketing-affiliates-ltda/befitway/README.md"><img src="assets/icons/ios/6812807809.png" width="56" height="56" alt="BeFitWay icon"></a><br><a href="apps/ios/marketing-affiliates-ltda/befitway/README.md"><sub><b>BeFitWay</b></sub></a><br><sub>iOS · 2026-11-18</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/google/google-keep/README.md"><img src="assets/icons/ios/1029207872.png" width="56" height="56" alt="Google Keep icon"></a><br><a href="apps/ios/google/google-keep/README.md"><sub><b>Google Keep</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/nskeskyen-aps/gowish/README.md"><img src="assets/icons/android/com.gowish.app.jpg" width="56" height="56" alt="GoWish icon"></a><br><a href="apps/android/nskeskyen-aps/gowish/README.md"><sub><b>GoWish</b></sub></a><br><sub>Android · 2026-11-17</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ica-sverige-ab/ica/README.md"><img src="assets/icons/ios/458324110.png" width="56" height="56" alt="ICA icon"></a><br><a href="apps/ios/ica-sverige-ab/ica/README.md"><sub><b>ICA</b></sub></a><br><sub>iOS · 2026-11-17</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/lyft-inc/tfl-santander-cycles/README.md"><img src="assets/icons/ios/6748404131.png" width="56" height="56" alt="TfL Santander Cycles icon"></a><br><a href="apps/ios/lyft-inc/tfl-santander-cycles/README.md"><sub><b>TfL Santander Cycles</b></sub></a><br><sub>iOS · 2026-11-17</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/uber-technologies-inc/uber-eats/README.md"><img src="assets/icons/ios/1058959277.png" width="56" height="56" alt="Uber Eats icon"></a><br><a href="apps/ios/uber-technologies-inc/uber-eats/README.md"><sub><b>Uber Eats</b></sub></a><br><sub>iOS · 2026-11-17</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/google-llc/youtube/README.md"><img src="assets/icons/android/com.google.android.youtube.png" width="56" height="56" alt="YouTube icon"></a><br><a href="apps/android/google-llc/youtube/README.md"><sub><b>YouTube</b></sub></a><br><sub>Android · 2026-11-17</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md"><img src="assets/icons/ios/6740224837.png" width="56" height="56" alt="Joybuy-Don't just buy, Joybuy! icon"></a><br><a href="apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md"><sub><b>Joybuy-Don't just buy, Joybuy!</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><img src="assets/icons/ios/1113153706.png" width="56" height="56" alt="Microsoft Teams icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><sub><b>Microsoft Teams</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/grubhub/grubhub/README.md"><img src="assets/icons/android/com.grubhub.android.png" width="56" height="56" alt="Grubhub icon"></a><br><a href="apps/android/grubhub/grubhub/README.md"><sub><b>Grubhub</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ministry-of-hajj-and-umrah/nusuk/README.md"><img src="assets/icons/ios/6469515422.png" width="56" height="56" alt="Nusuk icon"></a><br><a href="apps/ios/ministry-of-hajj-and-umrah/nusuk/README.md"><sub><b>Nusuk</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/google-meet/README.md"><img src="assets/icons/ios/1096918571.png" width="56" height="56" alt="Google Meet icon"></a><br><a href="apps/ios/google/google-meet/README.md"><sub><b>Google Meet</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/insanity-group/skins-projeto-grau-2/README.md"><img src="assets/icons/android/com.InsanityGroup.SkinsProjetoGrau2.png" width="56" height="56" alt="Skins Projeto Grau 2 icon"></a><br><a href="apps/android/insanity-group/skins-projeto-grau-2/README.md"><sub><b>Skins Projeto Grau 2</b></sub></a><br><sub>Android · 2026-11-18</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/grab-holdings/grab/README.md"><img src="assets/icons/android/com.grabtaxi.passenger.png" width="56" height="56" alt="Grab icon"></a><br><a href="apps/android/grab-holdings/grab/README.md"><sub><b>Grab</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/marketing-affiliates-ltda/befitway/README.md"><img src="assets/icons/ios/6812807809.png" width="56" height="56" alt="BeFitWay icon"></a><br><a href="apps/ios/marketing-affiliates-ltda/befitway/README.md"><sub><b>BeFitWay</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/google-keep/README.md"><img src="assets/icons/ios/1029207872.png" width="56" height="56" alt="Google Keep icon"></a><br><a href="apps/ios/google/google-keep/README.md"><sub><b>Google Keep</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/nskeskyen-aps/gowish/README.md"><img src="assets/icons/android/com.gowish.app.jpg" width="56" height="56" alt="GoWish icon"></a><br><a href="apps/android/nskeskyen-aps/gowish/README.md"><sub><b>GoWish</b></sub></a><br><sub>Android · 2026-11-17</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ica-sverige-ab/ica/README.md"><img src="assets/icons/ios/458324110.png" width="56" height="56" alt="ICA icon"></a><br><a href="apps/ios/ica-sverige-ab/ica/README.md"><sub><b>ICA</b></sub></a><br><sub>iOS · 2026-11-17</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/lyft-inc/tfl-santander-cycles/README.md"><img src="assets/icons/ios/6748404131.png" width="56" height="56" alt="TfL Santander Cycles icon"></a><br><a href="apps/ios/lyft-inc/tfl-santander-cycles/README.md"><sub><b>TfL Santander Cycles</b></sub></a><br><sub>iOS · 2026-11-17</sub></td></tr>
 </table>
 
 ### All apps
 
 <details>
-<summary>iOS (193 apps)</summary>
+<summary>iOS (194 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -222,6 +222,7 @@ Google and Google LLC share the most apps, with 21 each. 202 of 250 companies ha
 | <img src="assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeart: Radio, Music, Podcasts](apps/ios/iheartmedia-management-services-inc/iheart/README.md) | [iHeartMedia Management Services, Inc.](companies/iheartmedia-management-services-inc.md) | 10.64.0 | 88 |
 | <img src="assets/icons/ios/389801252.png" width="20" height="20" alt="Instagram icon"> | [Instagram](apps/ios/instagram-inc/instagram/README.md) | [Instagram, Inc.](companies/instagram-inc.md) | 432.0.0 | 13 |
 | <img src="assets/icons/ios/6756442328.png" width="20" height="20" alt="Instants icon"> | [Instants – an Instagram app](apps/ios/instagram-inc/instants-an-instagram-app/README.md) | [Instagram, Inc.](companies/instagram-inc.md) | 454.0.0 | 7 |
+| <img src="assets/icons/ios/6740224837.png" width="20" height="20" alt="Joybuy-Don't just buy, Joybuy! icon"> | [Joybuy-Don't just buy, Joybuy!](apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md) | [Joybuy](companies/joybuy.md) | 1.1.6 | 102 |
 | <img src="assets/icons/ios/6752915724.png" width="20" height="20" alt="Kalo icon"> | [Kalo: AI Calorie Counter](apps/ios/shelgaon-ltd/kalo/README.md) | [Shelgaon Ltd](companies/shelgaon-ltd.md) | 1.6.9 | 24 |
 | <img src="assets/icons/ios/6474233312.png" width="20" height="20" alt="Kimi icon"> | [Kimi - Your Personal AI Agent](apps/ios/moonshot-ai/kimi/README.md) | [Moonshot AI](companies/moonshot-ai.md) | 3.1.6 | 82 |
 | <img src="assets/icons/ios/6472232952.png" width="20" height="20" alt="Koupon icon"> | [Koupon: Vouchers & Discounts](apps/ios/koupon-inc/koupon/README.md) | [Koupon Inc.](companies/koupon-inc.md) | 3.1.4 | 38 |
@@ -244,7 +245,7 @@ Google and Google LLC share the most apps, with 21 each. 202 of 250 companies ha
 | <img src="assets/icons/ios/1288723196.png" width="20" height="20" alt="Microsoft Edge icon"> | [Microsoft Edge](apps/ios/microsoft-corporation/microsoft-edge/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 157.4341.42 | 20 |
 | <img src="assets/icons/ios/410395246.png" width="20" height="20" alt="Microsoft OneNote icon"> | [Microsoft OneNote](apps/ios/microsoft-corporation/microsoft-onenote/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 16.109.3 | 2 |
 | <img src="assets/icons/ios/911813648.png" width="20" height="20" alt="Microsoft SwiftKey AI Keyboard icon"> | [Microsoft SwiftKey AI Keyboard](apps/ios/swiftkey/microsoft-swiftkey-ai-keyboard/README.md) | [SwiftKey](companies/swiftkey.md) | 4.3.2 | 46 |
-| <img src="assets/icons/ios/1113153706.png" width="20" height="20" alt="Microsoft Teams icon"> | [Microsoft Teams](apps/ios/microsoft-corporation/microsoft-teams/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 8.19.3 | 51 |
+| <img src="assets/icons/ios/1113153706.png" width="20" height="20" alt="Microsoft Teams icon"> | [Microsoft Teams](apps/ios/microsoft-corporation/microsoft-teams/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 8.20.1 | 51 |
 | <img src="assets/icons/ios/1212616790.png" width="20" height="20" alt="Microsoft To Do icon"> | [Microsoft To Do](apps/ios/microsoft-corporation/microsoft-to-do/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 2.177 | 12 |
 | <img src="assets/icons/ios/586447913.png" width="20" height="20" alt="Microsoft Word icon"> | [Microsoft Word](apps/ios/microsoft-corporation/microsoft-word/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 2.115.2 | 11 |
 | <img src="assets/icons/ios/382952264.png" width="20" height="20" alt="MyChart icon"> | [MyChart](apps/ios/epic/mychart/README.md) | [Epic](companies/epic.md) | 11.9.5 | 0 |

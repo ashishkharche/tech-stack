@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "8.19.3",
+  "version": "8.20.1",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-06T13:44:12Z",
-    "store_first_seen_at": "2026-11-06T00:00:06Z",
-    "store_updated_at": "2026-11-05T01:39:22Z",
-    "exported_at": "2026-11-12T00:31:40Z"
+    "captured_at": "2026-11-18T16:28:10Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-18T16:59:17Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -308,7 +308,7 @@
       },
       {
         "name": "LocalizedStringKit",
-        "version": "6.7.3",
+        "version": "6.8.1",
         "category": "other",
         "confidence": "observed"
       },
@@ -344,25 +344,25 @@
       },
       {
         "name": "OneAuth",
-        "version": "11.1.1",
+        "version": "12.0.0",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "OnePlayerCore",
-        "version": "9.5.41",
+        "version": "9.7.1",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "OnePlayerExtensions",
-        "version": "9.5.41",
+        "version": "9.7.1",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "OnePlayerUI",
-        "version": "9.5.41",
+        "version": "9.7.1",
         "category": "other",
         "confidence": "observed"
       },
