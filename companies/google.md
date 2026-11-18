@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**21** apps (21 iOS, 0 Android) · **32** versions · **85** distinct SDKs across their latest versions
+**21** apps (21 iOS, 0 Android) · **33** versions · **85** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/google/gemini-notebook/README.md"><img src="../assets/icons/ios/6737527615.png" width="56" height="56" alt="Gemini Notebook icon"></a><br><a href="../apps/ios/google/gemini-notebook/README.md"><sub><b>Gemini Notebook</b></sub></a><br><sub>iOS · 14 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/google/gmail-email-by-google/README.md"><img src="../assets/icons/ios/422689480.png" width="56" height="56" alt="Gmail icon"></a><br><a href="../apps/ios/google/gmail-email-by-google/README.md"><sub><b>Gmail</b></sub></a><br><sub>iOS · 14 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/google/google/README.md"><img src="../assets/icons/ios/284815942.png" width="56" height="56" alt="Google icon"></a><br><a href="../apps/ios/google/google/README.md"><sub><b>Google</b></sub></a><br><sub>iOS · 13 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/google/google-authenticator/README.md"><img src="../assets/icons/ios/388497605.png" width="56" height="56" alt="Google Authenticator icon"></a><br><a href="../apps/ios/google/google-authenticator/README.md"><sub><b>Google Authenticator</b></sub></a><br><sub>iOS · 16 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/google/google-calendar/README.md"><img src="../assets/icons/ios/909319292.png" width="56" height="56" alt="Google Calendar icon"></a><br><a href="../apps/ios/google/google-calendar/README.md"><sub><b>Google Calendar</b></sub></a><br><sub>iOS · 9 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/google/google-classroom/README.md"><img src="../assets/icons/ios/924620788.png" width="56" height="56" alt="Google Classroom icon"></a><br><a href="../apps/ios/google/google-classroom/README.md"><sub><b>Google Classroom</b></sub></a><br><sub>iOS · 11 SDKs</sub></td></tr>
@@ -37,7 +37,7 @@ The company name is the developer name on the store listing.
 | <img src="../assets/icons/ios/414706506.png" width="20" height="20" alt="Google Translate icon"> | [Google Translate](../apps/ios/google/google-translate/README.md) | iOS | 1 | 10.21.273 | 2026-06-19 | 9 | No |
 | <img src="../assets/icons/ios/318698524.png" width="20" height="20" alt="Google Voice icon"> | [Google Voice](../apps/ios/google/google-voice/README.md) | iOS | 2 | 26.22 | 2026-06-19 | 3 | No |
 | <img src="../assets/icons/ios/544007664.png" width="20" height="20" alt="YouTube icon"> | [YouTube](../apps/ios/google/youtube/README.md) | iOS | 1 | 21.42.4 | 2026-10-24 | 19 | No |
-| <img src="../assets/icons/ios/1017492454.png" width="20" height="20" alt="YouTube Music icon"> | [YouTube Music](../apps/ios/google/youtube-music/README.md) | iOS | 2 | 9.44.2 | 2026-11-04 | 19 | No |
+| <img src="../assets/icons/ios/1017492454.png" width="20" height="20" alt="YouTube Music icon"> | [YouTube Music](../apps/ios/google/youtube-music/README.md) | iOS | 3 | 9.46.5 | 2026-11-18 | 19 | No |
 
 ## SDKs by category
 

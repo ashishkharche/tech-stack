@@ -13,8 +13,8 @@
 | Company | [Hotels.com LP](../../../../companies/hotels-com-lp.md) |
 | Store id | `com.hcom.android` |
 | Bundle / package id | `com.hcom.android` |
-| Latest version | 2026.43.0 (analysed 2026-11-02) |
-| Versions tracked | 2 |
+| Latest version | 2026.45.0 (analysed 2026-11-18) |
+| Versions tracked | 3 |
 | SDKs in latest version | 43 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
@@ -59,6 +59,7 @@ Advertising ID, Approximate location, Biometric auth, Calendar (read), Calendar 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2026.45.0 | 2026-11-18 |  | 43 | +0 / −0 | No | No | [2026.45.0.json](2026.45.0.json) |
 | 2026.43.0 | 2026-11-02 | 2026-10-30 | 43 | +1 / −0 | No | No | [2026.43.0.json](2026.43.0.json) |
 | 2026.25.0 | 2026-06-25 |  | 42 |  | No | No | [2026.25.0.json](2026.25.0.json) |
 

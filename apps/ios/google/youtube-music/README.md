@@ -13,8 +13,8 @@
 | Company | [Google](../../../../companies/google.md) |
 | Store id | `1017492454` |
 | Bundle / package id | `com.google.ios.youtubemusic` |
-| Latest version | 9.44.2 (analysed 2026-11-04) |
-| Versions tracked | 2 |
+| Latest version | 9.46.5 (analysed 2026-11-18) |
+| Versions tracked | 3 |
 | SDKs in latest version | 19 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
@@ -58,6 +58,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 9.46.5 | 2026-11-18 |  | 19 | +0 / −0 | Yes | Yes | [9.46.5.json](9.46.5.json) |
 | 9.44.2 | 2026-11-04 |  | 19 | +2 / −0 | Yes | Yes | [9.44.2.json](9.44.2.json) |
 | 9.22.2 | 2026-06-19 |  | 17 |  | Yes | Yes | [9.22.2.json](9.22.2.json) |
 

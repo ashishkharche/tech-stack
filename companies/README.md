@@ -2,11 +2,11 @@
 
 # Companies
 
-251 companies. Each name is the developer name on the store listing.
+252 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 32 | 85 |
+| <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 33 | 85 |
 | <img src="../assets/icons/android/com.google.android.gm.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/android/com.google.android.googlequicksearchbox.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/android/com.google.android.calendar.png" width="20" height="20" alt="Google Calendar icon"> <img src="../assets/icons/android/com.google.android.apps.dynamite.png" width="20" height="20" alt="Google Chat icon"> <img src="../assets/icons/android/com.android.chrome.png" width="20" height="20" alt="Google Chrome icon"> | [Google LLC](google-llc.md) | 21 | 0 | 21 | 30 | 41 |
 | <img src="../assets/icons/android/com.azure.authenticator.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/983156458.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/345323231.png" width="20" height="20" alt="Microsoft Bing Search icon"> <img src="../assets/icons/android/com.microsoft.bingwebmastertools.twa.png" width="20" height="20" alt="Microsoft Bing Webmaster Tools icon"> <img src="../assets/icons/ios/541164041.png" width="20" height="20" alt="Microsoft Copilot icon"> | [Microsoft Corporation](microsoft-corporation.md) | 20 | 8 | 12 | 30 | 249 |
 | <img src="../assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/454638411.png" width="20" height="20" alt="Messenger icon"> <img src="../assets/icons/android/com.facebook.stella.png" width="20" height="20" alt="Meta AI icon"> <img src="../assets/icons/ios/1558240027.png" width="20" height="20" alt="Meta AI icon"> | [Meta Platforms, Inc.](meta-platforms-inc.md) | 6 | 3 | 3 | 12 | 46 |
@@ -116,9 +116,10 @@
 | <img src="../assets/icons/android/com.ebookpdf.pdfreaderpro.allpdfviewer.png" width="20" height="20" alt="PDF Reader, Annotate on PDF icon"> | [HANLONG GROUP (HK) LIMITED](hanlong-group-hk-limited.md) | 1 | 0 | 1 | 1 | 15 |
 | <img src="../assets/icons/android/com.hilton.android.hhonors.png" width="20" height="20" alt="Hilton Honors icon"> | [Hilton](hilton.md) | 1 | 0 | 1 | 2 | 29 |
 | <img src="../assets/icons/android/com.hopper.mountainview.play.png" width="20" height="20" alt="Hopper icon"> | [Hopper Inc.](hopper-inc.md) | 1 | 0 | 1 | 1 | 36 |
-| <img src="../assets/icons/android/com.hcom.android.png" width="20" height="20" alt="Hotels.com icon"> | [Hotels.com LP](hotels-com-lp.md) | 1 | 0 | 1 | 2 | 43 |
+| <img src="../assets/icons/android/com.hcom.android.png" width="20" height="20" alt="Hotels.com icon"> | [Hotels.com LP](hotels-com-lp.md) | 1 | 0 | 1 | 3 | 43 |
 | <img src="../assets/icons/ios/6477774492.png" width="20" height="20" alt="Hudhud icon"> | [Hudhud Information Technology Company](hudhud-information-technology-company.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/ios/376510438.png" width="20" height="20" alt="Hulu icon"> | [Hulu, LLC](hulu-llc.md) | 1 | 1 | 0 | 1 | 28 |
+| <img src="../assets/icons/ios/1553931951.png" width="20" height="20" alt="iBoxen icon"> | [iBoxen Infrastruktur Sverige AB](iboxen-infrastruktur-sverige-ab.md) | 1 | 1 | 0 | 1 | 21 |
 | <img src="../assets/icons/ios/458324110.png" width="20" height="20" alt="ICA icon"> | [ICA Sverige AB](ica-sverige-ab.md) | 1 | 1 | 0 | 1 | 19 |
 | <img src="../assets/icons/ios/6476790495.png" width="20" height="20" alt="Ideogram AI icon"> | [Ideogram](ideogram.md) | 1 | 1 | 0 | 1 | 19 |
 | <img src="../assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeartMedia Management Services, Inc.](iheartmedia-management-services-inc.md) | 1 | 1 | 0 | 1 | 88 |
