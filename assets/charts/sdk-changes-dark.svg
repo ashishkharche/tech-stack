@@ -8,64 +8,64 @@
 <text x="270.03999999999996" y="18" font-size="13" fill="#A9B2BC">Added</text>
 <line x1="478.7" y1="30" x2="478.7" y2="384" stroke="#262A2D"/>
 <text x="145.44" y="47" font-size="13" text-anchor="end" fill="#F1F6F3">DataStore</text>
-<rect x="437.1" y="34" width="41.6" height="16" rx="3" fill="#5F6A6C"/>
-<text x="431.1" y="47" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
+<rect x="442.3" y="34" width="36.4" height="16" rx="3" fill="#5F6A6C"/>
+<text x="436.3" y="47" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
 <rect x="478.7" y="34" width="291.3" height="16" rx="3" fill="#F1F6F3"/>
-<text x="776.0" y="47" font-size="12" fill="#A9B2BC">7</text>
+<text x="776.0" y="47" font-size="12" fill="#A9B2BC">8</text>
 <text x="145.44" y="72" font-size="13" text-anchor="end" fill="#F1F6F3">Lottie</text>
-<rect x="353.9" y="59" width="124.8" height="16" rx="3" fill="#5F6A6C"/>
-<text x="347.9" y="72" font-size="12" text-anchor="end" fill="#A9B2BC">3</text>
-<rect x="478.7" y="59" width="166.4" height="16" rx="3" fill="#F1F6F3"/>
-<text x="651.2" y="72" font-size="12" fill="#A9B2BC">4</text>
+<rect x="369.5" y="59" width="109.2" height="16" rx="3" fill="#5F6A6C"/>
+<text x="363.5" y="72" font-size="12" text-anchor="end" fill="#A9B2BC">3</text>
+<rect x="478.7" y="59" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
+<text x="630.4" y="72" font-size="12" fill="#A9B2BC">4</text>
 <text x="145.44" y="97" font-size="13" text-anchor="end" fill="#F1F6F3">Highlight.js</text>
-<rect x="395.5" y="84" width="83.2" height="16" rx="3" fill="#5F6A6C"/>
-<text x="389.5" y="97" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
-<rect x="478.7" y="84" width="166.4" height="16" rx="3" fill="#F1F6F3"/>
-<text x="651.2" y="97" font-size="12" fill="#A9B2BC">4</text>
+<rect x="405.9" y="84" width="72.8" height="16" rx="3" fill="#5F6A6C"/>
+<text x="399.9" y="97" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
+<rect x="478.7" y="84" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
+<text x="630.4" y="97" font-size="12" fill="#A9B2BC">4</text>
 <text x="145.44" y="122" font-size="13" text-anchor="end" fill="#F1F6F3">Coil</text>
-<rect x="395.5" y="109" width="83.2" height="16" rx="3" fill="#5F6A6C"/>
-<text x="389.5" y="122" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
-<rect x="478.7" y="109" width="124.8" height="16" rx="3" fill="#F1F6F3"/>
-<text x="609.6" y="122" font-size="12" fill="#A9B2BC">3</text>
+<rect x="405.9" y="109" width="72.8" height="16" rx="3" fill="#5F6A6C"/>
+<text x="399.9" y="122" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
+<rect x="478.7" y="109" width="109.2" height="16" rx="3" fill="#F1F6F3"/>
+<text x="593.9" y="122" font-size="12" fill="#A9B2BC">3</text>
 <text x="145.44" y="147" font-size="13" text-anchor="end" fill="#F1F6F3">react-native-svg</text>
-<rect x="270.7" y="134" width="208.1" height="16" rx="3" fill="#5F6A6C"/>
-<text x="264.7" y="147" font-size="12" text-anchor="end" fill="#A9B2BC">5</text>
+<rect x="296.7" y="134" width="182.0" height="16" rx="3" fill="#5F6A6C"/>
+<text x="290.7" y="147" font-size="12" text-anchor="end" fill="#A9B2BC">5</text>
 <text x="145.44" y="172" font-size="13" text-anchor="end" fill="#F1F6F3">Cronet</text>
-<rect x="478.7" y="159" width="166.4" height="16" rx="3" fill="#F1F6F3"/>
-<text x="651.2" y="172" font-size="12" fill="#A9B2BC">4</text>
+<rect x="478.7" y="159" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
+<text x="630.4" y="172" font-size="12" fill="#A9B2BC">4</text>
 <text x="145.44" y="197" font-size="13" text-anchor="end" fill="#F1F6F3">Firebase Messaging</text>
-<rect x="478.7" y="184" width="166.4" height="16" rx="3" fill="#F1F6F3"/>
-<text x="651.2" y="197" font-size="12" fill="#A9B2BC">4</text>
+<rect x="478.7" y="184" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
+<text x="630.4" y="197" font-size="12" fill="#A9B2BC">4</text>
 <text x="145.44" y="222" font-size="13" text-anchor="end" fill="#F1F6F3">MaterialM3CTextField</text>
-<rect x="478.7" y="209" width="166.4" height="16" rx="3" fill="#F1F6F3"/>
-<text x="651.2" y="222" font-size="12" fill="#A9B2BC">4</text>
+<rect x="478.7" y="209" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
+<text x="630.4" y="222" font-size="12" fill="#A9B2BC">4</text>
 <text x="145.44" y="247" font-size="13" text-anchor="end" fill="#F1F6F3">Sentry</text>
-<rect x="395.5" y="234" width="83.2" height="16" rx="3" fill="#5F6A6C"/>
-<text x="389.5" y="247" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
-<rect x="478.7" y="234" width="83.2" height="16" rx="3" fill="#F1F6F3"/>
-<text x="567.9" y="247" font-size="12" fill="#A9B2BC">2</text>
+<rect x="405.9" y="234" width="72.8" height="16" rx="3" fill="#5F6A6C"/>
+<text x="399.9" y="247" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
+<rect x="478.7" y="234" width="72.8" height="16" rx="3" fill="#F1F6F3"/>
+<text x="557.5" y="247" font-size="12" fill="#A9B2BC">2</text>
 <text x="145.44" y="272" font-size="13" text-anchor="end" fill="#F1F6F3">TensorFlow</text>
-<rect x="312.3" y="259" width="166.4" height="16" rx="3" fill="#5F6A6C"/>
-<text x="306.3" y="272" font-size="12" text-anchor="end" fill="#A9B2BC">4</text>
+<rect x="333.1" y="259" width="145.6" height="16" rx="3" fill="#5F6A6C"/>
+<text x="327.1" y="272" font-size="12" text-anchor="end" fill="#A9B2BC">4</text>
 <text x="145.44" y="297" font-size="13" text-anchor="end" fill="#F1F6F3">AndroidSVG</text>
-<rect x="437.1" y="284" width="41.6" height="16" rx="3" fill="#5F6A6C"/>
-<text x="431.1" y="297" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
-<rect x="478.7" y="284" width="83.2" height="16" rx="3" fill="#F1F6F3"/>
-<text x="567.9" y="297" font-size="12" fill="#A9B2BC">2</text>
+<rect x="442.3" y="284" width="36.4" height="16" rx="3" fill="#5F6A6C"/>
+<text x="436.3" y="297" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
+<rect x="478.7" y="284" width="72.8" height="16" rx="3" fill="#F1F6F3"/>
+<text x="557.5" y="297" font-size="12" fill="#A9B2BC">2</text>
 <text x="145.44" y="322" font-size="13" text-anchor="end" fill="#F1F6F3">Apollo GraphQL</text>
-<rect x="395.5" y="309" width="83.2" height="16" rx="3" fill="#5F6A6C"/>
-<text x="389.5" y="322" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
-<rect x="478.7" y="309" width="41.6" height="16" rx="3" fill="#F1F6F3"/>
-<text x="526.3" y="322" font-size="12" fill="#A9B2BC">1</text>
+<rect x="405.9" y="309" width="72.8" height="16" rx="3" fill="#5F6A6C"/>
+<text x="399.9" y="322" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
+<rect x="478.7" y="309" width="36.4" height="16" rx="3" fill="#F1F6F3"/>
+<text x="521.1" y="322" font-size="12" fill="#A9B2BC">1</text>
 <text x="145.44" y="347" font-size="13" text-anchor="end" fill="#F1F6F3">Auth0</text>
-<rect x="395.5" y="334" width="83.2" height="16" rx="3" fill="#5F6A6C"/>
-<text x="389.5" y="347" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
-<rect x="478.7" y="334" width="41.6" height="16" rx="3" fill="#F1F6F3"/>
-<text x="526.3" y="347" font-size="12" fill="#A9B2BC">1</text>
+<rect x="405.9" y="334" width="72.8" height="16" rx="3" fill="#5F6A6C"/>
+<text x="399.9" y="347" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
+<rect x="478.7" y="334" width="36.4" height="16" rx="3" fill="#F1F6F3"/>
+<text x="521.1" y="347" font-size="12" fill="#A9B2BC">1</text>
 <text x="145.44" y="372" font-size="13" text-anchor="end" fill="#F1F6F3">Branch</text>
-<rect x="395.5" y="359" width="83.2" height="16" rx="3" fill="#5F6A6C"/>
-<text x="389.5" y="372" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
-<rect x="478.7" y="359" width="41.6" height="16" rx="3" fill="#F1F6F3"/>
-<text x="526.3" y="372" font-size="12" fill="#A9B2BC">1</text>
+<rect x="405.9" y="359" width="72.8" height="16" rx="3" fill="#5F6A6C"/>
+<text x="399.9" y="372" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
+<rect x="478.7" y="359" width="36.4" height="16" rx="3" fill="#F1F6F3"/>
+<text x="521.1" y="372" font-size="12" fill="#A9B2BC">1</text>
 </g>
 </svg>

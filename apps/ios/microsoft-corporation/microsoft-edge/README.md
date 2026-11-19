@@ -13,8 +13,8 @@
 | Company | [Microsoft Corporation](../../../../companies/microsoft-corporation.md) |
 | Store id | `1288723196` |
 | Bundle / package id | `com.microsoft.msedge` |
-| Latest version | 157.4341.42 (analysed 2026-11-11) |
-| Versions tracked | 3 |
+| Latest version | 157.4341.57 (analysed 2026-11-19) |
+| Versions tracked | 4 |
 | SDKs in latest version | 20 |
 | Languages | C/C++, Objective-C, Swift |
 | UI | SwiftUI, UIKit |
@@ -53,6 +53,7 @@ App Groups, Associated Domains (Universal Links), AutoFill Credentials, Backgrou
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 157.4341.57 | 2026-11-19 |  | 20 | +0 / −0 | Yes | Yes | [157.4341.57.json](157.4341.57.json) |
 | 157.4341.42 | 2026-11-11 |  | 20 | +0 / −68 | Yes | Yes | [157.4341.42.json](157.4341.42.json) |
 | 156.4314.56 | 2026-11-02 | 2026-11-02 | 88 | +3 / −0 | Yes | Yes | [156.4314.56.json](156.4314.56.json) |
 | 148.3967.97 | 2026-06-19 |  | 85 |  | Yes | Yes | [148.3967.97.json](148.3967.97.json) |

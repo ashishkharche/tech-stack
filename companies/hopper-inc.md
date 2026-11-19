@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **36** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **37** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/hopper-inc/hopper/README.md"><img src="../assets/icons/android/com.hopper.mountainview.play.png" width="56" height="56" alt="Hopper icon"></a><br><a href="../apps/android/hopper-inc/hopper/README.md"><sub><b>Hopper</b></sub></a><br><sub>Android · 36 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/hopper-inc/hopper/README.md"><img src="../assets/icons/android/com.hopper.mountainview.play.png" width="56" height="56" alt="Hopper icon"></a><br><a href="../apps/android/hopper-inc/hopper/README.md"><sub><b>Hopper</b></sub></a><br><sub>Android · 37 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.hopper.mountainview.play.png" width="20" height="20" alt="Hopper icon"> | [Hopper: Hotels, Flights & Cars](../apps/android/hopper-inc/hopper/README.md) | Android | 1 | 5.107.0 | 2026-06-25 | 36 | No |
+| <img src="../assets/icons/android/com.hopper.mountainview.play.png" width="20" height="20" alt="Hopper icon"> | [Hopper: Hotels, Flights & Cars](../apps/android/hopper-inc/hopper/README.md) | Android | 2 | 5.116.0 | 2026-11-19 | 37 | No |
 
 ## SDKs by category
 

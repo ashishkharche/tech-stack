@@ -13,15 +13,15 @@
 | Company | [Hopper Inc.](../../../../companies/hopper-inc.md) |
 | Store id | `com.hopper.mountainview.play` |
 | Bundle / package id | `com.hopper.mountainview.play` |
-| Latest version | 5.107.0 (analysed 2026-06-25) |
-| Versions tracked | 1 |
-| SDKs in latest version | 36 |
+| Latest version | 5.116.0 (analysed 2026-11-19) |
+| Versions tracked | 2 |
+| SDKs in latest version | 37 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
 | Build | Gradle (inferred) |
-| Minimum OS | API 29, targets API 35 |
+| Minimum OS | API 29, targets API 36 |
 | Devices / ABIs | Android |
-| Capabilities | 6 |
+| Capabilities | 7 |
 | Declares tracking | Yes |
 | Tracked | No. Kept for history. |
 
@@ -33,12 +33,12 @@
 - **Analytics** (5): AppsFlyer, Facebook SDK, Firebase Analytics, Google App Measurement, Mixpanel
 - **Crash and performance** (3): Datadog, Firebase Crashlytics, Firebase Performance
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
+- **Storage** (3): DataStore, Okio, Room
 - **Anti-fraud and integrity** (2): Play Integrity, reCAPTCHA
 - **Sign-in and auth** (2): Facebook Login, Google Sign-In / Auth
 - **Maps and location** (2): Google Location, Google Maps
 - **Networking** (2): OkHttp, Retrofit
 - **Reactive and async** (2): Kotlin Coroutines, RxJava
-- **Storage** (2): Okio, Room
 - **Ads** (1): Google Mobile Ads (AdMob)
 - **Feature flags** (1): Firebase Remote Config
 - **Media** (1): Media3 (ExoPlayer)
@@ -48,9 +48,9 @@
 - **Telephony** (1): libphonenumber
 
 <details>
-<summary>Capabilities (6)</summary>
+<summary>Capabilities (7)</summary>
 
-Advertising ID, Approximate location, Foreground service, Notifications, Phone / carrier info, Storage (read)
+Advertising ID, Approximate location, Foreground service, Microphone, Notifications, Phone / carrier info, Storage (read)
 
 </details>
 
@@ -58,7 +58,12 @@ Advertising ID, Approximate location, Foreground service, Notifications, Phone /
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 5.116.0 | 2026-11-19 | 2026-10-31 | 37 | +1 / −0 | No | No | [5.116.0.json](5.116.0.json) |
 | 5.107.0 | 2026-06-25 |  | 36 |  | No | No | [5.107.0.json](5.107.0.json) |
+
+### SDK changes between versions
+
+- 5.107.0 → 5.116.0: added DataStore
 
 ---
 

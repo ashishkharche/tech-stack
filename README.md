@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">373 apps · 501 versions · 254 companies · 4,690 SDKs</p>
+<p align="center">374 apps · 504 versions · 255 companies · 4,690 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 192 of 196 iOS apps, and Jetpack Compose is in 137 of 177 Android apps. 90 apps also use a cross-platform runtime.
+SwiftUI is in 193 of 197 iOS apps, and Jetpack Compose is in 137 of 177 Android apps. 90 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 192 of 196 iOS apps, and Jetpack Compose is in 137 of 177 Android 
 
 ## What most apps ship
 
-Firebase is in 246 of 373 apps. 78% of apps ship at least one analytics SDK.
+Firebase is in 247 of 374 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -75,7 +75,7 @@ The median app ships 36 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## How apps change between versions
 
-65 of 128 updates changed the SDK list. Together they added 184 SDKs and removed 260.
+66 of 130 updates changed the SDK list. Together they added 185 SDKs and removed 260.
 
 **SDKs added and removed between versions**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 206 of 254 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 207 of 255 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,14 +129,14 @@ Google and Google LLC share the most apps, with 21 each. 206 of 254 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/android/pickle-inc/pickle/README.md"><img src="assets/icons/android/com.pickle.client.png" width="56" height="56" alt="Pickle icon"></a><br><a href="apps/android/pickle-inc/pickle/README.md"><sub><b>Pickle</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hilton/hilton-honors/README.md"><img src="assets/icons/android/com.hilton.android.hhonors.png" width="56" height="56" alt="Hilton Honors icon"></a><br><a href="apps/android/hilton/hilton-honors/README.md"><sub><b>Hilton Honors</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/sbs-i-m-co-ltd/sbs/README.md"><img src="assets/icons/ios/1020136055.png" width="56" height="56" alt="SBS icon"></a><br><a href="apps/ios/sbs-i-m-co-ltd/sbs/README.md"><sub><b>SBS</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hotels-com-lp/hotels-com/README.md"><img src="assets/icons/android/com.hcom.android.png" width="56" height="56" alt="Hotels.com icon"></a><br><a href="apps/android/hotels-com-lp/hotels-com/README.md"><sub><b>Hotels.com</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/iboxen-infrastruktur-sverige-ab/iboxen/README.md"><img src="assets/icons/ios/1553931951.png" width="56" height="56" alt="iBoxen icon"></a><br><a href="apps/ios/iboxen-infrastruktur-sverige-ab/iboxen/README.md"><sub><b>iBoxen</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/youtube-music/README.md"><img src="assets/icons/ios/1017492454.png" width="56" height="56" alt="YouTube Music icon"></a><br><a href="apps/ios/google/youtube-music/README.md"><sub><b>YouTube Music</b></sub></a><br><sub>iOS · 2026-11-18</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md"><img src="assets/icons/ios/6740224837.png" width="56" height="56" alt="Joybuy-Don't just buy, Joybuy! icon"></a><br><a href="apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md"><sub><b>Joybuy-Don't just buy, Joybuy!</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><img src="assets/icons/ios/1113153706.png" width="56" height="56" alt="Microsoft Teams icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><sub><b>Microsoft Teams</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/grubhub/grubhub/README.md"><img src="assets/icons/android/com.grubhub.android.png" width="56" height="56" alt="Grubhub icon"></a><br><a href="apps/android/grubhub/grubhub/README.md"><sub><b>Grubhub</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ministry-of-hajj-and-umrah/nusuk/README.md"><img src="assets/icons/ios/6469515422.png" width="56" height="56" alt="Nusuk icon"></a><br><a href="apps/ios/ministry-of-hajj-and-umrah/nusuk/README.md"><sub><b>Nusuk</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/google-meet/README.md"><img src="assets/icons/ios/1096918571.png" width="56" height="56" alt="Google Meet icon"></a><br><a href="apps/ios/google/google-meet/README.md"><sub><b>Google Meet</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/insanity-group/skins-projeto-grau-2/README.md"><img src="assets/icons/android/com.InsanityGroup.SkinsProjetoGrau2.png" width="56" height="56" alt="Skins Projeto Grau 2 icon"></a><br><a href="apps/android/insanity-group/skins-projeto-grau-2/README.md"><sub><b>Skins Projeto Grau 2</b></sub></a><br><sub>Android · 2026-11-18</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/hopper-inc/hopper/README.md"><img src="assets/icons/android/com.hopper.mountainview.play.png" width="56" height="56" alt="Hopper icon"></a><br><a href="apps/android/hopper-inc/hopper/README.md"><sub><b>Hopper</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/australia-post/australia-post/README.md"><img src="assets/icons/ios/380897313.png" width="56" height="56" alt="Australia Post icon"></a><br><a href="apps/ios/australia-post/australia-post/README.md"><sub><b>Australia Post</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><img src="assets/icons/ios/1288723196.png" width="56" height="56" alt="Microsoft Edge icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><sub><b>Microsoft Edge</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/pickle-inc/pickle/README.md"><img src="assets/icons/android/com.pickle.client.png" width="56" height="56" alt="Pickle icon"></a><br><a href="apps/android/pickle-inc/pickle/README.md"><sub><b>Pickle</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hilton/hilton-honors/README.md"><img src="assets/icons/android/com.hilton.android.hhonors.png" width="56" height="56" alt="Hilton Honors icon"></a><br><a href="apps/android/hilton/hilton-honors/README.md"><sub><b>Hilton Honors</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/sbs-i-m-co-ltd/sbs/README.md"><img src="assets/icons/ios/1020136055.png" width="56" height="56" alt="SBS icon"></a><br><a href="apps/ios/sbs-i-m-co-ltd/sbs/README.md"><sub><b>SBS</b></sub></a><br><sub>iOS · 2026-11-19</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/hotels-com-lp/hotels-com/README.md"><img src="assets/icons/android/com.hcom.android.png" width="56" height="56" alt="Hotels.com icon"></a><br><a href="apps/android/hotels-com-lp/hotels-com/README.md"><sub><b>Hotels.com</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/iboxen-infrastruktur-sverige-ab/iboxen/README.md"><img src="assets/icons/ios/1553931951.png" width="56" height="56" alt="iBoxen icon"></a><br><a href="apps/ios/iboxen-infrastruktur-sverige-ab/iboxen/README.md"><sub><b>iBoxen</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/youtube-music/README.md"><img src="assets/icons/ios/1017492454.png" width="56" height="56" alt="YouTube Music icon"></a><br><a href="apps/ios/google/youtube-music/README.md"><sub><b>YouTube Music</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md"><img src="assets/icons/ios/6740224837.png" width="56" height="56" alt="Joybuy-Don't just buy, Joybuy! icon"></a><br><a href="apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md"><sub><b>Joybuy-Don't just buy, Joybuy!</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><img src="assets/icons/ios/1113153706.png" width="56" height="56" alt="Microsoft Teams icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><sub><b>Microsoft Teams</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/grubhub/grubhub/README.md"><img src="assets/icons/android/com.grubhub.android.png" width="56" height="56" alt="Grubhub icon"></a><br><a href="apps/android/grubhub/grubhub/README.md"><sub><b>Grubhub</b></sub></a><br><sub>Android · 2026-11-18</sub></td></tr>
 </table>
 
 ### All apps
 
 <details>
-<summary>iOS (196 apps)</summary>
+<summary>iOS (197 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -146,6 +146,7 @@ Google and Google LLC share the most apps, with 21 each. 206 of 254 companies ha
 | <img src="assets/icons/ios/510855668.png" width="20" height="20" alt="Amazon Music icon"> | [Amazon Music: Songs & Podcasts](apps/ios/amzn-mobile-llc/amazon-music/README.md) | [AMZN Mobile LLC](companies/amzn-mobile-llc.md) | 26.17.0 | 72 |
 | <img src="assets/icons/ios/545519333.png" width="20" height="20" alt="Amazon Prime Video icon"> | [Amazon Prime Video](apps/ios/amzn-mobile-llc/amazon-prime-video/README.md) | [AMZN Mobile LLC](companies/amzn-mobile-llc.md) | 10.134 | 48 |
 | <img src="assets/icons/ios/379693831.png" width="20" height="20" alt="Audible icon"> | [Audible: Audiobooks & Podcasts](apps/ios/audible-inc/audible/README.md) | [Audible, Inc.](companies/audible-inc.md) | 4.71.1 | 29 |
+| <img src="assets/icons/ios/380897313.png" width="20" height="20" alt="Australia Post icon"> | [Australia Post](apps/ios/australia-post/australia-post/README.md) | [Australia Post](companies/australia-post.md) | 7.12.1 | 26 |
 | <img src="assets/icons/ios/627410001.png" width="20" height="20" alt="Autofirma App icon"> | [Autofirma App](apps/ios/ministerio-de-asuntos-economicos-y-transformacion-digital/autofirma-app/README.md) | [Ministerio de Asuntos Economicos y Transformacion Digital](companies/ministerio-de-asuntos-economicos-y-transformacion-digital.md) | 1.9 | 0 |
 | <img src="assets/icons/ios/679805463.png" width="20" height="20" alt="AXS Tickets icon"> | [AXS Tickets](apps/ios/axs/axs-tickets/README.md) | [AXS](companies/axs.md) | 6.32.2 | 23 |
 | <img src="assets/icons/ios/6812807809.png" width="20" height="20" alt="BeFitWay icon"> | [BeFitWay: Calorie Counter](apps/ios/marketing-affiliates-ltda/befitway/README.md) | [MARKETING AFFILIATES LTDA](companies/marketing-affiliates-ltda.md) | 1.0.6 | 24 |
@@ -243,7 +244,7 @@ Google and Google LLC share the most apps, with 21 each. 206 of 254 companies ha
 | <img src="assets/icons/ios/983156458.png" width="20" height="20" alt="Microsoft Authenticator icon"> | [Microsoft Authenticator](apps/ios/microsoft-corporation/microsoft-authenticator/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 6.8.48 | 11 |
 | <img src="assets/icons/ios/345323231.png" width="20" height="20" alt="Microsoft Bing Search icon"> | [Microsoft Bing Search](apps/ios/microsoft-corporation/microsoft-bing-search/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 33.4.440605001 | 117 |
 | <img src="assets/icons/ios/541164041.png" width="20" height="20" alt="Microsoft Copilot icon"> | [Microsoft Copilot](apps/ios/microsoft-corporation/microsoft-copilot/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 2.115.1 | 10 |
-| <img src="assets/icons/ios/1288723196.png" width="20" height="20" alt="Microsoft Edge icon"> | [Microsoft Edge](apps/ios/microsoft-corporation/microsoft-edge/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 157.4341.42 | 20 |
+| <img src="assets/icons/ios/1288723196.png" width="20" height="20" alt="Microsoft Edge icon"> | [Microsoft Edge](apps/ios/microsoft-corporation/microsoft-edge/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 157.4341.57 | 20 |
 | <img src="assets/icons/ios/410395246.png" width="20" height="20" alt="Microsoft OneNote icon"> | [Microsoft OneNote](apps/ios/microsoft-corporation/microsoft-onenote/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 16.109.3 | 2 |
 | <img src="assets/icons/ios/911813648.png" width="20" height="20" alt="Microsoft SwiftKey AI Keyboard icon"> | [Microsoft SwiftKey AI Keyboard](apps/ios/swiftkey/microsoft-swiftkey-ai-keyboard/README.md) | [SwiftKey](companies/swiftkey.md) | 4.3.2 | 46 |
 | <img src="assets/icons/ios/1113153706.png" width="20" height="20" alt="Microsoft Teams icon"> | [Microsoft Teams](apps/ios/microsoft-corporation/microsoft-teams/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 8.20.1 | 51 |
@@ -411,7 +412,7 @@ Google and Google LLC share the most apps, with 21 each. 206 of 254 companies ha
 | <img src="assets/icons/android/com.grabtaxi.passenger.png" width="20" height="20" alt="Grab icon"> | [Grab - Taxi & Food Delivery](apps/android/grab-holdings/grab/README.md) | [Grab Holdings](companies/grab-holdings.md) | 5.436.0 | 47 |
 | <img src="assets/icons/android/com.grubhub.android.png" width="20" height="20" alt="Grubhub icon"> | [Grubhub: Food Delivery](apps/android/grubhub/grubhub/README.md) | [Grubhub](companies/grubhub.md) | 2026.45 | 45 |
 | <img src="assets/icons/android/com.hilton.android.hhonors.png" width="20" height="20" alt="Hilton Honors icon"> | [Hilton Honors: Book Hotels](apps/android/hilton/hilton-honors/README.md) | [Hilton](companies/hilton.md) | 2026.11.3 | 29 |
-| <img src="assets/icons/android/com.hopper.mountainview.play.png" width="20" height="20" alt="Hopper icon"> | [Hopper: Hotels, Flights & Cars](apps/android/hopper-inc/hopper/README.md) | [Hopper Inc.](companies/hopper-inc.md) | 5.107.0 | 36 |
+| <img src="assets/icons/android/com.hopper.mountainview.play.png" width="20" height="20" alt="Hopper icon"> | [Hopper: Hotels, Flights & Cars](apps/android/hopper-inc/hopper/README.md) | [Hopper Inc.](companies/hopper-inc.md) | 5.116.0 | 37 |
 | <img src="assets/icons/android/com.hcom.android.png" width="20" height="20" alt="Hotels.com icon"> | [Hotels.com: Travel Booking](apps/android/hotels-com-lp/hotels-com/README.md) | [Hotels.com LP](companies/hotels-com-lp.md) | 2026.45.0 | 43 |
 | <img src="assets/icons/android/com.hulu.plus.png" width="20" height="20" alt="Hulu icon"> | [Hulu: Stream TV shows & movies](apps/android/disney/hulu/README.md) | [Disney](companies/disney.md) | 6.34.0+18552420-google | 33 |
 | <img src="assets/icons/android/com.clearchannel.iheartradio.controller.png" width="20" height="20" alt="iHeart icon"> | [iHeart: Music, Radio, Podcasts](apps/android/iheartmedia-inc/iheart/README.md) | [iHeartMedia, Inc.](companies/iheartmedia-inc.md) | 10.64.1 | 41 |
