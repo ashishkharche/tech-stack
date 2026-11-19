@@ -7,106 +7,106 @@
 <rect x="230.71999999999994" y="8" width="12" height="12" rx="3" fill="#1EA45A"/>
 <text x="248.71999999999994" y="18" font-size="13" fill="#4D5755">Android</text>
 <text x="158.17999999999995" y="48" font-size="13" text-anchor="end" fill="#090A0B">UI and rendering</text>
-<rect x="170.2" y="34" width="278.3" height="18" rx="3" fill="#0088FF"/>
-<rect x="450.5" y="34" width="299.5" height="18" rx="3" fill="#1EA45A"/>
-<text x="758.0" y="48" font-size="13" fill="#4D5755">325</text>
+<rect x="170.2" y="34" width="280.2" height="18" rx="3" fill="#0088FF"/>
+<rect x="452.3" y="34" width="297.7" height="18" rx="3" fill="#1EA45A"/>
+<text x="758.0" y="48" font-size="13" fill="#4D5755">327</text>
 <text x="158.17999999999995" y="76" font-size="13" text-anchor="end" fill="#090A0B">Firebase</text>
-<rect x="170.2" y="62" width="237.3" height="18" rx="3" fill="#0088FF"/>
-<rect x="409.5" y="62" width="304.9" height="18" rx="3" fill="#1EA45A"/>
-<text x="722.3" y="76" font-size="13" fill="#4D5755">305</text>
+<rect x="170.2" y="62" width="239.4" height="18" rx="3" fill="#0088FF"/>
+<rect x="411.6" y="62" width="303.0" height="18" rx="3" fill="#1EA45A"/>
+<text x="722.5" y="76" font-size="13" fill="#4D5755">307</text>
 <text x="158.17999999999995" y="104" font-size="13" text-anchor="end" fill="#090A0B">Analytics</text>
-<rect x="170.2" y="90" width="264.0" height="18" rx="3" fill="#0088FF"/>
-<rect x="436.2" y="90" width="253.1" height="18" rx="3" fill="#1EA45A"/>
-<text x="697.3" y="104" font-size="13" fill="#4D5755">291</text>
+<rect x="170.2" y="90" width="266.0" height="18" rx="3" fill="#0088FF"/>
+<rect x="438.2" y="90" width="251.6" height="18" rx="3" fill="#1EA45A"/>
+<text x="697.7" y="104" font-size="13" fill="#4D5755">293</text>
 <text x="158.17999999999995" y="132" font-size="13" text-anchor="end" fill="#090A0B">Sign-in and auth</text>
-<rect x="170.2" y="118" width="208.7" height="18" rx="3" fill="#0088FF"/>
-<rect x="380.9" y="118" width="301.3" height="18" rx="3" fill="#1EA45A"/>
-<text x="690.2" y="132" font-size="13" fill="#4D5755">287</text>
+<rect x="170.2" y="118" width="211.0" height="18" rx="3" fill="#0088FF"/>
+<rect x="383.2" y="118" width="299.4" height="18" rx="3" fill="#1EA45A"/>
+<text x="690.6" y="132" font-size="13" fill="#4D5755">289</text>
 <text x="158.17999999999995" y="160" font-size="13" text-anchor="end" fill="#090A0B">Networking</text>
-<rect x="170.2" y="146" width="190.9" height="18" rx="3" fill="#0088FF"/>
-<rect x="363.1" y="146" width="292.4" height="18" rx="3" fill="#1EA45A"/>
-<text x="663.4" y="160" font-size="13" fill="#4D5755">272</text>
+<rect x="170.2" y="146" width="191.5" height="18" rx="3" fill="#0088FF"/>
+<rect x="363.7" y="146" width="290.6" height="18" rx="3" fill="#1EA45A"/>
+<text x="662.2" y="160" font-size="13" fill="#4D5755">273</text>
 <text x="158.17999999999995" y="188" font-size="13" text-anchor="end" fill="#090A0B">Storage</text>
-<rect x="170.2" y="174" width="149.9" height="18" rx="3" fill="#0088FF"/>
-<rect x="322.0" y="174" width="297.7" height="18" rx="3" fill="#1EA45A"/>
-<text x="627.8" y="188" font-size="13" fill="#4D5755">252</text>
+<rect x="170.2" y="174" width="152.5" height="18" rx="3" fill="#0088FF"/>
+<rect x="324.7" y="174" width="295.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="628.6" y="188" font-size="13" fill="#4D5755">254</text>
 <text x="158.17999999999995" y="216" font-size="13" text-anchor="end" fill="#090A0B">Messaging and push</text>
-<rect x="170.2" y="202" width="151.6" height="18" rx="3" fill="#0088FF"/>
-<rect x="323.8" y="202" width="278.1" height="18" rx="3" fill="#1EA45A"/>
-<text x="609.9" y="216" font-size="13" fill="#4D5755">242</text>
+<rect x="170.2" y="202" width="154.3" height="18" rx="3" fill="#0088FF"/>
+<rect x="326.4" y="202" width="276.4" height="18" rx="3" fill="#1EA45A"/>
+<text x="610.8" y="216" font-size="13" fill="#4D5755">244</text>
 <text x="158.17999999999995" y="244" font-size="13" text-anchor="end" fill="#090A0B">Crash and performance</text>
-<rect x="170.2" y="230" width="201.6" height="18" rx="3" fill="#0088FF"/>
-<rect x="373.8" y="230" width="226.4" height="18" rx="3" fill="#1EA45A"/>
-<text x="608.1" y="244" font-size="13" fill="#4D5755">241</text>
+<rect x="170.2" y="230" width="203.9" height="18" rx="3" fill="#0088FF"/>
+<rect x="376.1" y="230" width="225.0" height="18" rx="3" fill="#1EA45A"/>
+<text x="609.1" y="244" font-size="13" fill="#4D5755">243</text>
 <text x="158.17999999999995" y="272" font-size="13" text-anchor="end" fill="#090A0B">Ads</text>
-<rect x="170.2" y="258" width="151.6" height="18" rx="3" fill="#0088FF"/>
-<rect x="323.8" y="258" width="190.7" height="18" rx="3" fill="#1EA45A"/>
-<text x="522.5" y="272" font-size="13" fill="#4D5755">193</text>
+<rect x="170.2" y="258" width="152.5" height="18" rx="3" fill="#0088FF"/>
+<rect x="324.7" y="258" width="189.5" height="18" rx="3" fill="#1EA45A"/>
+<text x="522.2" y="272" font-size="13" fill="#4D5755">194</text>
 <text x="158.17999999999995" y="300" font-size="13" text-anchor="end" fill="#090A0B">Media</text>
-<rect x="170.2" y="286" width="94.6" height="18" rx="3" fill="#0088FF"/>
-<rect x="266.7" y="286" width="219.2" height="18" rx="3" fill="#1EA45A"/>
-<text x="494.0" y="300" font-size="13" fill="#4D5755">177</text>
+<rect x="170.2" y="286" width="94.0" height="18" rx="3" fill="#0088FF"/>
+<rect x="266.2" y="286" width="217.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="492.0" y="300" font-size="13" fill="#4D5755">177</text>
 <text x="158.17999999999995" y="328" font-size="13" text-anchor="end" fill="#090A0B">Maps and location</text>
-<rect x="170.2" y="314" width="58.9" height="18" rx="3" fill="#0088FF"/>
-<rect x="231.1" y="314" width="246.0" height="18" rx="3" fill="#1EA45A"/>
-<text x="485.0" y="328" font-size="13" fill="#4D5755">172</text>
+<rect x="170.2" y="314" width="60.3" height="18" rx="3" fill="#0088FF"/>
+<rect x="232.5" y="314" width="244.5" height="18" rx="3" fill="#1EA45A"/>
+<text x="484.9" y="328" font-size="13" fill="#4D5755">173</text>
 <text x="158.17999999999995" y="356" font-size="13" text-anchor="end" fill="#090A0B">Reactive and async</text>
-<rect x="170.2" y="342" width="35.7" height="18" rx="3" fill="#0088FF"/>
-<rect x="207.9" y="342" width="267.4" height="18" rx="3" fill="#1EA45A"/>
-<text x="483.3" y="356" font-size="13" fill="#4D5755">171</text>
+<rect x="170.2" y="342" width="35.5" height="18" rx="3" fill="#0088FF"/>
+<rect x="207.6" y="342" width="265.7" height="18" rx="3" fill="#1EA45A"/>
+<text x="481.4" y="356" font-size="13" fill="#4D5755">171</text>
 <text x="158.17999999999995" y="384" font-size="13" text-anchor="end" fill="#090A0B">Payments</text>
-<rect x="170.2" y="370" width="91.0" height="18" rx="3" fill="#0088FF"/>
-<rect x="263.2" y="370" width="197.8" height="18" rx="3" fill="#1EA45A"/>
-<text x="469.0" y="384" font-size="13" fill="#4D5755">163</text>
+<rect x="170.2" y="370" width="92.2" height="18" rx="3" fill="#0088FF"/>
+<rect x="264.4" y="370" width="196.6" height="18" rx="3" fill="#1EA45A"/>
+<text x="469.0" y="384" font-size="13" fill="#4D5755">164</text>
 <text x="158.17999999999995" y="412" font-size="13" text-anchor="end" fill="#090A0B">Anti-fraud and integrity</text>
-<rect x="170.2" y="398" width="74.9" height="18" rx="3" fill="#0088FF"/>
-<rect x="247.1" y="398" width="128.2" height="18" rx="3" fill="#1EA45A"/>
-<text x="383.3" y="412" font-size="13" fill="#4D5755">115</text>
+<rect x="170.2" y="398" width="76.2" height="18" rx="3" fill="#0088FF"/>
+<rect x="248.4" y="398" width="127.4" height="18" rx="3" fill="#1EA45A"/>
+<text x="383.9" y="412" font-size="13" fill="#4D5755">116</text>
 <text x="158.17999999999995" y="440" font-size="13" text-anchor="end" fill="#090A0B">Feature flags</text>
-<rect x="170.2" y="426" width="21.4" height="18" rx="3" fill="#0088FF"/>
-<rect x="193.6" y="426" width="146.1" height="18" rx="3" fill="#1EA45A"/>
-<text x="347.7" y="440" font-size="13" fill="#4D5755">95</text>
+<rect x="170.2" y="426" width="21.3" height="18" rx="3" fill="#0088FF"/>
+<rect x="193.5" y="426" width="145.2" height="18" rx="3" fill="#1EA45A"/>
+<text x="346.6" y="440" font-size="13" fill="#4D5755">95</text>
 <text x="158.17999999999995" y="468" font-size="13" text-anchor="end" fill="#090A0B">ML and AI</text>
 <rect x="170.2" y="454" width="8.9" height="18" rx="3" fill="#0088FF"/>
-<rect x="181.1" y="454" width="153.2" height="18" rx="3" fill="#1EA45A"/>
-<text x="342.3" y="468" font-size="13" fill="#4D5755">92</text>
+<rect x="181.0" y="454" width="152.3" height="18" rx="3" fill="#1EA45A"/>
+<text x="341.3" y="468" font-size="13" fill="#4D5755">92</text>
 <text x="158.17999999999995" y="496" font-size="13" text-anchor="end" fill="#090A0B">Telephony</text>
-<rect x="170.2" y="482" width="67.8" height="18" rx="3" fill="#0088FF"/>
-<rect x="240.0" y="482" width="64.0" height="18" rx="3" fill="#1EA45A"/>
-<text x="312.0" y="496" font-size="13" fill="#4D5755">75</text>
+<rect x="170.2" y="482" width="67.4" height="18" rx="3" fill="#0088FF"/>
+<rect x="239.6" y="482" width="63.6" height="18" rx="3" fill="#1EA45A"/>
+<text x="311.2" y="496" font-size="13" fill="#4D5755">75</text>
 <text x="158.17999999999995" y="524" font-size="13" text-anchor="end" fill="#090A0B">Privacy and consent</text>
-<rect x="170.2" y="510" width="83.9" height="18" rx="3" fill="#0088FF"/>
-<rect x="256.0" y="510" width="40.8" height="18" rx="3" fill="#1EA45A"/>
-<text x="304.8" y="524" font-size="13" fill="#4D5755">71</text>
+<rect x="170.2" y="510" width="85.1" height="18" rx="3" fill="#0088FF"/>
+<rect x="257.3" y="510" width="40.6" height="18" rx="3" fill="#1EA45A"/>
+<text x="305.8" y="524" font-size="13" fill="#4D5755">72</text>
 <text x="158.17999999999995" y="552" font-size="13" text-anchor="end" fill="#090A0B">Social</text>
-<rect x="170.2" y="538" width="57.1" height="18" rx="3" fill="#0088FF"/>
-<rect x="229.3" y="538" width="64.0" height="18" rx="3" fill="#1EA45A"/>
-<text x="301.3" y="552" font-size="13" fill="#4D5755">69</text>
+<rect x="170.2" y="538" width="58.5" height="18" rx="3" fill="#0088FF"/>
+<rect x="230.7" y="538" width="63.6" height="18" rx="3" fill="#1EA45A"/>
+<text x="302.3" y="552" font-size="13" fill="#4D5755">70</text>
 <text x="158.17999999999995" y="580" font-size="13" text-anchor="end" fill="#090A0B">Logging and diagnostics</text>
-<rect x="170.2" y="566" width="76.7" height="18" rx="3" fill="#0088FF"/>
-<rect x="248.9" y="566" width="31.9" height="18" rx="3" fill="#1EA45A"/>
-<text x="288.8" y="580" font-size="13" fill="#4D5755">62</text>
-<text x="158.17999999999995" y="608" font-size="13" text-anchor="end" fill="#090A0B">GraphQL</text>
-<rect x="170.2" y="594" width="32.1" height="18" rx="3" fill="#0088FF"/>
-<rect x="204.3" y="594" width="64.0" height="18" rx="3" fill="#1EA45A"/>
-<text x="276.3" y="608" font-size="13" fill="#4D5755">55</text>
-<text x="158.17999999999995" y="636" font-size="13" text-anchor="end" fill="#090A0B">Voice</text>
-<rect x="170.2" y="622" width="51.7" height="18" rx="3" fill="#0088FF"/>
-<rect x="223.9" y="622" width="44.4" height="18" rx="3" fill="#1EA45A"/>
-<text x="276.3" y="636" font-size="13" fill="#4D5755">55</text>
+<rect x="170.2" y="566" width="78.0" height="18" rx="3" fill="#0088FF"/>
+<rect x="250.2" y="566" width="31.7" height="18" rx="3" fill="#1EA45A"/>
+<text x="289.9" y="580" font-size="13" fill="#4D5755">63</text>
+<text x="158.17999999999995" y="608" font-size="13" text-anchor="end" fill="#090A0B">Voice</text>
+<rect x="170.2" y="594" width="53.2" height="18" rx="3" fill="#0088FF"/>
+<rect x="225.4" y="594" width="44.1" height="18" rx="3" fill="#1EA45A"/>
+<text x="277.5" y="608" font-size="13" fill="#4D5755">56</text>
+<text x="158.17999999999995" y="636" font-size="13" text-anchor="end" fill="#090A0B">GraphQL</text>
+<rect x="170.2" y="622" width="31.9" height="18" rx="3" fill="#0088FF"/>
+<rect x="204.1" y="622" width="63.6" height="18" rx="3" fill="#1EA45A"/>
+<text x="275.7" y="636" font-size="13" fill="#4D5755">55</text>
 <text x="158.17999999999995" y="664" font-size="13" text-anchor="end" fill="#090A0B">Serialization</text>
-<rect x="170.2" y="650" width="96.3" height="18" rx="3" fill="#0088FF"/>
-<text x="274.5" y="664" font-size="13" fill="#4D5755">54</text>
+<rect x="170.2" y="650" width="95.8" height="18" rx="3" fill="#0088FF"/>
+<text x="273.9" y="664" font-size="13" fill="#4D5755">54</text>
 <text x="158.17999999999995" y="692" font-size="13" text-anchor="end" fill="#090A0B">Architecture</text>
-<rect x="170.2" y="678" width="51.7" height="18" rx="3" fill="#0088FF"/>
-<rect x="223.9" y="678" width="30.1" height="18" rx="3" fill="#1EA45A"/>
-<text x="262.0" y="692" font-size="13" fill="#4D5755">47</text>
+<rect x="170.2" y="678" width="51.4" height="18" rx="3" fill="#0088FF"/>
+<rect x="223.6" y="678" width="29.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="261.5" y="692" font-size="13" fill="#4D5755">47</text>
 <text x="158.17999999999995" y="720" font-size="13" text-anchor="end" fill="#090A0B">Apple frameworks</text>
-<rect x="170.2" y="706" width="44.6" height="18" rx="3" fill="#0088FF"/>
-<text x="222.8" y="720" font-size="13" fill="#4D5755">25</text>
+<rect x="170.2" y="706" width="44.3" height="18" rx="3" fill="#0088FF"/>
+<text x="222.5" y="720" font-size="13" fill="#4D5755">25</text>
 <text x="158.17999999999995" y="748" font-size="13" text-anchor="end" fill="#090A0B">AWS</text>
-<rect x="170.2" y="734" width="16.1" height="18" rx="3" fill="#0088FF"/>
-<rect x="188.2" y="734" width="26.5" height="18" rx="3" fill="#1EA45A"/>
-<text x="222.8" y="748" font-size="13" fill="#4D5755">25</text>
+<rect x="170.2" y="734" width="16.0" height="18" rx="3" fill="#0088FF"/>
+<rect x="188.1" y="734" width="26.4" height="18" rx="3" fill="#1EA45A"/>
+<text x="222.5" y="748" font-size="13" fill="#4D5755">25</text>
 </g>
 </svg>

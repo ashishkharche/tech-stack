@@ -2,7 +2,7 @@
 
 # Companies
 
-255 companies. Each name is the developer name on the store listing.
+257 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -127,13 +127,15 @@
 | <img src="../assets/icons/android/uk.co.inpost.inmobile.png" width="20" height="20" alt="InPost icon"> | [InPost UK Ltd](inpost-uk-ltd.md) | 1 | 0 | 1 | 1 | 38 |
 | <img src="../assets/icons/android/com.InsanityGroup.SkinsProjetoGrau2.png" width="20" height="20" alt="Skins Projeto Grau 2 icon"> | [Insanity Group](insanity-group.md) | 1 | 0 | 1 | 1 | 8 |
 | <img src="../assets/icons/android/com.instacart.client.png" width="20" height="20" alt="Instacart icon"> | [Instacart](instacart.md) | 1 | 0 | 1 | 2 | 47 |
-| <img src="../assets/icons/android/com.ikea.inter.homesmart.system2.png" width="20" height="20" alt="IKEA Home smart icon"> | [Inter IKEA Systems B.V](inter-ikea-systems-b-v.md) | 1 | 0 | 1 | 2 | 18 |
+| <img src="../assets/icons/android/com.ikea.inter.homesmart.system2.png" width="20" height="20" alt="IKEA Home smart icon"> | [Inter IKEA Systems B.V](inter-ikea-systems-b-v.md) | 1 | 0 | 1 | 3 | 18 |
 | <img src="../assets/icons/ios/6740224837.png" width="20" height="20" alt="Joybuy-Don't just buy, Joybuy! icon"> | [Joybuy](joybuy.md) | 1 | 1 | 0 | 1 | 102 |
 | <img src="../assets/icons/android/me.karmalab.talk.png" width="20" height="20" alt="KARMA Secure Messenger icon"> | [Karmalab Inc.](karmalab-inc.md) | 1 | 0 | 1 | 1 | 26 |
+| <img src="../assets/icons/ios/1484296272.png" width="20" height="20" alt="Knowunity icon"> | [Knowunity GmbH](knowunity-gmbh.md) | 1 | 1 | 0 | 1 | 60 |
 | <img src="../assets/icons/android/com.kohls.mcommerce.opal.png" width="20" height="20" alt="Kohl's icon"> | [Kohls](kohls.md) | 1 | 0 | 1 | 2 | 40 |
 | <img src="../assets/icons/ios/6472232952.png" width="20" height="20" alt="Koupon icon"> | [Koupon Inc.](koupon-inc.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/ios/6742321547.png" width="20" height="20" alt="i-Kfz icon"> | [Kraftfahrt-Bundesamt](kraftfahrt-bundesamt.md) | 1 | 1 | 0 | 1 | 4 |
 | <img src="../assets/icons/ios/6768240254.png" width="20" height="20" alt="FreeDrama icon"> | [Kuku Technologies Limited](kuku-technologies-limited.md) | 1 | 1 | 0 | 1 | 81 |
+| <img src="../assets/icons/ios/1450835575.png" width="20" height="20" alt="LIFE Pharmacy icon"> | [LIFE HOME HEALTH CARE](life-home-health-care.md) | 1 | 1 | 0 | 1 | 84 |
 | <img src="../assets/icons/ios/384830320.png" width="20" height="20" alt="Life360 icon"> | [Life360](life360.md) | 1 | 1 | 0 | 1 | 137 |
 | <img src="../assets/icons/ios/288429040.png" width="20" height="20" alt="LinkedIn icon"> | [LinkedIn Corporation](linkedin-corporation.md) | 1 | 1 | 0 | 1 | 18 |
 | <img src="../assets/icons/ios/1158555867.png" width="20" height="20" alt="Replika icon"> | [Luka, Inc.](luka-inc.md) | 1 | 1 | 0 | 4 | 80 |

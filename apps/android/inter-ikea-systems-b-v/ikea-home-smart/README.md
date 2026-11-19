@@ -13,8 +13,8 @@
 | Company | [Inter IKEA Systems B.V](../../../../companies/inter-ikea-systems-b-v.md) |
 | Store id | `com.ikea.inter.homesmart.system2` |
 | Bundle / package id | `com.ikea.inter.homesmart.system2` |
-| Latest version | 1.73.0 (analysed 2026-11-02) |
-| Versions tracked | 2 |
+| Latest version | 1.75.0 (analysed 2026-11-19) |
+| Versions tracked | 3 |
 | SDKs in latest version | 18 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Glide, Jetpack Compose, Material Components |
@@ -51,6 +51,7 @@ Approximate location, Biometric auth, Bluetooth, Bluetooth (connect), Bluetooth 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1.75.0 | 2026-11-19 |  | 18 | +0 / −0 | No | No | [1.75.0.json](1.75.0.json) |
 | 1.73.0 | 2026-11-02 | 2026-10-15 | 18 | +0 / −0 | No | No | [1.73.0.json](1.73.0.json) |
 | 1.67.0 | 2026-06-19 |  | 18 |  | No | No | [1.67.0.json](1.67.0.json) |
 
