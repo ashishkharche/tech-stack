@@ -4,10 +4,10 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **4** versions · **48** distinct SDKs across their latest versions
+**2** apps (1 iOS, 1 Android) · **5** versions · **42** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/shopify-inc/shop/README.md"><img src="../assets/icons/android/com.shopify.arrive.png" width="56" height="56" alt="Shop icon"></a><br><a href="../apps/android/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>Android · 15 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/shopify-inc/shop/README.md"><img src="../assets/icons/ios/1223471316.png" width="56" height="56" alt="Shop icon"></a><br><a href="../apps/ios/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>iOS · 34 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/shopify-inc/shop/README.md"><img src="../assets/icons/android/com.shopify.arrive.png" width="56" height="56" alt="Shop icon"></a><br><a href="../apps/android/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>Android · 15 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/shopify-inc/shop/README.md"><img src="../assets/icons/ios/1223471316.png" width="56" height="56" alt="Shop icon"></a><br><a href="../apps/ios/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>iOS · 28 SDKs</sub></td></tr>
 </table>
 
 ## Apps
@@ -15,7 +15,7 @@ The company name is the developer name on the store listing.
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/android/com.shopify.arrive.png" width="20" height="20" alt="Shop icon"> | [Shop: Track, Pay, Discover](../apps/android/shopify-inc/shop/README.md) | Android | 1 | 3.18.0 | 2026-11-14 | 15 | No |
-| <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shop: Track, Pay, Discover](../apps/ios/shopify-inc/shop/README.md) | iOS | 3 | 3.19.0 | 2026-11-13 | 34 | No |
+| <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shop: Track, Pay, Discover](../apps/ios/shopify-inc/shop/README.md) | iOS | 4 | 3.21.0 | 2026-11-19 | 28 | No |
 
 ## SDKs by category
 

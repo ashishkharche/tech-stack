@@ -13,9 +13,9 @@
 | Company | [Shopify Inc.](../../../../companies/shopify-inc.md) |
 | Store id | `1223471316` |
 | Bundle / package id | `com.jadedlabs.arrive` |
-| Latest version | 3.19.0 (analysed 2026-11-13) |
-| Versions tracked | 3 |
-| SDKs in latest version | 34 |
+| Latest version | 3.21.0 (analysed 2026-11-19) |
+| Versions tracked | 4 |
+| SDKs in latest version | 28 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
@@ -30,22 +30,20 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/shopify-inc/shop-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/shopify-inc/shop-light.svg"></picture>
 
-- **Other** (11): AtlasAPI 1.0, CCryptoBoringSSL, CCryptoBoringSSLShims, Crypto, CryptoBoringWrapper, CryptoExtras, Gravity 1.0, MinisAPI 1.0, MLKitCommon 14.0.0, MLKitNaturalLanguage 10.0.0, MLKitTranslate 8.0.0
-- **Firebase** (8): FBLPromises, FirebaseCore, FirebaseCoreInternal, FirebaseInstallations, GoogleDataTransport, GoogleUtilities, nanopb, Promises
+- **Other** (8): AtlasAPI 1.0, CCryptoBoringSSL, CCryptoBoringSSLShims, Crypto, CryptoBoringWrapper, CryptoExtras, Gravity 1.0, MinisAPI 1.0
+- **Firebase** (7): FBLPromises, FirebaseCore, FirebaseCoreInternal, FirebaseInstallations, GoogleUtilities, nanopb, Promises
 - **GraphQL** (4): Apollo, ApolloAPI, AtlasGraphQL 1.0, MinisGraphQL 1.0
 - **Analytics** (2): FirebaseAnalytics 12.17.0, GoogleAppMeasurement 12.17.0
 - **Crash and performance** (2): Bugsnag, MobileObservabilityAnalyticsProto
 - **Maps and location** (2): GMSCore 26.30.0, GoogleMaps
 - **Ads** (1): GoogleAdsOnDeviceConversion 3.6.0
-- **Sign-in and auth** (1): GTMSessionFetcher
 - **UI and rendering** (1): Lottie
 - **Serialization** (1): SwiftProtobuf
-- **Storage** (1): ZipArchive
 
 <details>
-<summary>Frameworks (27)</summary>
+<summary>Frameworks (26)</summary>
 
-AdServices (Apple Search Ads attribution), App Intents, ARKit, Authentication Services (Sign in with Apple / passkeys), AVFoundation (audio/video), Combine (reactive), Contacts, Core Data, Core Image, Core Location, Core Motion, CryptoKit, DeviceCheck / App Attest, Local Authentication (Face ID / Touch ID), MapKit, MetricKit (diagnostics), Natural Language, Network.framework, Photos, PhotosUI, SafariServices, SiriKit (Intents), StoreKit (in-app purchase), SwiftUI, UIKit, User Notifications, WidgetKit (widgets)
+AdServices (Apple Search Ads attribution), App Intents, ARKit, Authentication Services (Sign in with Apple / passkeys), AVFoundation (audio/video), Combine (reactive), Contacts, Core Data, Core Image, Core Location, Core Motion, CryptoKit, DeviceCheck / App Attest, Local Authentication (Face ID / Touch ID), MapKit, MetricKit (diagnostics), Network.framework, Photos, PhotosUI, SafariServices, SiriKit (Intents), StoreKit (in-app purchase), SwiftUI, UIKit, User Notifications, WidgetKit (widgets)
 
 </details>
 
@@ -60,9 +58,14 @@ App Attest, App Groups, Associated Domains (Universal Links), Keychain Sharing, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 3.21.0 | 2026-11-19 |  | 28 | +0 / −6 | Yes | Yes | [3.21.0.json](3.21.0.json) |
 | 3.19.0 | 2026-11-13 |  | 34 | +0 / −0 | Yes | Yes | [3.19.0.json](3.19.0.json) |
 | 3.18.0 | 2026-11-09 |  | 34 | +0 / −0 | Yes | Yes | [3.18.0.json](3.18.0.json) |
 | 3.17.0 | 2026-11-05 | 2026-11-04 | 34 |  | Yes | Yes | [3.17.0.json](3.17.0.json) |
+
+### SDK changes between versions
+
+- 3.19.0 → 3.21.0: removed GoogleDataTransport, GTMSessionFetcher, MLKitCommon, MLKitNaturalLanguage, MLKitTranslate, ZipArchive
 
 ---
 

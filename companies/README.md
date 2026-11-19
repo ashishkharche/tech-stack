@@ -2,7 +2,7 @@
 
 # Companies
 
-257 companies. Each name is the developer name on the store listing.
+258 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | <img src="../assets/icons/android/com.reddit.frontpage.png" width="20" height="20" alt="Reddit icon"> <img src="../assets/icons/ios/1064216828.png" width="20" height="20" alt="Reddit icon"> | [reddit Inc.](reddit-inc.md) | 2 | 1 | 1 | 2 | 64 |
 | <img src="../assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> <img src="../assets/icons/android/com.zzkko.png" width="20" height="20" alt="SHEIN-Shopping Online icon"> | [Roadget Business PTE. LTD.](roadget-business-pte-ltd.md) | 2 | 1 | 1 | 2 | 66 |
 | <img src="../assets/icons/ios/6752915724.png" width="20" height="20" alt="Kalo icon"> <img src="../assets/icons/ios/6813645709.png" width="20" height="20" alt="Workout Director icon"> | [Shelgaon Ltd](shelgaon-ltd.md) | 2 | 2 | 0 | 2 | 29 |
-| <img src="../assets/icons/android/com.shopify.arrive.png" width="20" height="20" alt="Shop icon"> <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shopify Inc.](shopify-inc.md) | 2 | 1 | 1 | 4 | 48 |
+| <img src="../assets/icons/android/com.shopify.arrive.png" width="20" height="20" alt="Shop icon"> <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shopify Inc.](shopify-inc.md) | 2 | 1 | 1 | 5 | 42 |
 | <img src="../assets/icons/ios/6670430706.png" width="20" height="20" alt="DramaWave icon"> <img src="../assets/icons/android/com.freereels.app.png" width="20" height="20" alt="FreeReels icon"> | [SKYWORK AI PTE.LTD.](skywork-ai-pte-ltd.md) | 2 | 1 | 1 | 3 | 124 |
 | <img src="../assets/icons/android/com.snapchat.android.png" width="20" height="20" alt="Snapchat icon"> <img src="../assets/icons/ios/447188370.png" width="20" height="20" alt="Snapchat icon"> | [Snap Inc](snap-inc.md) | 2 | 1 | 1 | 2 | 35 |
 | <img src="../assets/icons/android/com.suno.android.png" width="20" height="20" alt="Suno icon"> <img src="../assets/icons/ios/6480136315.png" width="20" height="20" alt="Suno icon"> | [Suno, Inc](suno-inc.md) | 2 | 1 | 1 | 2 | 67 |
@@ -93,6 +93,7 @@
 | <img src="../assets/icons/android/com.deepseek.chat.png" width="20" height="20" alt="DeepSeek icon"> | [DeepSeek](deepseek.md) | 1 | 0 | 1 | 1 | 11 |
 | <img src="../assets/icons/ios/518684914.png" width="20" height="20" alt="Depop icon"> | [Depop Ltd](depop-ltd.md) | 1 | 1 | 0 | 1 | 344 |
 | <img src="../assets/icons/ios/1148204349.png" width="20" height="20" alt="Liverpool icon"> | [Distribuidora Liverpool S.A. De C.V.](distribuidora-liverpool-s-a-de-c-v.md) | 1 | 1 | 0 | 1 | 92 |
+| <img src="../assets/icons/ios/925339063.png" width="20" height="20" alt="Doctolib icon"> | [Doctolib](doctolib.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/android/com.dominospizza.png" width="20" height="20" alt="Domino's Pizza USA icon"> | [Domino's Pizza LLC](domino-s-pizza-llc.md) | 1 | 0 | 1 | 2 | 23 |
 | <img src="../assets/icons/ios/719972451.png" width="20" height="20" alt="DoorDash icon"> | [DoorDash, Inc.](doordash-inc.md) | 1 | 1 | 0 | 1 | 98 |
 | <img src="../assets/icons/android/com.meetrixonline.drawnames.png" width="20" height="20" alt="drawnames icon"> | [drawnames](drawnames.md) | 1 | 0 | 1 | 1 | 15 |
