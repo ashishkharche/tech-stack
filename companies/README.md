@@ -2,7 +2,7 @@
 
 # Companies
 
-252 companies. Each name is the developer name on the store listing.
+254 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | <img src="../assets/icons/ios/1139155460.png" width="20" height="20" alt="Gymshark icon"> | [Gymshark Ltd](gymshark-ltd.md) | 1 | 1 | 0 | 1 | 45 |
 | <img src="../assets/icons/ios/1630058362.png" width="20" height="20" alt="はま楽 icon"> | [HAMAZUSHI CO., LTD.](hamazushi-co-ltd.md) | 1 | 1 | 0 | 1 | 17 |
 | <img src="../assets/icons/android/com.ebookpdf.pdfreaderpro.allpdfviewer.png" width="20" height="20" alt="PDF Reader, Annotate on PDF icon"> | [HANLONG GROUP (HK) LIMITED](hanlong-group-hk-limited.md) | 1 | 0 | 1 | 1 | 15 |
-| <img src="../assets/icons/android/com.hilton.android.hhonors.png" width="20" height="20" alt="Hilton Honors icon"> | [Hilton](hilton.md) | 1 | 0 | 1 | 2 | 29 |
+| <img src="../assets/icons/android/com.hilton.android.hhonors.png" width="20" height="20" alt="Hilton Honors icon"> | [Hilton](hilton.md) | 1 | 0 | 1 | 3 | 29 |
 | <img src="../assets/icons/android/com.hopper.mountainview.play.png" width="20" height="20" alt="Hopper icon"> | [Hopper Inc.](hopper-inc.md) | 1 | 0 | 1 | 1 | 36 |
 | <img src="../assets/icons/android/com.hcom.android.png" width="20" height="20" alt="Hotels.com icon"> | [Hotels.com LP](hotels-com-lp.md) | 1 | 0 | 1 | 3 | 43 |
 | <img src="../assets/icons/ios/6477774492.png" width="20" height="20" alt="Hudhud icon"> | [Hudhud Information Technology Company](hudhud-information-technology-company.md) | 1 | 1 | 0 | 1 | 38 |
@@ -170,6 +170,7 @@
 | <img src="../assets/icons/android/ai.perplexity.app.android.png" width="20" height="20" alt="Perplexity icon"> | [PerplexityAI](perplexityai.md) | 1 | 0 | 1 | 1 | 37 |
 | <img src="../assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom](photoroom.md) | 1 | 1 | 0 | 3 | 92 |
 | <img src="../assets/icons/android/com.photoroom.app.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom AI Photo Editor](photoroom-ai-photo-editor.md) | 1 | 0 | 1 | 1 | 37 |
+| <img src="../assets/icons/android/com.pickle.client.png" width="20" height="20" alt="Pickle icon"> | [Pickle, Inc.](pickle-inc.md) | 1 | 0 | 1 | 1 | 28 |
 | <img src="../assets/icons/ios/587366035.png" width="20" height="20" alt="Picsart AI Photo Editor, Video icon"> | [PicsArt, Inc.](picsart-inc.md) | 1 | 1 | 0 | 1 | 47 |
 | <img src="../assets/icons/android/com.pinterest.png" width="20" height="20" alt="Pinterest icon"> | [Pinterest](pinterest.md) | 1 | 0 | 1 | 1 | 35 |
 | <img src="../assets/icons/ios/429047995.png" width="20" height="20" alt="Pinterest icon"> | [Pinterest, Inc.](pinterest-inc.md) | 1 | 1 | 0 | 1 | 28 |
@@ -193,6 +194,7 @@
 | <img src="../assets/icons/ios/1198464606.png" width="20" height="20" alt="Rapido icon"> | [Roppen Transportation Services Private Limited](roppen-transportation-services-private-limited.md) | 1 | 1 | 0 | 1 | 56 |
 | <img src="../assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club](sam-s-club.md) | 1 | 0 | 1 | 1 | 37 |
 | <img src="../assets/icons/ios/396584034.png" width="20" height="20" alt="Everland icon"> | [Samsung Everland Co. Ltd.](samsung-everland-co-ltd.md) | 1 | 1 | 0 | 1 | 52 |
+| <img src="../assets/icons/ios/1020136055.png" width="20" height="20" alt="SBS icon"> | [SBS I&M Co., Ltd.](sbs-i-m-co-ltd.md) | 1 | 1 | 0 | 1 | 47 |
 | <img src="../assets/icons/android/com.enzo.paulo.png" width="20" height="20" alt="Seekee icon"> | [Seekee Ltd](seekee-ltd.md) | 1 | 0 | 1 | 2 | 43 |
 | <img src="../assets/icons/android/com.swm.live.png" width="20" height="20" alt="7plus icon"> | [Seven West Media](seven-west-media.md) | 1 | 0 | 1 | 1 | 31 |
 | <img src="../assets/icons/ios/6813012717.png" width="20" height="20" alt="Who Calling Pro icon"> | [SHUBHAMKUMAR PATEL](shubhamkumar-patel.md) | 1 | 1 | 0 | 1 | 4 |

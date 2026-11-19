@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">371 apps · 498 versions · 252 companies · 4,684 SDKs</p>
+<p align="center">373 apps · 501 versions · 254 companies · 4,690 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 191 of 195 iOS apps, and Jetpack Compose is in 136 of 176 Android apps. 90 apps also use a cross-platform runtime.
+SwiftUI is in 192 of 196 iOS apps, and Jetpack Compose is in 137 of 177 Android apps. 90 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 191 of 195 iOS apps, and Jetpack Compose is in 136 of 176 Android 
 
 ## What most apps ship
 
-Firebase is in 244 of 371 apps. 78% of apps ship at least one analytics SDK.
+Firebase is in 246 of 373 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -75,7 +75,7 @@ The median app ships 36 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## How apps change between versions
 
-65 of 127 updates changed the SDK list. Together they added 184 SDKs and removed 260.
+65 of 128 updates changed the SDK list. Together they added 184 SDKs and removed 260.
 
 **SDKs added and removed between versions**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 204 of 252 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 206 of 254 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,14 +129,14 @@ Google and Google LLC share the most apps, with 21 each. 204 of 252 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/android/hotels-com-lp/hotels-com/README.md"><img src="assets/icons/android/com.hcom.android.png" width="56" height="56" alt="Hotels.com icon"></a><br><a href="apps/android/hotels-com-lp/hotels-com/README.md"><sub><b>Hotels.com</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/iboxen-infrastruktur-sverige-ab/iboxen/README.md"><img src="assets/icons/ios/1553931951.png" width="56" height="56" alt="iBoxen icon"></a><br><a href="apps/ios/iboxen-infrastruktur-sverige-ab/iboxen/README.md"><sub><b>iBoxen</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/youtube-music/README.md"><img src="assets/icons/ios/1017492454.png" width="56" height="56" alt="YouTube Music icon"></a><br><a href="apps/ios/google/youtube-music/README.md"><sub><b>YouTube Music</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md"><img src="assets/icons/ios/6740224837.png" width="56" height="56" alt="Joybuy-Don't just buy, Joybuy! icon"></a><br><a href="apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md"><sub><b>Joybuy-Don't just buy, Joybuy!</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><img src="assets/icons/ios/1113153706.png" width="56" height="56" alt="Microsoft Teams icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><sub><b>Microsoft Teams</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/grubhub/grubhub/README.md"><img src="assets/icons/android/com.grubhub.android.png" width="56" height="56" alt="Grubhub icon"></a><br><a href="apps/android/grubhub/grubhub/README.md"><sub><b>Grubhub</b></sub></a><br><sub>Android · 2026-11-18</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/ministry-of-hajj-and-umrah/nusuk/README.md"><img src="assets/icons/ios/6469515422.png" width="56" height="56" alt="Nusuk icon"></a><br><a href="apps/ios/ministry-of-hajj-and-umrah/nusuk/README.md"><sub><b>Nusuk</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/google-meet/README.md"><img src="assets/icons/ios/1096918571.png" width="56" height="56" alt="Google Meet icon"></a><br><a href="apps/ios/google/google-meet/README.md"><sub><b>Google Meet</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/insanity-group/skins-projeto-grau-2/README.md"><img src="assets/icons/android/com.InsanityGroup.SkinsProjetoGrau2.png" width="56" height="56" alt="Skins Projeto Grau 2 icon"></a><br><a href="apps/android/insanity-group/skins-projeto-grau-2/README.md"><sub><b>Skins Projeto Grau 2</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/grab-holdings/grab/README.md"><img src="assets/icons/android/com.grabtaxi.passenger.png" width="56" height="56" alt="Grab icon"></a><br><a href="apps/android/grab-holdings/grab/README.md"><sub><b>Grab</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/marketing-affiliates-ltda/befitway/README.md"><img src="assets/icons/ios/6812807809.png" width="56" height="56" alt="BeFitWay icon"></a><br><a href="apps/ios/marketing-affiliates-ltda/befitway/README.md"><sub><b>BeFitWay</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/google-keep/README.md"><img src="assets/icons/ios/1029207872.png" width="56" height="56" alt="Google Keep icon"></a><br><a href="apps/ios/google/google-keep/README.md"><sub><b>Google Keep</b></sub></a><br><sub>iOS · 2026-11-18</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/pickle-inc/pickle/README.md"><img src="assets/icons/android/com.pickle.client.png" width="56" height="56" alt="Pickle icon"></a><br><a href="apps/android/pickle-inc/pickle/README.md"><sub><b>Pickle</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hilton/hilton-honors/README.md"><img src="assets/icons/android/com.hilton.android.hhonors.png" width="56" height="56" alt="Hilton Honors icon"></a><br><a href="apps/android/hilton/hilton-honors/README.md"><sub><b>Hilton Honors</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/sbs-i-m-co-ltd/sbs/README.md"><img src="assets/icons/ios/1020136055.png" width="56" height="56" alt="SBS icon"></a><br><a href="apps/ios/sbs-i-m-co-ltd/sbs/README.md"><sub><b>SBS</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hotels-com-lp/hotels-com/README.md"><img src="assets/icons/android/com.hcom.android.png" width="56" height="56" alt="Hotels.com icon"></a><br><a href="apps/android/hotels-com-lp/hotels-com/README.md"><sub><b>Hotels.com</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/iboxen-infrastruktur-sverige-ab/iboxen/README.md"><img src="assets/icons/ios/1553931951.png" width="56" height="56" alt="iBoxen icon"></a><br><a href="apps/ios/iboxen-infrastruktur-sverige-ab/iboxen/README.md"><sub><b>iBoxen</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/youtube-music/README.md"><img src="assets/icons/ios/1017492454.png" width="56" height="56" alt="YouTube Music icon"></a><br><a href="apps/ios/google/youtube-music/README.md"><sub><b>YouTube Music</b></sub></a><br><sub>iOS · 2026-11-18</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md"><img src="assets/icons/ios/6740224837.png" width="56" height="56" alt="Joybuy-Don't just buy, Joybuy! icon"></a><br><a href="apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md"><sub><b>Joybuy-Don't just buy, Joybuy!</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><img src="assets/icons/ios/1113153706.png" width="56" height="56" alt="Microsoft Teams icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><sub><b>Microsoft Teams</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/grubhub/grubhub/README.md"><img src="assets/icons/android/com.grubhub.android.png" width="56" height="56" alt="Grubhub icon"></a><br><a href="apps/android/grubhub/grubhub/README.md"><sub><b>Grubhub</b></sub></a><br><sub>Android · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ministry-of-hajj-and-umrah/nusuk/README.md"><img src="assets/icons/ios/6469515422.png" width="56" height="56" alt="Nusuk icon"></a><br><a href="apps/ios/ministry-of-hajj-and-umrah/nusuk/README.md"><sub><b>Nusuk</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/google/google-meet/README.md"><img src="assets/icons/ios/1096918571.png" width="56" height="56" alt="Google Meet icon"></a><br><a href="apps/ios/google/google-meet/README.md"><sub><b>Google Meet</b></sub></a><br><sub>iOS · 2026-11-18</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/insanity-group/skins-projeto-grau-2/README.md"><img src="assets/icons/android/com.InsanityGroup.SkinsProjetoGrau2.png" width="56" height="56" alt="Skins Projeto Grau 2 icon"></a><br><a href="apps/android/insanity-group/skins-projeto-grau-2/README.md"><sub><b>Skins Projeto Grau 2</b></sub></a><br><sub>Android · 2026-11-18</sub></td></tr>
 </table>
 
 ### All apps
 
 <details>
-<summary>iOS (195 apps)</summary>
+<summary>iOS (196 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -287,6 +287,7 @@ Google and Google LLC share the most apps, with 21 each. 204 of 252 companies ha
 | <img src="assets/icons/ios/1470373330.png" width="20" height="20" alt="Remini icon"> | [Remini - AI Photo Enhancer](apps/ios/bending-spoons-operations-spa/remini/README.md) | [BENDING SPOONS OPERATIONS SPA](companies/bending-spoons-operations-spa.md) | 2.10.225 | 87 |
 | <img src="assets/icons/ios/1158555867.png" width="20" height="20" alt="Replika icon"> | [Replika - AI Companion Chat](apps/ios/luka-inc/replika/README.md) | [Luka, Inc.](companies/luka-inc.md) | 12.5.2 | 80 |
 | <img src="assets/icons/ios/482066631.png" width="20" height="20" alt="Roku Remote (Official) icon"> | [Roku Remote (Official)](apps/ios/roku-inc/roku-remote-official/README.md) | [ROKU INC](companies/roku-inc.md) | 14.1.2 | 39 |
+| <img src="assets/icons/ios/1020136055.png" width="20" height="20" alt="SBS icon"> | [SBS - 온에어 제공, VOD 7만편 제공](apps/ios/sbs-i-m-co-ltd/sbs/README.md) | [SBS I&M Co., Ltd.](companies/sbs-i-m-co-ltd.md) | 3.31.0 | 47 |
 | <img src="assets/icons/ios/6587576438.png" width="20" height="20" alt="setlog icon"> | [setlog - friends camera](apps/ios/new-chat/setlog/README.md) | [new chat](companies/new-chat.md) | 2.7.7 | 1 |
 | <img src="assets/icons/ios/284993459.png" width="20" height="20" alt="Shazam icon"> | [Shazam: Find Music & Concerts](apps/ios/apple/shazam/README.md) | [Apple](companies/apple.md) | 26.11.0 | 1 |
 | <img src="assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> | [SHEIN - Shopping Online](apps/ios/roadget-business-pte-ltd/shein/README.md) | [ROADGET BUSINESS PTE. LTD.](companies/roadget-business-pte-ltd.md) | 15.5.6 | 41 |
@@ -339,7 +340,7 @@ Google and Google LLC share the most apps, with 21 each. 204 of 252 companies ha
 </details>
 
 <details>
-<summary>Android (176 apps)</summary>
+<summary>Android (177 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -409,7 +410,7 @@ Google and Google LLC share the most apps, with 21 each. 204 of 252 companies ha
 | <img src="assets/icons/android/com.gowish.app.jpg" width="20" height="20" alt="GoWish icon"> | [GoWish - Your Digital Wishlist](apps/android/nskeskyen-aps/gowish/README.md) | [Ønskeskyen ApS](companies/nskeskyen-aps.md) | 9.3.0 | 30 |
 | <img src="assets/icons/android/com.grabtaxi.passenger.png" width="20" height="20" alt="Grab icon"> | [Grab - Taxi & Food Delivery](apps/android/grab-holdings/grab/README.md) | [Grab Holdings](companies/grab-holdings.md) | 5.436.0 | 47 |
 | <img src="assets/icons/android/com.grubhub.android.png" width="20" height="20" alt="Grubhub icon"> | [Grubhub: Food Delivery](apps/android/grubhub/grubhub/README.md) | [Grubhub](companies/grubhub.md) | 2026.45 | 45 |
-| <img src="assets/icons/android/com.hilton.android.hhonors.png" width="20" height="20" alt="Hilton Honors icon"> | [Hilton Honors: Book Hotels](apps/android/hilton/hilton-honors/README.md) | [Hilton](companies/hilton.md) | 2026.10.20 | 29 |
+| <img src="assets/icons/android/com.hilton.android.hhonors.png" width="20" height="20" alt="Hilton Honors icon"> | [Hilton Honors: Book Hotels](apps/android/hilton/hilton-honors/README.md) | [Hilton](companies/hilton.md) | 2026.11.3 | 29 |
 | <img src="assets/icons/android/com.hopper.mountainview.play.png" width="20" height="20" alt="Hopper icon"> | [Hopper: Hotels, Flights & Cars](apps/android/hopper-inc/hopper/README.md) | [Hopper Inc.](companies/hopper-inc.md) | 5.107.0 | 36 |
 | <img src="assets/icons/android/com.hcom.android.png" width="20" height="20" alt="Hotels.com icon"> | [Hotels.com: Travel Booking](apps/android/hotels-com-lp/hotels-com/README.md) | [Hotels.com LP](companies/hotels-com-lp.md) | 2026.45.0 | 43 |
 | <img src="assets/icons/android/com.hulu.plus.png" width="20" height="20" alt="Hulu icon"> | [Hulu: Stream TV shows & movies](apps/android/disney/hulu/README.md) | [Disney](companies/disney.md) | 6.34.0+18552420-google | 33 |
@@ -459,6 +460,7 @@ Google and Google LLC share the most apps, with 21 each. 204 of 252 companies ha
 | <img src="assets/icons/android/ai.perplexity.app.android.png" width="20" height="20" alt="Perplexity icon"> | [Perplexity - AI Search & Chat](apps/android/perplexityai/perplexity/README.md) | [PerplexityAI](companies/perplexityai.md) | 2.101.0 | 37 |
 | <img src="assets/icons/android/com.google.android.dialer.png" width="20" height="20" alt="Phone by Google icon"> | [Phone by Google](apps/android/google-llc/phone-by-google/README.md) | [Google LLC](companies/google-llc.md) | 224.0.924927661-go | 15 |
 | <img src="assets/icons/android/com.photoroom.app.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom: AI Photo Editor](apps/android/photoroom-ai-photo-editor/photoroom/README.md) | [Photoroom AI Photo Editor](companies/photoroom-ai-photo-editor.md) | 2026.43.04 | 37 |
+| <img src="assets/icons/android/com.pickle.client.png" width="20" height="20" alt="Pickle icon"> | [Pickle: Your personal AI agent](apps/android/pickle-inc/pickle/README.md) | [Pickle, Inc.](companies/pickle-inc.md) | 1.1.18 | 28 |
 | <img src="assets/icons/android/com.pinterest.png" width="20" height="20" alt="Pinterest icon"> | [Pinterest](apps/android/pinterest/pinterest/README.md) | [Pinterest](companies/pinterest.md) | 14.21.0 | 35 |
 | <img src="assets/icons/android/com.yum.pizzahut.png" width="20" height="20" alt="Pizza Hut icon"> | [Pizza Hut - Delivery & Takeout](apps/android/pizza-hut-inc/pizza-hut/README.md) | [Pizza Hut Inc](companies/pizza-hut-inc.md) | 6.1.10 | 45 |
 | <img src="assets/icons/android/tv.pluto.android.png" width="20" height="20" alt="PlutoTV icon"> | [PlutoTV: Stream Free Movies/TV](apps/android/pluto-inc/plutotv/README.md) | [Pluto, Inc.](companies/pluto-inc.md) | 5.66.0-leanback | 33 |

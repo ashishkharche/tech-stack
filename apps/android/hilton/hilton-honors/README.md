@@ -13,8 +13,8 @@
 | Company | [Hilton](../../../../companies/hilton.md) |
 | Store id | `com.hilton.android.hhonors` |
 | Bundle / package id | `com.hilton.android.hhonors` |
-| Latest version | 2026.10.20 (analysed 2026-11-02) |
-| Versions tracked | 2 |
+| Latest version | 2026.11.3 (analysed 2026-11-19) |
+| Versions tracked | 3 |
 | SDKs in latest version | 29 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Material Components |
@@ -53,6 +53,7 @@ Approximate location, Bluetooth, Bluetooth (connect), Bluetooth (scan), Contacts
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2026.11.3 | 2026-11-19 |  | 29 | +0 / −0 | Yes | No | [2026.11.3.json](2026.11.3.json) |
 | 2026.10.20 | 2026-11-02 | 2026-11-02 | 29 | +0 / −0 | Yes | No | [2026.10.20.json](2026.10.20.json) |
 | 2026.6.9 | 2026-06-28 |  | 29 |  | Yes | No | [2026.6.9.json](2026.6.9.json) |
 

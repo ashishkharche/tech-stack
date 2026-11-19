@@ -4,48 +4,48 @@
 <g transform="translate(20 20)">
 <text x="510.22" y="24" font-size="13" text-anchor="end" fill="#090A0B">ACCESS_NETWORK_STATE</text>
 <rect x="522.2" y="10" width="227.8" height="18" rx="3" fill="#1EA45A"/>
-<text x="758.0" y="24" font-size="13" fill="#4D5755">174</text>
+<text x="758.0" y="24" font-size="13" fill="#4D5755">175</text>
 <text x="510.22" y="52" font-size="13" text-anchor="end" fill="#090A0B">INTERNET</text>
 <rect x="522.2" y="38" width="226.5" height="18" rx="3" fill="#1EA45A"/>
-<text x="756.7" y="52" font-size="13" fill="#4D5755">173</text>
+<text x="756.7" y="52" font-size="13" fill="#4D5755">174</text>
 <text x="510.22" y="80" font-size="13" text-anchor="end" fill="#090A0B">WAKE_LOCK</text>
 <rect x="522.2" y="66" width="225.2" height="18" rx="3" fill="#1EA45A"/>
-<text x="755.4" y="80" font-size="13" fill="#4D5755">172</text>
+<text x="755.4" y="80" font-size="13" fill="#4D5755">173</text>
 <text x="510.22" y="108" font-size="13" text-anchor="end" fill="#090A0B">POST_NOTIFICATIONS</text>
-<rect x="522.2" y="94" width="217.3" height="18" rx="3" fill="#1EA45A"/>
-<text x="747.5" y="108" font-size="13" fill="#4D5755">166</text>
+<rect x="522.2" y="94" width="217.4" height="18" rx="3" fill="#1EA45A"/>
+<text x="747.6" y="108" font-size="13" fill="#4D5755">167</text>
 <text x="510.22" y="136" font-size="13" text-anchor="end" fill="#090A0B">FOREGROUND_SERVICE</text>
-<rect x="522.2" y="122" width="210.8" height="18" rx="3" fill="#1EA45A"/>
-<text x="741.0" y="136" font-size="13" fill="#4D5755">161</text>
+<rect x="522.2" y="122" width="210.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="741.1" y="136" font-size="13" fill="#4D5755">162</text>
 <text x="510.22" y="164" font-size="13" text-anchor="end" fill="#090A0B">com.google.android.c2dm.permission.RECEIVE</text>
-<rect x="522.2" y="150" width="202.9" height="18" rx="3" fill="#1EA45A"/>
-<text x="733.1" y="164" font-size="13" fill="#4D5755">155</text>
+<rect x="522.2" y="150" width="203.0" height="18" rx="3" fill="#1EA45A"/>
+<text x="733.3" y="164" font-size="13" fill="#4D5755">156</text>
 <text x="510.22" y="192" font-size="13" text-anchor="end" fill="#090A0B">com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</text>
-<rect x="522.2" y="178" width="183.3" height="18" rx="3" fill="#1EA45A"/>
-<text x="713.5" y="192" font-size="13" fill="#4D5755">140</text>
+<rect x="522.2" y="178" width="182.2" height="18" rx="3" fill="#1EA45A"/>
+<text x="712.4" y="192" font-size="13" fill="#4D5755">140</text>
 <text x="510.22" y="220" font-size="13" text-anchor="end" fill="#090A0B">RECEIVE_BOOT_COMPLETED</text>
-<rect x="522.2" y="206" width="182.0" height="18" rx="3" fill="#1EA45A"/>
-<text x="712.2" y="220" font-size="13" fill="#4D5755">139</text>
-<text x="510.22" y="248" font-size="13" text-anchor="end" fill="#090A0B">com.google.android.gms.permission.AD_ID</text>
-<rect x="522.2" y="234" width="179.3" height="18" rx="3" fill="#1EA45A"/>
-<text x="709.6" y="248" font-size="13" fill="#4D5755">137</text>
-<text x="510.22" y="276" font-size="13" text-anchor="end" fill="#090A0B">VIBRATE</text>
-<rect x="522.2" y="262" width="178.0" height="18" rx="3" fill="#1EA45A"/>
-<text x="708.3" y="276" font-size="13" fill="#4D5755">136</text>
+<rect x="522.2" y="206" width="180.9" height="18" rx="3" fill="#1EA45A"/>
+<text x="711.1" y="220" font-size="13" fill="#4D5755">139</text>
+<text x="510.22" y="248" font-size="13" text-anchor="end" fill="#090A0B">VIBRATE</text>
+<rect x="522.2" y="234" width="178.3" height="18" rx="3" fill="#1EA45A"/>
+<text x="708.5" y="248" font-size="13" fill="#4D5755">137</text>
+<text x="510.22" y="276" font-size="13" text-anchor="end" fill="#090A0B">com.google.android.gms.permission.AD_ID</text>
+<rect x="522.2" y="262" width="178.3" height="18" rx="3" fill="#1EA45A"/>
+<text x="708.5" y="276" font-size="13" fill="#4D5755">137</text>
 <text x="510.22" y="304" font-size="13" text-anchor="end" fill="#090A0B">ACCESS_WIFI_STATE</text>
-<rect x="522.2" y="290" width="167.6" height="18" rx="3" fill="#1EA45A"/>
-<text x="697.8" y="304" font-size="13" fill="#4D5755">128</text>
+<rect x="522.2" y="290" width="166.6" height="18" rx="3" fill="#1EA45A"/>
+<text x="696.8" y="304" font-size="13" fill="#4D5755">128</text>
 <text x="510.22" y="332" font-size="13" text-anchor="end" fill="#090A0B">CAMERA</text>
-<rect x="522.2" y="318" width="162.3" height="18" rx="3" fill="#1EA45A"/>
-<text x="692.5" y="332" font-size="13" fill="#4D5755">124</text>
+<rect x="522.2" y="318" width="162.7" height="18" rx="3" fill="#1EA45A"/>
+<text x="692.9" y="332" font-size="13" fill="#4D5755">125</text>
 <text x="510.22" y="360" font-size="13" text-anchor="end" fill="#090A0B">WRITE_EXTERNAL_STORAGE</text>
-<rect x="522.2" y="346" width="162.3" height="18" rx="3" fill="#1EA45A"/>
-<text x="692.5" y="360" font-size="13" fill="#4D5755">124</text>
+<rect x="522.2" y="346" width="161.4" height="18" rx="3" fill="#1EA45A"/>
+<text x="691.6" y="360" font-size="13" fill="#4D5755">124</text>
 <text x="510.22" y="388" font-size="13" text-anchor="end" fill="#090A0B">READ_EXTERNAL_STORAGE</text>
-<rect x="522.2" y="374" width="151.9" height="18" rx="3" fill="#1EA45A"/>
-<text x="682.1" y="388" font-size="13" fill="#4D5755">116</text>
+<rect x="522.2" y="374" width="151.0" height="18" rx="3" fill="#1EA45A"/>
+<text x="681.2" y="388" font-size="13" fill="#4D5755">116</text>
 <text x="510.22" y="416" font-size="13" text-anchor="end" fill="#090A0B">ACCESS_COARSE_LOCATION</text>
-<rect x="522.2" y="402" width="140.1" height="18" rx="3" fill="#1EA45A"/>
-<text x="670.3" y="416" font-size="13" fill="#4D5755">107</text>
+<rect x="522.2" y="402" width="140.6" height="18" rx="3" fill="#1EA45A"/>
+<text x="670.8" y="416" font-size="13" fill="#4D5755">108</text>
 </g>
 </svg>
