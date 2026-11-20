@@ -2,7 +2,7 @@
 
 # Companies
 
-261 companies. Each name is the developer name on the store listing.
+262 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | <img src="../assets/icons/ios/6740224837.png" width="20" height="20" alt="Joybuy-Don't just buy, Joybuy! icon"> | [Joybuy](joybuy.md) | 1 | 1 | 0 | 1 | 102 |
 | <img src="../assets/icons/android/me.karmalab.talk.png" width="20" height="20" alt="KARMA Secure Messenger icon"> | [Karmalab Inc.](karmalab-inc.md) | 1 | 0 | 1 | 1 | 26 |
 | <img src="../assets/icons/ios/1484296272.png" width="20" height="20" alt="Knowunity icon"> | [Knowunity GmbH](knowunity-gmbh.md) | 1 | 1 | 0 | 1 | 60 |
-| <img src="../assets/icons/android/com.kohls.mcommerce.opal.png" width="20" height="20" alt="Kohl's icon"> | [Kohls](kohls.md) | 1 | 0 | 1 | 2 | 40 |
+| <img src="../assets/icons/android/com.kohls.mcommerce.opal.png" width="20" height="20" alt="Kohl's icon"> | [Kohls](kohls.md) | 1 | 0 | 1 | 3 | 40 |
 | <img src="../assets/icons/ios/6472232952.png" width="20" height="20" alt="Koupon icon"> | [Koupon Inc.](koupon-inc.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/ios/6742321547.png" width="20" height="20" alt="i-Kfz icon"> | [Kraftfahrt-Bundesamt](kraftfahrt-bundesamt.md) | 1 | 1 | 0 | 1 | 4 |
 | <img src="../assets/icons/ios/6768240254.png" width="20" height="20" alt="FreeDrama icon"> | [Kuku Technologies Limited](kuku-technologies-limited.md) | 1 | 1 | 0 | 1 | 81 |
@@ -145,6 +145,7 @@
 | <img src="../assets/icons/ios/6812807809.png" width="20" height="20" alt="BeFitWay icon"> | [MARKETING AFFILIATES LTDA](marketing-affiliates-ltda.md) | 1 | 1 | 0 | 1 | 24 |
 | <img src="../assets/icons/android/com.marriott.mrt.png" width="20" height="20" alt="Marriott Bonvoy icon"> | [Marriott International](marriott-international.md) | 1 | 0 | 1 | 1 | 25 |
 | <img src="../assets/icons/ios/1571998974.png" width="20" height="20" alt="Mastodon icon"> | [Mastodon GmbH](mastodon-gmbh.md) | 1 | 1 | 0 | 2 | 14 |
+| <img src="../assets/icons/ios/1217507712.png" width="20" height="20" alt="McDonald's icon"> | [McDonald's Global Markets LLC](mcdonald-s-global-markets-llc.md) | 1 | 1 | 0 | 1 | 46 |
 | <img src="../assets/icons/android/com.mcdonalds.app.png" width="20" height="20" alt="McDonald's icon"> | [McDonalds USA, LLC](mcdonalds-usa-llc.md) | 1 | 0 | 1 | 2 | 42 |
 | <img src="../assets/icons/ios/932002377.png" width="20" height="20" alt="drawnames icon"> | [Meetrix Online](meetrix-online.md) | 1 | 1 | 0 | 1 | 37 |
 | <img src="../assets/icons/ios/416048305.png" width="20" height="20" alt="Meitu icon"> | [Meitu Technology Co., Ltd.](meitu-technology-co-ltd.md) | 1 | 1 | 0 | 1 | 137 |
@@ -197,7 +198,7 @@
 | <img src="../assets/icons/ios/6742024490.png" width="20" height="20" alt="Reco Social icon"> | [Reco Social, Inc.](reco-social-inc.md) | 1 | 1 | 0 | 1 | 80 |
 | <img src="../assets/icons/ios/482066631.png" width="20" height="20" alt="Roku Remote (Official) icon"> | [ROKU INC](roku-inc.md) | 1 | 1 | 0 | 1 | 39 |
 | <img src="../assets/icons/ios/6749303003.png" width="20" height="20" alt="WayShot icon"> | [Romangic Lab LLC](romangic-lab-llc.md) | 1 | 1 | 0 | 1 | 59 |
-| <img src="../assets/icons/ios/1198464606.png" width="20" height="20" alt="Rapido icon"> | [Roppen Transportation Services Private Limited](roppen-transportation-services-private-limited.md) | 1 | 1 | 0 | 1 | 56 |
+| <img src="../assets/icons/ios/1198464606.png" width="20" height="20" alt="Rapido icon"> | [Roppen Transportation Services Private Limited](roppen-transportation-services-private-limited.md) | 1 | 1 | 0 | 2 | 56 |
 | <img src="../assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club](sam-s-club.md) | 1 | 0 | 1 | 1 | 37 |
 | <img src="../assets/icons/ios/396584034.png" width="20" height="20" alt="Everland icon"> | [Samsung Everland Co. Ltd.](samsung-everland-co-ltd.md) | 1 | 1 | 0 | 1 | 52 |
 | <img src="../assets/icons/ios/1020136055.png" width="20" height="20" alt="SBS icon"> | [SBS I&M Co., Ltd.](sbs-i-m-co-ltd.md) | 1 | 1 | 0 | 1 | 47 |

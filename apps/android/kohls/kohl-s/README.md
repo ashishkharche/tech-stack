@@ -13,8 +13,8 @@
 | Company | [Kohls](../../../../companies/kohls.md) |
 | Store id | `com.kohls.mcommerce.opal` |
 | Bundle / package id | `com.kohls.mcommerce.opal` |
-| Latest version | 26.10.5 (analysed 2026-11-03) |
-| Versions tracked | 2 |
+| Latest version | 26.11.2 (analysed 2026-11-20) |
+| Versions tracked | 3 |
 | SDKs in latest version | 40 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
@@ -58,6 +58,7 @@ Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 26.11.2 | 2026-11-20 |  | 40 | +0 / −0 | Yes | No | [26.11.2.json](26.11.2.json) |
 | 26.10.5 | 2026-11-03 |  | 40 | +3 / −0 | Yes | No | [26.10.5.json](26.10.5.json) |
 | 8.3.56 | 2026-06-19 |  | 37 |  | No | No | [8.3.56.json](8.3.56.json) |
 
