@@ -13,15 +13,15 @@
 | Company | [Lowe's Companies, Inc.](../../../../companies/lowe-s-companies-inc.md) |
 | Store id | `com.lowes.android` |
 | Bundle / package id | `com.lowes.android` |
-| Latest version | 25.4.4 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 38 |
-| Languages | C/C++ (native), Java, Kotlin, Unity (C# / IL2CPP) |
-| UI | Coil, Glide, Jetpack Compose, Lottie, Material Components, Picasso |
+| Latest version | 26.10.7 (analysed 2026-11-20) |
+| Versions tracked | 2 |
+| SDKs in latest version | 40 |
+| Languages | C/C++ (native), Java, Kotlin |
+| UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
 | Build | Gradle (inferred) |
-| Minimum OS | API 26, targets API 34 |
+| Minimum OS | API 32, targets API 37 |
 | Devices / ABIs | Android |
-| Capabilities | 13 |
+| Capabilities | 15 |
 | Declares tracking | Yes |
 | Tracked | No. Kept for history. |
 
@@ -29,16 +29,16 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/lowe-s-companies-inc/lowe-s-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/lowe-s-companies-inc/lowe-s-light.svg"></picture>
 
-- **UI and rendering** (6): Coil, Glide, Jetpack Compose, Lottie, Material Components, Picasso
-- **Analytics** (5): Branch, Firebase Analytics, FullStory, Google App Measurement, Medallia
+- **Analytics** (6): AppsFlyer, Branch, Firebase Analytics, FullStory, Google App Measurement, Medallia
+- **UI and rendering** (6): AndroidSVG, Coil, Glide, Jetpack Compose, Lottie, Material Components
 - **Sign-in and auth** (4): AppAuth, Credential Manager, Firebase Auth, Google Sign-In / Auth
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
+- **Networking** (3): Ktor, OkHttp, Retrofit
 - **Storage** (3): DataStore, Okio, Room
 - **Anti-fraud and integrity** (2): Play Integrity, reCAPTCHA
 - **Crash and performance** (2): Firebase Crashlytics, Firebase Performance
 - **Maps and location** (2): Google Location, Google Maps
 - **ML and AI** (2): ML Kit, ML Kit (barcode/vision)
-- **Networking** (2): OkHttp, Retrofit
 - **Reactive and async** (2): Kotlin Coroutines, RxJava
 - **Ads** (1): Google Mobile Ads (AdMob)
 - **Feature flags** (1): Firebase Remote Config
@@ -47,9 +47,9 @@
 - **Payments** (1): Braintree
 
 <details>
-<summary>Capabilities (13)</summary>
+<summary>Capabilities (15)</summary>
 
-Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, Foreground service, Foreground service: location, Microphone, Notifications, Phone / carrier info, Precise location, Storage (read), Storage (write)
+Advertising ID, Approximate location, Background location, Biometric auth, Camera, Fingerprint auth, Foreground service, Foreground service: location, Microphone, NFC, Notifications, Phone / carrier info, Precise location, Storage (read), Storage (write)
 
 </details>
 
@@ -57,13 +57,12 @@ Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 26.10.7 | 2026-11-20 |  | 40 | +3 / −1 | No | No | [26.10.7.json](26.10.7.json) |
 | 25.4.4 | 2026-06-19 |  | 38 |  | No | No | [25.4.4.json](25.4.4.json) |
 
-## Model-written summary
+### SDK changes between versions
 
-> Android app with Unity IL2CPP ARCore integration, Jetpack Compose UI, bundled TFLite vision models, Firebase services, Retrofit to Lowe's APIs
-
-<sub>Written by a language model from the detected signals (`inferred[]`). It is commentary, not measurement.</sub>
+- 25.4.4 → 26.10.7: added AndroidSVG, AppsFlyer, Ktor; removed Picasso
 
 ---
 

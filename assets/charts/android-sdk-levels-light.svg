@@ -25,8 +25,8 @@
 <rect x="255.2" y="216.8" width="12.6" height="3.2" rx="2" fill="#090A0B"/>
 <text x="261.5" y="211.8" font-size="11" text-anchor="middle" fill="#4D5755">2</text>
 <text x="268.8" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">25</text>
-<rect x="302.3" y="181.7" width="12.6" height="38.3" rx="2" fill="#090A0B"/>
-<text x="308.6" y="176.7" font-size="11" text-anchor="middle" fill="#4D5755">24</text>
+<rect x="302.3" y="183.3" width="12.6" height="36.7" rx="2" fill="#090A0B"/>
+<text x="308.6" y="178.3" font-size="11" text-anchor="middle" fill="#4D5755">23</text>
 <text x="315.9" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">26</text>
 <rect x="349.4" y="175.3" width="12.6" height="44.7" rx="2" fill="#090A0B"/>
 <text x="355.6" y="170.3" font-size="11" text-anchor="middle" fill="#4D5755">28</text>
@@ -40,16 +40,16 @@
 <rect x="490.5" y="218.4" width="12.6" height="1.6" rx="2" fill="#090A0B"/>
 <text x="496.8" y="213.4" font-size="11" text-anchor="middle" fill="#4D5755">1</text>
 <text x="504.1" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">31</text>
-<rect x="537.6" y="208.8" width="12.6" height="11.2" rx="2" fill="#090A0B"/>
-<text x="543.9" y="203.8" font-size="11" text-anchor="middle" fill="#4D5755">7</text>
+<rect x="537.6" y="207.2" width="12.6" height="12.8" rx="2" fill="#090A0B"/>
+<text x="543.9" y="202.2" font-size="11" text-anchor="middle" fill="#4D5755">8</text>
 <text x="551.2" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">32</text>
 <rect x="584.6" y="215.2" width="12.6" height="4.8" rx="2" fill="#090A0B"/>
 <text x="590.9" y="210.2" font-size="11" text-anchor="middle" fill="#4D5755">3</text>
 <rect x="599.2" y="216.8" width="12.6" height="3.2" rx="2" fill="#5F6A6C"/>
 <text x="605.5" y="211.8" font-size="11" text-anchor="middle" fill="#4D5755">2</text>
 <text x="598.2" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">33</text>
-<rect x="646.3" y="208.8" width="12.6" height="11.2" rx="2" fill="#5F6A6C"/>
-<text x="652.6" y="203.8" font-size="11" text-anchor="middle" fill="#4D5755">7</text>
+<rect x="646.3" y="210.4" width="12.6" height="9.6" rx="2" fill="#5F6A6C"/>
+<text x="652.6" y="205.4" font-size="11" text-anchor="middle" fill="#4D5755">6</text>
 <text x="645.3" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">34</text>
 <rect x="693.4" y="151.4" width="12.6" height="68.6" rx="2" fill="#5F6A6C"/>
 <text x="699.6" y="146.4" font-size="11" text-anchor="middle" fill="#4D5755">43</text>
@@ -57,8 +57,8 @@
 <rect x="740.4" y="54.0" width="12.6" height="166.0" rx="2" fill="#5F6A6C"/>
 <text x="746.7" y="49.0" font-size="11" text-anchor="middle" fill="#4D5755">104</text>
 <text x="739.4" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">36</text>
-<rect x="787.5" y="183.3" width="12.6" height="36.7" rx="2" fill="#5F6A6C"/>
-<text x="793.8" y="178.3" font-size="11" text-anchor="middle" fill="#4D5755">23</text>
+<rect x="787.5" y="181.7" width="12.6" height="38.3" rx="2" fill="#5F6A6C"/>
+<text x="793.8" y="176.7" font-size="11" text-anchor="middle" fill="#4D5755">24</text>
 <text x="786.5" y="238.0" font-size="12" text-anchor="middle" fill="#090A0B">37</text>
 </g>
 </svg>

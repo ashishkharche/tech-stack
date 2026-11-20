@@ -13,9 +13,9 @@
 | Company | [Disney](../../../../companies/disney.md) |
 | Store id | `1446075923` |
 | Bundle / package id | `com.disney.disneyplus` |
-| Latest version | 5.21.0 (analysed 2026-11-15) |
-| Versions tracked | 3 |
-| SDKs in latest version | 55 |
+| Latest version | 5.22.1 (analysed 2026-11-20) |
+| Versions tracked | 4 |
+| SDKs in latest version | 56 |
 | Languages | C/C++, Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
@@ -30,7 +30,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/disney/disney-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/disney/disney-light.svg"></picture>
 
-- **Other** (33): AsyncPublisher 1.0, Cast 1.0, ClientSDK, ContentCollectionsFeature 1.0, ContentDetailsFeature 1.0, ConvivaAVFoundation 4.4.1, CoreGraph 1.0, CrashReporter, DMX, DominguezCore, DominguezCoreExtensionSafe 1.0, DominguezFoundation 1.0, DominguezKit 1.0, DominguezServices 1.0, DominguezUI, DominguezWidgetKit 1.0, DSSKitBase 1.0, EdgeSDK 1.0, Environment, ExploreFeature 1.0, FactoryKit, GCIX 1.0, IdentitySDK, Nest 1.0, OnboardingFeature 1.0, OrchestrationSDK 1.0, ProfileFeature 1.0, RipleyCore, RipleyUI, SettingsFeature 1.0, UMPSDK 1.0, VideoPlayerFeature 1.0, VX 1.0
+- **Other** (34): AsyncPublisher 1.0, Cast 1.0, ClientSDK, ContentCollectionsFeature 1.0, ContentDetailsFeature 1.0, ConvivaAVFoundation 4.4.1, CoreGraph 1.0, CrashReporter, DMX, DominguezCore, DominguezCoreExtensionSafe 1.0, DominguezFoundation 1.0, DominguezKit 1.0, DominguezServices 1.0, DominguezUI, DominguezWidgetKit 1.0, DSSKitBase 1.0, EdgeSDK 1.0, Environment, EventsSDK, ExploreFeature 1.0, FactoryKit, GCIX 1.0, IdentitySDK, Nest 1.0, OnboardingFeature 1.0, OrchestrationSDK 1.0, ProfileFeature 1.0, RipleyCore, RipleyUI, SettingsFeature 1.0, UMPSDK 1.0, VideoPlayerFeature 1.0, VX 1.0
 - **Crash and performance** (6): Datadog 1.0, DatadogCore, DatadogCrashReporting, DatadogRUM, KSCrash, PLCrashReporter
 - **Analytics** (3): BrazeKit 11.4.0, ConvivaSDK 4.4.1, NielsenAppApi 10.1.0
 - **Apple frameworks** (3): DequeModule 1.0, InternalCollectionsUtilities 1.0, OrderedCollections 1.0
@@ -59,12 +59,14 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 5.22.1 | 2026-11-20 |  | 56 | +1 / −0 | Yes | Yes | [5.22.1.json](5.22.1.json) |
 | 5.21.0 | 2026-11-15 |  | 55 | +2 / −0 | Yes | Yes | [5.21.0.json](5.21.0.json) |
 | 5.20.5 | 2026-11-02 | 2026-11-01 | 53 | +5 / −2 | Yes | Yes | [5.20.5.json](5.20.5.json) |
 | 5.10.0 | 2026-06-23 |  | 50 |  | Yes | Yes | [5.10.0.json](5.10.0.json) |
 
 ### SDK changes between versions
 
+- 5.21.0 → 5.22.1: added EventsSDK
 - 5.20.5 → 5.21.0: added ConvivaAVFoundation, ConvivaSDK
 - 5.10.0 → 5.20.5: added AsyncPublisher, DominguezKit, DominguezWidgetKit, GCIX, OrchestrationSDK; removed Chromecast, DSSKitADK
 

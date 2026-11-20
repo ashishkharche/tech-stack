@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "25.4.4",
+  "version": "26.10.7",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-06-19T04:32:19Z",
+    "captured_at": "2026-11-20T20:37:58Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-01T19:16:22Z"
+    "exported_at": "2026-11-20T20:58:23Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,12 +36,11 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 38,
+    "sdk_count": 40,
     "languages": [
       "C/C++ (native)",
       "Java",
-      "Kotlin",
-      "Unity (C# / IL2CPP)"
+      "Kotlin"
     ],
     "frameworks": [],
     "ui_graphics": [
@@ -49,13 +48,18 @@
       "Glide",
       "Jetpack Compose",
       "Lottie",
-      "Material Components",
-      "Picasso"
+      "Material Components"
     ],
     "build_system": [
       "Gradle (inferred)"
     ],
     "sdks": [
+      {
+        "name": "AppsFlyer",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
       {
         "name": "Branch",
         "version": null,
@@ -132,6 +136,12 @@
         "name": "Google Sign-In / Auth",
         "version": null,
         "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "Ktor",
+        "version": null,
+        "category": "networking",
         "confidence": "observed"
       },
       {
@@ -231,6 +241,12 @@
         "confidence": "observed"
       },
       {
+        "name": "AndroidSVG",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
         "name": "Coil",
         "version": null,
         "category": "rendering",
@@ -261,12 +277,6 @@
         "confidence": "observed"
       },
       {
-        "name": "Picasso",
-        "version": null,
-        "category": "rendering",
-        "confidence": "observed"
-      },
-      {
         "name": "Play Integrity",
         "version": null,
         "category": "anti_fraud",
@@ -286,28 +296,30 @@
       }
     ],
     "platform": {
-      "min_os": "Android API 26",
-      "min_sdk": "26",
-      "target_sdk": "34",
+      "min_os": "Android API 32",
+      "min_sdk": "32",
+      "target_sdk": "37",
       "build_sdk": null,
       "xcode": null,
       "device_families": [
         "Android"
       ],
       "abis": [
-        "arm64-v8a"
+        "armeabi-v7a"
       ],
       "localization_count": null
     },
     "capabilities": [
       "Advertising ID",
       "Approximate location",
+      "Background location",
       "Biometric auth",
       "Camera",
       "Fingerprint auth",
       "Foreground service",
       "Foreground service: location",
       "Microphone",
+      "NFC",
       "Notifications",
       "Phone / carrier info",
       "Precise location",
@@ -316,23 +328,29 @@
     ],
     "privacy": {
       "declares_tracking": true,
-      "tracking_domain_count": 8,
+      "tracking_domain_count": 9,
       "collected_data_types": [],
       "required_reason_apis": [],
       "android_permissions": [
         "android.permission.ACCESS_ADSERVICES_AD_ID",
         "android.permission.ACCESS_ADSERVICES_ATTRIBUTION",
+        "android.permission.ACCESS_ADSERVICES_TOPICS",
+        "android.permission.ACCESS_BACKGROUND_LOCATION",
         "android.permission.ACCESS_COARSE_LOCATION",
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.ACCESS_WIFI_STATE",
         "android.permission.CAMERA",
         "android.permission.CHANGE_NETWORK_STATE",
+        "android.permission.EXPAND_STATUS_BAR",
         "android.permission.FLASHLIGHT",
         "android.permission.FOREGROUND_SERVICE",
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
         "android.permission.FOREGROUND_SERVICE_LOCATION",
         "android.permission.INTERNET",
+        "android.permission.NFC",
         "android.permission.POST_NOTIFICATIONS",
+        "android.permission.POST_PROMOTED_NOTIFICATIONS",
         "android.permission.READ_EXTERNAL_STORAGE",
         "android.permission.READ_PHONE_STATE",
         "android.permission.RECEIVE_BOOT_COMPLETED",
@@ -346,25 +364,12 @@
         "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
         "com.google.android.gms.permission.AD_ID",
         "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
         "com.lowes.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-        "com.lowes.android.permission.MAPS_RECEIVE"
+        "com.lowes.android.permission.MAPS_RECEIVE",
+        "com.samsung.android.mapsagent.permission.READ_APP_INFO"
       ]
     }
   },
-  "inferred": [
-    {
-      "kind": "analysis",
-      "method": "model_written_summary_of_detected_signals",
-      "note": "Written by a language model from the analysis; treat as unverified.",
-      "generated_at": "2026-06-11T14:26:17Z",
-      "headline": "Android app with Unity IL2CPP ARCore integration, Jetpack Compose UI, bundled TFLite vision models, Firebase services, Retrofit to Lowe's APIs",
-      "insights": [
-        {
-          "theme": "ui",
-          "title": "Compose with multiple image loaders",
-          "detail": "UI stack uses Jetpack Compose and Material Components but also bundles Glide, Coil and Picasso for image handling."
-        }
-      ]
-    }
-  ]
+  "inferred": []
 }

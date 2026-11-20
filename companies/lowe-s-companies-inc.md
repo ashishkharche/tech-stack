@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (0 iOS, 2 Android) · **2** versions · **40** distinct SDKs across their latest versions
+**2** apps (0 iOS, 2 Android) · **3** versions · **42** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/lowe-s-companies-inc/lowe-s/README.md"><img src="../assets/icons/android/com.lowes.android.png" width="56" height="56" alt="Lowe's icon"></a><br><a href="../apps/android/lowe-s-companies-inc/lowe-s/README.md"><sub><b>Lowe's</b></sub></a><br><sub>Android · 38 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/lowe-s-companies-inc/lowe-s-provider/README.md"><img src="../assets/icons/android/com.lowes.serviceproviders.png" width="56" height="56" alt="Lowe's Provider icon"></a><br><a href="../apps/android/lowe-s-companies-inc/lowe-s-provider/README.md"><sub><b>Lowe's Provider</b></sub></a><br><sub>Android · 15 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/lowe-s-companies-inc/lowe-s/README.md"><img src="../assets/icons/android/com.lowes.android.png" width="56" height="56" alt="Lowe's icon"></a><br><a href="../apps/android/lowe-s-companies-inc/lowe-s/README.md"><sub><b>Lowe's</b></sub></a><br><sub>Android · 40 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/lowe-s-companies-inc/lowe-s-provider/README.md"><img src="../assets/icons/android/com.lowes.serviceproviders.png" width="56" height="56" alt="Lowe's Provider icon"></a><br><a href="../apps/android/lowe-s-companies-inc/lowe-s-provider/README.md"><sub><b>Lowe's Provider</b></sub></a><br><sub>Android · 15 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.lowes.android.png" width="20" height="20" alt="Lowe's icon"> | [Lowe's](../apps/android/lowe-s-companies-inc/lowe-s/README.md) | Android | 1 | 25.4.4 | 2026-06-19 | 38 | No |
+| <img src="../assets/icons/android/com.lowes.android.png" width="20" height="20" alt="Lowe's icon"> | [Lowe's](../apps/android/lowe-s-companies-inc/lowe-s/README.md) | Android | 2 | 26.10.7 | 2026-11-20 | 40 | No |
 | <img src="../assets/icons/android/com.lowes.serviceproviders.png" width="20" height="20" alt="Lowe's Provider icon"> | [Lowe's Provider](../apps/android/lowe-s-companies-inc/lowe-s-provider/README.md) | Android | 1 | 1.41.3 | 2026-06-19 | 15 | No |
 
 ## SDKs by category

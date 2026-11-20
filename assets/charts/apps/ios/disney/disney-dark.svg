@@ -4,33 +4,33 @@
 <g transform="translate(20 20)">
 <text x="158.17999999999995" y="20" font-size="13" text-anchor="end" fill="#F1F6F3">Other</text>
 <rect x="170.2" y="10" width="399.8" height="14" rx="3" fill="#0091FF"/>
-<text x="578.0" y="20" font-size="13" fill="#A9B2BC">33</text>
+<text x="578.0" y="20" font-size="13" fill="#A9B2BC">34</text>
 <text x="158.17999999999995" y="42" font-size="13" text-anchor="end" fill="#F1F6F3">Crash and performance</text>
-<rect x="170.2" y="32" width="72.7" height="14" rx="3" fill="#0091FF"/>
-<text x="250.9" y="42" font-size="13" fill="#A9B2BC">6</text>
+<rect x="170.2" y="32" width="70.6" height="14" rx="3" fill="#0091FF"/>
+<text x="248.7" y="42" font-size="13" fill="#A9B2BC">6</text>
 <text x="158.17999999999995" y="64" font-size="13" text-anchor="end" fill="#F1F6F3">Analytics</text>
-<rect x="170.2" y="54" width="36.3" height="14" rx="3" fill="#0091FF"/>
-<text x="214.5" y="64" font-size="13" fill="#A9B2BC">3</text>
+<rect x="170.2" y="54" width="35.3" height="14" rx="3" fill="#0091FF"/>
+<text x="213.5" y="64" font-size="13" fill="#A9B2BC">3</text>
 <text x="158.17999999999995" y="86" font-size="13" text-anchor="end" fill="#F1F6F3">Apple frameworks</text>
-<rect x="170.2" y="76" width="36.3" height="14" rx="3" fill="#0091FF"/>
-<text x="214.5" y="86" font-size="13" fill="#A9B2BC">3</text>
+<rect x="170.2" y="76" width="35.3" height="14" rx="3" fill="#0091FF"/>
+<text x="213.5" y="86" font-size="13" fill="#A9B2BC">3</text>
 <text x="158.17999999999995" y="108" font-size="13" text-anchor="end" fill="#F1F6F3">Reactive and async</text>
-<rect x="170.2" y="98" width="36.3" height="14" rx="3" fill="#0091FF"/>
-<text x="214.5" y="108" font-size="13" fill="#A9B2BC">3</text>
+<rect x="170.2" y="98" width="35.3" height="14" rx="3" fill="#0091FF"/>
+<text x="213.5" y="108" font-size="13" fill="#A9B2BC">3</text>
 <text x="158.17999999999995" y="130" font-size="13" text-anchor="end" fill="#F1F6F3">Anti-fraud and integrity</text>
-<rect x="170.2" y="120" width="24.2" height="14" rx="3" fill="#0091FF"/>
-<text x="202.4" y="130" font-size="13" fill="#A9B2BC">2</text>
+<rect x="170.2" y="120" width="23.5" height="14" rx="3" fill="#0091FF"/>
+<text x="201.7" y="130" font-size="13" fill="#A9B2BC">2</text>
 <text x="158.17999999999995" y="152" font-size="13" text-anchor="end" fill="#F1F6F3">UI and rendering</text>
-<rect x="170.2" y="142" width="24.2" height="14" rx="3" fill="#0091FF"/>
-<text x="202.4" y="152" font-size="13" fill="#A9B2BC">2</text>
+<rect x="170.2" y="142" width="23.5" height="14" rx="3" fill="#0091FF"/>
+<text x="201.7" y="152" font-size="13" fill="#A9B2BC">2</text>
 <text x="158.17999999999995" y="174" font-size="13" text-anchor="end" fill="#F1F6F3">Media</text>
-<rect x="170.2" y="164" width="12.1" height="14" rx="3" fill="#0091FF"/>
-<text x="190.3" y="174" font-size="13" fill="#A9B2BC">1</text>
+<rect x="170.2" y="164" width="11.8" height="14" rx="3" fill="#0091FF"/>
+<text x="189.9" y="174" font-size="13" fill="#A9B2BC">1</text>
 <text x="158.17999999999995" y="196" font-size="13" text-anchor="end" fill="#F1F6F3">Messaging and push</text>
-<rect x="170.2" y="186" width="12.1" height="14" rx="3" fill="#0091FF"/>
-<text x="190.3" y="196" font-size="13" fill="#A9B2BC">1</text>
+<rect x="170.2" y="186" width="11.8" height="14" rx="3" fill="#0091FF"/>
+<text x="189.9" y="196" font-size="13" fill="#A9B2BC">1</text>
 <text x="158.17999999999995" y="218" font-size="13" text-anchor="end" fill="#F1F6F3">Privacy and consent</text>
-<rect x="170.2" y="208" width="12.1" height="14" rx="3" fill="#0091FF"/>
-<text x="190.3" y="218" font-size="13" fill="#A9B2BC">1</text>
+<rect x="170.2" y="208" width="11.8" height="14" rx="3" fill="#0091FF"/>
+<text x="189.9" y="218" font-size="13" fill="#A9B2BC">1</text>
 </g>
 </svg>
