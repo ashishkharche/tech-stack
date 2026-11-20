@@ -13,8 +13,8 @@
 | Company | [Microsoft Corporation](../../../../companies/microsoft-corporation.md) |
 | Store id | `1212616790` |
 | Bundle / package id | `com.microsoft.to-do` |
-| Latest version | 2.177 (analysed 2026-11-02) |
-| Versions tracked | 2 |
+| Latest version | 2.183 (analysed 2026-11-20) |
+| Versions tracked | 3 |
 | SDKs in latest version | 12 |
 | Languages | C/C++, Objective-C, React Native / JavaScript, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -53,6 +53,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2.183 | 2026-11-20 |  | 12 | +0 / −0 | Yes | Yes | [2.183.json](2.183.json) |
 | 2.177 | 2026-11-02 | 2026-07-06 | 12 | +0 / −0 | Yes | Yes | [2.177.json](2.177.json) |
 | 2.169 | 2026-06-19 | 2026-03-09 | 12 |  | Yes | Yes | [2.169.json](2.169.json) |
 

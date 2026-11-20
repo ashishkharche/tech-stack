@@ -13,8 +13,8 @@
 | Company | [Bytedance Pte. Ltd.](../../../../companies/bytedance-pte-ltd.md) |
 | Store id | `com.lemon.lvoverseas` |
 | Bundle / package id | `com.lemon.lvoverseas` |
-| Latest version | 19.8.0 (analysed 2026-10-24) |
-| Versions tracked | 1 |
+| Latest version | 20.2.0 (analysed 2026-11-20) |
+| Versions tracked | 2 |
 | SDKs in latest version | 37 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Fresco, Jetpack Compose, Lottie, Material Components |
@@ -55,6 +55,7 @@ Advertising ID, Calendar (read), Calendar (write), Camera, Draw over other apps,
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 20.2.0 | 2026-11-20 |  | 37 | +0 / −0 | No | No | [20.2.0.json](20.2.0.json) |
 | 19.8.0 | 2026-10-24 | 2026-10-23 | 37 |  | No | No | [19.8.0.json](19.8.0.json) |
 
 ---
