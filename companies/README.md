@@ -2,7 +2,7 @@
 
 # Companies
 
-258 companies. Each name is the developer name on the store listing.
+261 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -52,8 +52,9 @@
 | <img src="../assets/icons/android/de.traderepublic.app.png" width="20" height="20" alt="Trade Republic icon"> <img src="../assets/icons/ios/1410703839.png" width="20" height="20" alt="Trade Republic icon"> | [Trade Republic Bank GmbH](trade-republic-bank-gmbh.md) | 2 | 1 | 1 | 2 | 104 |
 | <img src="../assets/icons/android/tv.twitch.android.app.png" width="20" height="20" alt="Twitch icon"> <img src="../assets/icons/ios/460177396.png" width="20" height="20" alt="Twitch icon"> | [Twitch Interactive, Inc.](twitch-interactive-inc.md) | 2 | 1 | 1 | 2 | 42 |
 | <img src="../assets/icons/android/com.wayfair.wayfair.png" width="20" height="20" alt="Wayfair icon"> <img src="../assets/icons/android/com.wayfair.wayhome.png" width="20" height="20" alt="Wayfair Service Pro icon"> | [Wayfair, LLC](wayfair-llc.md) | 2 | 0 | 2 | 2 | 45 |
-| <img src="../assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Inc.](whatsapp-inc.md) | 2 | 2 | 0 | 6 | 6 |
+| <img src="../assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Inc.](whatsapp-inc.md) | 2 | 2 | 0 | 7 | 6 |
 | <img src="../assets/icons/android/com.whatsapp.w4b.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/android/com.whatsapp.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp LLC](whatsapp-llc.md) | 2 | 0 | 2 | 3 | 25 |
+| <img src="../assets/icons/android/com.action.consumerapp.png" width="20" height="20" alt="Action icon"> | [Action BV](action-bv.md) | 1 | 0 | 1 | 1 | 30 |
 | <img src="../assets/icons/android/com.advitaortho.chime.png" width="20" height="20" alt="Chime icon"> | [Advita Ortho, LLC](advita-ortho-llc.md) | 1 | 0 | 1 | 1 | 24 |
 | <img src="../assets/icons/android/io.affirmquest.app.png" width="20" height="20" alt="Affirm Quest icon"> | [Affirm Quest](affirm-quest.md) | 1 | 0 | 1 | 1 | 13 |
 | <img src="../assets/icons/ios/401626263.png" width="20" height="20" alt="Airbnb icon"> | [Airbnb, Inc.](airbnb-inc.md) | 1 | 1 | 0 | 1 | 23 |
@@ -125,6 +126,7 @@
 | <img src="../assets/icons/ios/458324110.png" width="20" height="20" alt="ICA icon"> | [ICA Sverige AB](ica-sverige-ab.md) | 1 | 1 | 0 | 1 | 19 |
 | <img src="../assets/icons/ios/6476790495.png" width="20" height="20" alt="Ideogram AI icon"> | [Ideogram](ideogram.md) | 1 | 1 | 0 | 1 | 19 |
 | <img src="../assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeartMedia Management Services, Inc.](iheartmedia-management-services-inc.md) | 1 | 1 | 0 | 1 | 88 |
+| <img src="../assets/icons/ios/1300573997.png" width="20" height="20" alt="My Infocert icon"> | [InfoCert S.p.A.](infocert-s-p-a.md) | 1 | 1 | 0 | 1 | 33 |
 | <img src="../assets/icons/android/uk.co.inpost.inmobile.png" width="20" height="20" alt="InPost icon"> | [InPost UK Ltd](inpost-uk-ltd.md) | 1 | 0 | 1 | 1 | 38 |
 | <img src="../assets/icons/android/com.InsanityGroup.SkinsProjetoGrau2.png" width="20" height="20" alt="Skins Projeto Grau 2 icon"> | [Insanity Group](insanity-group.md) | 1 | 0 | 1 | 1 | 8 |
 | <img src="../assets/icons/android/com.instacart.client.png" width="20" height="20" alt="Instacart icon"> | [Instacart](instacart.md) | 1 | 0 | 1 | 2 | 47 |
@@ -244,6 +246,7 @@
 | <img src="../assets/icons/ios/382617920.png" width="20" height="20" alt="Rakuten Viber Messenger icon"> | [Viber Media SARL.](viber-media-sarl.md) | 1 | 1 | 0 | 1 | 26 |
 | <img src="../assets/icons/android/fr.vinted.png" width="20" height="20" alt="Vinted icon"> | [Vinted](vinted.md) | 1 | 0 | 1 | 1 | 49 |
 | <img src="../assets/icons/ios/632064380.png" width="20" height="20" alt="Vinted icon"> | [Vinted Limited](vinted-limited.md) | 1 | 1 | 0 | 1 | 82 |
+| <img src="../assets/icons/ios/6465872138.png" width="20" height="20" alt="쿠우쿠우 멤버십 icon"> | [Waldlust Co., Ltd.](waldlust-co-ltd.md) | 1 | 1 | 0 | 1 | 5 |
 | <img src="../assets/icons/android/com.usablenet.mobile.walgreen.png" width="20" height="20" alt="Walgreens icon"> | [Walgreens Co](walgreens-co.md) | 1 | 0 | 1 | 1 | 43 |
 | <img src="../assets/icons/android/com.walmart.android.png" width="20" height="20" alt="Walmart icon"> | [Walmart](walmart.md) | 1 | 0 | 1 | 1 | 34 |
 | <img src="../assets/icons/ios/1666653815.png" width="20" height="20" alt="HBO Max icon"> | [WarnerMedia Global Digital Services, LLC](warnermedia-global-digital-services-llc.md) | 1 | 1 | 0 | 1 | 107 |

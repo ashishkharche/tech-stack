@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">377 apps · 509 versions · 258 companies · 4,727 SDKs</p>
+<p align="center">380 apps · 513 versions · 261 companies · 4,739 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 196 of 200 iOS apps, and Jetpack Compose is in 137 of 177 Android apps. 93 apps also use a cross-platform runtime.
+SwiftUI is in 197 of 202 iOS apps, and Jetpack Compose is in 138 of 178 Android apps. 93 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 196 of 200 iOS apps, and Jetpack Compose is in 137 of 177 Android 
 
 ## What most apps ship
 
-Firebase is in 249 of 377 apps. 78% of apps ship at least one analytics SDK.
+Firebase is in 251 of 380 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -43,7 +43,7 @@ Firebase is in 249 of 377 apps. 78% of apps ship at least one analytics SDK.
 
 ## How big an SDK list gets
 
-The median app ships 36.5 SDKs on iOS and 29 on Android. Whatnot (iOS) has the most, at 349.
+The median app ships 36 SDKs on iOS and 29 on Android. Whatnot (iOS) has the most, at 349.
 
 **Apps by number of SDKs**
 
@@ -59,7 +59,7 @@ The median app ships 36.5 SDKs on iOS and 29 on Android. Whatnot (iOS) has the m
 
 ## Privacy and permissions
 
-52% of iOS apps declare tracking. The median Android app asks for 31 permissions.
+51% of iOS apps declare tracking. The median Android app asks for 31 permissions.
 
 **Most declared iOS collected data types**
 
@@ -75,7 +75,7 @@ The median app ships 36.5 SDKs on iOS and 29 on Android. Whatnot (iOS) has the m
 
 ## How apps change between versions
 
-67 of 132 updates changed the SDK list. Together they added 185 SDKs and removed 266.
+67 of 133 updates changed the SDK list. Together they added 185 SDKs and removed 266.
 
 **SDKs added and removed between versions**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 210 of 258 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 213 of 261 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,14 +129,14 @@ Google and Google LLC share the most apps, with 21 each. 210 of 258 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/doctolib/doctolib/README.md"><img src="assets/icons/ios/925339063.png" width="56" height="56" alt="Doctolib icon"></a><br><a href="apps/ios/doctolib/doctolib/README.md"><sub><b>Doctolib</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/shopify-inc/shop/README.md"><img src="assets/icons/ios/1223471316.png" width="56" height="56" alt="Shop icon"></a><br><a href="apps/ios/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/inter-ikea-systems-b-v/ikea-home-smart/README.md"><img src="assets/icons/android/com.ikea.inter.homesmart.system2.png" width="56" height="56" alt="IKEA Home smart icon"></a><br><a href="apps/android/inter-ikea-systems-b-v/ikea-home-smart/README.md"><sub><b>IKEA Home smart</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/life-home-health-care/life-pharmacy/README.md"><img src="assets/icons/ios/1450835575.png" width="56" height="56" alt="LIFE Pharmacy icon"></a><br><a href="apps/ios/life-home-health-care/life-pharmacy/README.md"><sub><b>LIFE Pharmacy</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/knowunity-gmbh/knowunity/README.md"><img src="assets/icons/ios/1484296272.png" width="56" height="56" alt="Knowunity icon"></a><br><a href="apps/ios/knowunity-gmbh/knowunity/README.md"><sub><b>Knowunity</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hopper-inc/hopper/README.md"><img src="assets/icons/android/com.hopper.mountainview.play.png" width="56" height="56" alt="Hopper icon"></a><br><a href="apps/android/hopper-inc/hopper/README.md"><sub><b>Hopper</b></sub></a><br><sub>Android · 2026-11-19</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/australia-post/australia-post/README.md"><img src="assets/icons/ios/380897313.png" width="56" height="56" alt="Australia Post icon"></a><br><a href="apps/ios/australia-post/australia-post/README.md"><sub><b>Australia Post</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><img src="assets/icons/ios/1288723196.png" width="56" height="56" alt="Microsoft Edge icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><sub><b>Microsoft Edge</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/pickle-inc/pickle/README.md"><img src="assets/icons/android/com.pickle.client.png" width="56" height="56" alt="Pickle icon"></a><br><a href="apps/android/pickle-inc/pickle/README.md"><sub><b>Pickle</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hilton/hilton-honors/README.md"><img src="assets/icons/android/com.hilton.android.hhonors.png" width="56" height="56" alt="Hilton Honors icon"></a><br><a href="apps/android/hilton/hilton-honors/README.md"><sub><b>Hilton Honors</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/sbs-i-m-co-ltd/sbs/README.md"><img src="assets/icons/ios/1020136055.png" width="56" height="56" alt="SBS icon"></a><br><a href="apps/ios/sbs-i-m-co-ltd/sbs/README.md"><sub><b>SBS</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hotels-com-lp/hotels-com/README.md"><img src="assets/icons/android/com.hcom.android.png" width="56" height="56" alt="Hotels.com icon"></a><br><a href="apps/android/hotels-com-lp/hotels-com/README.md"><sub><b>Hotels.com</b></sub></a><br><sub>Android · 2026-11-18</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/action-bv/action/README.md"><img src="assets/icons/android/com.action.consumerapp.png" width="56" height="56" alt="Action icon"></a><br><a href="apps/android/action-bv/action/README.md"><sub><b>Action</b></sub></a><br><sub>Android · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/infocert-s-p-a/my-infocert/README.md"><img src="assets/icons/ios/1300573997.png" width="56" height="56" alt="My Infocert icon"></a><br><a href="apps/ios/infocert-s-p-a/my-infocert/README.md"><sub><b>My Infocert</b></sub></a><br><sub>iOS · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/waldlust-co-ltd/app/README.md"><img src="assets/icons/ios/6465872138.png" width="56" height="56" alt="쿠우쿠우 멤버십 icon"></a><br><a href="apps/ios/waldlust-co-ltd/app/README.md"><sub><b>쿠우쿠우 멤버십</b></sub></a><br><sub>iOS · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><img src="assets/icons/ios/1386412985.png" width="56" height="56" alt="WhatsApp Business icon"></a><br><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><sub><b>WhatsApp Business</b></sub></a><br><sub>iOS · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/doctolib/doctolib/README.md"><img src="assets/icons/ios/925339063.png" width="56" height="56" alt="Doctolib icon"></a><br><a href="apps/ios/doctolib/doctolib/README.md"><sub><b>Doctolib</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/shopify-inc/shop/README.md"><img src="assets/icons/ios/1223471316.png" width="56" height="56" alt="Shop icon"></a><br><a href="apps/ios/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>iOS · 2026-11-19</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/inter-ikea-systems-b-v/ikea-home-smart/README.md"><img src="assets/icons/android/com.ikea.inter.homesmart.system2.png" width="56" height="56" alt="IKEA Home smart icon"></a><br><a href="apps/android/inter-ikea-systems-b-v/ikea-home-smart/README.md"><sub><b>IKEA Home smart</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/life-home-health-care/life-pharmacy/README.md"><img src="assets/icons/ios/1450835575.png" width="56" height="56" alt="LIFE Pharmacy icon"></a><br><a href="apps/ios/life-home-health-care/life-pharmacy/README.md"><sub><b>LIFE Pharmacy</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/knowunity-gmbh/knowunity/README.md"><img src="assets/icons/ios/1484296272.png" width="56" height="56" alt="Knowunity icon"></a><br><a href="apps/ios/knowunity-gmbh/knowunity/README.md"><sub><b>Knowunity</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/hopper-inc/hopper/README.md"><img src="assets/icons/android/com.hopper.mountainview.play.png" width="56" height="56" alt="Hopper icon"></a><br><a href="apps/android/hopper-inc/hopper/README.md"><sub><b>Hopper</b></sub></a><br><sub>Android · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/australia-post/australia-post/README.md"><img src="assets/icons/ios/380897313.png" width="56" height="56" alt="Australia Post icon"></a><br><a href="apps/ios/australia-post/australia-post/README.md"><sub><b>Australia Post</b></sub></a><br><sub>iOS · 2026-11-19</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><img src="assets/icons/ios/1288723196.png" width="56" height="56" alt="Microsoft Edge icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-edge/README.md"><sub><b>Microsoft Edge</b></sub></a><br><sub>iOS · 2026-11-19</sub></td></tr>
 </table>
 
 ### All apps
 
 <details>
-<summary>iOS (200 apps)</summary>
+<summary>iOS (202 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -253,6 +253,7 @@ Google and Google LLC share the most apps, with 21 each. 210 of 258 companies ha
 | <img src="assets/icons/ios/1113153706.png" width="20" height="20" alt="Microsoft Teams icon"> | [Microsoft Teams](apps/ios/microsoft-corporation/microsoft-teams/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 8.20.1 | 51 |
 | <img src="assets/icons/ios/1212616790.png" width="20" height="20" alt="Microsoft To Do icon"> | [Microsoft To Do](apps/ios/microsoft-corporation/microsoft-to-do/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 2.177 | 12 |
 | <img src="assets/icons/ios/586447913.png" width="20" height="20" alt="Microsoft Word icon"> | [Microsoft Word](apps/ios/microsoft-corporation/microsoft-word/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 2.115.2 | 11 |
+| <img src="assets/icons/ios/1300573997.png" width="20" height="20" alt="My Infocert icon"> | [My Infocert](apps/ios/infocert-s-p-a/my-infocert/README.md) | [InfoCert S.p.A.](companies/infocert-s-p-a.md) | 3.23.1 | 33 |
 | <img src="assets/icons/ios/382952264.png" width="20" height="20" alt="MyChart icon"> | [MyChart](apps/ios/epic/mychart/README.md) | [Epic](companies/epic.md) | 11.9.5 | 0 |
 | <img src="assets/icons/ios/1570860098.png" width="20" height="20" alt="myMTN NG icon"> | [myMTN NG](apps/ios/mtn-nigeria/mymtn-ng/README.md) | [MTN Nigeria](companies/mtn-nigeria.md) | 2.0.32 | 41 |
 | <img src="assets/icons/ios/1476359069.png" width="20" height="20" alt="MynaApp (formerly Mynaportal) icon"> | [MynaApp (formerly Mynaportal)](apps/ios/go/mynaapp-formerly-mynaportal/README.md) | [デジタル庁](companies/go.md) | 2026.10.0 | 167 |
@@ -327,7 +328,7 @@ Google and Google LLC share the most apps, with 21 each. 210 of 258 companies ha
 | <img src="assets/icons/ios/323229106.png" width="20" height="20" alt="Waze Navigation &amp; Live Traffic icon"> | [Waze Navigation & Live Traffic](apps/ios/waze-inc/waze-navigation-live-traffic/README.md) | [Waze Inc.](companies/waze-inc.md) | 5.26.0 | 4 |
 | <img src="assets/icons/ios/414478124.png" width="20" height="20" alt="WeChat icon"> | [WeChat](apps/ios/wechat/wechat/README.md) | [WeChat](companies/wechat.md) | 8.0.74 | 17 |
 | <img src="assets/icons/ios/1488269261.png" width="20" height="20" alt="Whatnot icon"> | [Whatnot: Shop, Sell, Connect](apps/ios/whatnot-inc/whatnot/README.md) | [Whatnot Inc.](companies/whatnot-inc.md) | 26.45.0 | 349 |
-| <img src="assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> | [WhatsApp Business](apps/ios/whatsapp-inc/whatsapp-business/README.md) | [WhatsApp Inc.](companies/whatsapp-inc.md) | 26.44.74 | 6 |
+| <img src="assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> | [WhatsApp Business](apps/ios/whatsapp-inc/whatsapp-business/README.md) | [WhatsApp Inc.](companies/whatsapp-inc.md) | 26.45.77 | 6 |
 | <img src="assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Messenger](apps/ios/whatsapp-inc/whatsapp-messenger/README.md) | [WhatsApp Inc.](companies/whatsapp-inc.md) | 26.41.75 | 6 |
 | <img src="assets/icons/ios/6813012717.png" width="20" height="20" alt="Who Calling Pro icon"> | [Who Calling Pro](apps/ios/shubhamkumar-patel/who-calling-pro/README.md) | [SHUBHAMKUMAR PATEL](companies/shubhamkumar-patel.md) | 1.1 | 4 |
 | <img src="assets/icons/ios/6813645709.png" width="20" height="20" alt="Workout Director icon"> | [Workout Director - Gym & Home](apps/ios/shelgaon-ltd/workout-director-gym-home/README.md) | [Shelgaon Ltd](companies/shelgaon-ltd.md) | 1.0.89 | 7 |
@@ -340,15 +341,17 @@ Google and Google LLC share the most apps, with 21 each. 210 of 258 companies ha
 | <img src="assets/icons/ios/432274380.png" width="20" height="20" alt="知乎 icon"> | [知乎](apps/ios/beijing-zhizhetianxia-technology-co-ltd/zhihu/README.md) | [Beijing Zhizhetianxia Technology Co., Ltd.](companies/beijing-zhizhetianxia-technology-co-ltd.md) | 11.12.0 | 214 |
 | <img src="assets/icons/ios/6738063154.png" width="20" height="20" alt="네이버플러스 스토어 icon"> | [네이버플러스 스토어](apps/ios/naver-corp/app/README.md) | [NAVER Corp.](companies/naver-corp.md) | 2.9.11 | 49 |
 | <img src="assets/icons/ios/1070715498.png" width="20" height="20" alt="다이소몰 icon"> | [다이소몰](apps/ios/asungdaiso-co-ltd/app/README.md) | [ASUNGDAISO, Co.,Ltd.](companies/asungdaiso-co-ltd.md) | 5.1.44 | 18 |
+| <img src="assets/icons/ios/6465872138.png" width="20" height="20" alt="쿠우쿠우 멤버십 icon"> | [쿠우쿠우 멤버십](apps/ios/waldlust-co-ltd/app/README.md) | [Waldlust Co., Ltd.](companies/waldlust-co-ltd.md) | 1.1.2 | 5 |
 
 </details>
 
 <details>
-<summary>Android (177 apps)</summary>
+<summary>Android (178 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
 | <img src="assets/icons/android/com.swm.live.png" width="20" height="20" alt="7plus icon"> | [7plus](apps/android/seven-west-media/7plus/README.md) | [Seven West Media](companies/seven-west-media.md) | 8.0.1 | 31 |
+| <img src="assets/icons/android/com.action.consumerapp.png" width="20" height="20" alt="Action icon"> | [Action](apps/android/action-bv/action/README.md) | [Action BV](companies/action-bv.md) | 1.135.1 | 30 |
 | <img src="assets/icons/android/io.affirmquest.app.png" width="20" height="20" alt="Affirm Quest icon"> | [Affirm Quest](apps/android/affirm-quest/affirm-quest/README.md) | [Affirm Quest](companies/affirm-quest.md) | 1.2.7 | 13 |
 | <img src="assets/icons/android/com.alibaba.intl.android.apps.poseidon.png" width="20" height="20" alt="Alibaba.com icon"> | [Alibaba.com - B2B marketplace](apps/android/alibaba-mobile/alibaba-com/README.md) | [Alibaba Mobile](companies/alibaba-mobile.md) | 26.38.0 | 30 |
 | <img src="assets/icons/android/com.alibaba.aliexpresshd.png" width="20" height="20" alt="AliExpress icon"> | [AliExpress - Shopping App](apps/android/alibaba-mobile/aliexpress/README.md) | [Alibaba Mobile](companies/alibaba-mobile.md) | 8.180.1 | 24 |
