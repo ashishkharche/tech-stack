@@ -2,7 +2,7 @@
 
 # Companies
 
-264 companies. Each name is the developer name on the store listing.
+266 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | <img src="../assets/icons/android/com.discord.png" width="20" height="20" alt="Discord icon"> <img src="../assets/icons/ios/985746746.png" width="20" height="20" alt="Discord icon"> | [Discord Inc.](discord-inc.md) | 2 | 1 | 1 | 4 | 39 |
 | <img src="../assets/icons/android/com.duolingo.png" width="20" height="20" alt="Duolingo icon"> <img src="../assets/icons/ios/570060128.png" width="20" height="20" alt="Duolingo icon"> | [Duolingo](duolingo.md) | 2 | 1 | 1 | 3 | 129 |
 | <img src="../assets/icons/android/com.clearchannel.iheartradio.controller.png" width="20" height="20" alt="iHeart icon"> <img src="../assets/icons/android/com.clearchannel.iheartradio.tv.png" width="20" height="20" alt="iHeartRadio for Google TV icon"> | [iHeartMedia, Inc.](iheartmedia-inc.md) | 2 | 0 | 2 | 2 | 43 |
-| <img src="../assets/icons/android/com.lowes.android.png" width="20" height="20" alt="Lowe's icon"> <img src="../assets/icons/android/com.lowes.serviceproviders.png" width="20" height="20" alt="Lowe's Provider icon"> | [Lowe's Companies, Inc.](lowe-s-companies-inc.md) | 2 | 0 | 2 | 3 | 42 |
+| <img src="../assets/icons/android/com.lowes.android.png" width="20" height="20" alt="Lowe's icon"> <img src="../assets/icons/android/com.lowes.serviceproviders.png" width="20" height="20" alt="Lowe's Provider icon"> | [Lowe's Companies, Inc.](lowe-s-companies-inc.md) | 2 | 0 | 2 | 4 | 42 |
 | <img src="../assets/icons/android/com.mercari.global.png" width="20" height="20" alt="Mercari Japan icon"> <img src="../assets/icons/android/com.mercariapp.mercari.png" width="20" height="20" alt="Mercari icon"> | [Mercari, Inc](mercari-inc.md) | 2 | 0 | 2 | 3 | 57 |
 | <img src="../assets/icons/android/ai.mistral.chat.png" width="20" height="20" alt="Le Chat by Mistral AI icon"> <img src="../assets/icons/ios/6740410176.png" width="20" height="20" alt="Le Chat by Mistral AI icon"> | [Mistral AI](mistral-ai.md) | 2 | 1 | 1 | 2 | 54 |
 | <img src="../assets/icons/android/com.moonshot.kimichat.png" width="20" height="20" alt="Kimi icon"> <img src="../assets/icons/ios/6474233312.png" width="20" height="20" alt="Kimi icon"> | [Moonshot AI](moonshot-ai.md) | 2 | 1 | 1 | 3 | 107 |
@@ -176,7 +176,7 @@
 | <img src="../assets/icons/ios/1508186374.png" width="20" height="20" alt="Peacock TV icon"> | [Peacock TV LLC](peacock-tv-llc.md) | 1 | 1 | 0 | 1 | 40 |
 | <img src="../assets/icons/ios/1668000334.png" width="20" height="20" alt="Perplexity icon"> | [Perplexity AI, Inc.](perplexity-ai-inc.md) | 1 | 1 | 0 | 1 | 26 |
 | <img src="../assets/icons/android/ai.perplexity.app.android.png" width="20" height="20" alt="Perplexity icon"> | [PerplexityAI](perplexityai.md) | 1 | 0 | 1 | 1 | 37 |
-| <img src="../assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom](photoroom.md) | 1 | 1 | 0 | 3 | 92 |
+| <img src="../assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom](photoroom.md) | 1 | 1 | 0 | 4 | 88 |
 | <img src="../assets/icons/android/com.photoroom.app.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom AI Photo Editor](photoroom-ai-photo-editor.md) | 1 | 0 | 1 | 1 | 37 |
 | <img src="../assets/icons/android/com.pickle.client.png" width="20" height="20" alt="Pickle icon"> | [Pickle, Inc.](pickle-inc.md) | 1 | 0 | 1 | 1 | 28 |
 | <img src="../assets/icons/ios/587366035.png" width="20" height="20" alt="Picsart AI Photo Editor, Video icon"> | [PicsArt, Inc.](picsart-inc.md) | 1 | 1 | 0 | 1 | 47 |
@@ -258,6 +258,7 @@
 | <img src="../assets/icons/ios/414478124.png" width="20" height="20" alt="WeChat icon"> | [WeChat](wechat.md) | 1 | 1 | 0 | 1 | 17 |
 | <img src="../assets/icons/android/com.wendys.nutritiontool.png" width="20" height="20" alt="Wendy’s icon"> | [Wendy's Int'l., LLC](wendy-s-int-l-llc.md) | 1 | 0 | 1 | 1 | 31 |
 | <img src="../assets/icons/ios/1488269261.png" width="20" height="20" alt="Whatnot icon"> | [Whatnot Inc.](whatnot-inc.md) | 1 | 1 | 0 | 3 | 349 |
+| <img src="../assets/icons/ios/382535825.png" width="20" height="20" alt="알바몬 icon"> | [WORXPHERE LLC.](worxphere-llc.md) | 1 | 1 | 0 | 1 | 71 |
 | <img src="../assets/icons/ios/741292507.png" width="20" height="20" alt="rednote icon"> | [Xingin](xingin.md) | 1 | 1 | 0 | 1 | 139 |
 | <img src="../assets/icons/android/com.yelp.android.png" width="20" height="20" alt="Yelp icon"> | [Yelp, Inc](yelp-inc.md) | 1 | 0 | 1 | 1 | 32 |
 | <img src="../assets/icons/ios/1644664646.png" width="20" height="20" alt="A101 icon"> | [YENİ MAĞAZACILIK ANONİM ŞİRKETİ](yeni-magazacilik-anonim-sirketi.md) | 1 | 1 | 0 | 1 | 51 |
@@ -270,6 +271,7 @@
 | <img src="../assets/icons/ios/1476359069.png" width="20" height="20" alt="MynaApp (formerly Mynaportal) icon"> | [デジタル庁](go.md) | 1 | 1 | 0 | 1 | 167 |
 | <img src="../assets/icons/ios/1044283059.png" width="20" height="20" alt="Pinduoduo icon"> | [上海寻梦信息技术有限公司](shanghai-xunmeng-information-technology-co-ltd.md) | 1 | 1 | 0 | 5 | 71 |
 | <img src="../assets/icons/android/com.xingin.xhs.png" width="20" height="20" alt="rednote icon"> | [行吟信息科技(上海)有限公司](xingin-information-technology-shanghai-co-ltd.md) | 1 | 0 | 1 | 1 | 35 |
+| <img src="../assets/icons/ios/6444602589.png" width="20" height="20" alt="모바일 건강보험증 icon"> | [국민건강보험공단](or.md) | 1 | 1 | 0 | 1 | 7 |
 
 ---
 
