@@ -2,7 +2,7 @@
 
 # Companies
 
-266 companies. Each name is the developer name on the store listing.
+267 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | <img src="../assets/icons/ios/925339063.png" width="20" height="20" alt="Doctolib icon"> | [Doctolib](doctolib.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/android/com.dominospizza.png" width="20" height="20" alt="Domino's Pizza USA icon"> | [Domino's Pizza LLC](domino-s-pizza-llc.md) | 1 | 0 | 1 | 2 | 23 |
 | <img src="../assets/icons/ios/719972451.png" width="20" height="20" alt="DoorDash icon"> | [DoorDash, Inc.](doordash-inc.md) | 1 | 1 | 0 | 1 | 98 |
-| <img src="../assets/icons/android/com.meetrixonline.drawnames.png" width="20" height="20" alt="drawnames icon"> | [drawnames](drawnames.md) | 1 | 0 | 1 | 1 | 15 |
+| <img src="../assets/icons/android/com.meetrixonline.drawnames.png" width="20" height="20" alt="drawnames icon"> | [drawnames](drawnames.md) | 1 | 0 | 1 | 2 | 15 |
 | <img src="../assets/icons/ios/327630330.png" width="20" height="20" alt="Dropbox icon"> | [Dropbox, Inc.](dropbox-inc.md) | 1 | 1 | 0 | 2 | 19 |
 | <img src="../assets/icons/android/com.duckduckgo.mobile.android.png" width="20" height="20" alt="DuckDuckGo, optional Duck.ai icon"> | [DuckDuckGo](duckduckgo.md) | 1 | 0 | 1 | 4 | 18 |
 | <img src="../assets/icons/android/com.dunkinbrands.otgo.png" width="20" height="20" alt="Dunkin’ icon"> | [Dunkin' Brands, Inc.](dunkin-brands-inc.md) | 1 | 0 | 1 | 1 | 33 |
@@ -133,6 +133,7 @@
 | <img src="../assets/icons/android/com.instacart.client.png" width="20" height="20" alt="Instacart icon"> | [Instacart](instacart.md) | 1 | 0 | 1 | 2 | 47 |
 | <img src="../assets/icons/android/com.ikea.inter.homesmart.system2.png" width="20" height="20" alt="IKEA Home smart icon"> | [Inter IKEA Systems B.V](inter-ikea-systems-b-v.md) | 1 | 0 | 1 | 3 | 18 |
 | <img src="../assets/icons/ios/6740224837.png" width="20" height="20" alt="Joybuy-Don't just buy, Joybuy! icon"> | [Joybuy](joybuy.md) | 1 | 1 | 0 | 1 | 102 |
+| <img src="../assets/icons/ios/1662451643.png" width="20" height="20" alt="Keeta icon"> | [Kangaroo Limited](kangaroo-limited.md) | 1 | 1 | 0 | 1 | 81 |
 | <img src="../assets/icons/android/me.karmalab.talk.png" width="20" height="20" alt="KARMA Secure Messenger icon"> | [Karmalab Inc.](karmalab-inc.md) | 1 | 0 | 1 | 1 | 26 |
 | <img src="../assets/icons/ios/1484296272.png" width="20" height="20" alt="Knowunity icon"> | [Knowunity GmbH](knowunity-gmbh.md) | 1 | 1 | 0 | 1 | 60 |
 | <img src="../assets/icons/android/com.kohls.mcommerce.opal.png" width="20" height="20" alt="Kohl's icon"> | [Kohls](kohls.md) | 1 | 0 | 1 | 3 | 40 |

@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">385 apps · 526 versions · 266 companies · 4,748 SDKs</p>
+<p align="center">386 apps · 528 versions · 267 companies · 4,808 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 200 of 206 iOS apps, and Jetpack Compose is in 140 of 179 Android apps. 94 apps also use a cross-platform runtime.
+SwiftUI is in 201 of 207 iOS apps, and Jetpack Compose is in 140 of 179 Android apps. 94 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 200 of 206 iOS apps, and Jetpack Compose is in 140 of 179 Android 
 
 ## What most apps ship
 
-Firebase is in 255 of 385 apps. 78% of apps ship at least one analytics SDK.
+Firebase is in 255 of 386 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -75,7 +75,7 @@ The median app ships 36 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## How apps change between versions
 
-71 of 141 updates changed the SDK list. Together they added 195 SDKs and removed 273.
+71 of 142 updates changed the SDK list. Together they added 195 SDKs and removed 273.
 
 **SDKs added and removed between versions**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 218 of 266 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 219 of 267 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,14 +129,14 @@ Google and Google LLC share the most apps, with 21 each. 218 of 266 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/android/lowe-s-companies-inc/lowe-s-provider/README.md"><img src="assets/icons/android/com.lowes.serviceproviders.png" width="56" height="56" alt="Lowe's Provider icon"></a><br><a href="apps/android/lowe-s-companies-inc/lowe-s-provider/README.md"><sub><b>Lowe's Provider</b></sub></a><br><sub>Android · 2026-11-21</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/worxphere-llc/app/README.md"><img src="assets/icons/ios/382535825.png" width="56" height="56" alt="알바몬 icon"></a><br><a href="apps/ios/worxphere-llc/app/README.md"><sub><b>알바몬</b></sub></a><br><sub>iOS · 2026-11-21</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/or/app/README.md"><img src="assets/icons/ios/6444602589.png" width="56" height="56" alt="모바일 건강보험증 icon"></a><br><a href="apps/ios/or/app/README.md"><sub><b>모바일 건강보험증</b></sub></a><br><sub>iOS · 2026-11-21</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/photoroom/photoroom/README.md"><img src="assets/icons/ios/1455009060.png" width="56" height="56" alt="Photoroom icon"></a><br><a href="apps/ios/photoroom/photoroom/README.md"><sub><b>Photoroom</b></sub></a><br><sub>iOS · 2026-11-21</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/lowe-s-companies-inc/lowe-s/README.md"><img src="assets/icons/android/com.lowes.android.png" width="56" height="56" alt="Lowe's icon"></a><br><a href="apps/android/lowe-s-companies-inc/lowe-s/README.md"><sub><b>Lowe's</b></sub></a><br><sub>Android · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/disney/disney/README.md"><img src="assets/icons/ios/1446075923.png" width="56" height="56" alt="Disney+ icon"></a><br><a href="apps/ios/disney/disney/README.md"><sub><b>Disney+</b></sub></a><br><sub>iOS · 2026-11-20</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/android/imo-im/imo-international-calls-chat/README.md"><img src="assets/icons/android/com.imo.android.imoim.jpg" width="56" height="56" alt="imo-International Calls &amp; Chat icon"></a><br><a href="apps/android/imo-im/imo-international-calls-chat/README.md"><sub><b>imo-International Calls &amp; Chat</b></sub></a><br><sub>Android · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/bytedance-pte-ltd/capcut/README.md"><img src="assets/icons/android/com.lemon.lvoverseas.png" width="56" height="56" alt="CapCut icon"></a><br><a href="apps/android/bytedance-pte-ltd/capcut/README.md"><sub><b>CapCut</b></sub></a><br><sub>Android · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/stc/mystc-sa/README.md"><img src="assets/icons/ios/6786701577.png" width="56" height="56" alt="mystc SA icon"></a><br><a href="apps/ios/stc/mystc-sa/README.md"><sub><b>mystc SA</b></sub></a><br><sub>iOS · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-to-do/README.md"><img src="assets/icons/ios/1212616790.png" width="56" height="56" alt="Microsoft To Do icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-to-do/README.md"><sub><b>Microsoft To Do</b></sub></a><br><sub>iOS · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/kohls/kohl-s/README.md"><img src="assets/icons/android/com.kohls.mcommerce.opal.png" width="56" height="56" alt="Kohl's icon"></a><br><a href="apps/android/kohls/kohl-s/README.md"><sub><b>Kohl's</b></sub></a><br><sub>Android · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/mcdonald-s-global-markets-llc/mcdonald-s/README.md"><img src="assets/icons/ios/1217507712.png" width="56" height="56" alt="McDonald's icon"></a><br><a href="apps/ios/mcdonald-s-global-markets-llc/mcdonald-s/README.md"><sub><b>McDonald's</b></sub></a><br><sub>iOS · 2026-11-20</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/drawnames/drawnames-secret-santa-app/README.md"><img src="assets/icons/android/com.meetrixonline.drawnames.png" width="56" height="56" alt="drawnames icon"></a><br><a href="apps/android/drawnames/drawnames-secret-santa-app/README.md"><sub><b>drawnames</b></sub></a><br><sub>Android · 2026-11-21</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/kangaroo-limited/keeta/README.md"><img src="assets/icons/ios/1662451643.png" width="56" height="56" alt="Keeta icon"></a><br><a href="apps/ios/kangaroo-limited/keeta/README.md"><sub><b>Keeta</b></sub></a><br><sub>iOS · 2026-11-21</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/lowe-s-companies-inc/lowe-s-provider/README.md"><img src="assets/icons/android/com.lowes.serviceproviders.png" width="56" height="56" alt="Lowe's Provider icon"></a><br><a href="apps/android/lowe-s-companies-inc/lowe-s-provider/README.md"><sub><b>Lowe's Provider</b></sub></a><br><sub>Android · 2026-11-21</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/worxphere-llc/app/README.md"><img src="assets/icons/ios/382535825.png" width="56" height="56" alt="알바몬 icon"></a><br><a href="apps/ios/worxphere-llc/app/README.md"><sub><b>알바몬</b></sub></a><br><sub>iOS · 2026-11-21</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/or/app/README.md"><img src="assets/icons/ios/6444602589.png" width="56" height="56" alt="모바일 건강보험증 icon"></a><br><a href="apps/ios/or/app/README.md"><sub><b>모바일 건강보험증</b></sub></a><br><sub>iOS · 2026-11-21</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/photoroom/photoroom/README.md"><img src="assets/icons/ios/1455009060.png" width="56" height="56" alt="Photoroom icon"></a><br><a href="apps/ios/photoroom/photoroom/README.md"><sub><b>Photoroom</b></sub></a><br><sub>iOS · 2026-11-21</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/lowe-s-companies-inc/lowe-s/README.md"><img src="assets/icons/android/com.lowes.android.png" width="56" height="56" alt="Lowe's icon"></a><br><a href="apps/android/lowe-s-companies-inc/lowe-s/README.md"><sub><b>Lowe's</b></sub></a><br><sub>Android · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/disney/disney/README.md"><img src="assets/icons/ios/1446075923.png" width="56" height="56" alt="Disney+ icon"></a><br><a href="apps/ios/disney/disney/README.md"><sub><b>Disney+</b></sub></a><br><sub>iOS · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/imo-im/imo-international-calls-chat/README.md"><img src="assets/icons/android/com.imo.android.imoim.jpg" width="56" height="56" alt="imo-International Calls &amp; Chat icon"></a><br><a href="apps/android/imo-im/imo-international-calls-chat/README.md"><sub><b>imo-International Calls &amp; Chat</b></sub></a><br><sub>Android · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/bytedance-pte-ltd/capcut/README.md"><img src="assets/icons/android/com.lemon.lvoverseas.png" width="56" height="56" alt="CapCut icon"></a><br><a href="apps/android/bytedance-pte-ltd/capcut/README.md"><sub><b>CapCut</b></sub></a><br><sub>Android · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/stc/mystc-sa/README.md"><img src="assets/icons/ios/6786701577.png" width="56" height="56" alt="mystc SA icon"></a><br><a href="apps/ios/stc/mystc-sa/README.md"><sub><b>mystc SA</b></sub></a><br><sub>iOS · 2026-11-20</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-to-do/README.md"><img src="assets/icons/ios/1212616790.png" width="56" height="56" alt="Microsoft To Do icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-to-do/README.md"><sub><b>Microsoft To Do</b></sub></a><br><sub>iOS · 2026-11-20</sub></td></tr>
 </table>
 
 ### All apps
 
 <details>
-<summary>iOS (206 apps)</summary>
+<summary>iOS (207 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -227,6 +227,7 @@ Google and Google LLC share the most apps, with 21 each. 218 of 266 companies ha
 | <img src="assets/icons/ios/6756442328.png" width="20" height="20" alt="Instants icon"> | [Instants – an Instagram app](apps/ios/instagram-inc/instants-an-instagram-app/README.md) | [Instagram, Inc.](companies/instagram-inc.md) | 454.0.0 | 7 |
 | <img src="assets/icons/ios/6740224837.png" width="20" height="20" alt="Joybuy-Don't just buy, Joybuy! icon"> | [Joybuy-Don't just buy, Joybuy!](apps/ios/joybuy/joybuy-don-t-just-buy-joybuy/README.md) | [Joybuy](companies/joybuy.md) | 1.1.6 | 102 |
 | <img src="assets/icons/ios/6752915724.png" width="20" height="20" alt="Kalo icon"> | [Kalo: AI Calorie Counter](apps/ios/shelgaon-ltd/kalo/README.md) | [Shelgaon Ltd](companies/shelgaon-ltd.md) | 1.6.9 | 24 |
+| <img src="assets/icons/ios/1662451643.png" width="20" height="20" alt="Keeta icon"> | [Keeta - Food Delivery](apps/ios/kangaroo-limited/keeta/README.md) | [Kangaroo Limited](companies/kangaroo-limited.md) | 3.14.200 | 81 |
 | <img src="assets/icons/ios/6474233312.png" width="20" height="20" alt="Kimi icon"> | [Kimi - Your Personal AI Agent](apps/ios/moonshot-ai/kimi/README.md) | [Moonshot AI](companies/moonshot-ai.md) | 3.1.6 | 82 |
 | <img src="assets/icons/ios/1484296272.png" width="20" height="20" alt="Knowunity icon"> | [Knowunity: AI Revision App](apps/ios/knowunity-gmbh/knowunity/README.md) | [Knowunity GmbH](companies/knowunity-gmbh.md) | 6.47.1 | 61 |
 | <img src="assets/icons/ios/6472232952.png" width="20" height="20" alt="Koupon icon"> | [Koupon: Vouchers & Discounts](apps/ios/koupon-inc/koupon/README.md) | [Koupon Inc.](companies/koupon-inc.md) | 3.1.4 | 38 |
@@ -389,7 +390,7 @@ Google and Google LLC share the most apps, with 21 each. 218 of 266 companies ha
 | <img src="assets/icons/android/com.discord.png" width="20" height="20" alt="Discord icon"> | [Discord - Talk, Play, Hang Out](apps/android/discord-inc/discord/README.md) | [Discord Inc.](companies/discord-inc.md) | 352.17 - Stable | 27 |
 | <img src="assets/icons/android/com.disney.disneyplus.png" width="20" height="20" alt="Disney+ icon"> | [Disney+](apps/android/disney/disney/README.md) | [Disney](companies/disney.md) | 26.9.0+rc2-2026.06.01 | 28 |
 | <img src="assets/icons/android/com.dominospizza.png" width="20" height="20" alt="Domino's Pizza USA icon"> | [Domino's Pizza USA](apps/android/domino-s-pizza-llc/domino-s-pizza-usa/README.md) | [Domino's Pizza LLC](companies/domino-s-pizza-llc.md) | 13.12.0 | 23 |
-| <img src="assets/icons/android/com.meetrixonline.drawnames.png" width="20" height="20" alt="drawnames icon"> | [drawnames \| Secret Santa app](apps/android/drawnames/drawnames-secret-santa-app/README.md) | [drawnames](companies/drawnames.md) | 1.81.13 | 15 |
+| <img src="assets/icons/android/com.meetrixonline.drawnames.png" width="20" height="20" alt="drawnames icon"> | [drawnames \| Secret Santa app](apps/android/drawnames/drawnames-secret-santa-app/README.md) | [drawnames](companies/drawnames.md) | 1.81.19 | 15 |
 | <img src="assets/icons/android/com.duckduckgo.mobile.android.png" width="20" height="20" alt="DuckDuckGo, optional Duck.ai icon"> | [DuckDuckGo, optional Duck.ai](apps/android/duckduckgo/duckduckgo-optional-duck-ai/README.md) | [DuckDuckGo](companies/duckduckgo.md) | 5.301.1 | 18 |
 | <img src="assets/icons/android/com.dunkinbrands.otgo.png" width="20" height="20" alt="Dunkin’ icon"> | [Dunkin’](apps/android/dunkin-brands-inc/dunkin/README.md) | [Dunkin' Brands, Inc.](companies/dunkin-brands-inc.md) | 11.8.0.358 | 33 |
 | <img src="assets/icons/android/com.duolingo.png" width="20" height="20" alt="Duolingo icon"> | [Duolingo: Learn Languages](apps/android/duolingo/duolingo/README.md) | [Duolingo](companies/duolingo.md) | 6.105.2 | 46 |

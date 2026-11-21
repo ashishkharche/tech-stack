@@ -13,8 +13,8 @@
 | Company | [drawnames](../../../../companies/drawnames.md) |
 | Store id | `com.meetrixonline.drawnames` |
 | Bundle / package id | `com.meetrixonline.drawnames` |
-| Latest version | 1.81.13 (analysed 2026-11-05) |
-| Versions tracked | 1 |
+| Latest version | 1.81.19 (analysed 2026-11-21) |
+| Versions tracked | 2 |
 | SDKs in latest version | 15 |
 | Languages | C/C++ (native), Flutter / Dart, Java, Kotlin |
 | UI | Android Views (inferred) |
@@ -49,6 +49,7 @@ Advertising ID, Biometric auth, Camera, Fingerprint auth, Notifications, Storage
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1.81.19 | 2026-11-21 |  | 15 | +0 / −0 | Yes | No | [1.81.19.json](1.81.19.json) |
 | 1.81.13 | 2026-11-05 | 2026-11-03 | 15 |  | Yes | No | [1.81.13.json](1.81.13.json) |
 
 ---

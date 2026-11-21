@@ -3,8 +3,8 @@
 <rect x="0.5" y="0.5" width="859" height="259" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
 <g transform="translate(20 20)">
 <line x1="10" y1="190.5" x2="810" y2="190.5" stroke="#262A2D"/>
-<rect x="44.1" y="172.8" width="46.0" height="17.2" rx="2" fill="#0091FF"/>
-<text x="67.1" y="166.8" font-size="12" text-anchor="middle" fill="#A9B2BC">6</text>
+<rect x="44.1" y="170.0" width="46.0" height="20.0" rx="2" fill="#0091FF"/>
+<text x="67.1" y="164.0" font-size="12" text-anchor="middle" fill="#A9B2BC">7</text>
 <text x="67.1" y="208.0" font-size="12" text-anchor="middle" fill="#F1F6F3">iOS 13</text>
 <rect x="158.4" y="178.6" width="46.0" height="11.4" rx="2" fill="#0091FF"/>
 <text x="181.4" y="172.6" font-size="12" text-anchor="middle" fill="#A9B2BC">4</text>
