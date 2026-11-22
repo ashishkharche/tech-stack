@@ -1,0 +1,469 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Go JET Rent Scooters",
+    "slug": "go-jet-rent-scooters",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "6747077366",
+    "bundle_id": "com.gojet.app",
+    "active": false,
+    "company": {
+      "name": "JETSHR LTDA",
+      "slug": "jetshr-ltda",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.3.38",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-22T04:26:03Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-22T05:01:54Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 55,
+    "languages": [
+      "C/C++",
+      "Flutter / Dart",
+      "Metal (shaders)",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "Background Tasks",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "DeviceCheck / App Attest",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "WidgetKit (widgets)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "AppsFlyerLib",
+        "version": "6.18.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDKAnalyticsKit",
+        "version": "1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": "8.58.2",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Stripe",
+        "version": "25.9.0",
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "CocoaAsyncSocket",
+        "version": "7.6.5",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDKSocketClient",
+        "version": "1.13.0",
+        "category": "networking",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": "12.13.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "GMSCore",
+        "version": "25.0.0",
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleMaps",
+        "version": "9.4.0",
+        "category": "maps",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppCheck",
+        "version": "11.2.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": "16.2.2",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseAppCheck",
+        "version": "12.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "12.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "12.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "12.13.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDKLogger",
+        "version": "0.11.0",
+        "category": "debugging",
+        "confidence": "observed"
+      },
+      {
+        "name": "activities",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "apple",
+        "version": "1.2.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "avfoundation",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "c",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "darwin",
+        "version": "10.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "directory",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "feedback",
+        "version": "0.5.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Flutter",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "foundation",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "light",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "links",
+        "version": "7.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "messaging",
+        "version": "3.1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "orientation",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "patrol",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "plus",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PushwooshBridge",
+        "version": "7.2.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PushwooshCore",
+        "version": "7.2.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PushwooshFramework",
+        "version": "7.2.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PushwooshInApp",
+        "version": "7.2.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "PushwooshLiveActivities",
+        "version": "7.2.8",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "review",
+        "version": "2.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "scanner",
+        "version": "7.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "sensor",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "task",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "test",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "wkwebview",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDK",
+        "version": "3.14.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDKConversationKit",
+        "version": "13.1.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDKCoreUtilities",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDKFayeClient",
+        "version": "1.15.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDKGuideKit",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDKHTTPClient",
+        "version": "0.20.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDKMessaging",
+        "version": "2.36.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDKStorage",
+        "version": "1.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ZendeskSDKUIComponents",
+        "version": "14.1.0",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.1",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.5",
+      "xcode": "26.6",
+      "device_families": [
+        "iPhone",
+        "iPad"
+      ],
+      "abis": [],
+      "localization_count": 0
+    },
+    "capabilities": [
+      "App Attest",
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Push",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": true,
+      "tracking_domain_count": 16,
+      "collected_data_types": [
+        "AudioData",
+        "BrowsingHistory",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "EmailAddress",
+        "Name",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUserContent",
+        "PaymentInfo",
+        "PerformanceData",
+        "PhoneNumber",
+        "PhotosorVideos",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

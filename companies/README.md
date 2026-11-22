@@ -2,7 +2,7 @@
 
 # Companies
 
-267 companies. Each name is the developer name on the store listing.
+269 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | <img src="../assets/icons/ios/1553931951.png" width="20" height="20" alt="iBoxen icon"> | [iBoxen Infrastruktur Sverige AB](iboxen-infrastruktur-sverige-ab.md) | 1 | 1 | 0 | 1 | 21 |
 | <img src="../assets/icons/ios/458324110.png" width="20" height="20" alt="ICA icon"> | [ICA Sverige AB](ica-sverige-ab.md) | 1 | 1 | 0 | 1 | 19 |
 | <img src="../assets/icons/ios/6476790495.png" width="20" height="20" alt="Ideogram AI icon"> | [Ideogram](ideogram.md) | 1 | 1 | 0 | 1 | 19 |
+| <img src="../assets/icons/ios/483017239.png" width="20" height="20" alt="iFood icon"> | [iFood](ifood.md) | 1 | 1 | 0 | 1 | 35 |
 | <img src="../assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeartMedia Management Services, Inc.](iheartmedia-management-services-inc.md) | 1 | 1 | 0 | 1 | 88 |
 | <img src="../assets/icons/android/com.imo.android.imoim.jpg" width="20" height="20" alt="imo-International Calls &amp; Chat icon"> | [imo.im](imo-im.md) | 1 | 0 | 1 | 1 | 37 |
 | <img src="../assets/icons/ios/1300573997.png" width="20" height="20" alt="My Infocert icon"> | [InfoCert S.p.A.](infocert-s-p-a.md) | 1 | 1 | 0 | 1 | 33 |
@@ -132,6 +133,7 @@
 | <img src="../assets/icons/android/com.InsanityGroup.SkinsProjetoGrau2.png" width="20" height="20" alt="Skins Projeto Grau 2 icon"> | [Insanity Group](insanity-group.md) | 1 | 0 | 1 | 1 | 8 |
 | <img src="../assets/icons/android/com.instacart.client.png" width="20" height="20" alt="Instacart icon"> | [Instacart](instacart.md) | 1 | 0 | 1 | 2 | 47 |
 | <img src="../assets/icons/android/com.ikea.inter.homesmart.system2.png" width="20" height="20" alt="IKEA Home smart icon"> | [Inter IKEA Systems B.V](inter-ikea-systems-b-v.md) | 1 | 0 | 1 | 3 | 18 |
+| <img src="../assets/icons/ios/6747077366.png" width="20" height="20" alt="Go JET Rent Scooters icon"> | [JETSHR LTDA](jetshr-ltda.md) | 1 | 1 | 0 | 1 | 55 |
 | <img src="../assets/icons/ios/6740224837.png" width="20" height="20" alt="Joybuy-Don't just buy, Joybuy! icon"> | [Joybuy](joybuy.md) | 1 | 1 | 0 | 1 | 102 |
 | <img src="../assets/icons/ios/1662451643.png" width="20" height="20" alt="Keeta icon"> | [Kangaroo Limited](kangaroo-limited.md) | 1 | 1 | 0 | 1 | 81 |
 | <img src="../assets/icons/android/me.karmalab.talk.png" width="20" height="20" alt="KARMA Secure Messenger icon"> | [Karmalab Inc.](karmalab-inc.md) | 1 | 0 | 1 | 1 | 26 |
@@ -151,7 +153,7 @@
 | <img src="../assets/icons/android/com.mcdonalds.app.png" width="20" height="20" alt="McDonald's icon"> | [McDonalds USA, LLC](mcdonalds-usa-llc.md) | 1 | 0 | 1 | 2 | 42 |
 | <img src="../assets/icons/ios/932002377.png" width="20" height="20" alt="drawnames icon"> | [Meetrix Online](meetrix-online.md) | 1 | 1 | 0 | 1 | 37 |
 | <img src="../assets/icons/ios/416048305.png" width="20" height="20" alt="Meitu icon"> | [Meitu Technology Co., Ltd.](meitu-technology-co-ltd.md) | 1 | 1 | 0 | 1 | 137 |
-| <img src="../assets/icons/android/com.mercadolibre.png" width="20" height="20" alt="Mercado Libre icon"> | [Mercado Libre](mercado-libre.md) | 1 | 0 | 1 | 1 | 44 |
+| <img src="../assets/icons/android/com.mercadolibre.png" width="20" height="20" alt="Mercado Libre icon"> | [Mercado Libre](mercado-libre.md) | 1 | 0 | 1 | 2 | 44 |
 | <img src="../assets/icons/ios/627410001.png" width="20" height="20" alt="Autofirma App icon"> | [Ministerio de Asuntos Economicos y Transformacion Digital](ministerio-de-asuntos-economicos-y-transformacion-digital.md) | 1 | 1 | 0 | 1 | 0 |
 | <img src="../assets/icons/ios/6469515422.png" width="20" height="20" alt="Nusuk icon"> | [Ministry of Hajj and Umrah](ministry-of-hajj-and-umrah.md) | 1 | 1 | 0 | 1 | 87 |
 | <img src="../assets/icons/ios/6754709202.png" width="20" height="20" alt="Q | كيو icon"> | [MOHAMMED BIN HALABI](mohammed-bin-halabi.md) | 1 | 1 | 0 | 1 | 36 |

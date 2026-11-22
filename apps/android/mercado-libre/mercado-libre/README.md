@@ -13,8 +13,8 @@
 | Company | [Mercado Libre](../../../../companies/mercado-libre.md) |
 | Store id | `com.mercadolibre` |
 | Bundle / package id | `com.mercadolibre` |
-| Latest version | 10.589.2 (analysed 2026-11-14) |
-| Versions tracked | 1 |
+| Latest version | 10.592.5 (analysed 2026-11-22) |
+| Versions tracked | 2 |
 | SDKs in latest version | 44 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Glide, Jetpack Compose, Lottie, Material Components |
@@ -56,6 +56,7 @@ Advertising ID, Approximate location, Biometric auth, Bluetooth, Bluetooth (conn
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 10.592.5 | 2026-11-22 |  | 44 | +0 / −0 | No | No | [10.592.5.json](10.592.5.json) |
 | 10.589.2 | 2026-11-14 |  | 44 |  | No | No | [10.589.2.json](10.589.2.json) |
 
 ---
