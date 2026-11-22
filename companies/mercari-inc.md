@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (0 iOS, 2 Android) · **3** versions · **57** distinct SDKs across their latest versions
+**2** apps (0 iOS, 2 Android) · **4** versions · **57** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/mercari-inc/mercari-japan/README.md"><img src="../assets/icons/android/com.mercari.global.png" width="56" height="56" alt="Mercari Japan icon"></a><br><a href="../apps/android/mercari-inc/mercari-japan/README.md"><sub><b>Mercari Japan</b></sub></a><br><sub>Android · 22 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/mercari-inc/mercari/README.md"><img src="../assets/icons/android/com.mercariapp.mercari.png" width="56" height="56" alt="Mercari icon"></a><br><a href="../apps/android/mercari-inc/mercari/README.md"><sub><b>Mercari</b></sub></a><br><sub>Android · 55 SDKs</sub></td></tr>
@@ -15,7 +15,7 @@ The company name is the developer name on the store listing.
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
 | <img src="../assets/icons/android/com.mercari.global.png" width="20" height="20" alt="Mercari Japan icon"> | [Mercari Japan: Anime Shopping](../apps/android/mercari-inc/mercari-japan/README.md) | Android | 1 | 1.49.0 | 2026-06-19 | 22 | No |
-| <img src="../assets/icons/android/com.mercariapp.mercari.png" width="20" height="20" alt="Mercari icon"> | [Mercari: Buy and Sell App](../apps/android/mercari-inc/mercari/README.md) | Android | 2 | 9.46.2 | 2026-11-04 | 55 | No |
+| <img src="../assets/icons/android/com.mercariapp.mercari.png" width="20" height="20" alt="Mercari icon"> | [Mercari: Buy and Sell App](../apps/android/mercari-inc/mercari/README.md) | Android | 3 | 9.47.1 | 2026-11-22 | 55 | No |
 
 ## SDKs by category
 

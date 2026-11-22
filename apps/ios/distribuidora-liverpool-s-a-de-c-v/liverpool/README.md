@@ -13,8 +13,8 @@
 | Company | [Distribuidora Liverpool S.A. De C.V.](../../../../companies/distribuidora-liverpool-s-a-de-c-v.md) |
 | Store id | `1148204349` |
 | Bundle / package id | `mx.com.liverpool.appcliente` |
-| Latest version | 10.9.5 (analysed 2026-11-14) |
-| Versions tracked | 1 |
+| Latest version | 10.9.6 (analysed 2026-11-22) |
+| Versions tracked | 2 |
 | SDKs in latest version | 92 |
 | Languages | C/C++, Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -61,6 +61,7 @@ App Attest, App Groups, Apple Pay, Associated Domains (Universal Links), Backgro
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 10.9.6 | 2026-11-22 |  | 92 | +0 / −0 | Yes | Yes | [10.9.6.json](10.9.6.json) |
 | 10.9.5 | 2026-11-14 |  | 92 |  | Yes | Yes | [10.9.5.json](10.9.5.json) |
 
 ---

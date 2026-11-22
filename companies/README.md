@@ -34,7 +34,7 @@
 | <img src="../assets/icons/android/com.duolingo.png" width="20" height="20" alt="Duolingo icon"> <img src="../assets/icons/ios/570060128.png" width="20" height="20" alt="Duolingo icon"> | [Duolingo](duolingo.md) | 2 | 1 | 1 | 3 | 129 |
 | <img src="../assets/icons/android/com.clearchannel.iheartradio.controller.png" width="20" height="20" alt="iHeart icon"> <img src="../assets/icons/android/com.clearchannel.iheartradio.tv.png" width="20" height="20" alt="iHeartRadio for Google TV icon"> | [iHeartMedia, Inc.](iheartmedia-inc.md) | 2 | 0 | 2 | 2 | 43 |
 | <img src="../assets/icons/android/com.lowes.android.png" width="20" height="20" alt="Lowe's icon"> <img src="../assets/icons/android/com.lowes.serviceproviders.png" width="20" height="20" alt="Lowe's Provider icon"> | [Lowe's Companies, Inc.](lowe-s-companies-inc.md) | 2 | 0 | 2 | 4 | 42 |
-| <img src="../assets/icons/android/com.mercari.global.png" width="20" height="20" alt="Mercari Japan icon"> <img src="../assets/icons/android/com.mercariapp.mercari.png" width="20" height="20" alt="Mercari icon"> | [Mercari, Inc](mercari-inc.md) | 2 | 0 | 2 | 3 | 57 |
+| <img src="../assets/icons/android/com.mercari.global.png" width="20" height="20" alt="Mercari Japan icon"> <img src="../assets/icons/android/com.mercariapp.mercari.png" width="20" height="20" alt="Mercari icon"> | [Mercari, Inc](mercari-inc.md) | 2 | 0 | 2 | 4 | 57 |
 | <img src="../assets/icons/android/ai.mistral.chat.png" width="20" height="20" alt="Le Chat by Mistral AI icon"> <img src="../assets/icons/ios/6740410176.png" width="20" height="20" alt="Le Chat by Mistral AI icon"> | [Mistral AI](mistral-ai.md) | 2 | 1 | 1 | 2 | 54 |
 | <img src="../assets/icons/android/com.moonshot.kimichat.png" width="20" height="20" alt="Kimi icon"> <img src="../assets/icons/ios/6474233312.png" width="20" height="20" alt="Kimi icon"> | [Moonshot AI](moonshot-ai.md) | 2 | 1 | 1 | 3 | 107 |
 | <img src="../assets/icons/android/com.navercorp.navershopping.jpg" width="20" height="20" alt="네이버플러스 스토어 icon"> <img src="../assets/icons/ios/6738063154.png" width="20" height="20" alt="네이버플러스 스토어 icon"> | [NAVER Corp.](naver-corp.md) | 2 | 1 | 1 | 2 | 75 |
@@ -93,7 +93,7 @@
 | <img src="../assets/icons/ios/1510944943.png" width="20" height="20" alt="Cleanup icon"> | [DEEP FLOW SOFTWARE SERVICES](deep-flow-software-services.md) | 1 | 1 | 0 | 1 | 42 |
 | <img src="../assets/icons/android/com.deepseek.chat.png" width="20" height="20" alt="DeepSeek icon"> | [DeepSeek](deepseek.md) | 1 | 0 | 1 | 1 | 11 |
 | <img src="../assets/icons/ios/518684914.png" width="20" height="20" alt="Depop icon"> | [Depop Ltd](depop-ltd.md) | 1 | 1 | 0 | 1 | 344 |
-| <img src="../assets/icons/ios/1148204349.png" width="20" height="20" alt="Liverpool icon"> | [Distribuidora Liverpool S.A. De C.V.](distribuidora-liverpool-s-a-de-c-v.md) | 1 | 1 | 0 | 1 | 92 |
+| <img src="../assets/icons/ios/1148204349.png" width="20" height="20" alt="Liverpool icon"> | [Distribuidora Liverpool S.A. De C.V.](distribuidora-liverpool-s-a-de-c-v.md) | 1 | 1 | 0 | 2 | 92 |
 | <img src="../assets/icons/ios/925339063.png" width="20" height="20" alt="Doctolib icon"> | [Doctolib](doctolib.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/android/com.dominospizza.png" width="20" height="20" alt="Domino's Pizza USA icon"> | [Domino's Pizza LLC](domino-s-pizza-llc.md) | 1 | 0 | 1 | 2 | 23 |
 | <img src="../assets/icons/ios/719972451.png" width="20" height="20" alt="DoorDash icon"> | [DoorDash, Inc.](doordash-inc.md) | 1 | 1 | 0 | 1 | 98 |

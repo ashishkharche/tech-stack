@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **1** versions · **92** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **2** versions · **92** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/distribuidora-liverpool-s-a-de-c-v/liverpool/README.md"><img src="../assets/icons/ios/1148204349.png" width="56" height="56" alt="Liverpool icon"></a><br><a href="../apps/ios/distribuidora-liverpool-s-a-de-c-v/liverpool/README.md"><sub><b>Liverpool</b></sub></a><br><sub>iOS · 92 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1148204349.png" width="20" height="20" alt="Liverpool icon"> | [Liverpool: Compra en línea](../apps/ios/distribuidora-liverpool-s-a-de-c-v/liverpool/README.md) | iOS | 1 | 10.9.5 | 2026-11-14 | 92 | No |
+| <img src="../assets/icons/ios/1148204349.png" width="20" height="20" alt="Liverpool icon"> | [Liverpool: Compra en línea](../apps/ios/distribuidora-liverpool-s-a-de-c-v/liverpool/README.md) | iOS | 2 | 10.9.6 | 2026-11-22 | 92 | No |
 
 ## SDKs by category
 

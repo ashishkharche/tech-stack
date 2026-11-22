@@ -13,8 +13,8 @@
 | Company | [Mercari, Inc](../../../../companies/mercari-inc.md) |
 | Store id | `com.mercariapp.mercari` |
 | Bundle / package id | `com.mercariapp.mercari` |
-| Latest version | 9.46.2 (analysed 2026-11-04) |
-| Versions tracked | 2 |
+| Latest version | 9.47.1 (analysed 2026-11-22) |
+| Versions tracked | 3 |
 | SDKs in latest version | 55 |
 | Languages | C/C++ (native), Java, Kotlin, React Native / JavaScript |
 | UI | Coil, Fresco, Glide, Jetpack Compose, Lottie, Material Components |
@@ -58,6 +58,7 @@ Advertising ID, Biometric auth, Camera, Contacts (read), Fingerprint auth, Foreg
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 9.47.1 | 2026-11-22 |  | 55 | +0 / −0 | No | No | [9.47.1.json](9.47.1.json) |
 | 9.46.2 | 2026-11-04 |  | 55 | +3 / −1 | No | No | [9.46.2.json](9.46.2.json) |
 | 9.36.0 | 2026-06-19 |  | 53 |  | No | No | [9.36.0.json](9.36.0.json) |
 
