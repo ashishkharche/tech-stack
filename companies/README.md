@@ -2,13 +2,13 @@
 
 # Companies
 
-269 companies. Each name is the developer name on the store listing.
+271 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
 | <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 33 | 85 |
 | <img src="../assets/icons/android/com.google.android.gm.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/android/com.google.android.googlequicksearchbox.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/android/com.google.android.calendar.png" width="20" height="20" alt="Google Calendar icon"> <img src="../assets/icons/android/com.google.android.apps.dynamite.png" width="20" height="20" alt="Google Chat icon"> <img src="../assets/icons/android/com.android.chrome.png" width="20" height="20" alt="Google Chrome icon"> | [Google LLC](google-llc.md) | 21 | 0 | 21 | 30 | 41 |
-| <img src="../assets/icons/android/com.azure.authenticator.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/983156458.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/345323231.png" width="20" height="20" alt="Microsoft Bing Search icon"> <img src="../assets/icons/android/com.microsoft.bingwebmastertools.twa.png" width="20" height="20" alt="Microsoft Bing Webmaster Tools icon"> <img src="../assets/icons/ios/541164041.png" width="20" height="20" alt="Microsoft Copilot icon"> | [Microsoft Corporation](microsoft-corporation.md) | 20 | 8 | 12 | 32 | 249 |
+| <img src="../assets/icons/android/com.azure.authenticator.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/983156458.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/345323231.png" width="20" height="20" alt="Microsoft Bing Search icon"> <img src="../assets/icons/android/com.microsoft.bingwebmastertools.twa.png" width="20" height="20" alt="Microsoft Bing Webmaster Tools icon"> <img src="../assets/icons/ios/541164041.png" width="20" height="20" alt="Microsoft Copilot icon"> | [Microsoft Corporation](microsoft-corporation.md) | 20 | 8 | 12 | 33 | 249 |
 | <img src="../assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/454638411.png" width="20" height="20" alt="Messenger icon"> <img src="../assets/icons/android/com.facebook.stella.png" width="20" height="20" alt="Meta AI icon"> <img src="../assets/icons/ios/1558240027.png" width="20" height="20" alt="Meta AI icon"> | [Meta Platforms, Inc.](meta-platforms-inc.md) | 6 | 3 | 3 | 12 | 46 |
 | <img src="../assets/icons/android/com.disney.disneyplus.png" width="20" height="20" alt="Disney+ icon"> <img src="../assets/icons/ios/1446075923.png" width="20" height="20" alt="Disney+ icon"> <img src="../assets/icons/android/com.espn.fantasy.lm.football.png" width="20" height="20" alt="ESPN Fantasy Sports icon"> <img src="../assets/icons/ios/317469184.png" width="20" height="20" alt="ESPN icon"> <img src="../assets/icons/android/com.hulu.plus.png" width="20" height="20" alt="Hulu icon"> | [Disney](disney.md) | 5 | 2 | 3 | 10 | 140 |
 | <img src="../assets/icons/ios/6738967378.png" width="20" height="20" alt="Edits icon"> <img src="../assets/icons/ios/389801252.png" width="20" height="20" alt="Instagram icon"> <img src="../assets/icons/ios/6756442328.png" width="20" height="20" alt="Instants icon"> <img src="../assets/icons/ios/6446901002.png" width="20" height="20" alt="Threads icon"> | [Instagram, Inc.](instagram-inc.md) | 4 | 4 | 0 | 5 | 17 |
@@ -200,6 +200,7 @@
 | <img src="../assets/icons/ios/1640745955.png" width="20" height="20" alt="Poe icon"> | [Quora, Inc.](quora-inc.md) | 1 | 1 | 0 | 1 | 22 |
 | <img src="../assets/icons/android/com.rakuten.travel.consumer.png" width="20" height="20" alt="Rakuten Travel icon"> | [Rakuten Group, Inc.](rakuten-group-inc.md) | 1 | 0 | 1 | 1 | 34 |
 | <img src="../assets/icons/ios/6742024490.png" width="20" height="20" alt="Reco Social icon"> | [Reco Social, Inc.](reco-social-inc.md) | 1 | 1 | 0 | 1 | 80 |
+| <img src="../assets/icons/ios/6809328945.png" width="20" height="20" alt="Masi icon"> | [Rimthan](rimthan.md) | 1 | 1 | 0 | 1 | 27 |
 | <img src="../assets/icons/ios/482066631.png" width="20" height="20" alt="Roku Remote (Official) icon"> | [ROKU INC](roku-inc.md) | 1 | 1 | 0 | 1 | 39 |
 | <img src="../assets/icons/ios/6749303003.png" width="20" height="20" alt="WayShot icon"> | [Romangic Lab LLC](romangic-lab-llc.md) | 1 | 1 | 0 | 1 | 59 |
 | <img src="../assets/icons/ios/1198464606.png" width="20" height="20" alt="Rapido icon"> | [Roppen Transportation Services Private Limited](roppen-transportation-services-private-limited.md) | 1 | 1 | 0 | 2 | 56 |
@@ -246,7 +247,7 @@
 | <img src="../assets/icons/ios/305343404.png" width="20" height="20" alt="Tumblr icon"> | [Tumblr, Inc.](tumblr-inc.md) | 1 | 1 | 0 | 1 | 60 |
 | <img src="../assets/icons/android/com.keylesspalace.tusky.png" width="20" height="20" alt="Tusky for Mastodon icon"> | [Tusky Team](tusky-team.md) | 1 | 0 | 1 | 1 | 7 |
 | <img src="../assets/icons/ios/6463031298.png" width="20" height="20" alt="Trendyol Go icon"> | [TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI](tyg-turkey-elektronik-ticaret-hizmetleri-ve-yatirimlari-anon.md) | 1 | 1 | 0 | 1 | 113 |
-| <img src="../assets/icons/ios/1343581380.png" width="20" height="20" alt="VN icon"> | [Ubiquiti Labs, LLC](ubiquiti-labs-llc.md) | 1 | 1 | 0 | 2 | 105 |
+| <img src="../assets/icons/ios/1343581380.png" width="20" height="20" alt="VN icon"> | [Ubiquiti Labs, LLC](ubiquiti-labs-llc.md) | 1 | 1 | 0 | 3 | 108 |
 | <img src="../assets/icons/android/com.eet.settings.launcher.png" width="20" height="20" alt="Settings Home icon"> | [Utility Apps Home](utility-apps-home.md) | 1 | 0 | 1 | 1 | 43 |
 | <img src="../assets/icons/android/com.vevor.store.png" width="20" height="20" alt="VEVOR icon"> | [VEVOR STORE LLC](vevor-store-llc.md) | 1 | 0 | 1 | 1 | 46 |
 | <img src="../assets/icons/ios/382617920.png" width="20" height="20" alt="Rakuten Viber Messenger icon"> | [Viber Media SARL.](viber-media-sarl.md) | 1 | 1 | 0 | 1 | 26 |
@@ -264,6 +265,7 @@
 | <img src="../assets/icons/ios/382535825.png" width="20" height="20" alt="알바몬 icon"> | [WORXPHERE LLC.](worxphere-llc.md) | 1 | 1 | 0 | 1 | 71 |
 | <img src="../assets/icons/ios/741292507.png" width="20" height="20" alt="rednote icon"> | [Xingin](xingin.md) | 1 | 1 | 0 | 1 | 139 |
 | <img src="../assets/icons/android/com.yelp.android.png" width="20" height="20" alt="Yelp icon"> | [Yelp, Inc](yelp-inc.md) | 1 | 0 | 1 | 1 | 32 |
+| <img src="../assets/icons/ios/373034841.png" width="20" height="20" alt="Yemeksepeti icon"> | [YEMEK SEPETI ELEKTRONIK ILETISIM PERAKENDE GIDA LOJISTIK ANONIM SIRKETI](yemek-sepeti-elektronik-iletisim-perakende-gida-lojistik-ano.md) | 1 | 1 | 0 | 1 | 130 |
 | <img src="../assets/icons/ios/1644664646.png" width="20" height="20" alt="A101 icon"> | [YENİ MAĞAZACILIK ANONİM ŞİRKETİ](yeni-magazacilik-anonim-sirketi.md) | 1 | 1 | 0 | 1 | 51 |
 | <img src="../assets/icons/ios/6801006288.png" width="20" height="20" alt="CoinDrama icon"> | [YS Culture Limited](ys-culture-limited.md) | 1 | 1 | 0 | 1 | 84 |
 | <img src="../assets/icons/android/com.yum.kfc.png" width="20" height="20" alt="KFC India online ordering app icon"> | [Yum Brands Inc - KFC India Division](yum-brands-inc-kfc-india-division.md) | 1 | 0 | 1 | 1 | 45 |

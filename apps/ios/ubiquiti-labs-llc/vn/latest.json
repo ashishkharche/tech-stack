@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2.24.1",
+  "version": "2.26.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-11T08:20:59Z",
+    "captured_at": "2026-11-22T20:21:32Z",
     "store_first_seen_at": null,
     "store_updated_at": null,
-    "exported_at": "2026-11-12T00:31:40Z"
+    "exported_at": "2026-11-22T20:52:39Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 105,
+    "sdk_count": 108,
     "languages": [
       "C/C++",
       "Metal (shaders)",
@@ -114,6 +114,18 @@
       {
         "name": "GoogleAppMeasurementIdentitySupport",
         "version": "13.0.1",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenSDK",
+        "version": "2.5.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "TikTokOpenShareSDK",
+        "version": "2.5.0",
         "category": "analytics",
         "confidence": "observed"
       },
@@ -383,13 +395,13 @@
       },
       {
         "name": "FlowAILibraryShaders",
-        "version": "0.34.20",
+        "version": "0.61.2",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "FlowCaptionTemplateKit",
-        "version": "0.0.10",
+        "version": "0.0.11",
         "category": "other",
         "confidence": "observed"
       },
@@ -425,7 +437,7 @@
       },
       {
         "name": "FlowExportUX",
-        "version": "0.1.25",
+        "version": "0.1.30",
         "category": "other",
         "confidence": "observed"
       },
@@ -520,6 +532,12 @@
         "confidence": "observed"
       },
       {
+        "name": "FrontRowEditorSDFShaders",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
         "name": "FrontRowEditorShaders",
         "version": "0.0.1",
         "category": "other",
@@ -533,19 +551,19 @@
       },
       {
         "name": "FRVideoEffectCatalog",
-        "version": "0.5.9",
+        "version": "0.5.11",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "FRVideoEffectFaceModel",
-        "version": "0.5.9",
+        "version": "0.5.11",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "FRVideoEffectShaders",
-        "version": "0.5.9",
+        "version": "0.5.11",
         "category": "other",
         "confidence": "observed"
       },

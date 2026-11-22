@@ -13,15 +13,15 @@
 | Company | [Microsoft Corporation](../../../../companies/microsoft-corporation.md) |
 | Store id | `com.microsoft.emmx` |
 | Bundle / package id | `com.microsoft.emmx` |
-| Latest version | 148.0.3967.97 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 33 |
+| Latest version | 157.0.4341.53 (analysed 2026-11-22) |
+| Versions tracked | 2 |
+| SDKs in latest version | 32 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
 | Build | Gradle (inferred) |
 | Minimum OS | API 29, targets API 36 |
 | Devices / ABIs | Android |
-| Capabilities | 17 |
+| Capabilities | 16 |
 | Declares tracking | Yes |
 | Tracked | No. Kept for history. |
 
@@ -31,10 +31,10 @@
 
 - **UI and rendering** (8): AndroidSVG, Coil, Glide, Jetpack Compose, jLaTeXMath, Lottie, Markwon, Material Components
 - **Networking** (4): Cronet, Ktor, OkHttp, Retrofit
-- **Crash and performance** (3): App Center, OpenTelemetry, Sentry
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
 - **Storage** (3): DataStore, Okio, Room
 - **Sign-in and auth** (2): Credential Manager, Google Sign-In / Auth
+- **Crash and performance** (2): OpenTelemetry, Sentry
 - **Media** (2): Google Cast, Media3 (ExoPlayer)
 - **ML and AI** (2): ML Kit, Mobile Vision
 - **Ads** (1): Google Mobile Ads (AdMob)
@@ -45,9 +45,9 @@
 - **Reactive and async** (1): Kotlin Coroutines
 
 <details>
-<summary>Capabilities (17)</summary>
+<summary>Capabilities (16)</summary>
 
-Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, Foreground service, Foreground service: camera, Foreground service: media playback, Foreground service: microphone, Microphone, NFC, Notifications, Precise location, Query all installed apps, SMS (receive), Storage (read), Storage (write)
+Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, Foreground service, Foreground service: camera, Foreground service: media playback, Foreground service: microphone, Microphone, NFC, Notifications, Precise location, Query all installed apps, Storage (read), Storage (write)
 
 </details>
 
@@ -55,7 +55,12 @@ Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 157.0.4341.53 | 2026-11-22 |  | 32 | +0 / −1 | No | No | [157.0.4341.53.json](157.0.4341.53.json) |
 | 148.0.3967.97 | 2026-06-19 |  | 33 |  | No | No | [148.0.3967.97.json](148.0.3967.97.json) |
+
+### SDK changes between versions
+
+- 148.0.3967.97 → 157.0.4341.53: removed App Center
 
 ---
 

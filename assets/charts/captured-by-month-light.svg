@@ -7,17 +7,17 @@
 <rect x="70.53999999999999" y="8" width="12" height="12" rx="3" fill="#1EA45A"/>
 <text x="88.53999999999999" y="18" font-size="13" fill="#4D5755">Android</text>
 <line x1="10" y1="200.5" x2="810" y2="200.5" stroke="#D9E1DD"/>
-<rect x="120.3" y="143.9" width="46.0" height="56.1" rx="2" fill="#0088FF"/>
-<rect x="120.3" y="61.7" width="46.0" height="80.2" rx="2" fill="#1EA45A"/>
-<text x="143.3" y="55.7" font-size="12" text-anchor="middle" fill="#4D5755">217</text>
+<rect x="120.3" y="144.9" width="46.0" height="55.1" rx="2" fill="#0088FF"/>
+<rect x="120.3" y="64.0" width="46.0" height="78.8" rx="2" fill="#1EA45A"/>
+<text x="143.3" y="58.0" font-size="12" text-anchor="middle" fill="#4D5755">217</text>
 <text x="143.3" y="218.0" font-size="12" text-anchor="middle" fill="#090A0B">2026-06</text>
-<rect x="387.0" y="161.1" width="46.0" height="38.9" rx="2" fill="#0088FF"/>
-<rect x="387.0" y="144.5" width="46.0" height="14.6" rx="2" fill="#1EA45A"/>
-<text x="410.0" y="138.5" font-size="12" text-anchor="middle" fill="#4D5755">87</text>
+<rect x="387.0" y="161.8" width="46.0" height="38.2" rx="2" fill="#0088FF"/>
+<rect x="387.0" y="145.5" width="46.0" height="14.3" rx="2" fill="#1EA45A"/>
+<text x="410.0" y="139.5" font-size="12" text-anchor="middle" fill="#4D5755">87</text>
 <text x="410.0" y="218.0" font-size="12" text-anchor="middle" fill="#090A0B">2026-10</text>
-<rect x="653.7" y="108.2" width="46.0" height="91.8" rx="2" fill="#0088FF"/>
-<rect x="653.7" y="54.0" width="46.0" height="52.2" rx="2" fill="#1EA45A"/>
-<text x="676.7" y="48.0" font-size="12" text-anchor="middle" fill="#4D5755">229</text>
+<rect x="653.7" y="107.9" width="46.0" height="92.1" rx="2" fill="#0088FF"/>
+<rect x="653.7" y="54.0" width="46.0" height="51.9" rx="2" fill="#1EA45A"/>
+<text x="676.7" y="48.0" font-size="12" text-anchor="middle" fill="#4D5755">233</text>
 <text x="676.7" y="218.0" font-size="12" text-anchor="middle" fill="#090A0B">2026-11</text>
 </g>
 </svg>
