@@ -1,0 +1,421 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Mon espace santé",
+    "slug": "mon-espace-sant",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1589255019",
+    "bundle_id": "fr.assurancemaladie.monespacesante",
+    "active": false,
+    "company": {
+      "name": "l'Assurance Maladie",
+      "slug": "l-assurance-maladie",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.46.0",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-23T16:27:59Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-23T16:59:10Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 51,
+    "languages": [
+      "C/C++",
+      "Flutter / Dart",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "Core Motion",
+      "CryptoKit",
+      "Local Authentication (Face ID / Touch ID)",
+      "Media Player",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PDFKit",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "SiriKit (Intents)",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications",
+      "Vision",
+      "VisionKit (document/data scanning)"
+    ],
+    "ui_graphics": [
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "analytics",
+        "version": "1.1.2",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "PianoAnalytics",
+        "version": "3.1.11",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": "12.17.0",
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppAuth",
+        "version": "2.1.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "GTMSessionFetcher",
+        "version": "3.5.0",
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "consents",
+        "version": "1.0.0",
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "PianoConsents",
+        "version": null,
+        "category": "privacy_consent",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": "12.17.0",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleToolboxForMac",
+        "version": "4.2.1",
+        "category": "storage",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": "2.4.1",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": "12.17.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": "12.17.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": "12.17.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": "12.17.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": "12.17.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": "10.1.1",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": "8.1.2",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": "3.30910.0",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": "2.4.1",
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "PDFium",
+        "version": "144.0.7811",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": "0.15.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SwiftyGif",
+        "version": "5.4.5",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "appExtension",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "audio",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "avfoundation",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "c",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "darwin",
+        "version": "10.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "device",
+        "version": "1.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DKImagePickerController",
+        "version": "4.3.9",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DKPhotoGallery",
+        "version": "0.0.19",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "DTTJailbreakDetection",
+        "version": "0.4.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "flutter",
+        "version": "0.1.5",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "foundation",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "launcher",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "libwebp",
+        "version": "1.6.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "notifications",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "picker",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "plugin",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "plus",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "proxy",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "redirect",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "review",
+        "version": "2.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "scanner",
+        "version": "7.0.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "session",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TCCore",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TCPrivacy",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "TCSDK",
+        "version": "1.0",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Tracker",
+        "version": "2.23.10",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "visibility",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "wkwebview",
+        "version": "0.0.1",
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "15.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos26.2",
+      "xcode": "26.3",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 1
+    },
+    "capabilities": [
+      "App Groups",
+      "Associated Domains (Universal Links)",
+      "Background App Refresh",
+      "Background Push",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "CrashData",
+        "DeviceID",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "OtherUsageData"
+      ],
+      "required_reason_apis": [
+        "DiskSpace",
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

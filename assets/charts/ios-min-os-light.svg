@@ -3,14 +3,14 @@
 <rect x="0.5" y="0.5" width="859" height="259" rx="12" fill="#FAF8F3" stroke="#D9E1DD"/>
 <g transform="translate(20 20)">
 <line x1="10" y1="190.5" x2="810" y2="190.5" stroke="#D9E1DD"/>
-<rect x="44.1" y="170.6" width="46.0" height="19.4" rx="2" fill="#0088FF"/>
-<text x="67.1" y="164.6" font-size="12" text-anchor="middle" fill="#4D5755">7</text>
+<rect x="44.1" y="173.4" width="46.0" height="16.6" rx="2" fill="#0088FF"/>
+<text x="67.1" y="167.4" font-size="12" text-anchor="middle" fill="#4D5755">6</text>
 <text x="67.1" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 13</text>
 <rect x="158.4" y="178.9" width="46.0" height="11.1" rx="2" fill="#0088FF"/>
 <text x="181.4" y="172.9" font-size="12" text-anchor="middle" fill="#4D5755">4</text>
 <text x="181.4" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 14</text>
-<rect x="272.7" y="29.5" width="46.0" height="160.5" rx="2" fill="#0088FF"/>
-<text x="295.7" y="23.5" font-size="12" text-anchor="middle" fill="#4D5755">58</text>
+<rect x="272.7" y="24.0" width="46.0" height="166.0" rx="2" fill="#0088FF"/>
+<text x="295.7" y="18.0" font-size="12" text-anchor="middle" fill="#4D5755">60</text>
 <text x="295.7" y="208.0" font-size="12" text-anchor="middle" fill="#090A0B">iOS 15</text>
 <rect x="387.0" y="24.0" width="46.0" height="166.0" rx="2" fill="#0088FF"/>
 <text x="410.0" y="18.0" font-size="12" text-anchor="middle" fill="#4D5755">60</text>

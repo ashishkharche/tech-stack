@@ -2,7 +2,7 @@
 <title>SDK count across versions</title>
 <rect x="0.5" y="0.5" width="859" height="417" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
 <g transform="translate(20 20)">
-<text x="249.17999999999995" y="34" font-size="13" text-anchor="end" fill="#F1F6F3">WhatsApp Business (iOS)</text>
+<text x="249.17999999999995" y="34" font-size="13" text-anchor="end" fill="#F1F6F3">Pinduoduo (iOS)</text>
 <line x1="261.17999999999995" y1="50.5" x2="670.0" y2="50.5" stroke="#262A2D"/>
 <polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,42.0 342.9,42.0 424.7,42.0 506.5,42.0 588.2,42.0 670.0,42.0"/>
 <circle cx="261.2" cy="42.0" r="2.6" fill="#F1F6F3"/>
@@ -11,37 +11,38 @@
 <circle cx="506.5" cy="42.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="588.2" cy="42.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="670.0" cy="42.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="34" font-size="13" fill="#A9B2BC">6 → 6 SDKs</text>
+<text x="684.0" y="34" font-size="13" fill="#A9B2BC">71 → 71 SDKs</text>
 <text x="684.0" y="50" font-size="11" fill="#A9B2BC">6 versions</text>
-<text x="249.17999999999995" y="80" font-size="13" text-anchor="end" fill="#F1F6F3">Google Meet (iOS)</text>
+<text x="249.17999999999995" y="80" font-size="13" text-anchor="end" fill="#F1F6F3">WhatsApp Business (iOS)</text>
 <line x1="261.17999999999995" y1="96.5" x2="670.0" y2="96.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,88.0 363.4,64.0 465.6,64.0 567.8,64.0 670.0,64.0"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,88.0 342.9,88.0 424.7,88.0 506.5,88.0 588.2,88.0 670.0,88.0"/>
 <circle cx="261.2" cy="88.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="363.4" cy="64.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="465.6" cy="64.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="567.8" cy="64.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="670.0" cy="64.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="80" font-size="13" fill="#A9B2BC">11 → 14 SDKs</text>
-<text x="684.0" y="96" font-size="11" fill="#A9B2BC">5 versions</text>
-<text x="249.17999999999995" y="126" font-size="13" text-anchor="end" fill="#F1F6F3">Meta AI (iOS)</text>
+<circle cx="342.9" cy="88.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="424.7" cy="88.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="506.5" cy="88.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="588.2" cy="88.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="670.0" cy="88.0" r="2.6" fill="#F1F6F3"/>
+<text x="684.0" y="80" font-size="13" fill="#A9B2BC">6 → 6 SDKs</text>
+<text x="684.0" y="96" font-size="11" fill="#A9B2BC">6 versions</text>
+<text x="249.17999999999995" y="126" font-size="13" text-anchor="end" fill="#F1F6F3">Google Meet (iOS)</text>
 <line x1="261.17999999999995" y1="142.5" x2="670.0" y2="142.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,134.0 363.4,134.0 465.6,110.0 567.8,110.0 670.0,110.0"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,134.0 363.4,110.0 465.6,110.0 567.8,110.0 670.0,110.0"/>
 <circle cx="261.2" cy="134.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="363.4" cy="134.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="363.4" cy="110.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="465.6" cy="110.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="567.8" cy="110.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="670.0" cy="110.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="126" font-size="13" fill="#A9B2BC">5 → 6 SDKs</text>
+<text x="684.0" y="126" font-size="13" fill="#A9B2BC">11 → 14 SDKs</text>
 <text x="684.0" y="142" font-size="11" fill="#A9B2BC">5 versions</text>
-<text x="249.17999999999995" y="172" font-size="13" text-anchor="end" fill="#F1F6F3">Pinduoduo (iOS)</text>
+<text x="249.17999999999995" y="172" font-size="13" text-anchor="end" fill="#F1F6F3">Meta AI (iOS)</text>
 <line x1="261.17999999999995" y1="188.5" x2="670.0" y2="188.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,180.0 363.4,180.0 465.6,180.0 567.8,180.0 670.0,180.0"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="261.2,180.0 363.4,180.0 465.6,156.0 567.8,156.0 670.0,156.0"/>
 <circle cx="261.2" cy="180.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="363.4" cy="180.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="465.6" cy="180.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="567.8" cy="180.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="670.0" cy="180.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="172" font-size="13" fill="#A9B2BC">71 → 71 SDKs</text>
+<circle cx="465.6" cy="156.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="567.8" cy="156.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="670.0" cy="156.0" r="2.6" fill="#F1F6F3"/>
+<text x="684.0" y="172" font-size="13" fill="#A9B2BC">5 → 6 SDKs</text>
 <text x="684.0" y="188" font-size="11" fill="#A9B2BC">5 versions</text>
 <text x="249.17999999999995" y="218" font-size="13" text-anchor="end" fill="#F1F6F3">BeReal (iOS)</text>
 <line x1="261.17999999999995" y1="234.5" x2="670.0" y2="234.5" stroke="#262A2D"/>

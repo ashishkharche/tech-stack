@@ -13,8 +13,8 @@
 | Company | [Microsoft Corporation](../../../../companies/microsoft-corporation.md) |
 | Store id | `com.microsoft.teams` |
 | Bundle / package id | `com.microsoft.teams` |
-| Latest version | 1416/1.0.0.2026202302 (analysed 2026-11-04) |
-| Versions tracked | 2 |
+| Latest version | 1416/1.0.0.2026203802 (analysed 2026-11-23) |
+| Versions tracked | 3 |
 | SDKs in latest version | 35 |
 | Languages | C/C++ (native), Java, Kotlin, React Native / JavaScript |
 | UI | Coil, Fresco, Glide, Jetpack Compose, Lottie, Material Components, Picasso |
@@ -56,6 +56,7 @@ Approximate location, Bluetooth, Bluetooth (connect), Bluetooth (scan), Camera, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1416/1.0.0.2026203802 | 2026-11-23 |  | 35 | +0 / −0 | No | No | [1416_1.0.0.2026203802.json](1416_1.0.0.2026203802.json) |
 | 1416/1.0.0.2026202302 | 2026-11-04 | 2026-10-29 | 35 | +0 / −1 | No | No | [1416_1.0.0.2026202302.json](1416_1.0.0.2026202302.json) |
 | 1416/1.0.0.2026082702 | 2026-06-19 |  | 36 |  | No | No | [1416_1.0.0.2026082702.json](1416_1.0.0.2026082702.json) |
 

@@ -13,13 +13,13 @@
 | Company | [上海寻梦信息技术有限公司](../../../../companies/shanghai-xunmeng-information-technology-co-ltd.md) |
 | Store id | `1044283059` |
 | Bundle / package id | `com.xunmeng.pinduoduo` |
-| Latest version | 8.32.0 (analysed 2026-11-17) |
-| Versions tracked | 5 |
+| Latest version | 8.33.0 (analysed 2026-11-23) |
+| Versions tracked | 6 |
 | SDKs in latest version | 71 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
-| Minimum OS | iOS 13.0 (built with Xcode 26.1.1, SDK iphoneos26.1) |
+| Minimum OS | iOS 15.0 (built with Xcode 27.1, SDK iphoneos27.1) |
 | Devices / ABIs | iPhone, iPad |
 | Localisations | 0 |
 | Capabilities | 13 |
@@ -30,8 +30,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo-light.svg"></picture>
 
-- **Other** (67): AlipaySDK, AlmightyContainer 8.30.1, AMFaceDetectBase 6.87.13, AMMobileKeychain, AMNavigation 8.31.2, AMSecurityPolicy 2.1.130, APPAvAlbum 2.0.267, effect, PDDAddressScene 8.31.2, PDDAvAlbum, PDDAVBaseKit 8.31.1, PDDAVFloatWindow 8.29.1, PDDAVGallery 8.30.1, PDDAVUtil, PDDBasePhotoBrowser 8.30.2, PDDBizUIKit 8.32.2, PDDBootScene 8.32.0, PDDChatScene 8.32.3, PDDComment 8.28.20, PDDCommentListScene 8.32.3, PDDCommentScene 8.32.4, PDDContentBrowserScene 8.25.1, PDDDynamicView 8.15.2, PDDEffectUIKit 6.14.74, PDDExpressScene 8.29.1, PDDFavorite 8.7.1, PDDFavoriteScene 8.27.1, PDDGoodsDetail 8.32.6, PDDGoodsDetailScene 8.32.5, PDDGoodsListing 8.32.0, PDDGoodsSku 9.1.1622, PDDHomeScene 8.31.1, PDDHybrid 5.78.83, PDDLego 8.32.2, PDDLive 8.32.1, PDDLivePublishScene 8.21.1, PDDLiveScene 8.32.1, PDDLiveTabScene 8.29.1, PDDLiveTabService 8.26.1, PDDMall 8.31.2, PDDMallScene 8.32.2, PDDMCEffect, PDDMediaPage 8.31.1, PDDMomentsScene 8.32.1, PDDMPEffectRender, pddOpus 7.69.2, PDDOrder 8.32.2, PDDOrderListScene 8.32.4, PDDPayBizUIKit 8.30.2, PDDPersonalScene 8.32.4, PDDSafeModeScene 7.39.1, PDDSearch 8.32.6, PDDSearchKit 8.32.5, PDDSearchScene 8.32.3, PDDShareImageTemplates 1.61.67, PDDShareSharePages 1.61.67, PDDShoppingCartScene 8.19.2, PDDShoppingCartService 8.19.3, PDDSocial 8.32.1, PDDUser 7.91.52, PDDVideoPageScene 8.31.1, PDDVideoPageService 8.27.1, PDDWeb 5.78.523, PTZImagePicker 8.30.2, renderEngine, SGQRCode, TronPlayerMetal 8.32.0
-- **Payments** (4): DuoduoWallet 2.18.153, PDDPaymentKit 8.30.2, PDDWalletPay 8.30.1, PDDWalletScene 8.30.2
+- **Other** (67): AlipaySDK, AlmightyContainer 8.33.1, AMFaceDetectBase 6.87.15, AMMobileKeychain, AMNavigation 8.33.5, AMSecurityPolicy 2.1.136, APPAvAlbum 2.0.268, effect, PDDAddressScene 8.33.9, PDDAvAlbum, PDDAVBaseKit 8.33.3, PDDAVFloatWindow 8.33.3, PDDAVGallery 8.33.3, PDDAVUtil, PDDBasePhotoBrowser 8.33.11, PDDBizUIKit 8.33.14, PDDBootScene 8.33.9, PDDChatScene 8.33.4, PDDComment 8.28.23, PDDCommentListScene 8.33.7, PDDCommentScene 8.33.5, PDDContentBrowserScene 8.33.1, PDDDynamicView 8.33.1, PDDEffectUIKit 6.14.75, PDDExpressScene 8.33.1, PDDFavorite 8.33.1, PDDFavoriteScene 8.33.7, PDDGoodsDetail 8.33.9, PDDGoodsDetailScene 8.33.10, PDDGoodsListing 8.33.3, PDDGoodsSku 9.1.1634, PDDHomeScene 8.33.7, PDDHybrid 5.78.85, PDDLego 8.33.4, PDDLive 8.33.3, PDDLivePublishScene 8.33.1, PDDLiveScene 8.33.14, PDDLiveTabScene 8.33.14, PDDLiveTabService 8.33.1, PDDMall 8.33.2, PDDMallScene 8.330.9, PDDMCEffect, PDDMediaPage 8.33.4, PDDMomentsScene 8.33.3, PDDMPEffectRender, pddOpus 8.30.0, PDDOrder 8.33.4, PDDOrderListScene 8.33.6, PDDPayBizUIKit 8.33.11, PDDPersonalScene 8.33.8, PDDSafeModeScene 8.33.2, PDDSearch 8.33.5, PDDSearchKit 8.33.6, PDDSearchScene 8.33.7, PDDShareImageTemplates 8.33.2, PDDShareSharePages 8.33.2, PDDShoppingCartScene 8.33.1, PDDShoppingCartService 8.33.1, PDDSocial 8.33.2, PDDUser 7.91.53, PDDVideoPageScene 8.33.3, PDDVideoPageService 8.33.1, PDDWeb 5.78.528, PTZImagePicker 8.33.0, renderEngine, SGQRCode, TronPlayerMetal 8.33.7
+- **Payments** (4): DuoduoWallet 2.18.159, PDDPaymentKit 8.33.13, PDDWalletPay 8.33.2, PDDWalletScene 8.33.2
 
 <details>
 <summary>Frameworks (33)</summary>
@@ -51,6 +51,7 @@ App Groups, Apple Pay, Associated Domains (Universal Links), Background App Refr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 8.33.0 | 2026-11-23 |  | 71 | +0 / −0 | Yes | Yes | [8.33.0.json](8.33.0.json) |
 | 8.32.0 | 2026-11-17 |  | 71 | +0 / −0 | Yes | Yes | [8.32.0.json](8.32.0.json) |
 | 8.31.0 | 2026-11-09 |  | 71 | +0 / −0 | Yes | Yes | [8.31.0.json](8.31.0.json) |
 | 8.30.0 | 2026-11-02 | 2026-11-02 | 71 | +0 / −0 | Yes | Yes | [8.30.0.json](8.30.0.json) |

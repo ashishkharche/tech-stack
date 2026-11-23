@@ -2,13 +2,13 @@
 
 # Companies
 
-272 companies. Each name is the developer name on the store listing.
+273 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
 | <img src="../assets/icons/ios/6737527615.png" width="20" height="20" alt="Gemini Notebook icon"> <img src="../assets/icons/ios/422689480.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/ios/284815942.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/ios/388497605.png" width="20" height="20" alt="Google Authenticator icon"> <img src="../assets/icons/ios/909319292.png" width="20" height="20" alt="Google Calendar icon"> | [Google](google.md) | 21 | 21 | 0 | 33 | 85 |
 | <img src="../assets/icons/android/com.google.android.gm.png" width="20" height="20" alt="Gmail icon"> <img src="../assets/icons/android/com.google.android.googlequicksearchbox.png" width="20" height="20" alt="Google icon"> <img src="../assets/icons/android/com.google.android.calendar.png" width="20" height="20" alt="Google Calendar icon"> <img src="../assets/icons/android/com.google.android.apps.dynamite.png" width="20" height="20" alt="Google Chat icon"> <img src="../assets/icons/android/com.android.chrome.png" width="20" height="20" alt="Google Chrome icon"> | [Google LLC](google-llc.md) | 21 | 0 | 21 | 30 | 41 |
-| <img src="../assets/icons/android/com.azure.authenticator.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/983156458.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/345323231.png" width="20" height="20" alt="Microsoft Bing Search icon"> <img src="../assets/icons/android/com.microsoft.bingwebmastertools.twa.png" width="20" height="20" alt="Microsoft Bing Webmaster Tools icon"> <img src="../assets/icons/ios/541164041.png" width="20" height="20" alt="Microsoft Copilot icon"> | [Microsoft Corporation](microsoft-corporation.md) | 20 | 8 | 12 | 33 | 249 |
+| <img src="../assets/icons/android/com.azure.authenticator.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/983156458.png" width="20" height="20" alt="Microsoft Authenticator icon"> <img src="../assets/icons/ios/345323231.png" width="20" height="20" alt="Microsoft Bing Search icon"> <img src="../assets/icons/android/com.microsoft.bingwebmastertools.twa.png" width="20" height="20" alt="Microsoft Bing Webmaster Tools icon"> <img src="../assets/icons/ios/541164041.png" width="20" height="20" alt="Microsoft Copilot icon"> | [Microsoft Corporation](microsoft-corporation.md) | 20 | 8 | 12 | 34 | 249 |
 | <img src="../assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/454638411.png" width="20" height="20" alt="Messenger icon"> <img src="../assets/icons/android/com.facebook.stella.png" width="20" height="20" alt="Meta AI icon"> <img src="../assets/icons/ios/1558240027.png" width="20" height="20" alt="Meta AI icon"> | [Meta Platforms, Inc.](meta-platforms-inc.md) | 6 | 3 | 3 | 12 | 46 |
 | <img src="../assets/icons/android/com.disney.disneyplus.png" width="20" height="20" alt="Disney+ icon"> <img src="../assets/icons/ios/1446075923.png" width="20" height="20" alt="Disney+ icon"> <img src="../assets/icons/android/com.espn.fantasy.lm.football.png" width="20" height="20" alt="ESPN Fantasy Sports icon"> <img src="../assets/icons/ios/317469184.png" width="20" height="20" alt="ESPN icon"> <img src="../assets/icons/android/com.hulu.plus.png" width="20" height="20" alt="Hulu icon"> | [Disney](disney.md) | 5 | 2 | 3 | 10 | 140 |
 | <img src="../assets/icons/ios/6738967378.png" width="20" height="20" alt="Edits icon"> <img src="../assets/icons/ios/389801252.png" width="20" height="20" alt="Instagram icon"> <img src="../assets/icons/ios/6756442328.png" width="20" height="20" alt="Instants icon"> <img src="../assets/icons/ios/6446901002.png" width="20" height="20" alt="Threads icon"> | [Instagram, Inc.](instagram-inc.md) | 4 | 4 | 0 | 5 | 17 |
@@ -142,6 +142,7 @@
 | <img src="../assets/icons/ios/6472232952.png" width="20" height="20" alt="Koupon icon"> | [Koupon Inc.](koupon-inc.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/ios/6742321547.png" width="20" height="20" alt="i-Kfz icon"> | [Kraftfahrt-Bundesamt](kraftfahrt-bundesamt.md) | 1 | 1 | 0 | 1 | 4 |
 | <img src="../assets/icons/ios/6768240254.png" width="20" height="20" alt="FreeDrama icon"> | [Kuku Technologies Limited](kuku-technologies-limited.md) | 1 | 1 | 0 | 1 | 81 |
+| <img src="../assets/icons/ios/1589255019.png" width="20" height="20" alt="Mon espace santé icon"> | [l'Assurance Maladie](l-assurance-maladie.md) | 1 | 1 | 0 | 1 | 50 |
 | <img src="../assets/icons/ios/1450835575.png" width="20" height="20" alt="LIFE Pharmacy icon"> | [LIFE HOME HEALTH CARE](life-home-health-care.md) | 1 | 1 | 0 | 1 | 84 |
 | <img src="../assets/icons/ios/384830320.png" width="20" height="20" alt="Life360 icon"> | [Life360](life360.md) | 1 | 1 | 0 | 1 | 137 |
 | <img src="../assets/icons/ios/288429040.png" width="20" height="20" alt="LinkedIn icon"> | [LinkedIn Corporation](linkedin-corporation.md) | 1 | 1 | 0 | 1 | 18 |
@@ -275,7 +276,7 @@
 | <img src="../assets/icons/android/com.gowish.app.jpg" width="20" height="20" alt="GoWish icon"> | [Ønskeskyen ApS](nskeskyen-aps.md) | 1 | 0 | 1 | 2 | 30 |
 | <img src="../assets/icons/ios/6741471889.png" width="20" height="20" alt="Mawhiba icon"> | [موهبة](mawhiba.md) | 1 | 1 | 0 | 1 | 18 |
 | <img src="../assets/icons/ios/1476359069.png" width="20" height="20" alt="MynaApp (formerly Mynaportal) icon"> | [デジタル庁](go.md) | 1 | 1 | 0 | 1 | 167 |
-| <img src="../assets/icons/ios/1044283059.png" width="20" height="20" alt="Pinduoduo icon"> | [上海寻梦信息技术有限公司](shanghai-xunmeng-information-technology-co-ltd.md) | 1 | 1 | 0 | 5 | 71 |
+| <img src="../assets/icons/ios/1044283059.png" width="20" height="20" alt="Pinduoduo icon"> | [上海寻梦信息技术有限公司](shanghai-xunmeng-information-technology-co-ltd.md) | 1 | 1 | 0 | 6 | 71 |
 | <img src="../assets/icons/android/com.xingin.xhs.png" width="20" height="20" alt="rednote icon"> | [行吟信息科技(上海)有限公司](xingin-information-technology-shanghai-co-ltd.md) | 1 | 0 | 1 | 1 | 35 |
 | <img src="../assets/icons/ios/6444602589.png" width="20" height="20" alt="모바일 건강보험증 icon"> | [국민건강보험공단](or.md) | 1 | 1 | 0 | 1 | 7 |
 
