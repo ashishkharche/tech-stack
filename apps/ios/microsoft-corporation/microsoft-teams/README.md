@@ -13,8 +13,8 @@
 | Company | [Microsoft Corporation](../../../../companies/microsoft-corporation.md) |
 | Store id | `1113153706` |
 | Bundle / package id | `com.microsoft.skype.teams` |
-| Latest version | 8.20.1 (analysed 2026-11-18) |
-| Versions tracked | 4 |
+| Latest version | 8.21.1 (analysed 2026-11-23) |
+| Versions tracked | 5 |
 | SDKs in latest version | 51 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -30,7 +30,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/microsoft-corporation/microsoft-teams-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/microsoft-corporation/microsoft-teams-light.svg"></picture>
 
-- **Other** (38): AdaptiveCards 2.12.1, AudioUI, AXPConfig, BizChatCopilot, CalendarEvents, CalendarUI, CallingUI, CallingVideoExtensibility, CallingVideoRenderer, CentroLib, Communities, ContributorAI, ContributorBookmark, CopilotImageRenderer, CopilotRealTimeAudioProvider, CopilotUIKit, DateTools, EditorAugmentation, FileBrowser, FluentUIResources-ios 0.35.0, Gallery 0.0.11, hermes.ios, LocalizedStringKit 6.8.1, Lodash, LoopKit, MeetingArtifacts, MessagingUI, MSIX 0.5.3, OneAuth 12.0.0, OnePlayerCore 9.7.1, OnePlayerExtensions 9.7.1, OnePlayerUI 9.7.1, QOTDNavigationContributor, SAMCategories, SharedLinks, SHConfig, VideoMessaging 0.0.1, WalkieTalkie
+- **Other** (38): AdaptiveCards 2.12.1, AudioUI, AXPConfig, BizChatCopilot, CalendarEvents, CalendarUI, CallingUI, CallingVideoExtensibility, CallingVideoRenderer, CentroLib, Communities, ContributorAI, ContributorBookmark, CopilotImageRenderer, CopilotRealTimeAudioProvider, CopilotUIKit, DateTools, EditorAugmentation, FileBrowser, FluentUIResources-ios 0.35.0, Gallery 0.0.11, hermes.ios, LocalizedStringKit 6.8.2, Lodash, LoopKit, MeetingArtifacts, MessagingUI, MSIX 0.5.3, OneAuth 12.0.0, OnePlayerCore 9.9.2, OnePlayerExtensions 9.9.2, OnePlayerUI 9.9.2, QOTDNavigationContributor, SAMCategories, SharedLinks, SHConfig, VideoMessaging 0.0.1, WalkieTalkie
 - **Sign-in and auth** (4): AppAuth 1.7.3, GoogleSignIn 7.1.0, GTMAppAuth 4.1.1, GTMSessionFetcher 3.3.2
 - **UI and rendering** (4): Kingfisher 7.11.0, Lottie 4.5.0, MsgAnimations 0.0.1, SDWebImage 5.19.0
 - **Storage** (2): ExtensibilityPlatform, PlatformAppStore
@@ -56,6 +56,7 @@ App Attest, App Groups, Associated Domains (Universal Links), Background App Ref
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 8.21.1 | 2026-11-23 |  | 51 | +0 / −0 | Yes | Yes | [8.21.1.json](8.21.1.json) |
 | 8.20.1 | 2026-11-18 |  | 51 | +0 / −0 | Yes | Yes | [8.20.1.json](8.20.1.json) |
 | 8.19.3 | 2026-11-06 | 2026-11-05 | 51 | +0 / −0 | Yes | Yes | [8.19.3.json](8.19.3.json) |
 | 8.19.2 | 2026-11-02 | 2026-10-30 | 51 | +0 / −0 | Yes | Yes | [8.19.2.json](8.19.2.json) |

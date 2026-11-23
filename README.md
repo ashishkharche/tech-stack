@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">392 apps · 542 versions · 273 companies · 5,092 SDKs</p>
+<p align="center">393 apps · 545 versions · 274 companies · 5,092 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 207 of 213 iOS apps, and Jetpack Compose is in 140 of 179 Android apps. 97 apps also use a cross-platform runtime.
+SwiftUI is in 208 of 214 iOS apps, and Jetpack Compose is in 140 of 179 Android apps. 98 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 207 of 213 iOS apps, and Jetpack Compose is in 140 of 179 Android 
 
 ## What most apps ship
 
-Firebase is in 260 of 392 apps. 78% of apps ship at least one analytics SDK.
+Firebase is in 261 of 393 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -43,7 +43,7 @@ Firebase is in 260 of 392 apps. 78% of apps ship at least one analytics SDK.
 
 ## How big an SDK list gets
 
-The median app ships 37 SDKs on iOS and 29 on Android. Whatnot (iOS) has the most, at 349.
+The median app ships 36.5 SDKs on iOS and 29 on Android. Whatnot (iOS) has the most, at 349.
 
 **Apps by number of SDKs**
 
@@ -75,7 +75,7 @@ The median app ships 37 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## How apps change between versions
 
-73 of 150 updates changed the SDK list. Together they added 198 SDKs and removed 274.
+74 of 152 updates changed the SDK list. Together they added 199 SDKs and removed 274.
 
 **SDKs added and removed between versions**
 
@@ -91,7 +91,7 @@ The median app ships 37 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## Which OS versions apps support
 
-The most common minimum is iOS 16 and Android API 29. The most common Android target is API 36.
+The most common minimum is iOS 15 and Android API 29. The most common Android target is API 36.
 
 **Minimum iOS version**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 16 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 225 of 273 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 226 of 274 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,14 +129,14 @@ Google and Google LLC share the most apps, with 21 each. 225 of 273 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/android/microsoft-corporation/microsoft-teams/README.md"><img src="assets/icons/android/com.microsoft.teams.png" width="56" height="56" alt="Microsoft Teams icon"></a><br><a href="apps/android/microsoft-corporation/microsoft-teams/README.md"><sub><b>Microsoft Teams</b></sub></a><br><sub>Android · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/l-assurance-maladie/mon-espace-sant/README.md"><img src="assets/icons/ios/1589255019.png" width="56" height="56" alt="Mon espace santé icon"></a><br><a href="apps/ios/l-assurance-maladie/mon-espace-sant/README.md"><sub><b>Mon espace santé</b></sub></a><br><sub>iOS · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo/README.md"><img src="assets/icons/ios/1044283059.png" width="56" height="56" alt="Pinduoduo icon"></a><br><a href="apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo/README.md"><sub><b>Pinduoduo</b></sub></a><br><sub>iOS · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/trendyol-com/trendyol/README.md"><img src="assets/icons/ios/524362642.png" width="56" height="56" alt="Trendyol icon"></a><br><a href="apps/ios/trendyol-com/trendyol/README.md"><sub><b>Trendyol</b></sub></a><br><sub>iOS · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><img src="assets/icons/ios/1386412985.png" width="56" height="56" alt="WhatsApp Business icon"></a><br><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><sub><b>WhatsApp Business</b></sub></a><br><sub>iOS · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/microsoft-corporation/microsoft-edge/README.md"><img src="assets/icons/android/com.microsoft.emmx.png" width="56" height="56" alt="Microsoft Edge icon"></a><br><a href="apps/android/microsoft-corporation/microsoft-edge/README.md"><sub><b>Microsoft Edge</b></sub></a><br><sub>Android · 2026-11-22</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/yemek-sepeti-elektronik-iletisim-perakende-gida-lojistik-ano/yemeksepeti/README.md"><img src="assets/icons/ios/373034841.png" width="56" height="56" alt="Yemeksepeti icon"></a><br><a href="apps/ios/yemek-sepeti-elektronik-iletisim-perakende-gida-lojistik-ano/yemeksepeti/README.md"><sub><b>Yemeksepeti</b></sub></a><br><sub>iOS · 2026-11-22</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/rimthan/masi/README.md"><img src="assets/icons/ios/6809328945.png" width="56" height="56" alt="Masi icon"></a><br><a href="apps/ios/rimthan/masi/README.md"><sub><b>Masi</b></sub></a><br><sub>iOS · 2026-11-22</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><img src="assets/icons/ios/1343581380.png" width="56" height="56" alt="VN icon"></a><br><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><sub><b>VN</b></sub></a><br><sub>iOS · 2026-11-22</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/mercari-inc/mercari/README.md"><img src="assets/icons/android/com.mercariapp.mercari.png" width="56" height="56" alt="Mercari icon"></a><br><a href="apps/android/mercari-inc/mercari/README.md"><sub><b>Mercari</b></sub></a><br><sub>Android · 2026-11-22</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/distribuidora-liverpool-s-a-de-c-v/liverpool/README.md"><img src="assets/icons/ios/1148204349.png" width="56" height="56" alt="Liverpool icon"></a><br><a href="apps/ios/distribuidora-liverpool-s-a-de-c-v/liverpool/README.md"><sub><b>Liverpool</b></sub></a><br><sub>iOS · 2026-11-22</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/mercado-libre/mercado-libre/README.md"><img src="assets/icons/android/com.mercadolibre.png" width="56" height="56" alt="Mercado Libre icon"></a><br><a href="apps/android/mercado-libre/mercado-libre/README.md"><sub><b>Mercado Libre</b></sub></a><br><sub>Android · 2026-11-22</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/moonshot-ai/kimi/README.md"><img src="assets/icons/android/com.moonshot.kimichat.png" width="56" height="56" alt="Kimi icon"></a><br><a href="apps/android/moonshot-ai/kimi/README.md"><sub><b>Kimi</b></sub></a><br><sub>Android · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/bubilet-bilet-basim-ve-dagitim-anonim-sirketi/bubilet/README.md"><img src="assets/icons/ios/1463201795.png" width="56" height="56" alt="Bubilet icon"></a><br><a href="apps/ios/bubilet-bilet-basim-ve-dagitim-anonim-sirketi/bubilet/README.md"><sub><b>Bubilet</b></sub></a><br><sub>iOS · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><img src="assets/icons/ios/1113153706.png" width="56" height="56" alt="Microsoft Teams icon"></a><br><a href="apps/ios/microsoft-corporation/microsoft-teams/README.md"><sub><b>Microsoft Teams</b></sub></a><br><sub>iOS · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/microsoft-corporation/microsoft-teams/README.md"><img src="assets/icons/android/com.microsoft.teams.png" width="56" height="56" alt="Microsoft Teams icon"></a><br><a href="apps/android/microsoft-corporation/microsoft-teams/README.md"><sub><b>Microsoft Teams</b></sub></a><br><sub>Android · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/l-assurance-maladie/mon-espace-sant/README.md"><img src="assets/icons/ios/1589255019.png" width="56" height="56" alt="Mon espace santé icon"></a><br><a href="apps/ios/l-assurance-maladie/mon-espace-sant/README.md"><sub><b>Mon espace santé</b></sub></a><br><sub>iOS · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo/README.md"><img src="assets/icons/ios/1044283059.png" width="56" height="56" alt="Pinduoduo icon"></a><br><a href="apps/ios/shanghai-xunmeng-information-technology-co-ltd/pinduoduo/README.md"><sub><b>Pinduoduo</b></sub></a><br><sub>iOS · 2026-11-23</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/ios/trendyol-com/trendyol/README.md"><img src="assets/icons/ios/524362642.png" width="56" height="56" alt="Trendyol icon"></a><br><a href="apps/ios/trendyol-com/trendyol/README.md"><sub><b>Trendyol</b></sub></a><br><sub>iOS · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><img src="assets/icons/ios/1386412985.png" width="56" height="56" alt="WhatsApp Business icon"></a><br><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><sub><b>WhatsApp Business</b></sub></a><br><sub>iOS · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/microsoft-corporation/microsoft-edge/README.md"><img src="assets/icons/android/com.microsoft.emmx.png" width="56" height="56" alt="Microsoft Edge icon"></a><br><a href="apps/android/microsoft-corporation/microsoft-edge/README.md"><sub><b>Microsoft Edge</b></sub></a><br><sub>Android · 2026-11-22</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/yemek-sepeti-elektronik-iletisim-perakende-gida-lojistik-ano/yemeksepeti/README.md"><img src="assets/icons/ios/373034841.png" width="56" height="56" alt="Yemeksepeti icon"></a><br><a href="apps/ios/yemek-sepeti-elektronik-iletisim-perakende-gida-lojistik-ano/yemeksepeti/README.md"><sub><b>Yemeksepeti</b></sub></a><br><sub>iOS · 2026-11-22</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/rimthan/masi/README.md"><img src="assets/icons/ios/6809328945.png" width="56" height="56" alt="Masi icon"></a><br><a href="apps/ios/rimthan/masi/README.md"><sub><b>Masi</b></sub></a><br><sub>iOS · 2026-11-22</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><img src="assets/icons/ios/1343581380.png" width="56" height="56" alt="VN icon"></a><br><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><sub><b>VN</b></sub></a><br><sub>iOS · 2026-11-22</sub></td></tr>
 </table>
 
 ### All apps
 
 <details>
-<summary>iOS (213 apps)</summary>
+<summary>iOS (214 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -155,6 +155,7 @@ Google and Google LLC share the most apps, with 21 each. 225 of 273 companies ha
 | <img src="assets/icons/ios/960335206.png" width="20" height="20" alt="Blinkit icon"> | [Blinkit: Groceries & more](apps/ios/blink-commerce-private-limited/blinkit/README.md) | [BLINK COMMERCE PRIVATE LIMITED](companies/blink-commerce-private-limited.md) | 19.01.1 | 58 |
 | <img src="assets/icons/ios/6444370199.png" width="20" height="20" alt="Bluesky Social icon"> | [Bluesky Social](apps/ios/bluesky-pbllc/bluesky/README.md) | [Bluesky PBLLC](companies/bluesky-pbllc.md) | 1.136.0 | 13 |
 | <img src="assets/icons/ios/6468981790.png" width="20" height="20" alt="Bring Tracking icon"> | [Bring Tracking](apps/ios/posten/bring-tracking/README.md) | [Posten](companies/posten.md) | 8.4.9 | 24 |
+| <img src="assets/icons/ios/1463201795.png" width="20" height="20" alt="Bubilet icon"> | [Bubilet: Konser & Tiyatro](apps/ios/bubilet-bilet-basim-ve-dagitim-anonim-sirketi/bubilet/README.md) | [BUBILET BILET BASIM VE DAGITIM ANONIM SIRKETI](companies/bubilet-bilet-basim-ve-dagitim-anonim-sirketi.md) | 13.6.5 | 29 |
 | <img src="assets/icons/ios/6471519217.png" width="20" height="20" alt="Bump icon"> | [Bump - real life is happening](apps/ios/amo/bump/README.md) | [amo](companies/amo.md) | 2.129.1 | 13 |
 | <img src="assets/icons/ios/897446215.png" width="20" height="20" alt="Canva AI Photo &amp; Video Editor icon"> | [Canva AI Photo & Video Editor](apps/ios/canva/canva-ai-photo-video-editor/README.md) | [Canva](companies/canva.md) | 4.232.1 | 57 |
 | <img src="assets/icons/ios/1500855883.png" width="20" height="20" alt="CapCut icon"> | [CapCut: Photo & Video Editor](apps/ios/bytedance-pte-ltd/capcut/README.md) | [Bytedance Pte. Ltd](companies/bytedance-pte-ltd.md) | 19.9.0 | 163 |
@@ -255,7 +256,7 @@ Google and Google LLC share the most apps, with 21 each. 225 of 273 companies ha
 | <img src="assets/icons/ios/1288723196.png" width="20" height="20" alt="Microsoft Edge icon"> | [Microsoft Edge](apps/ios/microsoft-corporation/microsoft-edge/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 157.4341.57 | 20 |
 | <img src="assets/icons/ios/410395246.png" width="20" height="20" alt="Microsoft OneNote icon"> | [Microsoft OneNote](apps/ios/microsoft-corporation/microsoft-onenote/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 16.109.3 | 2 |
 | <img src="assets/icons/ios/911813648.png" width="20" height="20" alt="Microsoft SwiftKey AI Keyboard icon"> | [Microsoft SwiftKey AI Keyboard](apps/ios/swiftkey/microsoft-swiftkey-ai-keyboard/README.md) | [SwiftKey](companies/swiftkey.md) | 4.3.2 | 46 |
-| <img src="assets/icons/ios/1113153706.png" width="20" height="20" alt="Microsoft Teams icon"> | [Microsoft Teams](apps/ios/microsoft-corporation/microsoft-teams/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 8.20.1 | 51 |
+| <img src="assets/icons/ios/1113153706.png" width="20" height="20" alt="Microsoft Teams icon"> | [Microsoft Teams](apps/ios/microsoft-corporation/microsoft-teams/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 8.21.1 | 51 |
 | <img src="assets/icons/ios/1212616790.png" width="20" height="20" alt="Microsoft To Do icon"> | [Microsoft To Do](apps/ios/microsoft-corporation/microsoft-to-do/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 2.183 | 12 |
 | <img src="assets/icons/ios/586447913.png" width="20" height="20" alt="Microsoft Word icon"> | [Microsoft Word](apps/ios/microsoft-corporation/microsoft-word/README.md) | [Microsoft Corporation](companies/microsoft-corporation.md) | 2.115.2 | 11 |
 | <img src="assets/icons/ios/1589255019.png" width="20" height="20" alt="Mon espace santé icon"> | [Mon espace santé](apps/ios/l-assurance-maladie/mon-espace-sant/README.md) | [l'Assurance Maladie](companies/l-assurance-maladie.md) | 1.46.0 | 51 |
@@ -440,7 +441,7 @@ Google and Google LLC share the most apps, with 21 each. 225 of 273 companies ha
 | <img src="assets/icons/android/com.instacart.client.png" width="20" height="20" alt="Instacart icon"> | [Instacart: Get Food Delivery](apps/android/instacart/instacart/README.md) | [Instacart](companies/instacart.md) | 9.39.2 | 47 |
 | <img src="assets/icons/android/me.karmalab.talk.png" width="20" height="20" alt="KARMA Secure Messenger icon"> | [KARMA Secure Messenger](apps/android/karmalab-inc/karma-secure-messenger/README.md) | [Karmalab Inc.](companies/karmalab-inc.md) | 0.9.8.0 | 26 |
 | <img src="assets/icons/android/com.yum.kfc.png" width="20" height="20" alt="KFC India online ordering app icon"> | [KFC India online ordering app](apps/android/yum-brands-inc-kfc-india-division/kfc-india-online-ordering-app/README.md) | [Yum Brands Inc - KFC India Division](companies/yum-brands-inc-kfc-india-division.md) | 2605.0.0 | 45 |
-| <img src="assets/icons/android/com.moonshot.kimichat.png" width="20" height="20" alt="Kimi icon"> | [Kimi](apps/android/moonshot-ai/kimi/README.md) | [Moonshot AI](companies/moonshot-ai.md) | 3.1.6 | 26 |
+| <img src="assets/icons/android/com.moonshot.kimichat.png" width="20" height="20" alt="Kimi icon"> | [Kimi](apps/android/moonshot-ai/kimi/README.md) | [Moonshot AI](companies/moonshot-ai.md) | 3.1.8 | 27 |
 | <img src="assets/icons/android/com.usepepper.kohlwholesaleapp.png" width="20" height="20" alt="Kohl Wholesale icon"> | [Kohl Wholesale](apps/android/pomegranate-technologies/kohl-wholesale/README.md) | [Pomegranate Technologies](companies/pomegranate-technologies.md) | 1.21.33 | 40 |
 | <img src="assets/icons/android/com.kohls.mcommerce.opal.png" width="20" height="20" alt="Kohl's icon"> | [Kohl's - Shopping & More](apps/android/kohls/kohl-s/README.md) | [Kohls](companies/kohls.md) | 26.11.2 | 40 |
 | <img src="assets/icons/android/ai.mistral.chat.png" width="20" height="20" alt="Le Chat by Mistral AI icon"> | [Le Chat by Mistral AI](apps/android/mistral-ai/le-chat/README.md) | [Mistral AI](companies/mistral-ai.md) | 2.16.0 | 34 |

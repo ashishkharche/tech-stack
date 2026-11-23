@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **3** versions · **107** distinct SDKs across their latest versions
+**2** apps (1 iOS, 1 Android) · **4** versions · **108** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/moonshot-ai/kimi/README.md"><img src="../assets/icons/android/com.moonshot.kimichat.png" width="56" height="56" alt="Kimi icon"></a><br><a href="../apps/android/moonshot-ai/kimi/README.md"><sub><b>Kimi</b></sub></a><br><sub>Android · 26 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/moonshot-ai/kimi/README.md"><img src="../assets/icons/ios/6474233312.png" width="56" height="56" alt="Kimi icon"></a><br><a href="../apps/ios/moonshot-ai/kimi/README.md"><sub><b>Kimi</b></sub></a><br><sub>iOS · 82 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/moonshot-ai/kimi/README.md"><img src="../assets/icons/android/com.moonshot.kimichat.png" width="56" height="56" alt="Kimi icon"></a><br><a href="../apps/android/moonshot-ai/kimi/README.md"><sub><b>Kimi</b></sub></a><br><sub>Android · 27 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/moonshot-ai/kimi/README.md"><img src="../assets/icons/ios/6474233312.png" width="56" height="56" alt="Kimi icon"></a><br><a href="../apps/ios/moonshot-ai/kimi/README.md"><sub><b>Kimi</b></sub></a><br><sub>iOS · 82 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.moonshot.kimichat.png" width="20" height="20" alt="Kimi icon"> | [Kimi](../apps/android/moonshot-ai/kimi/README.md) | Android | 2 | 3.1.6 | 2026-11-04 | 26 | Yes |
+| <img src="../assets/icons/android/com.moonshot.kimichat.png" width="20" height="20" alt="Kimi icon"> | [Kimi](../apps/android/moonshot-ai/kimi/README.md) | Android | 3 | 3.1.8 | 2026-11-23 | 27 | Yes |
 | <img src="../assets/icons/ios/6474233312.png" width="20" height="20" alt="Kimi icon"> | [Kimi - Your Personal AI Agent](../apps/ios/moonshot-ai/kimi/README.md) | iOS | 1 | 3.1.6 | 2026-10-24 | 82 | Yes |
 
 ## SDKs by category

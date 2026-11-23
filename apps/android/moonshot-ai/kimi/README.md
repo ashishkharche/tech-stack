@@ -13,9 +13,9 @@
 | Company | [Moonshot AI](../../../../companies/moonshot-ai.md) |
 | Store id | `com.moonshot.kimichat` |
 | Bundle / package id | `com.moonshot.kimichat` |
-| Latest version | 3.1.6 (analysed 2026-11-04) |
-| Versions tracked | 2 |
-| SDKs in latest version | 26 |
+| Latest version | 3.1.8 (analysed 2026-11-23) |
+| Versions tracked | 3 |
+| SDKs in latest version | 27 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Rive |
 | Build | Gradle (inferred), R8 / ProGuard (name obfuscation detected) |
@@ -41,6 +41,7 @@
 - **Media** (1): Media3 (ExoPlayer)
 - **Messaging and push** (1): Firebase Messaging
 - **Payments** (1): Google Play Billing
+- **Voice** (1): WebRTC
 
 <details>
 <summary>Capabilities (15)</summary>
@@ -53,8 +54,13 @@ Advertising ID, Approximate location, Biometric auth, Bluetooth, Camera, Fingerp
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 3.1.8 | 2026-11-23 | 2026-11-12 | 27 | +1 / −0 | Yes | No | [3.1.8.json](3.1.8.json) |
 | 3.1.6 | 2026-11-04 | 2026-10-29 | 26 | +0 / −0 | Yes | No | [3.1.6.json](3.1.6.json) |
 | 3.1.5 | 2026-10-24 | 2026-10-20 | 26 |  | Yes | No | [3.1.5.json](3.1.5.json) |
+
+### SDK changes between versions
+
+- 3.1.6 → 3.1.8: added WebRTC
 
 ---
 
