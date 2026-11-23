@@ -2,7 +2,7 @@
 
 # Companies
 
-271 companies. Each name is the developer name on the store listing.
+272 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | <img src="../assets/icons/android/de.traderepublic.app.png" width="20" height="20" alt="Trade Republic icon"> <img src="../assets/icons/ios/1410703839.png" width="20" height="20" alt="Trade Republic icon"> | [Trade Republic Bank GmbH](trade-republic-bank-gmbh.md) | 2 | 1 | 1 | 2 | 104 |
 | <img src="../assets/icons/android/tv.twitch.android.app.png" width="20" height="20" alt="Twitch icon"> <img src="../assets/icons/ios/460177396.png" width="20" height="20" alt="Twitch icon"> | [Twitch Interactive, Inc.](twitch-interactive-inc.md) | 2 | 1 | 1 | 2 | 42 |
 | <img src="../assets/icons/android/com.wayfair.wayfair.png" width="20" height="20" alt="Wayfair icon"> <img src="../assets/icons/android/com.wayfair.wayhome.png" width="20" height="20" alt="Wayfair Service Pro icon"> | [Wayfair, LLC](wayfair-llc.md) | 2 | 0 | 2 | 2 | 45 |
-| <img src="../assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Inc.](whatsapp-inc.md) | 2 | 2 | 0 | 7 | 6 |
+| <img src="../assets/icons/ios/1386412985.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/ios/310633997.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp Inc.](whatsapp-inc.md) | 2 | 2 | 0 | 8 | 6 |
 | <img src="../assets/icons/android/com.whatsapp.w4b.png" width="20" height="20" alt="WhatsApp Business icon"> <img src="../assets/icons/android/com.whatsapp.png" width="20" height="20" alt="WhatsApp Messenger icon"> | [WhatsApp LLC](whatsapp-llc.md) | 2 | 0 | 2 | 3 | 25 |
 | <img src="../assets/icons/android/com.action.consumerapp.png" width="20" height="20" alt="Action icon"> | [Action BV](action-bv.md) | 1 | 0 | 1 | 1 | 30 |
 | <img src="../assets/icons/android/com.advitaortho.chime.png" width="20" height="20" alt="Chime icon"> | [Advita Ortho, LLC](advita-ortho-llc.md) | 1 | 0 | 1 | 1 | 24 |
@@ -239,6 +239,7 @@
 | <img src="../assets/icons/android/com.thehomedepot.png" width="20" height="20" alt="The Home Depot icon"> | [The Home Depot, Inc](the-home-depot-inc.md) | 1 | 0 | 1 | 1 | 39 |
 | <img src="../assets/icons/ios/284862083.png" width="20" height="20" alt="NYTimes icon"> | [The New York Times Company](the-new-york-times-company.md) | 1 | 1 | 0 | 1 | 30 |
 | <img src="../assets/icons/ios/500003565.png" width="20" height="20" alt="Ticketmaster－Buy, Sell Tickets icon"> | [Ticketmaster](ticketmaster.md) | 1 | 1 | 0 | 1 | 35 |
+| <img src="../assets/icons/ios/524362642.png" width="20" height="20" alt="Trendyol icon"> | [trendyol.com](trendyol-com.md) | 1 | 1 | 0 | 1 | 299 |
 | <img src="../assets/icons/android/ctrip.english.png" width="20" height="20" alt="Trip.com icon"> | [Trip.com](trip-com.md) | 1 | 0 | 1 | 1 | 37 |
 | <img src="../assets/icons/ios/681752345.png" width="20" height="20" alt="Trip.com icon"> | [Trip.com Travel Singapore Pte. Ltd.](trip-com-travel-singapore-pte-ltd.md) | 1 | 1 | 0 | 1 | 71 |
 | <img src="../assets/icons/android/com.tripadvisor.tripadvisor.png" width="20" height="20" alt="Tripadvisor icon"> | [Tripadvisor](tripadvisor.md) | 1 | 0 | 1 | 1 | 35 |

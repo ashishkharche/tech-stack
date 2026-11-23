@@ -28,8 +28,8 @@
 <rect x="615.6" y="198.6" width="46.0" height="11.4" rx="2" fill="#0088FF"/>
 <text x="638.6" y="192.6" font-size="12" text-anchor="middle" fill="#4D5755">12</text>
 <text x="638.6" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">100–149</text>
-<rect x="729.9" y="204.3" width="46.0" height="5.7" rx="2" fill="#0088FF"/>
-<text x="752.9" y="198.3" font-size="12" text-anchor="middle" fill="#4D5755">6</text>
+<rect x="729.9" y="203.3" width="46.0" height="6.7" rx="2" fill="#0088FF"/>
+<text x="752.9" y="197.3" font-size="12" text-anchor="middle" fill="#4D5755">7</text>
 <text x="752.9" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">150+</text>
 </g>
 </svg>

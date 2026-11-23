@@ -13,8 +13,8 @@
 | Company | [WhatsApp Inc.](../../../../companies/whatsapp-inc.md) |
 | Store id | `1386412985` |
 | Bundle / package id | `net.whatsapp.WhatsAppSMB` |
-| Latest version | 26.45.77 (analysed 2026-11-20) |
-| Versions tracked | 5 |
+| Latest version | 26.46.72 (analysed 2026-11-23) |
+| Versions tracked | 6 |
 | SDKs in latest version | 6 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | SwiftUI, UIKit |
@@ -54,6 +54,7 @@ App Groups, Associated Domains (Universal Links), Background App Refresh, Backgr
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 26.46.72 | 2026-11-23 |  | 6 | +0 / −0 | Yes | Yes | [26.46.72.json](26.46.72.json) |
 | 26.45.77 | 2026-11-20 |  | 6 | +0 / −0 | Yes | Yes | [26.45.77.json](26.45.77.json) |
 | 26.44.74 | 2026-11-14 |  | 6 | +0 / −0 | Yes | Yes | [26.44.74.json](26.44.74.json) |
 | 26.43.77 | 2026-11-07 |  | 6 | +0 / −0 | Yes | Yes | [26.43.77.json](26.43.77.json) |
