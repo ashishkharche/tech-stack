@@ -2,7 +2,7 @@
 
 # Companies
 
-274 companies. Each name is the developer name on the store listing.
+276 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | <img src="../assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> <img src="../assets/icons/ios/454638411.png" width="20" height="20" alt="Messenger icon"> <img src="../assets/icons/android/com.facebook.stella.png" width="20" height="20" alt="Meta AI icon"> <img src="../assets/icons/ios/1558240027.png" width="20" height="20" alt="Meta AI icon"> | [Meta Platforms, Inc.](meta-platforms-inc.md) | 6 | 3 | 3 | 12 | 46 |
 | <img src="../assets/icons/android/com.disney.disneyplus.png" width="20" height="20" alt="Disney+ icon"> <img src="../assets/icons/ios/1446075923.png" width="20" height="20" alt="Disney+ icon"> <img src="../assets/icons/android/com.espn.fantasy.lm.football.png" width="20" height="20" alt="ESPN Fantasy Sports icon"> <img src="../assets/icons/ios/317469184.png" width="20" height="20" alt="ESPN icon"> <img src="../assets/icons/android/com.hulu.plus.png" width="20" height="20" alt="Hulu icon"> | [Disney](disney.md) | 5 | 2 | 3 | 10 | 140 |
 | <img src="../assets/icons/ios/6738967378.png" width="20" height="20" alt="Edits icon"> <img src="../assets/icons/ios/389801252.png" width="20" height="20" alt="Instagram icon"> <img src="../assets/icons/ios/6756442328.png" width="20" height="20" alt="Instants icon"> <img src="../assets/icons/ios/6446901002.png" width="20" height="20" alt="Threads icon"> | [Instagram, Inc.](instagram-inc.md) | 4 | 4 | 0 | 5 | 17 |
-| <img src="../assets/icons/android/com.ubercab.png" width="20" height="20" alt="Uber icon"> <img src="../assets/icons/ios/368677368.png" width="20" height="20" alt="Uber icon"> <img src="../assets/icons/ios/1058959277.png" width="20" height="20" alt="Uber Eats icon"> <img src="../assets/icons/android/com.ubercab.eats.png" width="20" height="20" alt="Uber Eats icon"> | [Uber Technologies, Inc.](uber-technologies-inc.md) | 4 | 2 | 2 | 7 | 144 |
+| <img src="../assets/icons/android/com.ubercab.png" width="20" height="20" alt="Uber icon"> <img src="../assets/icons/ios/368677368.png" width="20" height="20" alt="Uber icon"> <img src="../assets/icons/ios/1058959277.png" width="20" height="20" alt="Uber Eats icon"> <img src="../assets/icons/android/com.ubercab.eats.png" width="20" height="20" alt="Uber Eats icon"> | [Uber Technologies, Inc.](uber-technologies-inc.md) | 4 | 2 | 2 | 8 | 144 |
 | <img src="../assets/icons/android/com.handmark.sportcaster.png" width="20" height="20" alt="CBS Sports icon"> <img src="../assets/icons/android/com.cbs.app.png" width="20" height="20" alt="Paramount+ icon"> <img src="../assets/icons/android/com.cbs.ott.png" width="20" height="20" alt="Paramount+ icon"> | [CBS Interactive, Inc.](cbs-interactive-inc.md) | 3 | 0 | 3 | 5 | 53 |
 | <img src="../assets/icons/android/me.lyft.android.png" width="20" height="20" alt="Lyft icon"> <img src="../assets/icons/ios/529379082.png" width="20" height="20" alt="Lyft icon"> <img src="../assets/icons/ios/6748404131.png" width="20" height="20" alt="TfL Santander Cycles icon"> | [Lyft, Inc.](lyft-inc.md) | 3 | 2 | 1 | 3 | 54 |
 | <img src="../assets/icons/android/com.netflix.mediaclient.png" width="20" height="20" alt="Netflix icon"> <img src="../assets/icons/ios/363590051.png" width="20" height="20" alt="Netflix icon"> <img src="../assets/icons/ios/6447582581.png" width="20" height="20" alt="Netflix Game Controller icon"> | [Netflix, Inc.](netflix-inc.md) | 3 | 2 | 1 | 3 | 126 |
@@ -106,6 +106,7 @@
 | <img src="../assets/icons/ios/382952264.png" width="20" height="20" alt="MyChart icon"> | [Epic](epic.md) | 1 | 1 | 0 | 1 | 0 |
 | <img src="../assets/icons/ios/6759792530.png" width="20" height="20" alt="iAmor Family Location Tracker icon"> | [Esame Marketing Limited](esame-marketing-limited.md) | 1 | 1 | 0 | 1 | 72 |
 | <img src="../assets/icons/ios/6476561442.png" width="20" height="20" alt="FIFA World Cup 2026™ icon"> | [FIFA](fifa.md) | 1 | 1 | 0 | 1 | 69 |
+| <img src="../assets/icons/ios/742044692.png" width="20" height="20" alt="Flipkart icon"> | [Flipkart Internet Private Limited](flipkart-internet-private-limited.md) | 1 | 1 | 0 | 1 | 46 |
 | <img src="../assets/icons/ios/1458351041.png" width="20" height="20" alt="Carte Vitale icon"> | [GIE SESAM Vitale](gie-sesam-vitale.md) | 1 | 1 | 0 | 1 | 23 |
 | <img src="../assets/icons/ios/1477376905.png" width="20" height="20" alt="GitHub icon"> | [GitHub](github.md) | 1 | 1 | 0 | 3 | 65 |
 | <img src="../assets/icons/android/com.airgoat.goat.png" width="20" height="20" alt="GOAT icon"> | [GOAT](goat.md) | 1 | 0 | 1 | 2 | 34 |
@@ -196,6 +197,7 @@
 | <img src="../assets/icons/ios/1556928106.png" width="20" height="20" alt="Posh icon"> | [Posh Group Inc.](posh-group-inc.md) | 1 | 1 | 0 | 2 | 32 |
 | <img src="../assets/icons/ios/6468981790.png" width="20" height="20" alt="Bring Tracking icon"> | [Posten](posten.md) | 1 | 1 | 0 | 1 | 24 |
 | <img src="../assets/icons/android/com.bring.sporing.controller.png" width="20" height="20" alt="Bring icon"> | [Posten & Bring](posten-bring.md) | 1 | 0 | 1 | 1 | 25 |
+| <img src="../assets/icons/ios/396871673.png" width="20" height="20" alt="PostNord icon"> | [PostNord Group AB](postnord-group-ab.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/ios/1436732536.png" width="20" height="20" alt="Lensa AI icon"> | [Prisma labs, inc.](prisma-labs-inc.md) | 1 | 1 | 0 | 2 | 73 |
 | <img src="../assets/icons/ios/6752485055.png" width="20" height="20" alt="DARB icon"> | [Q Mobility](q-mobility.md) | 1 | 1 | 0 | 1 | 43 |
 | <img src="../assets/icons/android/com.qobuz.music.png" width="20" height="20" alt="Qobuz icon"> | [Qobuz](qobuz.md) | 1 | 0 | 1 | 1 | 24 |

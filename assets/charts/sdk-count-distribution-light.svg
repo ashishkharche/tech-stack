@@ -7,23 +7,23 @@
 <rect x="70.53999999999999" y="8" width="12" height="12" rx="3" fill="#1EA45A"/>
 <text x="88.53999999999999" y="18" font-size="13" fill="#4D5755">Android</text>
 <line x1="10" y1="210.5" x2="810" y2="210.5" stroke="#D9E1DD"/>
-<rect x="44.1" y="147.6" width="46.0" height="62.4" rx="2" fill="#0088FF"/>
-<rect x="44.1" y="114.5" width="46.0" height="31.1" rx="2" fill="#1EA45A"/>
-<text x="67.1" y="108.5" font-size="12" text-anchor="middle" fill="#4D5755">101</text>
+<rect x="44.1" y="148.0" width="46.0" height="62.0" rx="2" fill="#0088FF"/>
+<rect x="44.1" y="115.1" width="46.0" height="30.9" rx="2" fill="#1EA45A"/>
+<text x="67.1" y="109.1" font-size="12" text-anchor="middle" fill="#4D5755">101</text>
 <text x="67.1" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">0–19</text>
-<rect x="158.4" y="159.9" width="46.0" height="50.1" rx="2" fill="#0088FF"/>
-<rect x="158.4" y="54.0" width="46.0" height="103.9" rx="2" fill="#1EA45A"/>
-<text x="181.4" y="48.0" font-size="12" text-anchor="middle" fill="#4D5755">165</text>
+<rect x="158.4" y="159.3" width="46.0" height="50.7" rx="2" fill="#0088FF"/>
+<rect x="158.4" y="54.0" width="46.0" height="103.3" rx="2" fill="#1EA45A"/>
+<text x="181.4" y="48.0" font-size="12" text-anchor="middle" fill="#4D5755">166</text>
 <text x="181.4" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">20–39</text>
-<rect x="272.7" y="174.1" width="46.0" height="35.9" rx="2" fill="#0088FF"/>
-<rect x="272.7" y="143.8" width="46.0" height="28.3" rx="2" fill="#1EA45A"/>
-<text x="295.7" y="137.8" font-size="12" text-anchor="middle" fill="#4D5755">70</text>
+<rect x="272.7" y="173.3" width="46.0" height="36.7" rx="2" fill="#0088FF"/>
+<rect x="272.7" y="143.3" width="46.0" height="28.1" rx="2" fill="#1EA45A"/>
+<text x="295.7" y="137.3" font-size="12" text-anchor="middle" fill="#4D5755">71</text>
 <text x="295.7" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">40–59</text>
-<rect x="387.0" y="193.0" width="46.0" height="17.0" rx="2" fill="#0088FF"/>
-<text x="410.0" y="187.0" font-size="12" text-anchor="middle" fill="#4D5755">18</text>
+<rect x="387.0" y="193.1" width="46.0" height="16.9" rx="2" fill="#0088FF"/>
+<text x="410.0" y="187.1" font-size="12" text-anchor="middle" fill="#4D5755">18</text>
 <text x="410.0" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">60–79</text>
-<rect x="501.3" y="191.1" width="46.0" height="18.9" rx="2" fill="#0088FF"/>
-<text x="524.3" y="185.1" font-size="12" text-anchor="middle" fill="#4D5755">20</text>
+<rect x="501.3" y="191.2" width="46.0" height="18.8" rx="2" fill="#0088FF"/>
+<text x="524.3" y="185.2" font-size="12" text-anchor="middle" fill="#4D5755">20</text>
 <text x="524.3" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">80–99</text>
 <rect x="615.6" y="198.7" width="46.0" height="11.3" rx="2" fill="#0088FF"/>
 <text x="638.6" y="192.7" font-size="12" text-anchor="middle" fill="#4D5755">12</text>
