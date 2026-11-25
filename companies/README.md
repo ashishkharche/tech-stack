@@ -38,7 +38,7 @@
 | <img src="../assets/icons/android/ai.mistral.chat.png" width="20" height="20" alt="Le Chat by Mistral AI icon"> <img src="../assets/icons/ios/6740410176.png" width="20" height="20" alt="Le Chat by Mistral AI icon"> | [Mistral AI](mistral-ai.md) | 2 | 1 | 1 | 2 | 54 |
 | <img src="../assets/icons/android/com.moonshot.kimichat.png" width="20" height="20" alt="Kimi icon"> <img src="../assets/icons/ios/6474233312.png" width="20" height="20" alt="Kimi icon"> | [Moonshot AI](moonshot-ai.md) | 2 | 1 | 1 | 4 | 108 |
 | <img src="../assets/icons/android/com.navercorp.navershopping.jpg" width="20" height="20" alt="네이버플러스 스토어 icon"> <img src="../assets/icons/ios/6738063154.png" width="20" height="20" alt="네이버플러스 스토어 icon"> | [NAVER Corp.](naver-corp.md) | 2 | 1 | 1 | 3 | 75 |
-| <img src="../assets/icons/android/com.pandora.android.png" width="20" height="20" alt="Pandora icon"> <img src="../assets/icons/android/com.pandora.android.atv.png" width="20" height="20" alt="Pandora Music for TV icon"> | [Pandora](pandora.md) | 2 | 0 | 2 | 2 | 35 |
+| <img src="../assets/icons/android/com.pandora.android.png" width="20" height="20" alt="Pandora icon"> <img src="../assets/icons/android/com.pandora.android.atv.png" width="20" height="20" alt="Pandora Music for TV icon"> | [Pandora](pandora.md) | 2 | 0 | 2 | 3 | 36 |
 | <img src="../assets/icons/android/com.reddit.frontpage.png" width="20" height="20" alt="Reddit icon"> <img src="../assets/icons/ios/1064216828.png" width="20" height="20" alt="Reddit icon"> | [reddit Inc.](reddit-inc.md) | 2 | 1 | 1 | 2 | 64 |
 | <img src="../assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> <img src="../assets/icons/android/com.zzkko.png" width="20" height="20" alt="SHEIN-Shopping Online icon"> | [Roadget Business PTE. LTD.](roadget-business-pte-ltd.md) | 2 | 1 | 1 | 2 | 66 |
 | <img src="../assets/icons/ios/6752915724.png" width="20" height="20" alt="Kalo icon"> <img src="../assets/icons/ios/6813645709.png" width="20" height="20" alt="Workout Director icon"> | [Shelgaon Ltd](shelgaon-ltd.md) | 2 | 2 | 0 | 2 | 29 |
@@ -148,7 +148,7 @@
 | <img src="../assets/icons/ios/1450835575.png" width="20" height="20" alt="LIFE Pharmacy icon"> | [LIFE HOME HEALTH CARE](life-home-health-care.md) | 1 | 1 | 0 | 1 | 84 |
 | <img src="../assets/icons/ios/384830320.png" width="20" height="20" alt="Life360 icon"> | [Life360](life360.md) | 1 | 1 | 0 | 1 | 137 |
 | <img src="../assets/icons/ios/288429040.png" width="20" height="20" alt="LinkedIn icon"> | [LinkedIn Corporation](linkedin-corporation.md) | 1 | 1 | 0 | 1 | 18 |
-| <img src="../assets/icons/ios/1158555867.png" width="20" height="20" alt="Replika icon"> | [Luka, Inc.](luka-inc.md) | 1 | 1 | 0 | 4 | 80 |
+| <img src="../assets/icons/ios/1158555867.png" width="20" height="20" alt="Replika icon"> | [Luka, Inc.](luka-inc.md) | 1 | 1 | 0 | 5 | 80 |
 | <img src="../assets/icons/ios/6812807809.png" width="20" height="20" alt="BeFitWay icon"> | [MARKETING AFFILIATES LTDA](marketing-affiliates-ltda.md) | 1 | 1 | 0 | 1 | 24 |
 | <img src="../assets/icons/android/com.marriott.mrt.png" width="20" height="20" alt="Marriott Bonvoy icon"> | [Marriott International](marriott-international.md) | 1 | 0 | 1 | 1 | 25 |
 | <img src="../assets/icons/ios/1571998974.png" width="20" height="20" alt="Mastodon icon"> | [Mastodon GmbH](mastodon-gmbh.md) | 1 | 1 | 0 | 2 | 14 |

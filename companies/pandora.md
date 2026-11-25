@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (0 iOS, 2 Android) · **2** versions · **35** distinct SDKs across their latest versions
+**2** apps (0 iOS, 2 Android) · **3** versions · **36** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/pandora/pandora/README.md"><img src="../assets/icons/android/com.pandora.android.png" width="56" height="56" alt="Pandora icon"></a><br><a href="../apps/android/pandora/pandora/README.md"><sub><b>Pandora</b></sub></a><br><sub>Android · 34 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/pandora/pandora-music-for-tv/README.md"><img src="../assets/icons/android/com.pandora.android.atv.png" width="56" height="56" alt="Pandora Music for TV icon"></a><br><a href="../apps/android/pandora/pandora-music-for-tv/README.md"><sub><b>Pandora Music for TV</b></sub></a><br><sub>Android · 12 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/pandora/pandora/README.md"><img src="../assets/icons/android/com.pandora.android.png" width="56" height="56" alt="Pandora icon"></a><br><a href="../apps/android/pandora/pandora/README.md"><sub><b>Pandora</b></sub></a><br><sub>Android · 35 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/android/pandora/pandora-music-for-tv/README.md"><img src="../assets/icons/android/com.pandora.android.atv.png" width="56" height="56" alt="Pandora Music for TV icon"></a><br><a href="../apps/android/pandora/pandora-music-for-tv/README.md"><sub><b>Pandora Music for TV</b></sub></a><br><sub>Android · 12 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.pandora.android.png" width="20" height="20" alt="Pandora icon"> | [Pandora - Music & Podcasts](../apps/android/pandora/pandora/README.md) | Android | 1 | 2606.1 | 2026-06-19 | 34 | No |
+| <img src="../assets/icons/android/com.pandora.android.png" width="20" height="20" alt="Pandora icon"> | [Pandora - Music & Podcasts](../apps/android/pandora/pandora/README.md) | Android | 2 | 2611.3 | 2026-11-25 | 35 | No |
 | <img src="../assets/icons/android/com.pandora.android.atv.png" width="20" height="20" alt="Pandora Music for TV icon"> | [Pandora Music for TV](../apps/android/pandora/pandora-music-for-tv/README.md) | Android | 1 | 4.3.1 | 2026-06-19 | 12 | No |
 
 ## SDKs by category

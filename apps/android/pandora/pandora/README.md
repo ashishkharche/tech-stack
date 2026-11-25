@@ -4,7 +4,7 @@
 
 # Pandora - Music & Podcasts
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/floor-dark.svg"><img alt="SDK list is a floor" src="../../../../assets/badges/floor-light.svg"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/android-dark.svg"><img alt="Android" src="../../../../assets/badges/android-light.svg"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/badges/inactive-dark.svg"><img alt="No longer tracked" src="../../../../assets/badges/inactive-light.svg"></picture>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.pandora.android) · [latest.json](latest.json)
 
@@ -13,13 +13,13 @@
 | Company | [Pandora](../../../../companies/pandora.md) |
 | Store id | `com.pandora.android` |
 | Bundle / package id | `com.pandora.android` |
-| Latest version | 2606.1 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 34 |
+| Latest version | 2611.3 (analysed 2026-11-25) |
+| Versions tracked | 2 |
+| SDKs in latest version | 35 |
 | Languages | C/C++ (native), Java, Kotlin |
-| UI | Coil, Glide, Jetpack Compose, Material Components |
-| Build | Gradle (inferred), R8 / ProGuard (name obfuscation detected) |
-| Minimum OS | API 24, targets API 35 |
+| UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
+| Build | Gradle (inferred) |
+| Minimum OS | API 24, targets API 36 |
 | Devices / ABIs | Android |
 | Capabilities | 9 |
 | Declares tracking | Yes |
@@ -30,7 +30,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/pandora/pandora-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/pandora/pandora-light.svg"></picture>
 
 - **Analytics** (5): Adobe Experience Platform, Branch, comScore, Firebase Analytics, Google App Measurement
-- **UI and rendering** (4): Coil, Glide, Jetpack Compose, Material Components
+- **UI and rendering** (5): Coil, Glide, Jetpack Compose, Lottie, Material Components
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
 - **Media** (3): ExoPlayer, Google Cast, Media3 (ExoPlayer)
 - **Networking** (3): Ktor, OkHttp, Retrofit
@@ -56,7 +56,12 @@ Advertising ID, Bluetooth, Bluetooth (connect), Foreground service, Foreground s
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2611.3 | 2026-11-25 |  | 35 | +1 / −0 | No | No | [2611.3.json](2611.3.json) |
 | 2606.1 | 2026-06-19 |  | 34 |  | Yes | No | [2606.1.json](2606.1.json) |
+
+### SDK changes between versions
+
+- 2606.1 → 2611.3: added Lottie
 
 ---
 
