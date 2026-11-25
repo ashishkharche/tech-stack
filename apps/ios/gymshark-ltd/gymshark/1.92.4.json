@@ -1,0 +1,397 @@
+{
+  "schema_version": "1.1",
+  "app": {
+    "name": "Gymshark: Shop Black Friday",
+    "slug": "gymshark",
+    "platform": "ios",
+    "store": "app_store",
+    "store_id": "1139155460",
+    "bundle_id": "com.gymshark.store",
+    "active": false,
+    "company": {
+      "name": "Gymshark Ltd",
+      "slug": "gymshark-ltd",
+      "source": "store_listing_developer",
+      "unknown": false
+    }
+  },
+  "version": "1.92.4",
+  "public_store_build": true,
+  "dates": {
+    "captured_at": "2026-11-25T08:21:23Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-25T08:55:10Z"
+  },
+  "source": {
+    "kind": "static_binary_analysis",
+    "artifact": "ipa",
+    "tool": "static-analyzer"
+  },
+  "confidence": {
+    "sdk_list_is_floor": true,
+    "binary_encrypted": true,
+    "packed": false,
+    "packers": [],
+    "stale": false
+  },
+  "stack": {
+    "sdk_count": 45,
+    "languages": [
+      "C/C++",
+      "Objective-C",
+      "Swift"
+    ],
+    "frameworks": [
+      "ActivityKit (Live Activities)",
+      "AdServices (Apple Search Ads attribution)",
+      "AdSupport (IDFA)",
+      "App Tracking Transparency (ATT)",
+      "Authentication Services (Sign in with Apple / passkeys)",
+      "AVFoundation (audio/video)",
+      "AVKit",
+      "Combine (reactive)",
+      "Contacts",
+      "Core Data",
+      "Core Image",
+      "Core Location",
+      "CryptoKit",
+      "Local Authentication (Face ID / Touch ID)",
+      "MapKit",
+      "MetricKit (diagnostics)",
+      "Network.framework",
+      "PassKit (Wallet / Apple Pay)",
+      "Photos",
+      "PhotosUI",
+      "SafariServices",
+      "StoreKit (in-app purchase)",
+      "SwiftUI",
+      "UIKit",
+      "User Notifications"
+    ],
+    "ui_graphics": [
+      "Intercom UI",
+      "Lottie (animations)",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "build_system": [
+      "Swift Package Manager (SwiftPM)"
+    ],
+    "sdks": [
+      {
+        "name": "BrazeKit",
+        "version": "12.1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeLocation",
+        "version": "12.1.0",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKCoreKit",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAppMeasurementIdentitySupport",
+        "version": "12.19.2",
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "mParticle",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "mParticle-Appboy",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "mParticle-AppsFlyer",
+        "version": null,
+        "category": "analytics",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleAdsOnDeviceConversion",
+        "version": "3.7.0",
+        "category": "ads",
+        "confidence": "observed"
+      },
+      {
+        "name": "DatadogCore",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "DatadogCrashReporting",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "DatadogRUM",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCrashlytics",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "KSCrash",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "ShopifyAcceleratedCheckouts",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "ShopifyCheckoutSheetKit",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
+        "name": "Auth0",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKLoginKit",
+        "version": null,
+        "category": "auth",
+        "confidence": "observed"
+      },
+      {
+        "name": "BrazeUI",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseMessaging",
+        "version": null,
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "Intercom",
+        "version": "18.8.1",
+        "category": "messaging",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBLPromises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Firebase",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCore",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseCoreInternal",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseInstallations",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "FirebaseRemoteConfig",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleDataTransport",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "GoogleUtilities",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "nanopb",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Promises",
+        "version": null,
+        "category": "firebase",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lottie",
+        "version": "4.6.0",
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "SDWebImage",
+        "version": null,
+        "category": "rendering",
+        "confidence": "observed"
+      },
+      {
+        "name": "FBSDKShareKit",
+        "version": null,
+        "category": "social",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppIconChangerUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GSAddress",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GSDesignSystem",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GSDesignSystemShop",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GSMerchandisingUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GSOnboardingUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GSWishlistButton",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "GSWishlistUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "Lokalise",
+        "version": "1.0.2",
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MembershipLoyaltyPresentation",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "SearchFiltersUI",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "ShopComponents",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      }
+    ],
+    "platform": {
+      "min_os": "16.0",
+      "min_sdk": null,
+      "target_sdk": null,
+      "build_sdk": "iphoneos27.1",
+      "xcode": "27.1",
+      "device_families": [
+        "iPhone"
+      ],
+      "abis": [],
+      "localization_count": 6
+    },
+    "capabilities": [
+      "App Groups",
+      "Apple Pay",
+      "Associated Domains (Universal Links)",
+      "Background Push",
+      "Keychain Sharing",
+      "Push Notifications (APNs)"
+    ],
+    "privacy": {
+      "declares_tracking": false,
+      "tracking_domain_count": 0,
+      "collected_data_types": [
+        "AdvertisingData",
+        "CoarseLocation",
+        "CrashData",
+        "DeviceID",
+        "OtherDataTypes",
+        "OtherDiagnosticData",
+        "PerformanceData",
+        "PreciseLocation",
+        "ProductInteraction",
+        "UserID"
+      ],
+      "required_reason_apis": [
+        "FileTimestamp",
+        "SystemBootTime",
+        "UserDefaults"
+      ],
+      "android_permissions": []
+    }
+  },
+  "inferred": []
+}

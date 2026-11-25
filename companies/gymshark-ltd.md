@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **1** versions · **45** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **2** versions · **45** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/gymshark-ltd/gymshark/README.md"><img src="../assets/icons/ios/1139155460.png" width="56" height="56" alt="Gymshark icon"></a><br><a href="../apps/ios/gymshark-ltd/gymshark/README.md"><sub><b>Gymshark</b></sub></a><br><sub>iOS · 45 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1139155460.png" width="20" height="20" alt="Gymshark icon"> | [Gymshark: Shop Black Friday](../apps/ios/gymshark-ltd/gymshark/README.md) | iOS | 1 | 1.92.3 | 2026-11-15 | 45 | No |
+| <img src="../assets/icons/ios/1139155460.png" width="20" height="20" alt="Gymshark icon"> | [Gymshark: Shop Black Friday](../apps/ios/gymshark-ltd/gymshark/README.md) | iOS | 2 | 1.92.4 | 2026-11-25 | 45 | No |
 
 ## SDKs by category
 

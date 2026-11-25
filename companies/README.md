@@ -116,7 +116,7 @@
 | <img src="../assets/icons/ios/647268330.png" width="20" height="20" alt="Grab icon"> | [Grab.com](grab-com.md) | 1 | 1 | 0 | 1 | 79 |
 | <img src="../assets/icons/ios/6739429409.png" width="20" height="20" alt="Granola icon"> | [Granola inc](granola-inc.md) | 1 | 1 | 0 | 1 | 31 |
 | <img src="../assets/icons/android/com.grubhub.android.png" width="20" height="20" alt="Grubhub icon"> | [Grubhub](grubhub.md) | 1 | 0 | 1 | 3 | 45 |
-| <img src="../assets/icons/ios/1139155460.png" width="20" height="20" alt="Gymshark icon"> | [Gymshark Ltd](gymshark-ltd.md) | 1 | 1 | 0 | 1 | 45 |
+| <img src="../assets/icons/ios/1139155460.png" width="20" height="20" alt="Gymshark icon"> | [Gymshark Ltd](gymshark-ltd.md) | 1 | 1 | 0 | 2 | 45 |
 | <img src="../assets/icons/ios/1630058362.png" width="20" height="20" alt="はま楽 icon"> | [HAMAZUSHI CO., LTD.](hamazushi-co-ltd.md) | 1 | 1 | 0 | 1 | 17 |
 | <img src="../assets/icons/android/com.ebookpdf.pdfreaderpro.allpdfviewer.png" width="20" height="20" alt="PDF Reader, Annotate on PDF icon"> | [HANLONG GROUP (HK) LIMITED](hanlong-group-hk-limited.md) | 1 | 0 | 1 | 1 | 15 |
 | <img src="../assets/icons/android/com.hilton.android.hhonors.png" width="20" height="20" alt="Hilton Honors icon"> | [Hilton](hilton.md) | 1 | 0 | 1 | 3 | 29 |

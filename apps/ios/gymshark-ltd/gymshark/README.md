@@ -13,8 +13,8 @@
 | Company | [Gymshark Ltd](../../../../companies/gymshark-ltd.md) |
 | Store id | `1139155460` |
 | Bundle / package id | `com.gymshark.store` |
-| Latest version | 1.92.3 (analysed 2026-11-15) |
-| Versions tracked | 1 |
+| Latest version | 1.92.4 (analysed 2026-11-25) |
+| Versions tracked | 2 |
 | SDKs in latest version | 45 |
 | Languages | C/C++, Objective-C, Swift |
 | UI | Intercom UI, Lottie (animations), SwiftUI, UIKit |
@@ -59,6 +59,7 @@ App Groups, Apple Pay, Associated Domains (Universal Links), Background Push, Ke
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1.92.4 | 2026-11-25 |  | 45 | +0 / −0 | Yes | Yes | [1.92.4.json](1.92.4.json) |
 | 1.92.3 | 2026-11-15 |  | 45 |  | Yes | Yes | [1.92.3.json](1.92.3.json) |
 
 ---
