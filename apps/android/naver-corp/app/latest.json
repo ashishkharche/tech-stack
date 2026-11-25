@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2.9.10",
+  "version": "2.10.1",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-05T17:09:07Z",
-    "store_first_seen_at": "2026-11-06T00:00:06Z",
-    "store_updated_at": "2026-10-29T07:25:14Z",
-    "exported_at": "2026-11-12T00:31:40Z"
+    "captured_at": "2026-11-25T04:40:24Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-25T04:57:23Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -228,7 +228,7 @@
         "Android"
       ],
       "abis": [
-        "armeabi-v7a"
+        "arm64-v8a"
       ],
       "localization_count": null
     },
@@ -237,7 +237,6 @@
       "Approximate location",
       "Biometric auth",
       "Camera",
-      "Contacts (read)",
       "Draw over other apps",
       "Fingerprint auth",
       "Foreground service",
@@ -263,7 +262,6 @@
         "android.permission.FOREGROUND_SERVICE",
         "android.permission.INTERNET",
         "android.permission.POST_NOTIFICATIONS",
-        "android.permission.READ_CONTACTS",
         "android.permission.READ_EXTERNAL_STORAGE",
         "android.permission.RECEIVE_BOOT_COMPLETED",
         "android.permission.SYSTEM_ALERT_WINDOW",

@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "3.346.0",
+  "version": "3.349.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-01T19:32:39Z",
-    "store_first_seen_at": "2026-10-30T00:18:01Z",
-    "store_updated_at": "2026-10-29T14:03:42Z",
-    "exported_at": "2026-11-12T00:31:40Z"
+    "captured_at": "2026-11-25T04:23:13Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-25T04:57:23Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 98,
+    "sdk_count": 95,
     "languages": [
       "C/C++",
       "Metal (shaders)",
@@ -70,6 +70,8 @@
       "MetricKit (diagnostics)",
       "Network.framework",
       "PassKit (Wallet / Apple Pay)",
+      "PDFKit",
+      "PencilKit",
       "Photos",
       "PhotosUI",
       "PushKit (VoIP push)",
@@ -96,7 +98,7 @@
     "sdks": [
       {
         "name": "AppsFlyerLib",
-        "version": "1.0",
+        "version": null,
         "category": "analytics",
         "confidence": "observed"
       },
@@ -137,38 +139,14 @@
         "confidence": "observed"
       },
       {
-        "name": "FirebaseAnalytics",
-        "version": "11.15.0",
-        "category": "analytics",
-        "confidence": "observed"
-      },
-      {
-        "name": "GoogleAppMeasurement",
-        "version": "11.15.0",
-        "category": "analytics",
-        "confidence": "observed"
-      },
-      {
-        "name": "GoogleAppMeasurementIdentitySupport",
-        "version": "11.15.0",
-        "category": "analytics",
-        "confidence": "observed"
-      },
-      {
         "name": "Google Mobile Ads (AdMob)",
         "version": null,
         "category": "ads",
         "confidence": "observed"
       },
       {
-        "name": "GoogleAdsOnDeviceConversion",
-        "version": "2.1.0",
-        "category": "ads",
-        "confidence": "observed"
-      },
-      {
         "name": "GoogleMobileAds",
-        "version": "13.10.0",
+        "version": null,
         "category": "ads",
         "confidence": "observed"
       },
@@ -180,7 +158,13 @@
       },
       {
         "name": "FirebaseCrashlytics",
-        "version": "11.15.0",
+        "version": null,
+        "category": "crash_perf",
+        "confidence": "observed"
+      },
+      {
+        "name": "Sentry",
+        "version": null,
         "category": "crash_perf",
         "confidence": "observed"
       },
@@ -197,6 +181,12 @@
         "confidence": "observed"
       },
       {
+        "name": "CheckoutConsumer",
+        "version": null,
+        "category": "payments",
+        "confidence": "observed"
+      },
+      {
         "name": "CheckoutEventLoggerKit",
         "version": "1.0",
         "category": "payments",
@@ -204,7 +194,7 @@
       },
       {
         "name": "PaymentComponent",
-        "version": null,
+        "version": "1.0",
         "category": "payments",
         "confidence": "observed"
       },
@@ -275,12 +265,6 @@
         "confidence": "observed"
       },
       {
-        "name": "UserMessagingPlatform",
-        "version": "3.1.0",
-        "category": "privacy_consent",
-        "confidence": "observed"
-      },
-      {
         "name": "Reachability",
         "version": null,
         "category": "networking",
@@ -300,7 +284,7 @@
       },
       {
         "name": "BrazeUI",
-        "version": null,
+        "version": "1.0",
         "category": "messaging",
         "confidence": "observed"
       },
@@ -318,7 +302,7 @@
       },
       {
         "name": "Mapbox",
-        "version": "23.12.1",
+        "version": "23.13.1",
         "category": "maps",
         "confidence": "observed"
       },
@@ -336,67 +320,61 @@
       },
       {
         "name": "FBLPromises",
-        "version": "2.4.0",
+        "version": null,
         "category": "firebase",
         "confidence": "observed"
       },
       {
         "name": "Firebase",
-        "version": "11.15.0",
+        "version": null,
         "category": "firebase",
         "confidence": "observed"
       },
       {
         "name": "FirebaseCore",
-        "version": "11.15.0",
+        "version": null,
         "category": "firebase",
         "confidence": "observed"
       },
       {
         "name": "FirebaseCoreInternal",
-        "version": "11.15.0",
+        "version": null,
         "category": "firebase",
         "confidence": "observed"
       },
       {
         "name": "FirebaseInstallations",
-        "version": "11.15.0",
-        "category": "firebase",
-        "confidence": "observed"
-      },
-      {
-        "name": "FirebasePerformance",
-        "version": "11.15.0",
+        "version": null,
         "category": "firebase",
         "confidence": "observed"
       },
       {
         "name": "FirebaseRemoteConfig",
-        "version": "11.15.0",
+        "version": null,
         "category": "firebase",
         "confidence": "observed"
       },
       {
         "name": "GoogleDataTransport",
-        "version": "10.1.0",
+        "version": null,
         "category": "firebase",
         "confidence": "observed"
       },
       {
         "name": "GoogleUtilities",
-        "version": "8.1.0",
+        "version": "1.0",
         "category": "firebase",
         "confidence": "observed"
       },
       {
         "name": "nanopb",
-        "version": "3.30910.0",
+        "version": null,
         "category": "firebase",
         "confidence": "observed"
       },
       {
         "name": "Promises",
-        "version": "2.4.0",
+        "version": null,
         "category": "firebase",
         "confidence": "observed"
       },
@@ -425,14 +403,8 @@
         "confidence": "observed"
       },
       {
-        "name": "PPRiskMagnes",
-        "version": "1.0",
-        "category": "anti_fraud",
-        "confidence": "observed"
-      },
-      {
         "name": "RecaptchaEnterprise",
-        "version": "1.0",
+        "version": null,
         "category": "anti_fraud",
         "confidence": "observed"
       },
@@ -440,6 +412,12 @@
         "name": "ShieldFraud",
         "version": "1.0",
         "category": "anti_fraud",
+        "confidence": "observed"
+      },
+      {
+        "name": "AppFeedback",
+        "version": null,
+        "category": "other",
         "confidence": "observed"
       },
       {
@@ -498,19 +476,13 @@
       },
       {
         "name": "IconSet",
-        "version": null,
+        "version": "1.0",
         "category": "other",
         "confidence": "observed"
       },
       {
         "name": "IllustrationBadges",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "KMPItemPage",
-        "version": "2.112.0",
+        "version": "1.0",
         "category": "other",
         "confidence": "observed"
       },
@@ -522,6 +494,12 @@
       },
       {
         "name": "Localisations",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "MagicCamera",
         "version": null,
         "category": "other",
         "confidence": "observed"
@@ -606,7 +584,7 @@
       },
       {
         "name": "ProductComponents",
-        "version": null,
+        "version": "1.0",
         "category": "other",
         "confidence": "observed"
       },
@@ -677,8 +655,14 @@
         "confidence": "observed"
       },
       {
-        "name": "VoiceClient",
+        "name": "UnifiedUGCSubmissionPrivate",
         "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
+        "name": "VoiceClient",
+        "version": "1.0",
         "category": "other",
         "confidence": "observed"
       }
@@ -687,8 +671,8 @@
       "min_os": "17.0",
       "min_sdk": null,
       "target_sdk": null,
-      "build_sdk": "iphoneos26.0",
-      "xcode": "26.0.1",
+      "build_sdk": "iphoneos27.0",
+      "xcode": "27.0",
       "device_families": [
         "iPhone",
         "iPad"

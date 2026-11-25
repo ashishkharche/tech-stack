@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**2** apps (1 iOS, 1 Android) · **2** versions · **75** distinct SDKs across their latest versions
+**2** apps (1 iOS, 1 Android) · **3** versions · **75** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/android/naver-corp/app/README.md"><img src="../assets/icons/android/com.navercorp.navershopping.jpg" width="56" height="56" alt="네이버플러스 스토어 icon"></a><br><a href="../apps/android/naver-corp/app/README.md"><sub><b>네이버플러스 스토어</b></sub></a><br><sub>Android · 27 SDKs</sub></td><td align="center" valign="top" width="16%"><a href="../apps/ios/naver-corp/app/README.md"><img src="../assets/icons/ios/6738063154.png" width="56" height="56" alt="네이버플러스 스토어 icon"></a><br><a href="../apps/ios/naver-corp/app/README.md"><sub><b>네이버플러스 스토어</b></sub></a><br><sub>iOS · 49 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.navercorp.navershopping.jpg" width="20" height="20" alt="네이버플러스 스토어 icon"> | [네이버플러스 스토어](../apps/android/naver-corp/app/README.md) | Android | 1 | 2.9.10 | 2026-11-05 | 27 | No |
+| <img src="../assets/icons/android/com.navercorp.navershopping.jpg" width="20" height="20" alt="네이버플러스 스토어 icon"> | [네이버플러스 스토어](../apps/android/naver-corp/app/README.md) | Android | 2 | 2.10.1 | 2026-11-25 | 27 | No |
 | <img src="../assets/icons/ios/6738063154.png" width="20" height="20" alt="네이버플러스 스토어 icon"> | [네이버플러스 스토어](../apps/ios/naver-corp/app/README.md) | iOS | 1 | 2.9.11 | 2026-11-05 | 49 | No |
 
 ## SDKs by category

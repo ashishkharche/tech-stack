@@ -13,15 +13,15 @@
 | Company | [NAVER Corp.](../../../../companies/naver-corp.md) |
 | Store id | `com.navercorp.navershopping` |
 | Bundle / package id | `com.navercorp.navershopping` |
-| Latest version | 2.9.10 (analysed 2026-11-05) |
-| Versions tracked | 1 |
+| Latest version | 2.10.1 (analysed 2026-11-25) |
+| Versions tracked | 2 |
 | SDKs in latest version | 27 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Lottie, Material Components, Picasso |
 | Build | Gradle (inferred) |
 | Minimum OS | API 28, targets API 36 |
 | Devices / ABIs | Android |
-| Capabilities | 12 |
+| Capabilities | 11 |
 | Declares tracking | Yes |
 | Tracked | No. Kept for history. |
 
@@ -42,9 +42,9 @@
 - **ML and AI** (1): OpenCV
 
 <details>
-<summary>Capabilities (12)</summary>
+<summary>Capabilities (11)</summary>
 
-Advertising ID, Approximate location, Biometric auth, Camera, Contacts (read), Draw over other apps, Fingerprint auth, Foreground service, Notifications, Precise location, Storage (read), Storage (write)
+Advertising ID, Approximate location, Biometric auth, Camera, Draw over other apps, Fingerprint auth, Foreground service, Notifications, Precise location, Storage (read), Storage (write)
 
 </details>
 
@@ -52,6 +52,7 @@ Advertising ID, Approximate location, Biometric auth, Camera, Contacts (read), D
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2.10.1 | 2026-11-25 |  | 27 | +0 / −0 | No | No | [2.10.1.json](2.10.1.json) |
 | 2.9.10 | 2026-11-05 | 2026-10-29 | 27 |  | No | No | [2.9.10.json](2.9.10.json) |
 
 ---

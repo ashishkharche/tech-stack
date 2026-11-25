@@ -30,25 +30,25 @@
 <text x="145.44" y="147" font-size="13" text-anchor="end" fill="#F1F6F3">react-native-svg</text>
 <rect x="296.7" y="134" width="182.0" height="16" rx="3" fill="#5F6A6C"/>
 <text x="290.7" y="147" font-size="12" text-anchor="end" fill="#A9B2BC">5</text>
-<text x="145.44" y="172" font-size="13" text-anchor="end" fill="#F1F6F3">AndroidSVG</text>
-<rect x="442.3" y="159" width="36.4" height="16" rx="3" fill="#5F6A6C"/>
-<text x="436.3" y="172" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
+<text x="145.44" y="172" font-size="13" text-anchor="end" fill="#F1F6F3">Sentry</text>
+<rect x="405.9" y="159" width="72.8" height="16" rx="3" fill="#5F6A6C"/>
+<text x="399.9" y="172" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
 <rect x="478.7" y="159" width="109.2" height="16" rx="3" fill="#F1F6F3"/>
 <text x="593.9" y="172" font-size="12" fill="#A9B2BC">3</text>
-<text x="145.44" y="197" font-size="13" text-anchor="end" fill="#F1F6F3">Cronet</text>
-<rect x="478.7" y="184" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
-<text x="630.4" y="197" font-size="12" fill="#A9B2BC">4</text>
-<text x="145.44" y="222" font-size="13" text-anchor="end" fill="#F1F6F3">Firebase Messaging</text>
+<text x="145.44" y="197" font-size="13" text-anchor="end" fill="#F1F6F3">AndroidSVG</text>
+<rect x="442.3" y="184" width="36.4" height="16" rx="3" fill="#5F6A6C"/>
+<text x="436.3" y="197" font-size="12" text-anchor="end" fill="#A9B2BC">1</text>
+<rect x="478.7" y="184" width="109.2" height="16" rx="3" fill="#F1F6F3"/>
+<text x="593.9" y="197" font-size="12" fill="#A9B2BC">3</text>
+<text x="145.44" y="222" font-size="13" text-anchor="end" fill="#F1F6F3">Cronet</text>
 <rect x="478.7" y="209" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
 <text x="630.4" y="222" font-size="12" fill="#A9B2BC">4</text>
-<text x="145.44" y="247" font-size="13" text-anchor="end" fill="#F1F6F3">MaterialM3CTextField</text>
+<text x="145.44" y="247" font-size="13" text-anchor="end" fill="#F1F6F3">Firebase Messaging</text>
 <rect x="478.7" y="234" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
 <text x="630.4" y="247" font-size="12" fill="#A9B2BC">4</text>
-<text x="145.44" y="272" font-size="13" text-anchor="end" fill="#F1F6F3">Sentry</text>
-<rect x="405.9" y="259" width="72.8" height="16" rx="3" fill="#5F6A6C"/>
-<text x="399.9" y="272" font-size="12" text-anchor="end" fill="#A9B2BC">2</text>
-<rect x="478.7" y="259" width="72.8" height="16" rx="3" fill="#F1F6F3"/>
-<text x="557.5" y="272" font-size="12" fill="#A9B2BC">2</text>
+<text x="145.44" y="272" font-size="13" text-anchor="end" fill="#F1F6F3">MaterialM3CTextField</text>
+<rect x="478.7" y="259" width="145.6" height="16" rx="3" fill="#F1F6F3"/>
+<text x="630.4" y="272" font-size="12" fill="#A9B2BC">4</text>
 <text x="145.44" y="297" font-size="13" text-anchor="end" fill="#F1F6F3">TensorFlow</text>
 <rect x="333.1" y="284" width="145.6" height="16" rx="3" fill="#5F6A6C"/>
 <text x="327.1" y="297" font-size="12" text-anchor="end" fill="#A9B2BC">4</text>
