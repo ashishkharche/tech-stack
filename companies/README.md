@@ -176,7 +176,7 @@
 | <img src="../assets/icons/ios/1276437113.png" width="20" height="20" alt="Otter Transcribe Voice Notes icon"> | [Otter.ai, Inc.](otter-ai-inc.md) | 1 | 1 | 0 | 2 | 36 |
 | <img src="../assets/icons/android/com.scannerreader.qrcode.creatorfree.png" width="20" height="20" alt="QR Scanner icon"> | [P & L Studio](p-l-studio.md) | 1 | 0 | 1 | 1 | 30 |
 | <img src="../assets/icons/ios/284035177.png" width="20" height="20" alt="Pandora icon"> | [Pandora Media, LLC](pandora-media-llc.md) | 1 | 1 | 0 | 1 | 41 |
-| <img src="../assets/icons/android/com.panera.bread.png" width="20" height="20" alt="Panera Bread icon"> | [Panera Bread](panera-bread.md) | 1 | 0 | 1 | 1 | 33 |
+| <img src="../assets/icons/android/com.panera.bread.png" width="20" height="20" alt="Panera Bread icon"> | [Panera Bread](panera-bread.md) | 1 | 0 | 1 | 2 | 34 |
 | <img src="../assets/icons/ios/6657993734.png" width="20" height="20" alt="Parkin icon"> | [Parkin PJSC](parkin-pjsc.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/ios/1662982304.png" width="20" height="20" alt="Partiful icon"> | [Partiful](partiful.md) | 1 | 1 | 0 | 1 | 23 |
 | <img src="../assets/icons/ios/1508186374.png" width="20" height="20" alt="Peacock TV icon"> | [Peacock TV LLC](peacock-tv-llc.md) | 1 | 1 | 0 | 1 | 40 |
@@ -225,7 +225,7 @@
 | <img src="../assets/icons/android/com.soundcloud.android.png" width="20" height="20" alt="SoundCloud icon"> | [SoundCloud](soundcloud.md) | 1 | 0 | 1 | 1 | 43 |
 | <img src="../assets/icons/ios/336353151.png" width="20" height="20" alt="SoundCloud icon"> | [SoundCloud Global Limited & Co KG](soundcloud-global-limited-co-kg.md) | 1 | 1 | 0 | 1 | 51 |
 | <img src="../assets/icons/android/com.southwestairlines.mobile.png" width="20" height="20" alt="Southwest Airlines icon"> | [Southwest Airlines](southwest-airlines.md) | 1 | 0 | 1 | 1 | 35 |
-| <img src="../assets/icons/ios/1209815023.png" width="20" height="20" alt="Speechify icon"> | [Speechify Inc.](speechify-inc.md) | 1 | 1 | 0 | 1 | 103 |
+| <img src="../assets/icons/ios/1209815023.png" width="20" height="20" alt="Speechify icon"> | [Speechify Inc.](speechify-inc.md) | 1 | 1 | 0 | 2 | 91 |
 | <img src="../assets/icons/ios/324684580.png" width="20" height="20" alt="Spotify icon"> | [Spotify](spotify.md) | 1 | 1 | 0 | 2 | 22 |
 | <img src="../assets/icons/android/com.spotify.music.png" width="20" height="20" alt="Spotify icon"> | [Spotify AB](spotify-ab.md) | 1 | 0 | 1 | 1 | 35 |
 | <img src="../assets/icons/android/com.starbucks.mobilecard.png" width="20" height="20" alt="Starbucks icon"> | [Starbucks Coffee Company](starbucks-coffee-company.md) | 1 | 0 | 1 | 1 | 28 |

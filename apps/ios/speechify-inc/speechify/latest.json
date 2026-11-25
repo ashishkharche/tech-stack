@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "5.5.17",
+  "version": "5.5.21",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-10-24T21:34:28Z",
-    "store_first_seen_at": "2026-10-25T00:39:31Z",
-    "store_updated_at": "2026-10-20T09:08:50Z",
-    "exported_at": "2026-11-12T00:31:40Z"
+    "captured_at": "2026-11-25T20:23:37Z",
+    "store_first_seen_at": null,
+    "store_updated_at": null,
+    "exported_at": "2026-11-25T20:57:13Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -36,7 +36,7 @@
     "stale": false
   },
   "stack": {
-    "sdk_count": 103,
+    "sdk_count": 91,
     "languages": [
       "C/C++",
       "Metal (shaders)",
@@ -74,6 +74,7 @@
       "PhotosUI",
       "SafariServices",
       "SiriKit (Intents)",
+      "Speech (recognition)",
       "StoreKit (in-app purchase)",
       "Swift Charts",
       "SwiftData (persistence)",
@@ -221,7 +222,7 @@
       },
       {
         "name": "Intercom",
-        "version": "19.6.5",
+        "version": "19.9.1",
         "category": "messaging",
         "confidence": "observed"
       },
@@ -241,12 +242,6 @@
         "name": "SwiftProtobuf",
         "version": null,
         "category": "serialization",
-        "confidence": "observed"
-      },
-      {
-        "name": "abseil",
-        "version": null,
-        "category": "firebase",
         "confidence": "observed"
       },
       {
@@ -280,18 +275,6 @@
         "confidence": "observed"
       },
       {
-        "name": "FirebaseDynamicLinks",
-        "version": null,
-        "category": "firebase",
-        "confidence": "observed"
-      },
-      {
-        "name": "FirebaseFirestore",
-        "version": null,
-        "category": "firebase",
-        "confidence": "observed"
-      },
-      {
         "name": "FirebaseInstallations",
         "version": null,
         "category": "firebase",
@@ -311,18 +294,6 @@
       },
       {
         "name": "GoogleUtilities",
-        "version": null,
-        "category": "firebase",
-        "confidence": "observed"
-      },
-      {
-        "name": "gRPC",
-        "version": null,
-        "category": "firebase",
-        "confidence": "observed"
-      },
-      {
-        "name": "leveldb",
         "version": null,
         "category": "firebase",
         "confidence": "observed"
@@ -376,12 +347,6 @@
         "confidence": "observed"
       },
       {
-        "name": "React Native",
-        "version": null,
-        "category": "rendering",
-        "confidence": "inferred"
-      },
-      {
         "name": "SDWebImage",
         "version": null,
         "category": "rendering",
@@ -415,18 +380,6 @@
         "name": "LiveKit",
         "version": null,
         "category": "voice",
-        "confidence": "observed"
-      },
-      {
-        "name": "absl",
-        "version": "1.20240722.0",
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "abslWrapper",
-        "version": null,
-        "category": "other",
         "confidence": "observed"
       },
       {
@@ -496,6 +449,12 @@
         "confidence": "observed"
       },
       {
+        "name": "EncryptionFlow",
+        "version": null,
+        "category": "other",
+        "confidence": "observed"
+      },
+      {
         "name": "EnigmaSDK",
         "version": "1.0",
         "category": "other",
@@ -538,18 +497,6 @@
         "confidence": "observed"
       },
       {
-        "name": "LifetimeTracker",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "Lodash",
-        "version": null,
-        "category": "other",
-        "confidence": "inferred"
-      },
-      {
         "name": "NewHomeFlow",
         "version": null,
         "category": "other",
@@ -580,12 +527,6 @@
         "confidence": "observed"
       },
       {
-        "name": "opensslWrapper",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
         "name": "PaywallFlow",
         "version": null,
         "category": "other",
@@ -604,12 +545,6 @@
         "confidence": "observed"
       },
       {
-        "name": "ProfileFlow",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
         "name": "RaTeX",
         "version": null,
         "category": "other",
@@ -623,12 +558,6 @@
       },
       {
         "name": "ScanFlow",
-        "version": null,
-        "category": "other",
-        "confidence": "observed"
-      },
-      {
-        "name": "SettingsFlow",
         "version": null,
         "category": "other",
         "confidence": "observed"
@@ -716,8 +645,8 @@
       "min_os": "18.0",
       "min_sdk": null,
       "target_sdk": null,
-      "build_sdk": "iphoneos27.0",
-      "xcode": "27.0",
+      "build_sdk": "iphoneos27.1",
+      "xcode": "27.1",
       "device_families": [
         "iPhone",
         "iPad"
@@ -731,6 +660,7 @@
       "Associated Domains (Universal Links)",
       "Background Audio",
       "Background Push",
+      "CarPlay",
       "CloudKit",
       "iCloud",
       "Keychain Sharing",

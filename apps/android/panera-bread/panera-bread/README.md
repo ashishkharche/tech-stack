@@ -13,13 +13,13 @@
 | Company | [Panera Bread](../../../../companies/panera-bread.md) |
 | Store id | `com.panera.bread` |
 | Bundle / package id | `com.panera.bread` |
-| Latest version | 6.6.1 (analysed 2026-06-25) |
-| Versions tracked | 1 |
-| SDKs in latest version | 33 |
+| Latest version | 7.5.0 (analysed 2026-11-25) |
+| Versions tracked | 2 |
+| SDKs in latest version | 34 |
 | Languages | C/C++ (native), Java, Kotlin |
-| UI | Coil, Jetpack Compose, Material Components |
+| UI | Coil, Jetpack Compose, Lottie, Material Components |
 | Build | Gradle (inferred), R8 / ProGuard (name obfuscation detected) |
-| Minimum OS | API 26, targets API 35 |
+| Minimum OS | API 26, targets API 36 |
 | Devices / ABIs | Android |
 | Capabilities | 10 |
 | Declares tracking | Yes |
@@ -29,8 +29,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/panera-bread/panera-bread-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/panera-bread/panera-bread-light.svg"></picture>
 
+- **UI and rendering** (5): AndroidSVG, Coil, Jetpack Compose, Lottie, Material Components
 - **Analytics** (4): Adobe Experience Platform, AppsFlyer, Firebase Analytics, Google App Measurement
-- **UI and rendering** (4): AndroidSVG, Coil, Jetpack Compose, Material Components
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
 - **Maps and location** (3): Google Location, Google Maps, Mapbox
 - **Networking** (3): OkHttp, Retrofit, Volley
@@ -55,13 +55,12 @@ Approximate location, Background location, Bluetooth (connect), Camera, Foregrou
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 7.5.0 | 2026-11-25 |  | 34 | +1 / −0 | Yes | No | [7.5.0.json](7.5.0.json) |
 | 6.6.1 | 2026-06-25 |  | 33 |  | Yes | No | [6.6.1.json](6.6.1.json) |
 
-## Model-written summary
+### SDK changes between versions
 
-> Obfuscated Kotlin/Java Android app with Jetpack Compose, Mapbox GL, TensorFlow Lite model, Firebase, Braintree and Stripe
-
-<sub>Written by a language model from the detected signals (`inferred[]`). It is commentary, not measurement.</sub>
+- 6.6.1 → 7.5.0: added Lottie
 
 ---
 

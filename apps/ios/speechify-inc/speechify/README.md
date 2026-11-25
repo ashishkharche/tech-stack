@@ -13,16 +13,16 @@
 | Company | [Speechify Inc.](../../../../companies/speechify-inc.md) |
 | Store id | `1209815023` |
 | Bundle / package id | `com.cliffweitzman.speechifyMobile2` |
-| Latest version | 5.5.17 (analysed 2026-10-24) |
-| Versions tracked | 1 |
-| SDKs in latest version | 103 |
+| Latest version | 5.5.21 (analysed 2026-11-25) |
+| Versions tracked | 2 |
+| SDKs in latest version | 91 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Intercom UI, Lottie (animations), SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
-| Minimum OS | iOS 18.0 (built with Xcode 27.0, SDK iphoneos27.0) |
+| Minimum OS | iOS 18.0 (built with Xcode 27.1, SDK iphoneos27.1) |
 | Devices / ABIs | iPhone, iPad |
 | Localisations | 43 |
-| Capabilities | 10 |
+| Capabilities | 11 |
 | Declares tracking | Yes |
 | Tracked | No. Kept for history. |
 
@@ -30,13 +30,13 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/ios/speechify-inc/speechify-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/ios/speechify-inc/speechify-light.svg"></picture>
 
-- **Other** (49): absl 1.20240722.0, abslWrapper, AIVoices, AssistantFlow, AudioBrowserFlow, Autocorrect, AxonSDK 1.3.3, BooksFlow, CioDataPipelines, CioMessagingInApp, CioMessagingPushFCM, CreateNoteFlow, DictationService, EnigmaSDK 1.0, FacebookBasics, Factory, FactoryKit, GoogleAPIClientForRESTCore, KindleFlow, LibraryFlow, LifetimeTracker, Lodash, NewHomeFlow, NewImportFlow, NewScanFlow, OnboardingFlow, onnxruntime 1.20.0, opensslWrapper, PaywallFlow, PodcastPlayer, PodcastSourcesKit, ProfileFlow, RaTeX, RustLiveKitUniFFI 1.0, ScanFlow, SettingsFlow, SleepTimerFlow, SPLComponents, SSML 1.0, SwiftPhonemizer, SwiftUIIntrospect 1.0, Then 1.0, UserFlow, VMS, VMSCore, VoiceKeyboardHost, VoiceLibrary, VoiceWizardFlow, WidgetFlow
-- **Firebase** (16): abseil, FBLPromises, Firebase, FirebaseAuth, FirebaseCore, FirebaseCoreInternal, FirebaseDynamicLinks, FirebaseFirestore, FirebaseInstallations, FirebaseRemoteConfig, GoogleDataTransport, GoogleUtilities, gRPC, leveldb, nanopb, Promises
-- **UI and rendering** (10): Highlight.js 11.9.0, HighlightSwift, Kingfisher, Lottie, PSPDFKit 14.3.0, PSPDFKitUI 0, React Native, SDWebImage, SDWebImageSwiftUI, SwiftMessages
+- **Other** (43): AIVoices, AssistantFlow, AudioBrowserFlow, Autocorrect, AxonSDK 1.3.3, BooksFlow, CioDataPipelines, CioMessagingInApp, CioMessagingPushFCM, CreateNoteFlow, DictationService, EncryptionFlow, EnigmaSDK 1.0, FacebookBasics, Factory, FactoryKit, GoogleAPIClientForRESTCore, KindleFlow, LibraryFlow, NewHomeFlow, NewImportFlow, NewScanFlow, OnboardingFlow, onnxruntime 1.20.0, PaywallFlow, PodcastPlayer, PodcastSourcesKit, RaTeX, RustLiveKitUniFFI 1.0, ScanFlow, SleepTimerFlow, SPLComponents, SSML 1.0, SwiftPhonemizer, SwiftUIIntrospect 1.0, Then 1.0, UserFlow, VMS, VMSCore, VoiceKeyboardHost, VoiceLibrary, VoiceWizardFlow, WidgetFlow
+- **Firebase** (11): FBLPromises, Firebase, FirebaseAuth, FirebaseCore, FirebaseCoreInternal, FirebaseInstallations, FirebaseRemoteConfig, GoogleDataTransport, GoogleUtilities, nanopb, Promises
 - **Analytics** (9): Branch, FacebookAEM, FacebookCore, FBAEMKit 1.0, FBSDKCoreKit 1.0, FirebaseAnalytics 11.15.0, GoogleAppMeasurement 11.15.0, GoogleAppMeasurementIdentitySupport 11.15.0, Segment
+- **UI and rendering** (9): Highlight.js 11.9.0, HighlightSwift, Kingfisher, Lottie, PSPDFKit 14.3.0, PSPDFKitUI 0, SDWebImage, SDWebImageSwiftUI, SwiftMessages
 - **Sign-in and auth** (6): AppAuth, FacebookLogin, FBSDKLoginKit 1.0, GoogleSignIn, GTMSessionFetcher, NewAuthenticationFlow
 - **Crash and performance** (2): FirebaseCrashlytics, Sentry 8.58.4
-- **Messaging and push** (2): FirebaseMessaging, Intercom 19.6.5
+- **Messaging and push** (2): FirebaseMessaging, Intercom 19.9.1
 - **Social** (2): FacebookShare, FBSDKShareKit 1.0
 - **Storage** (2): GRDB, ZIPFoundation
 - **Ads** (1): GoogleAdsOnDeviceConversion 2.3.0
@@ -46,16 +46,16 @@
 - **Voice** (1): LiveKit
 
 <details>
-<summary>Frameworks (38)</summary>
+<summary>Frameworks (39)</summary>
 
-ActivityKit (Live Activities), AdServices (Apple Search Ads attribution), AdSupport (IDFA), App Intents, App Tracking Transparency (ATT), Authentication Services (Sign in with Apple / passkeys), AVFoundation (audio/video), AVKit, Combine (reactive), Contacts, Core Data, Core Image, Core Location, Core ML, Core Motion, CryptoKit, DeviceCheck / App Attest, Local Authentication (Face ID / Touch ID), Media Player, MessageUI (mail / SMS compose), MetalKit, MetricKit (diagnostics), Natural Language, Network.framework, PassKit (Wallet / Apple Pay), PDFKit, Photos, PhotosUI, SafariServices, SiriKit (Intents), StoreKit (in-app purchase), Swift Charts, SwiftData (persistence), SwiftUI, UIKit, User Notifications, Vision, WidgetKit (widgets)
+ActivityKit (Live Activities), AdServices (Apple Search Ads attribution), AdSupport (IDFA), App Intents, App Tracking Transparency (ATT), Authentication Services (Sign in with Apple / passkeys), AVFoundation (audio/video), AVKit, Combine (reactive), Contacts, Core Data, Core Image, Core Location, Core ML, Core Motion, CryptoKit, DeviceCheck / App Attest, Local Authentication (Face ID / Touch ID), Media Player, MessageUI (mail / SMS compose), MetalKit, MetricKit (diagnostics), Natural Language, Network.framework, PassKit (Wallet / Apple Pay), PDFKit, Photos, PhotosUI, SafariServices, SiriKit (Intents), Speech (recognition), StoreKit (in-app purchase), Swift Charts, SwiftData (persistence), SwiftUI, UIKit, User Notifications, Vision, WidgetKit (widgets)
 
 </details>
 
 <details>
-<summary>Capabilities (10)</summary>
+<summary>Capabilities (11)</summary>
 
-App Attest, App Groups, Associated Domains (Universal Links), Background Audio, Background Push, CloudKit, iCloud, Keychain Sharing, Push Notifications (APNs), Sign in with Apple
+App Attest, App Groups, Associated Domains (Universal Links), Background Audio, Background Push, CarPlay, CloudKit, iCloud, Keychain Sharing, Push Notifications (APNs), Sign in with Apple
 
 </details>
 
@@ -63,7 +63,12 @@ App Attest, App Groups, Associated Domains (Universal Links), Background Audio, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 5.5.21 | 2026-11-25 |  | 91 | +1 / −13 | Yes | Yes | [5.5.21.json](5.5.21.json) |
 | 5.5.17 | 2026-10-24 | 2026-10-20 | 103 |  | Yes | Yes | [5.5.17.json](5.5.17.json) |
+
+### SDK changes between versions
+
+- 5.5.17 → 5.5.21: added EncryptionFlow; removed abseil, absl, abslWrapper, FirebaseDynamicLinks, FirebaseFirestore, gRPC, leveldb, LifetimeTracker, Lodash, opensslWrapper, ProfileFlow, React Native, SettingsFlow
 
 ---
 
