@@ -2,7 +2,7 @@
 
 # Companies
 
-276 companies. Each name is the developer name on the store listing.
+277 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | <img src="../assets/icons/android/com.reddit.frontpage.png" width="20" height="20" alt="Reddit icon"> <img src="../assets/icons/ios/1064216828.png" width="20" height="20" alt="Reddit icon"> | [reddit Inc.](reddit-inc.md) | 2 | 1 | 1 | 2 | 64 |
 | <img src="../assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> <img src="../assets/icons/android/com.zzkko.png" width="20" height="20" alt="SHEIN-Shopping Online icon"> | [Roadget Business PTE. LTD.](roadget-business-pte-ltd.md) | 2 | 1 | 1 | 2 | 66 |
 | <img src="../assets/icons/ios/6752915724.png" width="20" height="20" alt="Kalo icon"> <img src="../assets/icons/ios/6813645709.png" width="20" height="20" alt="Workout Director icon"> | [Shelgaon Ltd](shelgaon-ltd.md) | 2 | 2 | 0 | 2 | 29 |
-| <img src="../assets/icons/android/com.shopify.arrive.png" width="20" height="20" alt="Shop icon"> <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shopify Inc.](shopify-inc.md) | 2 | 1 | 1 | 5 | 42 |
+| <img src="../assets/icons/android/com.shopify.arrive.png" width="20" height="20" alt="Shop icon"> <img src="../assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shopify Inc.](shopify-inc.md) | 2 | 1 | 1 | 6 | 42 |
 | <img src="../assets/icons/ios/6670430706.png" width="20" height="20" alt="DramaWave icon"> <img src="../assets/icons/android/com.freereels.app.png" width="20" height="20" alt="FreeReels icon"> | [SKYWORK AI PTE.LTD.](skywork-ai-pte-ltd.md) | 2 | 1 | 1 | 3 | 124 |
 | <img src="../assets/icons/android/com.snapchat.android.png" width="20" height="20" alt="Snapchat icon"> <img src="../assets/icons/ios/447188370.png" width="20" height="20" alt="Snapchat icon"> | [Snap Inc](snap-inc.md) | 2 | 1 | 1 | 2 | 35 |
 | <img src="../assets/icons/android/com.suno.android.png" width="20" height="20" alt="Suno icon"> <img src="../assets/icons/ios/6480136315.png" width="20" height="20" alt="Suno icon"> | [Suno, Inc](suno-inc.md) | 2 | 1 | 1 | 2 | 67 |
@@ -130,6 +130,7 @@
 | <img src="../assets/icons/ios/483017239.png" width="20" height="20" alt="iFood icon"> | [iFood](ifood.md) | 1 | 1 | 0 | 1 | 35 |
 | <img src="../assets/icons/ios/290638154.png" width="20" height="20" alt="iHeart icon"> | [iHeartMedia Management Services, Inc.](iheartmedia-management-services-inc.md) | 1 | 1 | 0 | 1 | 88 |
 | <img src="../assets/icons/android/com.imo.android.imoim.jpg" width="20" height="20" alt="imo-International Calls &amp; Chat icon"> | [imo.im](imo-im.md) | 1 | 0 | 1 | 1 | 37 |
+| <img src="../assets/icons/android/com.glassdoor.app.png" width="20" height="20" alt="Glassdoor icon"> | [Indeed, Inc.](indeed-inc.md) | 1 | 0 | 1 | 1 | 16 |
 | <img src="../assets/icons/ios/1300573997.png" width="20" height="20" alt="My Infocert icon"> | [InfoCert S.p.A.](infocert-s-p-a.md) | 1 | 1 | 0 | 1 | 33 |
 | <img src="../assets/icons/android/uk.co.inpost.inmobile.png" width="20" height="20" alt="InPost icon"> | [InPost UK Ltd](inpost-uk-ltd.md) | 1 | 0 | 1 | 1 | 38 |
 | <img src="../assets/icons/android/com.InsanityGroup.SkinsProjetoGrau2.png" width="20" height="20" alt="Skins Projeto Grau 2 icon"> | [Insanity Group](insanity-group.md) | 1 | 0 | 1 | 1 | 8 |

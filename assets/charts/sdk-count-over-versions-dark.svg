@@ -64,24 +64,25 @@
 <circle cx="670.0" cy="272.0" r="2.6" fill="#F1F6F3"/>
 <text x="684.0" y="264" font-size="13" fill="#A9B2BC">83 → 80 SDKs</text>
 <text x="684.0" y="280" font-size="11" fill="#A9B2BC">5 versions</text>
-<text x="162.34" y="310" font-size="13" text-anchor="end" fill="#F1F6F3">Uber Eats (iOS)</text>
+<text x="162.34" y="310" font-size="13" text-anchor="end" fill="#F1F6F3">Shop (iOS)</text>
 <line x1="174.34" y1="326.5" x2="670.0" y2="326.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="174.3,318.0 298.3,318.0 422.2,318.0 546.1,318.0 670.0,318.0"/>
-<circle cx="174.3" cy="318.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="298.3" cy="318.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="422.2" cy="318.0" r="2.6" fill="#F1F6F3"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="174.3,294.0 298.3,294.0 422.2,294.0 546.1,318.0 670.0,318.0"/>
+<circle cx="174.3" cy="294.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="298.3" cy="294.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="422.2" cy="294.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="546.1" cy="318.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="670.0" cy="318.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="310" font-size="13" fill="#A9B2BC">63 → 63 SDKs</text>
+<text x="684.0" y="310" font-size="13" fill="#A9B2BC">34 → 28 SDKs</text>
 <text x="684.0" y="326" font-size="11" fill="#A9B2BC">5 versions</text>
-<text x="162.34" y="356" font-size="13" text-anchor="end" fill="#F1F6F3">BeReal (iOS)</text>
+<text x="162.34" y="356" font-size="13" text-anchor="end" fill="#F1F6F3">Uber Eats (iOS)</text>
 <line x1="174.34" y1="372.5" x2="670.0" y2="372.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="174.3,344.8 339.6,340.0 504.8,364.0 670.0,364.0"/>
-<circle cx="174.3" cy="344.8" r="2.6" fill="#F1F6F3"/>
-<circle cx="339.6" cy="340.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="504.8" cy="364.0" r="2.6" fill="#F1F6F3"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="174.3,364.0 298.3,364.0 422.2,364.0 546.1,364.0 670.0,364.0"/>
+<circle cx="174.3" cy="364.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="298.3" cy="364.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="422.2" cy="364.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="546.1" cy="364.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="670.0" cy="364.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="356" font-size="13" fill="#A9B2BC">132 → 124 SDKs</text>
-<text x="684.0" y="372" font-size="11" fill="#A9B2BC">4 versions</text>
+<text x="684.0" y="356" font-size="13" fill="#A9B2BC">63 → 63 SDKs</text>
+<text x="684.0" y="372" font-size="11" fill="#A9B2BC">5 versions</text>
 </g>
 </svg>

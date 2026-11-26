@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">395 apps · 555 versions · 276 companies · 5,121 SDKs</p>
+<p align="center">396 apps · 557 versions · 277 companies · 5,121 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 210 of 216 iOS apps, and Jetpack Compose is in 140 of 179 Android apps. 99 apps also use a cross-platform runtime.
+SwiftUI is in 210 of 216 iOS apps, and Jetpack Compose is in 141 of 180 Android apps. 99 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 210 of 216 iOS apps, and Jetpack Compose is in 140 of 179 Android 
 
 ## What most apps ship
 
-Firebase is in 262 of 395 apps. 78% of apps ship at least one analytics SDK.
+Firebase is in 263 of 396 apps. 79% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -75,7 +75,7 @@ The median app ships 37 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## How apps change between versions
 
-78 of 160 updates changed the SDK list. Together they added 207 SDKs and removed 295.
+78 of 161 updates changed the SDK list. Together they added 207 SDKs and removed 295.
 
 **SDKs added and removed between versions**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 15 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 228 of 276 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 229 of 277 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,8 +129,8 @@ Google and Google LLC share the most apps, with 21 each. 228 of 276 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/android/panera-bread/panera-bread/README.md"><img src="assets/icons/android/com.panera.bread.png" width="56" height="56" alt="Panera Bread icon"></a><br><a href="apps/android/panera-bread/panera-bread/README.md"><sub><b>Panera Bread</b></sub></a><br><sub>Android · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/speechify-inc/speechify/README.md"><img src="assets/icons/ios/1209815023.png" width="56" height="56" alt="Speechify icon"></a><br><a href="apps/ios/speechify-inc/speechify/README.md"><sub><b>Speechify</b></sub></a><br><sub>iOS · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/pandora/pandora/README.md"><img src="assets/icons/android/com.pandora.android.png" width="56" height="56" alt="Pandora icon"></a><br><a href="apps/android/pandora/pandora/README.md"><sub><b>Pandora</b></sub></a><br><sub>Android · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/luka-inc/replika/README.md"><img src="assets/icons/ios/1158555867.png" width="56" height="56" alt="Replika icon"></a><br><a href="apps/ios/luka-inc/replika/README.md"><sub><b>Replika</b></sub></a><br><sub>iOS · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gymshark-ltd/gymshark/README.md"><img src="assets/icons/ios/1139155460.png" width="56" height="56" alt="Gymshark icon"></a><br><a href="apps/ios/gymshark-ltd/gymshark/README.md"><sub><b>Gymshark</b></sub></a><br><sub>iOS · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/naver-corp/app/README.md"><img src="assets/icons/android/com.navercorp.navershopping.jpg" width="56" height="56" alt="네이버플러스 스토어 icon"></a><br><a href="apps/android/naver-corp/app/README.md"><sub><b>네이버플러스 스토어</b></sub></a><br><sub>Android · 2026-11-25</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/deliveroo/deliveroo/README.md"><img src="assets/icons/ios/1001501844.png" width="56" height="56" alt="Deliveroo icon"></a><br><a href="apps/ios/deliveroo/deliveroo/README.md"><sub><b>Deliveroo</b></sub></a><br><sub>iOS · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/flipkart-internet-private-limited/flipkart/README.md"><img src="assets/icons/ios/742044692.png" width="56" height="56" alt="Flipkart icon"></a><br><a href="apps/ios/flipkart-internet-private-limited/flipkart/README.md"><sub><b>Flipkart</b></sub></a><br><sub>iOS · 2026-11-24</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/postnord-group-ab/postnord/README.md"><img src="assets/icons/ios/396871673.png" width="56" height="56" alt="PostNord icon"></a><br><a href="apps/ios/postnord-group-ab/postnord/README.md"><sub><b>PostNord</b></sub></a><br><sub>iOS · 2026-11-24</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/uber-technologies-inc/uber-eats/README.md"><img src="assets/icons/ios/1058959277.png" width="56" height="56" alt="Uber Eats icon"></a><br><a href="apps/ios/uber-technologies-inc/uber-eats/README.md"><sub><b>Uber Eats</b></sub></a><br><sub>iOS · 2026-11-24</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/moonshot-ai/kimi/README.md"><img src="assets/icons/android/com.moonshot.kimichat.png" width="56" height="56" alt="Kimi icon"></a><br><a href="apps/android/moonshot-ai/kimi/README.md"><sub><b>Kimi</b></sub></a><br><sub>Android · 2026-11-23</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/bubilet-bilet-basim-ve-dagitim-anonim-sirketi/bubilet/README.md"><img src="assets/icons/ios/1463201795.png" width="56" height="56" alt="Bubilet icon"></a><br><a href="apps/ios/bubilet-bilet-basim-ve-dagitim-anonim-sirketi/bubilet/README.md"><sub><b>Bubilet</b></sub></a><br><sub>iOS · 2026-11-23</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/indeed-inc/glassdoor-jobs-careers/README.md"><img src="assets/icons/android/com.glassdoor.app.png" width="56" height="56" alt="Glassdoor icon"></a><br><a href="apps/android/indeed-inc/glassdoor-jobs-careers/README.md"><sub><b>Glassdoor</b></sub></a><br><sub>Android · 2026-11-26</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/shopify-inc/shop/README.md"><img src="assets/icons/ios/1223471316.png" width="56" height="56" alt="Shop icon"></a><br><a href="apps/ios/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>iOS · 2026-11-26</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/panera-bread/panera-bread/README.md"><img src="assets/icons/android/com.panera.bread.png" width="56" height="56" alt="Panera Bread icon"></a><br><a href="apps/android/panera-bread/panera-bread/README.md"><sub><b>Panera Bread</b></sub></a><br><sub>Android · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/speechify-inc/speechify/README.md"><img src="assets/icons/ios/1209815023.png" width="56" height="56" alt="Speechify icon"></a><br><a href="apps/ios/speechify-inc/speechify/README.md"><sub><b>Speechify</b></sub></a><br><sub>iOS · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/pandora/pandora/README.md"><img src="assets/icons/android/com.pandora.android.png" width="56" height="56" alt="Pandora icon"></a><br><a href="apps/android/pandora/pandora/README.md"><sub><b>Pandora</b></sub></a><br><sub>Android · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/luka-inc/replika/README.md"><img src="assets/icons/ios/1158555867.png" width="56" height="56" alt="Replika icon"></a><br><a href="apps/ios/luka-inc/replika/README.md"><sub><b>Replika</b></sub></a><br><sub>iOS · 2026-11-25</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/ios/gymshark-ltd/gymshark/README.md"><img src="assets/icons/ios/1139155460.png" width="56" height="56" alt="Gymshark icon"></a><br><a href="apps/ios/gymshark-ltd/gymshark/README.md"><sub><b>Gymshark</b></sub></a><br><sub>iOS · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/naver-corp/app/README.md"><img src="assets/icons/android/com.navercorp.navershopping.jpg" width="56" height="56" alt="네이버플러스 스토어 icon"></a><br><a href="apps/android/naver-corp/app/README.md"><sub><b>네이버플러스 스토어</b></sub></a><br><sub>Android · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/deliveroo/deliveroo/README.md"><img src="assets/icons/ios/1001501844.png" width="56" height="56" alt="Deliveroo icon"></a><br><a href="apps/ios/deliveroo/deliveroo/README.md"><sub><b>Deliveroo</b></sub></a><br><sub>iOS · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/flipkart-internet-private-limited/flipkart/README.md"><img src="assets/icons/ios/742044692.png" width="56" height="56" alt="Flipkart icon"></a><br><a href="apps/ios/flipkart-internet-private-limited/flipkart/README.md"><sub><b>Flipkart</b></sub></a><br><sub>iOS · 2026-11-24</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/postnord-group-ab/postnord/README.md"><img src="assets/icons/ios/396871673.png" width="56" height="56" alt="PostNord icon"></a><br><a href="apps/ios/postnord-group-ab/postnord/README.md"><sub><b>PostNord</b></sub></a><br><sub>iOS · 2026-11-24</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/uber-technologies-inc/uber-eats/README.md"><img src="assets/icons/ios/1058959277.png" width="56" height="56" alt="Uber Eats icon"></a><br><a href="apps/ios/uber-technologies-inc/uber-eats/README.md"><sub><b>Uber Eats</b></sub></a><br><sub>iOS · 2026-11-24</sub></td></tr>
 </table>
 
 ### All apps
@@ -306,7 +306,7 @@ Google and Google LLC share the most apps, with 21 each. 228 of 276 companies ha
 | <img src="assets/icons/ios/6587576438.png" width="20" height="20" alt="setlog icon"> | [setlog - friends camera](apps/ios/new-chat/setlog/README.md) | [new chat](companies/new-chat.md) | 2.7.7 | 1 |
 | <img src="assets/icons/ios/284993459.png" width="20" height="20" alt="Shazam icon"> | [Shazam: Find Music & Concerts](apps/ios/apple/shazam/README.md) | [Apple](companies/apple.md) | 26.11.0 | 1 |
 | <img src="assets/icons/ios/878577184.png" width="20" height="20" alt="SHEIN icon"> | [SHEIN - Shopping Online](apps/ios/roadget-business-pte-ltd/shein/README.md) | [ROADGET BUSINESS PTE. LTD.](companies/roadget-business-pte-ltd.md) | 15.5.6 | 41 |
-| <img src="assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shop: Track, Pay, Discover](apps/ios/shopify-inc/shop/README.md) | [Shopify Inc.](companies/shopify-inc.md) | 3.21.0 | 28 |
+| <img src="assets/icons/ios/1223471316.png" width="20" height="20" alt="Shop icon"> | [Shop: Track, Pay, Discover](apps/ios/shopify-inc/shop/README.md) | [Shopify Inc.](companies/shopify-inc.md) | 3.22.0 | 28 |
 | <img src="assets/icons/ios/874139669.png" width="20" height="20" alt="Signal icon"> | [Signal - Private Messenger](apps/ios/signal-messenger-llc/signal-private-messenger/README.md) | [Signal Messenger, LLC](companies/signal-messenger-llc.md) | 8.34 | 9 |
 | <img src="assets/icons/ios/6818339091.png" width="20" height="20" alt="Skins Projeto Grau 2 icon"> | [Skins Projeto Grau 2](apps/ios/anderson-mateus-de-lima/skins-projeto-grau-2/README.md) | [Anderson Mateus de Lima](companies/anderson-mateus-de-lima.md) | 1.0.3 | 3 |
 | <img src="assets/icons/ios/447188370.png" width="20" height="20" alt="Snapchat icon"> | [Snapchat](apps/ios/snap-inc/snapchat/README.md) | [Snap, Inc.](companies/snap-inc.md) | 13.95.1 | 7 |
@@ -360,7 +360,7 @@ Google and Google LLC share the most apps, with 21 each. 228 of 276 companies ha
 </details>
 
 <details>
-<summary>Android (179 apps)</summary>
+<summary>Android (180 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -407,6 +407,7 @@ Google and Google LLC share the most apps, with 21 each. 228 of 276 companies ha
 | <img src="assets/icons/android/com.espn.fantasy.lm.football.png" width="20" height="20" alt="ESPN Fantasy Sports icon"> | [ESPN Fantasy Sports](apps/android/disney/espn-fantasy-sports/README.md) | [Disney](companies/disney.md) | 9.12.0 | 34 |
 | <img src="assets/icons/android/com.facebook.katana.png" width="20" height="20" alt="Facebook icon"> | [Facebook](apps/android/meta-platforms-inc/facebook/README.md) | [Meta Platforms, Inc.](companies/meta-platforms-inc.md) | 587.0.0.39.55 | 2 |
 | <img src="assets/icons/android/com.freereels.app.png" width="20" height="20" alt="FreeReels icon"> | [FreeReels - Dramas & Reels](apps/android/skywork-ai-pte-ltd/freereels/README.md) | [SKYWORK AI PTE.LTD.](companies/skywork-ai-pte-ltd.md) | 2.5.40 | 38 |
+| <img src="assets/icons/android/com.glassdoor.app.png" width="20" height="20" alt="Glassdoor icon"> | [Glassdoor \| Jobs & Careers](apps/android/indeed-inc/glassdoor-jobs-careers/README.md) | [Indeed, Inc.](companies/indeed-inc.md) | 13.16.0 | 16 |
 | <img src="assets/icons/android/com.google.android.gm.png" width="20" height="20" alt="Gmail icon"> | [Gmail](apps/android/google-llc/gmail/README.md) | [Google LLC](companies/google-llc.md) | 2026.10.19.1005695425.Release | 21 |
 | <img src="assets/icons/android/br.com.tapps.goatevolution.png" width="20" height="20" alt="Goat Evolution icon"> | [Goat Evolution: Animal Merge](apps/android/tapps-games/goat-evolution/README.md) | [Tapps Games](companies/tapps-games.md) | 1.3.75 | 35 |
 | <img src="assets/icons/android/com.airgoat.goat.png" width="20" height="20" alt="GOAT icon"> | [GOAT – Sneakers & Apparel](apps/android/goat/goat/README.md) | [GOAT](companies/goat.md) | 2.14.2 | 34 |

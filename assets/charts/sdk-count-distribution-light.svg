@@ -8,8 +8,8 @@
 <text x="88.53999999999999" y="18" font-size="13" fill="#4D5755">Android</text>
 <line x1="10" y1="210.5" x2="810" y2="210.5" stroke="#D9E1DD"/>
 <rect x="44.1" y="148.0" width="46.0" height="62.0" rx="2" fill="#0088FF"/>
-<rect x="44.1" y="115.1" width="46.0" height="30.9" rx="2" fill="#1EA45A"/>
-<text x="67.1" y="109.1" font-size="12" text-anchor="middle" fill="#4D5755">101</text>
+<rect x="44.1" y="114.1" width="46.0" height="31.8" rx="2" fill="#1EA45A"/>
+<text x="67.1" y="108.1" font-size="12" text-anchor="middle" fill="#4D5755">102</text>
 <text x="67.1" y="228.0" font-size="12" text-anchor="middle" fill="#090A0B">0–19</text>
 <rect x="158.4" y="159.3" width="46.0" height="50.7" rx="2" fill="#0088FF"/>
 <rect x="158.4" y="54.0" width="46.0" height="103.3" rx="2" fill="#1EA45A"/>
