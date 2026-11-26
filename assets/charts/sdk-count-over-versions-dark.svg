@@ -2,18 +2,19 @@
 <title>SDK count across versions</title>
 <rect x="0.5" y="0.5" width="859" height="417" rx="12" fill="#0C0D0E" stroke="#262A2D"/>
 <g transform="translate(20 20)">
-<text x="162.34" y="34" font-size="13" text-anchor="end" fill="#F1F6F3">Pinduoduo (iOS)</text>
+<text x="162.34" y="34" font-size="13" text-anchor="end" fill="#F1F6F3">WhatsApp Business (iOS)</text>
 <line x1="174.34" y1="50.5" x2="670.0" y2="50.5" stroke="#262A2D"/>
-<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="174.3,42.0 273.5,42.0 372.6,42.0 471.7,42.0 570.9,42.0 670.0,42.0"/>
+<polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="174.3,42.0 256.9,42.0 339.6,42.0 422.2,42.0 504.8,42.0 587.4,42.0 670.0,42.0"/>
 <circle cx="174.3" cy="42.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="273.5" cy="42.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="372.6" cy="42.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="471.7" cy="42.0" r="2.6" fill="#F1F6F3"/>
-<circle cx="570.9" cy="42.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="256.9" cy="42.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="339.6" cy="42.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="422.2" cy="42.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="504.8" cy="42.0" r="2.6" fill="#F1F6F3"/>
+<circle cx="587.4" cy="42.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="670.0" cy="42.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="34" font-size="13" fill="#A9B2BC">71 → 71 SDKs</text>
-<text x="684.0" y="50" font-size="11" fill="#A9B2BC">6 versions</text>
-<text x="162.34" y="80" font-size="13" text-anchor="end" fill="#F1F6F3">WhatsApp Business (iOS)</text>
+<text x="684.0" y="34" font-size="13" fill="#A9B2BC">6 → 6 SDKs</text>
+<text x="684.0" y="50" font-size="11" fill="#A9B2BC">7 versions</text>
+<text x="162.34" y="80" font-size="13" text-anchor="end" fill="#F1F6F3">Pinduoduo (iOS)</text>
 <line x1="174.34" y1="96.5" x2="670.0" y2="96.5" stroke="#262A2D"/>
 <polyline fill="none" stroke-width="2" stroke-linejoin="round" stroke="#F1F6F3" points="174.3,88.0 273.5,88.0 372.6,88.0 471.7,88.0 570.9,88.0 670.0,88.0"/>
 <circle cx="174.3" cy="88.0" r="2.6" fill="#F1F6F3"/>
@@ -22,7 +23,7 @@
 <circle cx="471.7" cy="88.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="570.9" cy="88.0" r="2.6" fill="#F1F6F3"/>
 <circle cx="670.0" cy="88.0" r="2.6" fill="#F1F6F3"/>
-<text x="684.0" y="80" font-size="13" fill="#A9B2BC">6 → 6 SDKs</text>
+<text x="684.0" y="80" font-size="13" fill="#A9B2BC">71 → 71 SDKs</text>
 <text x="684.0" y="96" font-size="11" fill="#A9B2BC">6 versions</text>
 <text x="162.34" y="126" font-size="13" text-anchor="end" fill="#F1F6F3">Google Meet (iOS)</text>
 <line x1="174.34" y1="142.5" x2="670.0" y2="142.5" stroke="#262A2D"/>
