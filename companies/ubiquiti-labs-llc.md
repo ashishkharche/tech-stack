@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **3** versions · **108** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **4** versions · **108** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/ubiquiti-labs-llc/vn/README.md"><img src="../assets/icons/ios/1343581380.png" width="56" height="56" alt="VN icon"></a><br><a href="../apps/ios/ubiquiti-labs-llc/vn/README.md"><sub><b>VN</b></sub></a><br><sub>iOS · 108 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1343581380.png" width="20" height="20" alt="VN icon"> | [VN: Photo & Video Editor](../apps/ios/ubiquiti-labs-llc/vn/README.md) | iOS | 3 | 2.26.0 | 2026-11-22 | 108 | No |
+| <img src="../assets/icons/ios/1343581380.png" width="20" height="20" alt="VN icon"> | [VN: Photo & Video Editor](../apps/ios/ubiquiti-labs-llc/vn/README.md) | iOS | 4 | 2.26.1 | 2026-11-26 | 108 | No |
 
 ## SDKs by category
 

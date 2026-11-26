@@ -185,7 +185,7 @@
 | <img src="../assets/icons/android/ai.perplexity.app.android.png" width="20" height="20" alt="Perplexity icon"> | [PerplexityAI](perplexityai.md) | 1 | 0 | 1 | 1 | 37 |
 | <img src="../assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom](photoroom.md) | 1 | 1 | 0 | 4 | 88 |
 | <img src="../assets/icons/android/com.photoroom.app.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom AI Photo Editor](photoroom-ai-photo-editor.md) | 1 | 0 | 1 | 1 | 37 |
-| <img src="../assets/icons/android/com.pickle.client.png" width="20" height="20" alt="Pickle icon"> | [Pickle, Inc.](pickle-inc.md) | 1 | 0 | 1 | 1 | 28 |
+| <img src="../assets/icons/android/com.pickle.client.png" width="20" height="20" alt="Pickle icon"> | [Pickle, Inc.](pickle-inc.md) | 1 | 0 | 1 | 2 | 28 |
 | <img src="../assets/icons/ios/587366035.png" width="20" height="20" alt="Picsart AI Photo Editor, Video icon"> | [PicsArt, Inc.](picsart-inc.md) | 1 | 1 | 0 | 1 | 47 |
 | <img src="../assets/icons/android/com.pinterest.png" width="20" height="20" alt="Pinterest icon"> | [Pinterest](pinterest.md) | 1 | 0 | 1 | 1 | 35 |
 | <img src="../assets/icons/ios/429047995.png" width="20" height="20" alt="Pinterest icon"> | [Pinterest, Inc.](pinterest-inc.md) | 1 | 1 | 0 | 1 | 28 |
@@ -253,7 +253,7 @@
 | <img src="../assets/icons/ios/305343404.png" width="20" height="20" alt="Tumblr icon"> | [Tumblr, Inc.](tumblr-inc.md) | 1 | 1 | 0 | 1 | 60 |
 | <img src="../assets/icons/android/com.keylesspalace.tusky.png" width="20" height="20" alt="Tusky for Mastodon icon"> | [Tusky Team](tusky-team.md) | 1 | 0 | 1 | 1 | 7 |
 | <img src="../assets/icons/ios/6463031298.png" width="20" height="20" alt="Trendyol Go icon"> | [TYG TURKEY ELEKTRONIK TICARET HIZMETLERI VE YATIRIMLARI ANONIM SIRKETI](tyg-turkey-elektronik-ticaret-hizmetleri-ve-yatirimlari-anon.md) | 1 | 1 | 0 | 1 | 113 |
-| <img src="../assets/icons/ios/1343581380.png" width="20" height="20" alt="VN icon"> | [Ubiquiti Labs, LLC](ubiquiti-labs-llc.md) | 1 | 1 | 0 | 3 | 108 |
+| <img src="../assets/icons/ios/1343581380.png" width="20" height="20" alt="VN icon"> | [Ubiquiti Labs, LLC](ubiquiti-labs-llc.md) | 1 | 1 | 0 | 4 | 108 |
 | <img src="../assets/icons/android/com.eet.settings.launcher.png" width="20" height="20" alt="Settings Home icon"> | [Utility Apps Home](utility-apps-home.md) | 1 | 0 | 1 | 1 | 43 |
 | <img src="../assets/icons/android/com.vevor.store.png" width="20" height="20" alt="VEVOR icon"> | [VEVOR STORE LLC](vevor-store-llc.md) | 1 | 0 | 1 | 1 | 46 |
 | <img src="../assets/icons/ios/382617920.png" width="20" height="20" alt="Rakuten Viber Messenger icon"> | [Viber Media SARL.](viber-media-sarl.md) | 1 | 1 | 0 | 1 | 26 |

@@ -13,8 +13,8 @@
 | Company | [Pickle, Inc.](../../../../companies/pickle-inc.md) |
 | Store id | `com.pickle.client` |
 | Bundle / package id | `com.pickle.client` |
-| Latest version | 1.1.18 (analysed 2026-11-19) |
-| Versions tracked | 1 |
+| Latest version | 1.1.20 (analysed 2026-11-26) |
+| Versions tracked | 2 |
 | SDKs in latest version | 28 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Material Components, Picasso |
@@ -55,6 +55,7 @@ Approximate location, Biometric auth, Bluetooth, Bluetooth (connect), Calendar (
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 1.1.20 | 2026-11-26 |  | 28 | +0 / −0 | No | No | [1.1.20.json](1.1.20.json) |
 | 1.1.18 | 2026-11-19 |  | 28 |  | No | No | [1.1.18.json](1.1.18.json) |
 
 ---
