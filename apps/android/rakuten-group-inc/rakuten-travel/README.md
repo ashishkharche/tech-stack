@@ -13,13 +13,13 @@
 | Company | [Rakuten Group, Inc.](../../../../companies/rakuten-group-inc.md) |
 | Store id | `com.rakuten.travel.consumer` |
 | Bundle / package id | `com.rakuten.travel.consumer` |
-| Latest version | 5.12.10 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 34 |
+| Latest version | 5.14.19 (analysed 2026-11-27) |
+| Versions tracked | 2 |
+| SDKs in latest version | 33 |
 | Languages | C/C++ (native), Java, Kotlin |
 | UI | Coil, Glide, Jetpack Compose, Material Components, Picasso |
 | Build | Gradle (inferred) |
-| Minimum OS | API 29, targets API 35 |
+| Minimum OS | API 29, targets API 36 |
 | Devices / ABIs | Android |
 | Capabilities | 11 |
 | Declares tracking | Yes |
@@ -42,7 +42,6 @@
 - **Feature flags** (1): Firebase Remote Config
 - **Media** (1): Media3 (ExoPlayer)
 - **Messaging and push** (1): Firebase Messaging
-- **ML and AI** (1): OpenCV
 - **Privacy and consent** (1): OneTrust
 - **Reactive and async** (1): Kotlin Coroutines
 - **Telephony** (1): libphonenumber
@@ -58,13 +57,12 @@ Advertising ID, Approximate location, Biometric auth, Bluetooth, Camera, Fingerp
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 5.14.19 | 2026-11-27 |  | 33 | +0 / −1 | No | No | [5.14.19.json](5.14.19.json) |
 | 5.12.10 | 2026-06-19 |  | 34 |  | No | No | [5.12.10.json](5.12.10.json) |
 
-## Model-written summary
+### SDK changes between versions
 
-> Android Rakuten Travel app with first-party Rakuten backends, Jetpack Compose UI, Firebase+Adjust analytics, OpenCV/CardIO natives, and biometric security
-
-<sub>Written by a language model from the detected signals (`inferred[]`). It is commentary, not measurement.</sub>
+- 5.12.10 → 5.14.19: removed OpenCV
 
 ---
 

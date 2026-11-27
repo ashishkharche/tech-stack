@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **34** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **33** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/rakuten-group-inc/rakuten-travel/README.md"><img src="../assets/icons/android/com.rakuten.travel.consumer.png" width="56" height="56" alt="Rakuten Travel icon"></a><br><a href="../apps/android/rakuten-group-inc/rakuten-travel/README.md"><sub><b>Rakuten Travel</b></sub></a><br><sub>Android · 34 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/rakuten-group-inc/rakuten-travel/README.md"><img src="../assets/icons/android/com.rakuten.travel.consumer.png" width="56" height="56" alt="Rakuten Travel icon"></a><br><a href="../apps/android/rakuten-group-inc/rakuten-travel/README.md"><sub><b>Rakuten Travel</b></sub></a><br><sub>Android · 33 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.rakuten.travel.consumer.png" width="20" height="20" alt="Rakuten Travel icon"> | [Rakuten Travel: Hotel Booking](../apps/android/rakuten-group-inc/rakuten-travel/README.md) | Android | 1 | 5.12.10 | 2026-06-19 | 34 | No |
+| <img src="../assets/icons/android/com.rakuten.travel.consumer.png" width="20" height="20" alt="Rakuten Travel icon"> | [Rakuten Travel: Hotel Booking](../apps/android/rakuten-group-inc/rakuten-travel/README.md) | Android | 2 | 5.14.19 | 2026-11-27 | 33 | No |
 
 ## SDKs by category
 

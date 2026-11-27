@@ -13,8 +13,8 @@
 | Company | [Prisma labs, inc.](../../../../companies/prisma-labs-inc.md) |
 | Store id | `1436732536` |
 | Bundle / package id | `com.prisma-ai.lensa-app` |
-| Latest version | 9.0.0 (analysed 2026-11-15) |
-| Versions tracked | 2 |
+| Latest version | 9.1.0 (analysed 2026-11-27) |
+| Versions tracked | 3 |
 | SDKs in latest version | 73 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -42,9 +42,9 @@
 - **Serialization** (1): SwiftProtobuf
 
 <details>
-<summary>Frameworks (27)</summary>
+<summary>Frameworks (30)</summary>
 
-AdSupport (IDFA), App Tracking Transparency (ATT), Authentication Services (Sign in with Apple / passkeys), AVFoundation (audio/video), AVKit, Combine (reactive), Core Image, Core ML, CryptoKit, DeviceCheck / App Attest, Local Authentication (Face ID / Touch ID), Media Player, MessageUI (mail / SMS compose), MetalKit, MetricKit (diagnostics), MusicKit, Network.framework, Photos, PhotosUI, SafariServices, SpriteKit, StoreKit (in-app purchase), SwiftUI, UIKit, User Notifications, Vision, WidgetKit (widgets)
+AdSupport (IDFA), App Intents, App Tracking Transparency (ATT), Authentication Services (Sign in with Apple / passkeys), AVFoundation (audio/video), AVKit, Combine (reactive), Core Image, Core ML, Core Motion, CryptoKit, DeviceCheck / App Attest, Local Authentication (Face ID / Touch ID), Media Player, MessageUI (mail / SMS compose), MetalKit, MetricKit (diagnostics), MusicKit, Network.framework, Photos, PhotosUI, SafariServices, SiriKit (Intents), SpriteKit, StoreKit (in-app purchase), SwiftUI, UIKit, User Notifications, Vision, WidgetKit (widgets)
 
 </details>
 
@@ -59,6 +59,7 @@ App Groups, Associated Domains (Universal Links), Keychain Sharing, Push Notific
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 9.1.0 | 2026-11-27 | 2026-11-24 | 73 | +0 / −0 | Yes | Yes | [9.1.0.json](9.1.0.json) |
 | 9.0.0 | 2026-11-15 | 2026-11-12 | 73 | +8 / −3 | Yes | Yes | [9.0.0.json](9.0.0.json) |
 | 8.13.0 | 2026-10-24 | 2026-09-29 | 68 |  | Yes | Yes | [8.13.0.json](8.13.0.json) |
 

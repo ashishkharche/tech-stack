@@ -9,7 +9,7 @@
 <!-- ts:begin intro -->
 <p align="center">The SDKs, languages and frameworks in public App Store and Google Play builds, read from the binaries. One JSON file per app version.</p>
 
-<p align="center">396 apps · 560 versions · 277 companies · 5,121 SDKs</p>
+<p align="center">398 apps · 564 versions · 279 companies · 5,132 SDKs</p>
 
 <p align="center"><a href="#how-apps-are-built">Findings</a> · <a href="#explore-the-apps">Browse the apps</a> · <a href="docs/data-notes.md">About the data</a></p>
 
@@ -19,7 +19,7 @@
 <!-- ts:begin story -->
 ## How apps are built
 
-SwiftUI is in 210 of 216 iOS apps, and Jetpack Compose is in 141 of 180 Android apps. 99 apps also use a cross-platform runtime.
+SwiftUI is in 212 of 218 iOS apps, and Jetpack Compose is in 141 of 180 Android apps. 101 apps also use a cross-platform runtime.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/languages-dark.svg"><img alt="Languages and runtimes" src="assets/charts/languages-light.svg"></picture>
 
@@ -27,7 +27,7 @@ SwiftUI is in 210 of 216 iOS apps, and Jetpack Compose is in 141 of 180 Android 
 
 ## What most apps ship
 
-Firebase is in 263 of 396 apps. 79% of apps ship at least one analytics SDK.
+Firebase is in 265 of 398 apps. 78% of apps ship at least one analytics SDK.
 
 **Most used SDKs**
 
@@ -75,7 +75,7 @@ The median app ships 37 SDKs on iOS and 29 on Android. Whatnot (iOS) has the mos
 
 ## How apps change between versions
 
-78 of 164 updates changed the SDK list. Together they added 207 SDKs and removed 295.
+79 of 166 updates changed the SDK list. Together they added 207 SDKs and removed 296.
 
 **SDKs added and removed between versions**
 
@@ -107,7 +107,7 @@ The most common minimum is iOS 15 and Android API 29. The most common Android ta
 
 ## Who makes the apps
 
-Google and Google LLC share the most apps, with 21 each. 229 of 277 companies have one app each.
+Google and Google LLC share the most apps, with 21 each. 231 of 279 companies have one app each.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/charts/top-companies-dark.svg"><img alt="Companies with the most apps" src="assets/charts/top-companies-light.svg"></picture>
 
@@ -129,14 +129,14 @@ Google and Google LLC share the most apps, with 21 each. 229 of 277 companies ha
 ### Recently analysed
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><img src="assets/icons/ios/1386412985.png" width="56" height="56" alt="WhatsApp Business icon"></a><br><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><sub><b>WhatsApp Business</b></sub></a><br><sub>iOS · 2026-11-26</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/pickle-inc/pickle/README.md"><img src="assets/icons/android/com.pickle.client.png" width="56" height="56" alt="Pickle icon"></a><br><a href="apps/android/pickle-inc/pickle/README.md"><sub><b>Pickle</b></sub></a><br><sub>Android · 2026-11-26</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><img src="assets/icons/ios/1343581380.png" width="56" height="56" alt="VN icon"></a><br><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><sub><b>VN</b></sub></a><br><sub>iOS · 2026-11-26</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/indeed-inc/glassdoor-jobs-careers/README.md"><img src="assets/icons/android/com.glassdoor.app.png" width="56" height="56" alt="Glassdoor icon"></a><br><a href="apps/android/indeed-inc/glassdoor-jobs-careers/README.md"><sub><b>Glassdoor</b></sub></a><br><sub>Android · 2026-11-26</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/shopify-inc/shop/README.md"><img src="assets/icons/ios/1223471316.png" width="56" height="56" alt="Shop icon"></a><br><a href="apps/ios/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>iOS · 2026-11-26</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/panera-bread/panera-bread/README.md"><img src="assets/icons/android/com.panera.bread.png" width="56" height="56" alt="Panera Bread icon"></a><br><a href="apps/android/panera-bread/panera-bread/README.md"><sub><b>Panera Bread</b></sub></a><br><sub>Android · 2026-11-25</sub></td></tr>
-<tr><td align="center" valign="top" width="16%"><a href="apps/ios/speechify-inc/speechify/README.md"><img src="assets/icons/ios/1209815023.png" width="56" height="56" alt="Speechify icon"></a><br><a href="apps/ios/speechify-inc/speechify/README.md"><sub><b>Speechify</b></sub></a><br><sub>iOS · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/pandora/pandora/README.md"><img src="assets/icons/android/com.pandora.android.png" width="56" height="56" alt="Pandora icon"></a><br><a href="apps/android/pandora/pandora/README.md"><sub><b>Pandora</b></sub></a><br><sub>Android · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/luka-inc/replika/README.md"><img src="assets/icons/ios/1158555867.png" width="56" height="56" alt="Replika icon"></a><br><a href="apps/ios/luka-inc/replika/README.md"><sub><b>Replika</b></sub></a><br><sub>iOS · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/gymshark-ltd/gymshark/README.md"><img src="assets/icons/ios/1139155460.png" width="56" height="56" alt="Gymshark icon"></a><br><a href="apps/ios/gymshark-ltd/gymshark/README.md"><sub><b>Gymshark</b></sub></a><br><sub>iOS · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/naver-corp/app/README.md"><img src="assets/icons/android/com.navercorp.navershopping.jpg" width="56" height="56" alt="네이버플러스 스토어 icon"></a><br><a href="apps/android/naver-corp/app/README.md"><sub><b>네이버플러스 스토어</b></sub></a><br><sub>Android · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/deliveroo/deliveroo/README.md"><img src="assets/icons/ios/1001501844.png" width="56" height="56" alt="Deliveroo icon"></a><br><a href="apps/ios/deliveroo/deliveroo/README.md"><sub><b>Deliveroo</b></sub></a><br><sub>iOS · 2026-11-25</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/android/rakuten-group-inc/rakuten-travel/README.md"><img src="assets/icons/android/com.rakuten.travel.consumer.png" width="56" height="56" alt="Rakuten Travel icon"></a><br><a href="apps/android/rakuten-group-inc/rakuten-travel/README.md"><sub><b>Rakuten Travel</b></sub></a><br><sub>Android · 2026-11-27</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/myntra-com/myntra/README.md"><img src="assets/icons/ios/907394059.png" width="56" height="56" alt="Myntra icon"></a><br><a href="apps/ios/myntra-com/myntra/README.md"><sub><b>Myntra</b></sub></a><br><sub>iOS · 2026-11-27</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/flex-applications-ab/flex-hrm/README.md"><img src="assets/icons/ios/6744020056.png" width="56" height="56" alt="Flex HRM icon"></a><br><a href="apps/ios/flex-applications-ab/flex-hrm/README.md"><sub><b>Flex HRM</b></sub></a><br><sub>iOS · 2026-11-27</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/prisma-labs-inc/lensa-ai/README.md"><img src="assets/icons/ios/1436732536.png" width="56" height="56" alt="Lensa AI icon"></a><br><a href="apps/ios/prisma-labs-inc/lensa-ai/README.md"><sub><b>Lensa AI</b></sub></a><br><sub>iOS · 2026-11-27</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><img src="assets/icons/ios/1386412985.png" width="56" height="56" alt="WhatsApp Business icon"></a><br><a href="apps/ios/whatsapp-inc/whatsapp-business/README.md"><sub><b>WhatsApp Business</b></sub></a><br><sub>iOS · 2026-11-26</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/pickle-inc/pickle/README.md"><img src="assets/icons/android/com.pickle.client.png" width="56" height="56" alt="Pickle icon"></a><br><a href="apps/android/pickle-inc/pickle/README.md"><sub><b>Pickle</b></sub></a><br><sub>Android · 2026-11-26</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><img src="assets/icons/ios/1343581380.png" width="56" height="56" alt="VN icon"></a><br><a href="apps/ios/ubiquiti-labs-llc/vn/README.md"><sub><b>VN</b></sub></a><br><sub>iOS · 2026-11-26</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/indeed-inc/glassdoor-jobs-careers/README.md"><img src="assets/icons/android/com.glassdoor.app.png" width="56" height="56" alt="Glassdoor icon"></a><br><a href="apps/android/indeed-inc/glassdoor-jobs-careers/README.md"><sub><b>Glassdoor</b></sub></a><br><sub>Android · 2026-11-26</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/shopify-inc/shop/README.md"><img src="assets/icons/ios/1223471316.png" width="56" height="56" alt="Shop icon"></a><br><a href="apps/ios/shopify-inc/shop/README.md"><sub><b>Shop</b></sub></a><br><sub>iOS · 2026-11-26</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/panera-bread/panera-bread/README.md"><img src="assets/icons/android/com.panera.bread.png" width="56" height="56" alt="Panera Bread icon"></a><br><a href="apps/android/panera-bread/panera-bread/README.md"><sub><b>Panera Bread</b></sub></a><br><sub>Android · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/ios/speechify-inc/speechify/README.md"><img src="assets/icons/ios/1209815023.png" width="56" height="56" alt="Speechify icon"></a><br><a href="apps/ios/speechify-inc/speechify/README.md"><sub><b>Speechify</b></sub></a><br><sub>iOS · 2026-11-25</sub></td><td align="center" valign="top" width="16%"><a href="apps/android/pandora/pandora/README.md"><img src="assets/icons/android/com.pandora.android.png" width="56" height="56" alt="Pandora icon"></a><br><a href="apps/android/pandora/pandora/README.md"><sub><b>Pandora</b></sub></a><br><sub>Android · 2026-11-25</sub></td></tr>
 </table>
 
 ### All apps
 
 <details>
-<summary>iOS (216 apps)</summary>
+<summary>iOS (218 apps)</summary>
 
 | | App | Company | Latest | SDKs |
 |---|---|---|---|---|
@@ -188,6 +188,7 @@ Google and Google LLC share the most apps, with 21 each. 229 of 277 companies ha
 | <img src="assets/icons/ios/6618119931.png" width="20" height="20" alt="FaceAlly icon"> | [FaceAlly: AI Baby & Age Editor](apps/ios/chengdu-dance-elephant-technology-co-ltd/faceally/README.md) | [Chengdu Dance Elephant Technology Co., LTD.](companies/chengdu-dance-elephant-technology-co-ltd.md) | 2.0.1 | 36 |
 | <img src="assets/icons/ios/284882215.png" width="20" height="20" alt="Facebook icon"> | [Facebook](apps/ios/meta-platforms-inc/facebook/README.md) | [Meta Platforms, Inc.](companies/meta-platforms-inc.md) | 564.0.0 | 11 |
 | <img src="assets/icons/ios/6476561442.png" width="20" height="20" alt="FIFA World Cup 2026™ icon"> | [FIFA World Cup 2026™](apps/ios/fifa/fifa-world-cup-2026/README.md) | [FIFA](companies/fifa.md) | 3.1.1 | 69 |
+| <img src="assets/icons/ios/6744020056.png" width="20" height="20" alt="Flex HRM icon"> | [Flex HRM](apps/ios/flex-applications-ab/flex-hrm/README.md) | [Flex Applications AB](companies/flex-applications-ab.md) | 2026.4.50 | 18 |
 | <img src="assets/icons/ios/742044692.png" width="20" height="20" alt="Flipkart icon"> | [Flipkart - Online Shopping App](apps/ios/flipkart-internet-private-limited/flipkart/README.md) | [Flipkart Internet Private Limited](companies/flipkart-internet-private-limited.md) | 11.36.2 | 46 |
 | <img src="assets/icons/ios/1590142959.png" width="20" height="20" alt="France Identité icon"> | [France Identité](apps/ios/gouvernement-francais/france-identit/README.md) | [Gouvernement Francais](companies/gouvernement-francais.md) | 1.3.4433 | 35 |
 | <img src="assets/icons/ios/6768240254.png" width="20" height="20" alt="FreeDrama icon"> | [FreeDrama: Watch Short Stories](apps/ios/kuku-technologies-limited/freedrama/README.md) | [Kuku Technologies Limited](companies/kuku-technologies-limited.md) | 3.8.7 | 81 |
@@ -237,7 +238,7 @@ Google and Google LLC share the most apps, with 21 each. 229 of 277 companies ha
 | <img src="assets/icons/ios/6472232952.png" width="20" height="20" alt="Koupon icon"> | [Koupon: Vouchers & Discounts](apps/ios/koupon-inc/koupon/README.md) | [Koupon Inc.](companies/koupon-inc.md) | 3.1.4 | 38 |
 | <img src="assets/icons/ios/6740410176.png" width="20" height="20" alt="Le Chat by Mistral AI icon"> | [Le Chat by Mistral AI](apps/ios/mistral-ai/le-chat/README.md) | [Mistral AI](companies/mistral-ai.md) | 2.16.0 | 24 |
 | <img src="assets/icons/ios/1498607143.png" width="20" height="20" alt="Lemon8 icon"> | [Lemon8 - Lifestyle Community](apps/ios/tiktok-ltd/lemon8/README.md) | [TikTok Ltd.](companies/tiktok-ltd.md) | 15.1.0 | 57 |
-| <img src="assets/icons/ios/1436732536.png" width="20" height="20" alt="Lensa AI icon"> | [Lensa AI: Photo Editor](apps/ios/prisma-labs-inc/lensa-ai/README.md) | [Prisma labs, inc.](companies/prisma-labs-inc.md) | 9.0.0 | 73 |
+| <img src="assets/icons/ios/1436732536.png" width="20" height="20" alt="Lensa AI icon"> | [Lensa AI: Photo Editor](apps/ios/prisma-labs-inc/lensa-ai/README.md) | [Prisma labs, inc.](companies/prisma-labs-inc.md) | 9.1.0 | 73 |
 | <img src="assets/icons/ios/1450835575.png" width="20" height="20" alt="LIFE Pharmacy icon"> | [LIFE Pharmacy](apps/ios/life-home-health-care/life-pharmacy/README.md) | [LIFE HOME HEALTH CARE](companies/life-home-health-care.md) | 2.9.2 | 84 |
 | <img src="assets/icons/ios/384830320.png" width="20" height="20" alt="Life360 icon"> | [Life360: Family Safety & GPS](apps/ios/life360/life360/README.md) | [Life360](companies/life360.md) | 26.41.0 | 137 |
 | <img src="assets/icons/ios/288429040.png" width="20" height="20" alt="LinkedIn icon"> | [LinkedIn: Community & Network](apps/ios/linkedin-corporation/linkedin/README.md) | [LinkedIn Corporation](companies/linkedin-corporation.md) | 2026.0601.2241 | 18 |
@@ -265,6 +266,7 @@ Google and Google LLC share the most apps, with 21 each. 229 of 277 companies ha
 | <img src="assets/icons/ios/382952264.png" width="20" height="20" alt="MyChart icon"> | [MyChart](apps/ios/epic/mychart/README.md) | [Epic](companies/epic.md) | 11.9.5 | 0 |
 | <img src="assets/icons/ios/1570860098.png" width="20" height="20" alt="myMTN NG icon"> | [myMTN NG](apps/ios/mtn-nigeria/mymtn-ng/README.md) | [MTN Nigeria](companies/mtn-nigeria.md) | 2.0.32 | 41 |
 | <img src="assets/icons/ios/1476359069.png" width="20" height="20" alt="MynaApp (formerly Mynaportal) icon"> | [MynaApp (formerly Mynaportal)](apps/ios/go/mynaapp-formerly-mynaportal/README.md) | [デジタル庁](companies/go.md) | 2026.10.0 | 167 |
+| <img src="assets/icons/ios/907394059.png" width="20" height="20" alt="Myntra icon"> | [Myntra - Fashion Shopping App](apps/ios/myntra-com/myntra/README.md) | [myntra.com](companies/myntra-com.md) | 4.2611.12 | 50 |
 | <img src="assets/icons/ios/6786701577.png" width="20" height="20" alt="mystc SA icon"> | [mystc SA](apps/ios/stc/mystc-sa/README.md) | [STC](companies/stc.md) | 5.0.19 | 31 |
 | <img src="assets/icons/ios/484672289.png" width="20" height="20" alt="NBA icon"> | [NBA: Live Games & Scores](apps/ios/nba-media-ventures-llc/nba/README.md) | [NBA MEDIA VENTURES, LLC](companies/nba-media-ventures-llc.md) | 120722.1 | 43 |
 | <img src="assets/icons/ios/363590051.png" width="20" height="20" alt="Netflix icon"> | [Netflix](apps/ios/netflix-inc/netflix/README.md) | [Netflix, Inc.](companies/netflix-inc.md) | 18.34.0 | 74 |
@@ -491,7 +493,7 @@ Google and Google LLC share the most apps, with 21 each. 229 of 277 companies ha
 | <img src="assets/icons/android/com.amazon.avod.thirdpartyclient.png" width="20" height="20" alt="Prime Video icon"> | [Prime Video](apps/android/amazon-mobile-llc/prime-video/README.md) | [Amazon Mobile LLC](companies/amazon-mobile-llc.md) | 3.0.456.747 | 29 |
 | <img src="assets/icons/android/com.qobuz.music.png" width="20" height="20" alt="Qobuz icon"> | [Qobuz: Music & Editorial](apps/android/qobuz/qobuz/README.md) | [Qobuz](companies/qobuz.md) | 9.10.0.1 | 24 |
 | <img src="assets/icons/android/com.scannerreader.qrcode.creatorfree.png" width="20" height="20" alt="QR Scanner icon"> | [QR Scanner](apps/android/p-l-studio/qr-scanner/README.md) | [P & L Studio](companies/p-l-studio.md) | 1.8.3 | 30 |
-| <img src="assets/icons/android/com.rakuten.travel.consumer.png" width="20" height="20" alt="Rakuten Travel icon"> | [Rakuten Travel: Hotel Booking](apps/android/rakuten-group-inc/rakuten-travel/README.md) | [Rakuten Group, Inc.](companies/rakuten-group-inc.md) | 5.12.10 | 34 |
+| <img src="assets/icons/android/com.rakuten.travel.consumer.png" width="20" height="20" alt="Rakuten Travel icon"> | [Rakuten Travel: Hotel Booking](apps/android/rakuten-group-inc/rakuten-travel/README.md) | [Rakuten Group, Inc.](companies/rakuten-group-inc.md) | 5.14.19 | 33 |
 | <img src="assets/icons/android/com.reddit.frontpage.png" width="20" height="20" alt="Reddit icon"> | [Reddit](apps/android/reddit-inc/reddit/README.md) | [reddit Inc.](companies/reddit-inc.md) | 2026.22.0 | 34 |
 | <img src="assets/icons/android/com.xingin.xhs.png" width="20" height="20" alt="rednote icon"> | [rednote](apps/android/xingin-information-technology-shanghai-co-ltd/rednote/README.md) | [行吟信息科技(上海)有限公司](companies/xingin-information-technology-shanghai-co-ltd.md) | 9.51.0 | 35 |
 | <img src="assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club: Shopping & Savings](apps/android/sam-s-club/sam-s-club/README.md) | [Sam's Club](companies/sam-s-club.md) | 26.6.20 | 37 |

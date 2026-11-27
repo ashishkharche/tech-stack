@@ -2,7 +2,7 @@
 
 # Companies
 
-277 companies. Each name is the developer name on the store listing.
+279 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | <img src="../assets/icons/ios/382952264.png" width="20" height="20" alt="MyChart icon"> | [Epic](epic.md) | 1 | 1 | 0 | 1 | 0 |
 | <img src="../assets/icons/ios/6759792530.png" width="20" height="20" alt="iAmor Family Location Tracker icon"> | [Esame Marketing Limited](esame-marketing-limited.md) | 1 | 1 | 0 | 1 | 72 |
 | <img src="../assets/icons/ios/6476561442.png" width="20" height="20" alt="FIFA World Cup 2026™ icon"> | [FIFA](fifa.md) | 1 | 1 | 0 | 1 | 69 |
+| <img src="../assets/icons/ios/6744020056.png" width="20" height="20" alt="Flex HRM icon"> | [Flex Applications AB](flex-applications-ab.md) | 1 | 1 | 0 | 1 | 18 |
 | <img src="../assets/icons/ios/742044692.png" width="20" height="20" alt="Flipkart icon"> | [Flipkart Internet Private Limited](flipkart-internet-private-limited.md) | 1 | 1 | 0 | 1 | 46 |
 | <img src="../assets/icons/ios/1458351041.png" width="20" height="20" alt="Carte Vitale icon"> | [GIE SESAM Vitale](gie-sesam-vitale.md) | 1 | 1 | 0 | 1 | 23 |
 | <img src="../assets/icons/ios/1477376905.png" width="20" height="20" alt="GitHub icon"> | [GitHub](github.md) | 1 | 1 | 0 | 3 | 65 |
@@ -163,6 +164,7 @@
 | <img src="../assets/icons/ios/6754709202.png" width="20" height="20" alt="Q | كيو icon"> | [MOHAMMED BIN HALABI](mohammed-bin-halabi.md) | 1 | 1 | 0 | 1 | 36 |
 | <img src="../assets/icons/android/com.jmireports.bluesky.png" width="20" height="20" alt="BlueSkyVUE icon"> | [MorelandConnect](morelandconnect.md) | 1 | 0 | 1 | 1 | 28 |
 | <img src="../assets/icons/ios/1570860098.png" width="20" height="20" alt="myMTN NG icon"> | [MTN Nigeria](mtn-nigeria.md) | 1 | 1 | 0 | 1 | 41 |
+| <img src="../assets/icons/ios/907394059.png" width="20" height="20" alt="Myntra icon"> | [myntra.com](myntra-com.md) | 1 | 1 | 0 | 1 | 50 |
 | <img src="../assets/icons/ios/484672289.png" width="20" height="20" alt="NBA icon"> | [NBA MEDIA VENTURES, LLC](nba-media-ventures-llc.md) | 1 | 1 | 0 | 1 | 43 |
 | <img src="../assets/icons/ios/6587576438.png" width="20" height="20" alt="setlog icon"> | [new chat](new-chat.md) | 1 | 1 | 0 | 1 | 1 |
 | <img src="../assets/icons/ios/6742177802.png" width="20" height="20" alt="New York Road Runners icon"> | [New York Road Runners, Inc.](new-york-road-runners-inc.md) | 1 | 1 | 0 | 1 | 32 |
@@ -199,11 +201,11 @@
 | <img src="../assets/icons/ios/6468981790.png" width="20" height="20" alt="Bring Tracking icon"> | [Posten](posten.md) | 1 | 1 | 0 | 1 | 24 |
 | <img src="../assets/icons/android/com.bring.sporing.controller.png" width="20" height="20" alt="Bring icon"> | [Posten & Bring](posten-bring.md) | 1 | 0 | 1 | 1 | 25 |
 | <img src="../assets/icons/ios/396871673.png" width="20" height="20" alt="PostNord icon"> | [PostNord Group AB](postnord-group-ab.md) | 1 | 1 | 0 | 1 | 38 |
-| <img src="../assets/icons/ios/1436732536.png" width="20" height="20" alt="Lensa AI icon"> | [Prisma labs, inc.](prisma-labs-inc.md) | 1 | 1 | 0 | 2 | 73 |
+| <img src="../assets/icons/ios/1436732536.png" width="20" height="20" alt="Lensa AI icon"> | [Prisma labs, inc.](prisma-labs-inc.md) | 1 | 1 | 0 | 3 | 73 |
 | <img src="../assets/icons/ios/6752485055.png" width="20" height="20" alt="DARB icon"> | [Q Mobility](q-mobility.md) | 1 | 1 | 0 | 1 | 43 |
 | <img src="../assets/icons/android/com.qobuz.music.png" width="20" height="20" alt="Qobuz icon"> | [Qobuz](qobuz.md) | 1 | 0 | 1 | 1 | 24 |
 | <img src="../assets/icons/ios/1640745955.png" width="20" height="20" alt="Poe icon"> | [Quora, Inc.](quora-inc.md) | 1 | 1 | 0 | 1 | 22 |
-| <img src="../assets/icons/android/com.rakuten.travel.consumer.png" width="20" height="20" alt="Rakuten Travel icon"> | [Rakuten Group, Inc.](rakuten-group-inc.md) | 1 | 0 | 1 | 1 | 34 |
+| <img src="../assets/icons/android/com.rakuten.travel.consumer.png" width="20" height="20" alt="Rakuten Travel icon"> | [Rakuten Group, Inc.](rakuten-group-inc.md) | 1 | 0 | 1 | 2 | 33 |
 | <img src="../assets/icons/ios/6742024490.png" width="20" height="20" alt="Reco Social icon"> | [Reco Social, Inc.](reco-social-inc.md) | 1 | 1 | 0 | 1 | 80 |
 | <img src="../assets/icons/ios/6809328945.png" width="20" height="20" alt="Masi icon"> | [Rimthan](rimthan.md) | 1 | 1 | 0 | 1 | 27 |
 | <img src="../assets/icons/ios/482066631.png" width="20" height="20" alt="Roku Remote (Official) icon"> | [ROKU INC](roku-inc.md) | 1 | 1 | 0 | 1 | 39 |

@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "9.0.0",
+  "version": "9.1.0",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-15T08:21:23Z",
-    "store_first_seen_at": "2026-11-12T12:00:07Z",
-    "store_updated_at": "2026-11-12T07:00:33Z",
-    "exported_at": "2026-11-15T08:55:07Z"
+    "captured_at": "2026-11-27T04:20:40Z",
+    "store_first_seen_at": "2026-11-24T12:00:06Z",
+    "store_updated_at": "2026-11-24T08:04:18Z",
+    "exported_at": "2026-11-27T04:57:50Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -45,6 +45,7 @@
     ],
     "frameworks": [
       "AdSupport (IDFA)",
+      "App Intents",
       "App Tracking Transparency (ATT)",
       "Authentication Services (Sign in with Apple / passkeys)",
       "AVFoundation (audio/video)",
@@ -52,6 +53,7 @@
       "Combine (reactive)",
       "Core Image",
       "Core ML",
+      "Core Motion",
       "CryptoKit",
       "DeviceCheck / App Attest",
       "Local Authentication (Face ID / Touch ID)",
@@ -64,6 +66,7 @@
       "Photos",
       "PhotosUI",
       "SafariServices",
+      "SiriKit (Intents)",
       "SpriteKit",
       "StoreKit (in-app purchase)",
       "SwiftUI",
