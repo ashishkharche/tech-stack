@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **4** versions · **88** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **5** versions · **88** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/photoroom/photoroom/README.md"><img src="../assets/icons/ios/1455009060.png" width="56" height="56" alt="Photoroom icon"></a><br><a href="../apps/ios/photoroom/photoroom/README.md"><sub><b>Photoroom</b></sub></a><br><sub>iOS · 88 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom: AI Photo Editor](../apps/ios/photoroom/photoroom/README.md) | iOS | 4 | 2026.47.01 | 2026-11-21 | 88 | Yes |
+| <img src="../assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom: AI Photo Editor](../apps/ios/photoroom/photoroom/README.md) | iOS | 5 | 2026.48.01 | 2026-11-27 | 88 | Yes |
 
 ## SDKs by category
 

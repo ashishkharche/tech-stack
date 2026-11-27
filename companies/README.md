@@ -2,7 +2,7 @@
 
 # Companies
 
-280 companies. Each name is the developer name on the store listing.
+282 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | <img src="../assets/icons/android/com.duckduckgo.mobile.android.png" width="20" height="20" alt="DuckDuckGo, optional Duck.ai icon"> | [DuckDuckGo](duckduckgo.md) | 1 | 0 | 1 | 4 | 18 |
 | <img src="../assets/icons/android/com.dunkinbrands.otgo.png" width="20" height="20" alt="Dunkin’ icon"> | [Dunkin' Brands, Inc.](dunkin-brands-inc.md) | 1 | 0 | 1 | 1 | 33 |
 | <img src="../assets/icons/android/com.ebay.mobile.png" width="20" height="20" alt="eBay online shopping &amp; selling icon"> | [eBay Mobile](ebay-mobile.md) | 1 | 0 | 1 | 1 | 37 |
+| <img src="../assets/icons/ios/1497498548.png" width="20" height="20" alt="El Corte Inglés icon"> | [El Corte Ingles S.A.](el-corte-ingles-s-a.md) | 1 | 1 | 0 | 1 | 58 |
 | <img src="../assets/icons/ios/382952264.png" width="20" height="20" alt="MyChart icon"> | [Epic](epic.md) | 1 | 1 | 0 | 1 | 0 |
 | <img src="../assets/icons/ios/6759792530.png" width="20" height="20" alt="iAmor Family Location Tracker icon"> | [Esame Marketing Limited](esame-marketing-limited.md) | 1 | 1 | 0 | 1 | 72 |
 | <img src="../assets/icons/ios/6476561442.png" width="20" height="20" alt="FIFA World Cup 2026™ icon"> | [FIFA](fifa.md) | 1 | 1 | 0 | 1 | 69 |
@@ -186,7 +187,7 @@
 | <img src="../assets/icons/ios/1508186374.png" width="20" height="20" alt="Peacock TV icon"> | [Peacock TV LLC](peacock-tv-llc.md) | 1 | 1 | 0 | 1 | 40 |
 | <img src="../assets/icons/ios/1668000334.png" width="20" height="20" alt="Perplexity icon"> | [Perplexity AI, Inc.](perplexity-ai-inc.md) | 1 | 1 | 0 | 1 | 26 |
 | <img src="../assets/icons/android/ai.perplexity.app.android.png" width="20" height="20" alt="Perplexity icon"> | [PerplexityAI](perplexityai.md) | 1 | 0 | 1 | 1 | 37 |
-| <img src="../assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom](photoroom.md) | 1 | 1 | 0 | 4 | 88 |
+| <img src="../assets/icons/ios/1455009060.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom](photoroom.md) | 1 | 1 | 0 | 5 | 88 |
 | <img src="../assets/icons/android/com.photoroom.app.png" width="20" height="20" alt="Photoroom icon"> | [Photoroom AI Photo Editor](photoroom-ai-photo-editor.md) | 1 | 0 | 1 | 1 | 37 |
 | <img src="../assets/icons/android/com.pickle.client.png" width="20" height="20" alt="Pickle icon"> | [Pickle, Inc.](pickle-inc.md) | 1 | 0 | 1 | 2 | 28 |
 | <img src="../assets/icons/ios/587366035.png" width="20" height="20" alt="Picsart AI Photo Editor, Video icon"> | [PicsArt, Inc.](picsart-inc.md) | 1 | 1 | 0 | 1 | 47 |
@@ -220,6 +221,7 @@
 | <img src="../assets/icons/ios/6813012717.png" width="20" height="20" alt="Who Calling Pro icon"> | [SHUBHAMKUMAR PATEL](shubhamkumar-patel.md) | 1 | 1 | 0 | 1 | 4 |
 | <img src="../assets/icons/android/org.thoughtcrime.securesms.png" width="20" height="20" alt="Signal Private Messenger icon"> | [Signal Foundation](signal-foundation.md) | 1 | 0 | 1 | 2 | 22 |
 | <img src="../assets/icons/ios/874139669.png" width="20" height="20" alt="Signal icon"> | [Signal Messenger, LLC](signal-messenger-llc.md) | 1 | 1 | 0 | 2 | 9 |
+| <img src="../assets/icons/ios/6751497996.png" width="20" height="20" alt="YouPlay icon"> | [Simon Zvara](simon-zvara.md) | 1 | 1 | 0 | 1 | 38 |
 | <img src="../assets/icons/ios/350962117.png" width="20" height="20" alt="微博 icon"> | [SINA Corporation](sina-corporation.md) | 1 | 1 | 0 | 1 | 51 |
 | <img src="../assets/icons/ios/392796698.png" width="20" height="20" alt="GroupMe icon"> | [Skype Communications S.a.r.l](skype-communications-s-a-r-l.md) | 1 | 1 | 0 | 1 | 76 |
 | <img src="../assets/icons/android/net.skyscanner.android.main.png" width="20" height="20" alt="Skyscanner Flights Hotels Cars icon"> | [Skyscanner Ltd](skyscanner-ltd.md) | 1 | 0 | 1 | 1 | 34 |

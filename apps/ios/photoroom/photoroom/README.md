@@ -13,13 +13,13 @@
 | Company | [Photoroom](../../../../companies/photoroom.md) |
 | Store id | `1455009060` |
 | Bundle / package id | `com.dr1ven.eraser` |
-| Latest version | 2026.47.01 (analysed 2026-11-21) |
-| Versions tracked | 4 |
+| Latest version | 2026.48.01 (analysed 2026-11-27) |
+| Versions tracked | 5 |
 | SDKs in latest version | 88 |
 | Languages | C/C++, Metal (shaders), Objective-C, Swift |
 | UI | Intercom UI, Lottie (animations), SwiftUI, UIKit |
 | Build | Swift Package Manager (SwiftPM) |
-| Minimum OS | iOS 18.0 (built with Xcode 27.2, SDK iphoneos27.2) |
+| Minimum OS | iOS 26.0 (built with Xcode 27.2, SDK iphoneos27.2) |
 | Devices / ABIs | iPhone, iPad |
 | Localisations | 30 |
 | Capabilities | 7 |
@@ -32,24 +32,24 @@
 
 - **Other** (30): absl 1.20250512.2, abslWrapper, AIImages, AlgoliaSearchClient, AssistiveCamera, combine-schedulers, engine 0.0, Filters, Lokalise 1.0.2, opensslWrapper, Resize, swift-async-algorithms, swift-atomics, swift-case-paths, swift-clocks, swift-concurrency-extras, swift-custom-dump, swift-dependencies, swift-identified-collections, swift-issue-reporting, swift-navigation, swift-numerics, swift-parsing, swift-perception, swift-sharing, swift-snapshot-testing, swift-syntax, swift-url-routing, SwiftyBeaver, VideoRoom
 - **Firebase** (16): abseil, AppCheck, FBLPromises, Firebase, FirebaseAuth, FirebaseCore, FirebaseCoreInternal, FirebaseFirestore, FirebaseInstallations, FirebaseRemoteConfig, GoogleDataTransport, GoogleUtilities, gRPC, leveldb, nanopb, Promises
-- **Analytics** (12): Adjust 1.0, AdjustSdk, Amplitude 1.0, analytics-connector-ios, BrazeKit 19.1.0, FacebookAEM, FacebookCore, FBAEMKit 1.0, FBSDKCoreKit 1.0, FirebaseAnalytics 13.0.1, GoogleAppMeasurement 13.0.1, GoogleAppMeasurementIdentitySupport 13.0.1
+- **Analytics** (12): Adjust 1.0, AdjustSdk, Amplitude 1.0, analytics-connector-ios, BrazeKit 19.2.0, FacebookAEM, FacebookCore, FBAEMKit 1.0, FBSDKCoreKit 1.0, FirebaseAnalytics 13.0.1, GoogleAppMeasurement 13.0.1, GoogleAppMeasurementIdentitySupport 13.0.1
 - **Sign-in and auth** (7): AppAuth, FacebookLogin, FBSDKLoginKit 1.0, GoogleSignIn, GTMAppAuth, GTMSessionFetcher, InteropForGoogle
-- **Crash and performance** (5): Datadog, DatadogCore, KSCrash, opentelemetry, Sentry 9.32.0
+- **Crash and performance** (5): Datadog, DatadogCore, KSCrash, opentelemetry, Sentry 9.34.0
 - **UI and rendering** (5): Lottie, Nuke, SDWebImage, SDWebImageSwiftUI, SwiftMessages
-- **Messaging and push** (3): braze-swift-sdk, BrazeUI, Intercom 19.9.2
+- **Messaging and push** (3): braze-swift-sdk, BrazeUI, Intercom 19.11.0
 - **Architecture** (2): ComposableArchitecture, swift-composable-architecture
 - **Storage** (2): CachingPlayerItem, Glassformation
 - **Ads** (1): GoogleAdsOnDeviceConversion 3.7.0
 - **Apple frameworks** (1): swift-collections
 - **Feature flags** (1): Experiment
 - **Payments** (1): RevenueCat
-- **Privacy and consent** (1): Didomi 2.53.1
+- **Privacy and consent** (1): Didomi 2.54.0
 - **Serialization** (1): AnyCodable
 
 <details>
-<summary>Frameworks (32)</summary>
+<summary>Frameworks (31)</summary>
 
-ActivityKit (Live Activities), AdServices (Apple Search Ads attribution), AdSupport (IDFA), App Tracking Transparency (ATT), Authentication Services (Sign in with Apple / passkeys), AVFoundation (audio/video), AVKit, Background Tasks, Combine (reactive), Core Data, Core Image, Core Location, Core Motion, CryptoKit, DeviceCheck / App Attest, Local Authentication (Face ID / Touch ID), Media Player, MetalKit, MetricKit (diagnostics), Natural Language, Network.framework, PDFKit, Photos, PhotosUI, SafariServices, SiriKit (Intents), StoreKit (in-app purchase), Swift Charts, SwiftUI, UIKit, User Notifications, Vision
+ActivityKit (Live Activities), AdServices (Apple Search Ads attribution), AdSupport (IDFA), App Tracking Transparency (ATT), Authentication Services (Sign in with Apple / passkeys), AVFoundation (audio/video), AVKit, Background Tasks, Combine (reactive), Core Data, Core Image, Core Motion, CryptoKit, DeviceCheck / App Attest, Local Authentication (Face ID / Touch ID), Media Player, MetalKit, MetricKit (diagnostics), Natural Language, Network.framework, PDFKit, Photos, PhotosUI, SafariServices, SiriKit (Intents), StoreKit (in-app purchase), Swift Charts, SwiftUI, UIKit, User Notifications, Vision
 
 </details>
 
@@ -64,6 +64,7 @@ App Groups, Associated Domains (Universal Links), Background Push, Communication
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 2026.48.01 | 2026-11-27 | 2026-11-23 | 88 | +0 / −0 | Yes | Yes | [2026.48.01.json](2026.48.01.json) |
 | 2026.47.01 | 2026-11-21 | 2026-11-16 | 88 | +2 / −6 | Yes | Yes | [2026.47.01.json](2026.47.01.json) |
 | 2026.46.01 | 2026-11-16 | 2026-11-09 | 92 | +7 / −2 | Yes | Yes | [2026.46.01.json](2026.46.01.json) |
 | 2026.45.01 | 2026-11-02 | 2026-11-02 | 87 | +3 / −8 | Yes | Yes | [2026.45.01.json](2026.45.01.json) |

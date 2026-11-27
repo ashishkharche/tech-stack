@@ -15,13 +15,13 @@
       "unknown": false
     }
   },
-  "version": "2026.47.01",
+  "version": "2026.48.01",
   "public_store_build": true,
   "dates": {
-    "captured_at": "2026-11-21T04:22:34Z",
-    "store_first_seen_at": "2026-11-16T12:00:04Z",
-    "store_updated_at": "2026-11-16T10:29:22Z",
-    "exported_at": "2026-11-21T04:53:41Z"
+    "captured_at": "2026-11-27T16:26:23Z",
+    "store_first_seen_at": "2026-11-23T12:00:05Z",
+    "store_updated_at": "2026-11-23T09:06:42Z",
+    "exported_at": "2026-11-27T17:03:00Z"
   },
   "source": {
     "kind": "static_binary_analysis",
@@ -55,7 +55,6 @@
       "Combine (reactive)",
       "Core Data",
       "Core Image",
-      "Core Location",
       "Core Motion",
       "CryptoKit",
       "DeviceCheck / App Attest",
@@ -113,7 +112,7 @@
       },
       {
         "name": "BrazeKit",
-        "version": "19.1.0",
+        "version": "19.2.0",
         "category": "analytics",
         "confidence": "observed"
       },
@@ -191,7 +190,7 @@
       },
       {
         "name": "Sentry",
-        "version": "9.32.0",
+        "version": "9.34.0",
         "category": "crash_perf",
         "confidence": "observed"
       },
@@ -245,7 +244,7 @@
       },
       {
         "name": "Didomi",
-        "version": "2.53.1",
+        "version": "2.54.0",
         "category": "privacy_consent",
         "confidence": "observed"
       },
@@ -263,7 +262,7 @@
       },
       {
         "name": "Intercom",
-        "version": "19.9.2",
+        "version": "19.11.0",
         "category": "messaging",
         "confidence": "observed"
       },
@@ -617,7 +616,7 @@
       }
     ],
     "platform": {
-      "min_os": "18.0",
+      "min_os": "26.0",
       "min_sdk": null,
       "target_sdk": null,
       "build_sdk": "iphoneos27.2",
