@@ -13,15 +13,15 @@
 | Company | [Sam's Club](../../../../companies/sam-s-club.md) |
 | Store id | `com.rfi.sams.android` |
 | Bundle / package id | `com.rfi.sams.android` |
-| Latest version | 26.6.20 (analysed 2026-06-19) |
-| Versions tracked | 1 |
-| SDKs in latest version | 37 |
+| Latest version | 26.11.50 (analysed 2026-11-27) |
+| Versions tracked | 2 |
+| SDKs in latest version | 41 |
 | Languages | C/C++ (native), Java, Kotlin |
-| UI | Glide, Jetpack Compose, Lottie, Material Components |
+| UI | Coil, Glide, Jetpack Compose, Lottie, Material Components |
 | Build | Gradle (inferred) |
-| Minimum OS | API 28, targets API 35 |
+| Minimum OS | API 28, targets API 36 |
 | Devices / ABIs | Android |
-| Capabilities | 13 |
+| Capabilities | 14 |
 | Declares tracking | Yes |
 | Tracked | No. Kept for history. |
 
@@ -29,29 +29,29 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="../../../../assets/charts/apps/android/sam-s-club/sam-s-club-dark.svg"><img alt="SDKs by category" src="../../../../assets/charts/apps/android/sam-s-club/sam-s-club-light.svg"></picture>
 
+- **UI and rendering** (6): AndroidSVG, Coil, Glide, Jetpack Compose, Lottie, Material Components
 - **Storage** (5): DataStore, Okio, Room, SQLCipher, SQLDelight
-- **UI and rendering** (4): Glide, Jetpack Compose, Lottie, Material Components
 - **Analytics** (3): Branch, Firebase Analytics, Google App Measurement
 - **Sign-in and auth** (3): Credential Manager, Firebase Auth, Google Sign-In / Auth
 - **Firebase** (3): Firebase, Google DataTransport, Google Play services
 - **Networking** (3): Ktor, OkHttp, Retrofit
 - **Anti-fraud and integrity** (2): Play Integrity, reCAPTCHA
+- **Crash and performance** (2): Firebase Crashlytics, Firebase Performance
 - **Maps and location** (2): Google Location, Google Maps
+- **Media** (2): ExoPlayer, Media3 (ExoPlayer)
 - **Messaging and push** (2): Airship, Firebase Messaging
 - **ML and AI** (2): ML Kit, ML Kit (barcode/vision)
 - **Ads** (1): Google Mobile Ads (AdMob)
-- **Crash and performance** (1): Firebase Crashlytics
 - **Logging and diagnostics** (1): Flipper
 - **Feature flags** (1): Firebase Remote Config
 - **GraphQL** (1): Apollo GraphQL
-- **Media** (1): ExoPlayer
 - **Reactive and async** (1): Kotlin Coroutines
 - **Telephony** (1): libphonenumber
 
 <details>
-<summary>Capabilities (13)</summary>
+<summary>Capabilities (14)</summary>
 
-Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, Foreground service, Foreground service: location, Microphone, Notifications, Phone / carrier info, Precise location, Storage (read), Storage (write)
+Advertising ID, Approximate location, Biometric auth, Calendar (write), Camera, Fingerprint auth, Foreground service, Foreground service: location, Microphone, Notifications, Phone / carrier info, Precise location, Storage (read), Storage (write)
 
 </details>
 
@@ -59,7 +59,12 @@ Advertising ID, Approximate location, Biometric auth, Camera, Fingerprint auth, 
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 26.11.50 | 2026-11-27 |  | 41 | +4 / −0 | No | No | [26.11.50.json](26.11.50.json) |
 | 26.6.20 | 2026-06-19 |  | 37 |  | No | No | [26.6.20.json](26.6.20.json) |
+
+### SDK changes between versions
+
+- 26.6.20 → 26.11.50: added AndroidSVG, Coil, Firebase Performance, Media3 (ExoPlayer)
 
 ---
 

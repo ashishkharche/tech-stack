@@ -2,7 +2,7 @@
 
 # Companies
 
-279 companies. Each name is the developer name on the store listing.
+280 companies. Each name is the developer name on the store listing.
 
 | | Company | Apps | iOS | Android | Versions | SDKs (distinct) |
 |---|---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | <img src="../assets/icons/ios/1450835575.png" width="20" height="20" alt="LIFE Pharmacy icon"> | [LIFE HOME HEALTH CARE](life-home-health-care.md) | 1 | 1 | 0 | 1 | 84 |
 | <img src="../assets/icons/ios/384830320.png" width="20" height="20" alt="Life360 icon"> | [Life360](life360.md) | 1 | 1 | 0 | 1 | 137 |
 | <img src="../assets/icons/ios/288429040.png" width="20" height="20" alt="LinkedIn icon"> | [LinkedIn Corporation](linkedin-corporation.md) | 1 | 1 | 0 | 1 | 18 |
+| <img src="../assets/icons/ios/6466177782.png" width="20" height="20" alt="LFDY icon"> | [Live Fast Die Young](live-fast-die-young.md) | 1 | 1 | 0 | 1 | 60 |
 | <img src="../assets/icons/ios/1158555867.png" width="20" height="20" alt="Replika icon"> | [Luka, Inc.](luka-inc.md) | 1 | 1 | 0 | 5 | 80 |
 | <img src="../assets/icons/ios/6812807809.png" width="20" height="20" alt="BeFitWay icon"> | [MARKETING AFFILIATES LTDA](marketing-affiliates-ltda.md) | 1 | 1 | 0 | 1 | 24 |
 | <img src="../assets/icons/android/com.marriott.mrt.png" width="20" height="20" alt="Marriott Bonvoy icon"> | [Marriott International](marriott-international.md) | 1 | 0 | 1 | 1 | 25 |
@@ -210,8 +211,8 @@
 | <img src="../assets/icons/ios/6809328945.png" width="20" height="20" alt="Masi icon"> | [Rimthan](rimthan.md) | 1 | 1 | 0 | 1 | 27 |
 | <img src="../assets/icons/ios/482066631.png" width="20" height="20" alt="Roku Remote (Official) icon"> | [ROKU INC](roku-inc.md) | 1 | 1 | 0 | 1 | 39 |
 | <img src="../assets/icons/ios/6749303003.png" width="20" height="20" alt="WayShot icon"> | [Romangic Lab LLC](romangic-lab-llc.md) | 1 | 1 | 0 | 1 | 59 |
-| <img src="../assets/icons/ios/1198464606.png" width="20" height="20" alt="Rapido icon"> | [Roppen Transportation Services Private Limited](roppen-transportation-services-private-limited.md) | 1 | 1 | 0 | 2 | 56 |
-| <img src="../assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club](sam-s-club.md) | 1 | 0 | 1 | 1 | 37 |
+| <img src="../assets/icons/ios/1198464606.png" width="20" height="20" alt="Rapido icon"> | [Roppen Transportation Services Private Limited](roppen-transportation-services-private-limited.md) | 1 | 1 | 0 | 3 | 56 |
+| <img src="../assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club](sam-s-club.md) | 1 | 0 | 1 | 2 | 41 |
 | <img src="../assets/icons/ios/396584034.png" width="20" height="20" alt="Everland icon"> | [Samsung Everland Co. Ltd.](samsung-everland-co-ltd.md) | 1 | 1 | 0 | 1 | 52 |
 | <img src="../assets/icons/ios/1020136055.png" width="20" height="20" alt="SBS icon"> | [SBS I&M Co., Ltd.](sbs-i-m-co-ltd.md) | 1 | 1 | 0 | 1 | 47 |
 | <img src="../assets/icons/android/com.enzo.paulo.png" width="20" height="20" alt="Seekee icon"> | [Seekee Ltd](seekee-ltd.md) | 1 | 0 | 1 | 2 | 43 |

@@ -4,7 +4,7 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (1 iOS, 0 Android) · **2** versions · **56** distinct SDKs across their latest versions
+**1** apps (1 iOS, 0 Android) · **3** versions · **56** distinct SDKs across their latest versions
 
 <table>
 <tr><td align="center" valign="top" width="16%"><a href="../apps/ios/roppen-transportation-services-private-limited/rapido/README.md"><img src="../assets/icons/ios/1198464606.png" width="56" height="56" alt="Rapido icon"></a><br><a href="../apps/ios/roppen-transportation-services-private-limited/rapido/README.md"><sub><b>Rapido</b></sub></a><br><sub>iOS · 56 SDKs</sub></td></tr>
@@ -14,7 +14,7 @@ The company name is the developer name on the store listing.
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/ios/1198464606.png" width="20" height="20" alt="Rapido icon"> | [Rapido: Bike-Taxi, Auto & Cabs](../apps/ios/roppen-transportation-services-private-limited/rapido/README.md) | iOS | 2 | 3.4.5 | 2026-11-20 | 56 | No |
+| <img src="../assets/icons/ios/1198464606.png" width="20" height="20" alt="Rapido icon"> | [Rapido: Bike-Taxi, Auto & Cabs](../apps/ios/roppen-transportation-services-private-limited/rapido/README.md) | iOS | 3 | 3.4.6 | 2026-11-27 | 56 | No |
 
 ## SDKs by category
 

@@ -13,8 +13,8 @@
 | Company | [Roppen Transportation Services Private Limited](../../../../companies/roppen-transportation-services-private-limited.md) |
 | Store id | `1198464606` |
 | Bundle / package id | `bike.rapido.customer` |
-| Latest version | 3.4.5 (analysed 2026-11-20) |
-| Versions tracked | 2 |
+| Latest version | 3.4.6 (analysed 2026-11-27) |
+| Versions tracked | 3 |
 | SDKs in latest version | 56 |
 | Languages | C/C++, Kotlin Multiplatform, Metal (shaders), Objective-C, Swift |
 | UI | Lottie (animations), SwiftUI, UIKit |
@@ -60,6 +60,7 @@ App Groups, Associated Domains (Universal Links), Background Location, Backgroun
 
 | Version | Analysed | Store update | SDKs | Change | SDK list is a floor | Binary encrypted | File |
 |---|---|---|---|---|---|---|---|
+| 3.4.6 | 2026-11-27 |  | 56 | +0 / −0 | Yes | Yes | [3.4.6.json](3.4.6.json) |
 | 3.4.5 | 2026-11-20 |  | 56 | +0 / −0 | Yes | Yes | [3.4.5.json](3.4.5.json) |
 | 3.4.4 | 2026-11-06 | 2026-11-05 | 56 |  | Yes | Yes | [3.4.4.json](3.4.4.json) |
 

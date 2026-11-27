@@ -4,17 +4,17 @@
 
 The company name is the developer name on the store listing.
 
-**1** apps (0 iOS, 1 Android) · **1** versions · **37** distinct SDKs across their latest versions
+**1** apps (0 iOS, 1 Android) · **2** versions · **41** distinct SDKs across their latest versions
 
 <table>
-<tr><td align="center" valign="top" width="16%"><a href="../apps/android/sam-s-club/sam-s-club/README.md"><img src="../assets/icons/android/com.rfi.sams.android.png" width="56" height="56" alt="Sam's Club icon"></a><br><a href="../apps/android/sam-s-club/sam-s-club/README.md"><sub><b>Sam's Club</b></sub></a><br><sub>Android · 37 SDKs</sub></td></tr>
+<tr><td align="center" valign="top" width="16%"><a href="../apps/android/sam-s-club/sam-s-club/README.md"><img src="../assets/icons/android/com.rfi.sams.android.png" width="56" height="56" alt="Sam's Club icon"></a><br><a href="../apps/android/sam-s-club/sam-s-club/README.md"><sub><b>Sam's Club</b></sub></a><br><sub>Android · 41 SDKs</sub></td></tr>
 </table>
 
 ## Apps
 
 | | App | Platform | Versions | Latest | Analysed | SDKs | Tracked |
 |---|---|---|---|---|---|---|---|
-| <img src="../assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club: Shopping & Savings](../apps/android/sam-s-club/sam-s-club/README.md) | Android | 1 | 26.6.20 | 2026-06-19 | 37 | No |
+| <img src="../assets/icons/android/com.rfi.sams.android.png" width="20" height="20" alt="Sam's Club icon"> | [Sam's Club: Shopping & Savings](../apps/android/sam-s-club/sam-s-club/README.md) | Android | 2 | 26.11.50 | 2026-11-27 | 41 | No |
 
 ## SDKs by category
 
